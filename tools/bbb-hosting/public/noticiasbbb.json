@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-22T09:25:30.676Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-03-22T09:56:58.151Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de domingo, 22/3",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-domingo-223.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/t052C6JhuZh_-1NjNNGaZSehd9g=/540x304/top/smart/http://s2.glbimg.com/6tOZpyJF-n3RDnTwYjDrF3RZoXo=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/92/46/14454692"
+    },
     {
       "title": "Breno, do BBB 26, relembra carreira no vôlei com campeões olímpicos: 'Joguei com Lucarelli'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/breno-do-bbb-26-relembra-carreira-no-volei-com-campeoes-olimpicos-joguei-com-lucarelli.ghtml",
@@ -247,11 +252,6 @@
       "title": "Triângulo de Risco do BBB 26: Leandro Boneco está no Paredão após primeira etapa da dinâmica",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/formacao-do-paredao/noticia/triangulo-de-risco-do-bbb-26-leandro-boneco-esta-no-paredao-apos-primeira-etapa-da-dinamica.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/xbemlZiJ_HUuOrsDyZ1HbWc0tZ8=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/59/25/14452559"
-    },
-    {
-      "title": "Vídeos do episódio de 'BBB' de sexta-feira, 20 de março de 2026",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/episodio/2026/03/20/videos-do-episodio-de-bbb-de-sexta-feira-20-de-marco-de-2026.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/A89pROeKAozl5DIcNdK1dIxUTlw=/540x304/top/smart/http://s2.glbimg.com/CKursifhDssPql-6dKsbhnbrFms=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/44/25/14452544"
     }
   ]
 }
