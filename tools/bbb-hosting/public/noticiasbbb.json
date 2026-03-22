@@ -1,17 +1,22 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-22T17:46:48.371Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-22T18:18:10.658Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Chaiany lamenta atrito com Ana Paula Renault: 'No momento de mentir para me ferrar, você fez'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-lamenta-atrito-com-ana-paula-renault-no-momento-de-mentir-para-me-ferrar-voce-fez.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/u5o6d85xbUPsJJDPPJ0wy2e65gs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/F/6/qESJsEQreylYL5e1mdkg/prefixo-bbb-220326-145251.jpg"
+    },
     {
       "title": "Queridômetro BBB 26: Milena dispara emojis de 'vômito', e Solange Couto é tachada de 'planta' pelos confinados",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/queridometro-bbb-26-milena-dispara-emojis-de-vomito-e-solange-couto-e-tachada-de-planta-pelos-confinados.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/weZ1AyEQ-36f_w8hTFO-sorlRtY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/4/R/DuBAnWTo2SZTambEFpLw/fotojet-29-.jpg"
     },
     {
-      "title": "Ana Paula comenta com Samira a mudança de estratégias entre brothers: 'Boneco era completamente calado'",
+      "title": "Ana Paula comenta 'mudança' de brothers: 'Boneco era completamente calado'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-comenta-com-samira-a-mudanca-de-estrategias-entre-brothers-boneco-era-completamente-calado.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/tZCSS0Zb5Dzq7Vfl5NjNPCkWyFo=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/w/A/AQpexiTS26y75fRQhlig/pgm-b-22032026-110000-frame-208191.jpeg"
+      "imageUrl": "https://s2-gshow.glbimg.com/sRKNnuSDAsAGOgbypTakSqmfjeI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/51/48/14454851"
     },
     {
       "title": "Gabriela reclama de atitude de Jordana no BBB 26: 'Quer contar uma historinha bem ridícula'",
@@ -247,11 +252,6 @@
       "title": "Ana Paula Renault observa comportamento de Chaiany e conclui: 'Ninguém ameaçou o jogo dela como eu fiz'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/ana-paula-renault-observa-comportamento-de-chaiany-e-conclui-ninguem-ameacou-o-jogo-dela-como-eu-fiz.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/S65ZaS-b2TyWqDvfCoo4XsApDUU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/82/26/14452682"
-    },
-    {
-      "title": "Jordana chama Gabriela de 'frouxa' e 'arregona', e diz que Juliano Floss 'não merece' Top 3 do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/jordana-chama-gabriela-de-frouxa-e-arregona-e-diz-que-juliano-floss-nao-merece-top-3-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Ft2Zyrk4mkfT-tO_TWoLgyXfTdw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/78/26/14452678"
     }
   ]
 }
