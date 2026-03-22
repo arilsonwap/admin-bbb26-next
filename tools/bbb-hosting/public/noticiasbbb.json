@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-22T13:53:49.327Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-22T14:36:20.293Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Vídeos do Raio-X de domingo, 22/3, do BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-domingo-223-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/39J2U7gulEWDLin7ipTvFZOLsJw=/540x304/top/smart/http://s2.glbimg.com/Vgdgzib8cDWsGMlWb7aSdiBsink=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/91/47/14454791"
+    },
+    {
+      "title": "Resumo BBB 26: veja os vídeos do dia 22/3/2026 – Click BBB",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/resumo-bbb-26-veja-os-videos-do-dia-2232026-click-bbb.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/vJY3YRyQTyCZ7deMu29Tdef7J7Q=/540x304/top/smart/http://s2.glbimg.com/05adoYuHdJYR09waA9FrHuJk38Y=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/93/46/14454693"
+    },
     {
       "title": "Resumo do BBB 26 hoje: madrugada tem Juliano na mira do Paredão, plano de Jordana e brothers desconfiados de Gabriela",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-juliano-na-mira-do-paredao-plano-de-jordana-e-brothers-desconfiados-de-gabriela.ghtml",
@@ -242,16 +252,6 @@
       "title": "Mari Fernandez, Léo Foguete e Zé Vaqueiro fazem São João fora de época na Festa do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/mari-fernandez-leo-foguete-e-ze-vaqueiro-fazem-sao-joao-fora-de-epoca-na-festa-do-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/mBnixCcWoynbwjveVW32oB1PG-g=/540x304/top/smart/http://s2.glbimg.com/1QXYJkEP_NqzS5vLUGML3ehkM7A=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/70/25/14452570"
-    },
-    {
-      "title": "Mari Fernandez, Léo Foguete e Zé Vaqueiro abrem Festa no BBB 26 com medley de hits; confira!",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/mari-fernandez-leo-foguete-e-ze-vaqueiro-abrem-festa-no-bbb-26-com-medley-de-hits-confira.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/nt1vpeT9LR20rMc-SewtRH2tzDM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/70/25/14452570"
-    },
-    {
-      "title": "Leandro Boneco é emparedado e sofre pontuação negativa no Cartola BBB",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/leandro-boneco-e-emparedado-e-sofre-pontuacao-negativa-no-cartola-bbb.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/kXJOLJ2ZmirBnaJwmKbMrcvroXg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/W/d/5DCOdDSQq5SR6DqqWXag/prefixo-bbb-200326-230124.jpg"
     }
   ]
 }
