@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-22T10:39:22.720Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-22T11:01:39.470Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Resumo do BBB 26 hoje: madrugada tem Juliano na mira do Paredão, plano de Jordana e brothers desconfiados de Gabriela",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-juliano-na-mira-do-paredao-plano-de-jordana-e-brothers-desconfiados-de-gabriela.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/PnC-XY6umV1jIz2fAw8ZXECKgZQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/j/T/XI7sKOTBGN4SbCU9J61g/whatsapp-image-2026-03-22-at-07.48.18.jpeg"
+    },
     {
       "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de domingo, 22/3",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-domingo-223.ghtml",
@@ -247,11 +252,6 @@
       "title": "Leandro Boneco é emparedado e sofre pontuação negativa no Cartola BBB",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/leandro-boneco-e-emparedado-e-sofre-pontuacao-negativa-no-cartola-bbb.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/kXJOLJ2ZmirBnaJwmKbMrcvroXg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/W/d/5DCOdDSQq5SR6DqqWXag/prefixo-bbb-200326-230124.jpg"
-    },
-    {
-      "title": "Triângulo de Risco do BBB 26: Leandro Boneco está no Paredão após primeira etapa da dinâmica",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/formacao-do-paredao/noticia/triangulo-de-risco-do-bbb-26-leandro-boneco-esta-no-paredao-apos-primeira-etapa-da-dinamica.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/xbemlZiJ_HUuOrsDyZ1HbWc0tZ8=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/59/25/14452559"
     }
   ]
 }
