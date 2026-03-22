@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-22T21:57:59.059Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-22T22:37:53.729Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Palpite do Cartola BBB fecha neste domingo: tente acertar quem será o indicado no Contragolpe",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/palpite-do-cartola-bbb-fecha-neste-domingo-tente-acertar-quem-sera-o-indicado-no-contragolpe.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/e9k0tDHfLgY6kIjQ3hMRZUcfGj4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/P/e/R0jX2BT4OURL6pHMBJjQ/whatsapp-image-2026-02-19-at-22.22.34.jpeg"
+    },
+    {
+      "title": "Samira revela possível voto de grupo rival após conversa com Jonas Sulzbach: 'Você não votaria?'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-revela-possivel-voto-de-grupo-rival-apos-conversa-com-jonas-sulzbach-no-bbb-26-voce-nao-votaria.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/l6LgsDlRUN9r9ljDaaYH_fB9unM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/38/53/14455338"
+    },
     {
       "title": "A pedido de Cowboy, Marciele questiona Gabriela sobre discussão e avisa: 'Sou ruim em mentir'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/marciele-questiona-gabriela-sobre-discussao-no-bbb-26-a-pedido-de-alberto-cowboy-sou-ruim-em-mentir.ghtml",
@@ -242,16 +252,6 @@
       "title": "Décima Prova do Anjo do BBB 26: Leandro Boneco vence a disputa; veja o que rolou",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/prova-do-anjo/ao-vivo/decima-prova-do-anjo-do-bbb-26-vencedor-imuniza-um-participante.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/hQ2v_HcnE4LsuG8ArNJCo9UYr4o=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/76/31/14453176"
-    },
-    {
-      "title": "Alberto Cowboy e Jonas Sulzbach recebem Castigo do Monstro no BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/prova-do-anjo/noticia/alberto-cowboy-e-jonas-sulzbach-recebem-castigo-do-monstro-no-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/H6yxcAFilChYBO9V_KGgmmW7xrk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/z/G/UDYPn3QDCxxoSPfqrAWQ/prefixo-bbb-210326-165319.jpg"
-    },
-    {
-      "title": "Quem é o Anjo do BBB 26? Leandro Boneco vence a décima prova",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/prova-do-anjo/noticia/quem-e-o-anjo-do-bbb-26-leandro-boneco-vence-a-decima-prova.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/VnV6uT4bm8985dcfqMNcPabJjtk=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/58/38/14453858"
     }
   ]
 }
