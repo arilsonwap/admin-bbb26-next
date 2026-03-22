@@ -1,0 +1,229 @@
+{
+  "version": 9,
+  "updatedAt": "2026-03-08T01:27:59.172Z",
+  "season": "BBB 26",
+  "participants": [
+    {
+      "id": "ana-paula-renault",
+      "name": "Ana Paula Renault",
+      "active": true,
+      "instagram": "https://www.instagram.com/anapaularenault/",
+      "followersStart": 2300000,
+      "followersCurrent": 5952000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 5952000
+        }
+      ]
+    },
+    {
+      "id": "chaiany",
+      "name": "Chaiany",
+      "active": true,
+      "instagram": "https://www.instagram.com/chaianydeandrade/",
+      "followersStart": 3300,
+      "followersCurrent": 2799000,
+      "history": [
+        {
+          "date": "2026-03-07",
+          "followers": 2799000,
+          "source": "Migrado automaticamente",
+          "notes": "Mantido apenas o valor mais recente"
+        }
+      ]
+    },
+    {
+      "id": "juliano-floss",
+      "name": "Juliano Floss",
+      "active": true,
+      "instagram": "https://www.instagram.com/julianofloss/",
+      "followersStart": 4000000,
+      "followersCurrent": 6169000,
+      "history": [
+        {
+          "date": "2026-03-07",
+          "followers": 6169000,
+          "source": "Migrado automaticamente",
+          "notes": "Mantido apenas o valor mais recente"
+        }
+      ]
+    },
+    {
+      "id": "samira",
+      "name": "Samira",
+      "active": true,
+      "instagram": "https://www.instagram.com/samira_sagr",
+      "followersStart": 5200,
+      "followersCurrent": 1584000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 1584000,
+          "source": "Migrado automaticamente",
+          "notes": "Mantido apenas o valor mais recente"
+        }
+      ]
+    },
+    {
+      "id": "milena",
+      "name": "Milena",
+      "active": true,
+      "instagram": "https://www.instagram.com/tiamilenabbb/",
+      "followersStart": 3500,
+      "followersCurrent": 1468000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 1468000,
+          "source": "Migrado automaticamente",
+          "notes": "Mantido apenas o valor mais recente"
+        }
+      ]
+    },
+    {
+      "id": "jonas-sulzbach",
+      "name": "Jonas Sulzbach",
+      "active": true,
+      "instagram": "https://www.instagram.com/jonassulzbach/",
+      "followersStart": 3000000,
+      "followersCurrent": 4240000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 4240000,
+          "source": "Migrado automaticamente",
+          "notes": "Mantido apenas o valor mais recente"
+        }
+      ]
+    },
+    {
+      "id": "alberto-cowboy",
+      "name": "Alberto Cowboy",
+      "active": true,
+      "instagram": "https://www.instagram.com/albertocowboy/",
+      "followersStart": 17800,
+      "followersCurrent": 755000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 755000,
+          "source": "Migrado automaticamente",
+          "notes": "Mantido apenas o valor mais recente"
+        }
+      ]
+    },
+    {
+      "id": "breno",
+      "name": "Breno",
+      "active": true,
+      "instagram": "https://www.instagram.com/brenocora/",
+      "followersStart": 3000,
+      "followersCurrent": 621000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 621000,
+          "source": "Migrado automaticamente",
+          "notes": "Mantido apenas o valor mais recente"
+        }
+      ]
+    },
+    {
+      "id": "jordana",
+      "name": "Jordana",
+      "active": true,
+      "instagram": "https://www.instagram.com/jordanarimorais/",
+      "followersStart": 32900,
+      "followersCurrent": 653000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 653000,
+          "source": "Migrado automaticamente",
+          "notes": "Mantido apenas o valor mais recente"
+        }
+      ]
+    },
+    {
+      "id": "gabriela",
+      "name": "Gabriela",
+      "active": true,
+      "instagram": "https://www.instagram.com/gabisaporito__/",
+      "followersStart": 2300,
+      "followersCurrent": 471000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 471000,
+          "source": "Migrado automaticamente",
+          "notes": "Mantido apenas o valor mais recente"
+        }
+      ]
+    },
+    {
+      "id": "babu-santana",
+      "name": "Babu Santana",
+      "active": true,
+      "instagram": "https://www.instagram.com/babusantana/",
+      "followersStart": 4500000,
+      "followersCurrent": 5123000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 5123000,
+          "source": "Migrado automaticamente",
+          "notes": "Mantido apenas o valor mais recente"
+        }
+      ]
+    },
+    {
+      "id": "marciele",
+      "name": "Marciele",
+      "active": true,
+      "instagram": "https://www.instagram.com/marciele.albuquerque",
+      "followersStart": 745000,
+      "followersCurrent": 1142000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 1142000,
+          "source": "Migrado automaticamente",
+          "notes": "Mantido apenas o valor mais recente"
+        }
+      ]
+    },
+    {
+      "id": "solange-couto",
+      "name": "Solange Couto",
+      "active": true,
+      "instagram": "https://www.instagram.com/solangecouto",
+      "followersStart": 1100000,
+      "followersCurrent": 1406000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 1406000,
+          "source": "Migrado automaticamente",
+          "notes": "Mantido apenas o valor mais recente"
+        }
+      ]
+    },
+    {
+      "id": "leandro-boneco",
+      "name": "Leandro Boneco",
+      "active": true,
+      "instagram": "https://www.instagram.com/leandrorochaboneco/",
+      "followersStart": 13500,
+      "followersCurrent": 477000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 477000,
+          "source": "Migrado automaticamente",
+          "notes": "Mantido apenas o valor mais recente"
+        }
+      ]
+    }
+  ]
+}

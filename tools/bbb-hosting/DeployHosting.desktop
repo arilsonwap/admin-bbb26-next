@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Deploy Firebase Hosting (bbb-26)
+Comment=Deploy do Firebase Hosting
+Icon=utilities-terminal
+Terminal=true
+WorkingDirectory=/home/arilson/PROJETOS/bbb-hosting
+Exec=bash -lc "cd /home/arilson/PROJETOS/bbb-hosting && npx firebase-tools deploy --only hosting; echo; echo '--- FIM ---'; read -n 1 -s -r -p 'Pressione qualquer tecla para fechar...'"
+Categories=Development;

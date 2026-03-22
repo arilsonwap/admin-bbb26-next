@@ -1,0 +1,287 @@
+{
+  "version": 8,
+  "updatedAt": "2026-03-08T01:23:59.157Z",
+  "season": "BBB 26",
+  "participants": [
+    {
+      "id": "ana-paula-renault",
+      "name": "Ana Paula Renault",
+      "active": true,
+      "instagram": "https://www.instagram.com/anapaularenault/",
+      "followersStart": 2300000,
+      "followersCurrent": 5938000,
+      "history": [
+        {
+          "date": "2026-03-07",
+          "followers": 5938000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 2300000,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    },
+    {
+      "id": "chaiany",
+      "name": "Chaiany",
+      "active": true,
+      "instagram": "https://www.instagram.com/chaianydeandrade/",
+      "followersStart": 3300,
+      "followersCurrent": 2799000,
+      "history": [
+        {
+          "date": "2026-03-07",
+          "followers": 2799000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 3300,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    },
+    {
+      "id": "juliano-floss",
+      "name": "Juliano Floss",
+      "active": true,
+      "instagram": "https://www.instagram.com/julianofloss/",
+      "followersStart": 4000000,
+      "followersCurrent": 6169000,
+      "history": [
+        {
+          "date": "2026-03-07",
+          "followers": 6169000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 4000000,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    },
+    {
+      "id": "samira",
+      "name": "Samira",
+      "active": true,
+      "instagram": "https://www.instagram.com/samira_sagr",
+      "followersStart": 5200,
+      "followersCurrent": 1584000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 1584000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 5200,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    },
+    {
+      "id": "milena",
+      "name": "Milena",
+      "active": true,
+      "instagram": "https://www.instagram.com/tiamilenabbb/",
+      "followersStart": 3500,
+      "followersCurrent": 1468000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 1468000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 3500,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    },
+    {
+      "id": "jonas-sulzbach",
+      "name": "Jonas Sulzbach",
+      "active": true,
+      "instagram": "https://www.instagram.com/jonassulzbach/",
+      "followersStart": 3000000,
+      "followersCurrent": 4240000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 4240000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 3000000,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    },
+    {
+      "id": "alberto-cowboy",
+      "name": "Alberto Cowboy",
+      "active": true,
+      "instagram": "https://www.instagram.com/albertocowboy/",
+      "followersStart": 17800,
+      "followersCurrent": 755000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 755000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 17800,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    },
+    {
+      "id": "breno",
+      "name": "Breno",
+      "active": true,
+      "instagram": "https://www.instagram.com/brenocora/",
+      "followersStart": 3000,
+      "followersCurrent": 621000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 621000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 3000,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    },
+    {
+      "id": "jordana",
+      "name": "Jordana",
+      "active": true,
+      "instagram": "https://www.instagram.com/jordanarimorais/",
+      "followersStart": 32900,
+      "followersCurrent": 653000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 653000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 32900,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    },
+    {
+      "id": "gabriela",
+      "name": "Gabriela",
+      "active": true,
+      "instagram": "https://www.instagram.com/gabisaporito__/",
+      "followersStart": 2300,
+      "followersCurrent": 471000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 471000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 2300,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    },
+    {
+      "id": "babu-santana",
+      "name": "Babu Santana",
+      "active": true,
+      "instagram": "https://www.instagram.com/babusantana/",
+      "followersStart": 4500000,
+      "followersCurrent": 5123000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 5123000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 4500000,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    },
+    {
+      "id": "marciele",
+      "name": "Marciele",
+      "active": true,
+      "instagram": "https://www.instagram.com/marciele.albuquerque",
+      "followersStart": 745000,
+      "followersCurrent": 1142000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 1142000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 745000,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    },
+    {
+      "id": "solange-couto",
+      "name": "Solange Couto",
+      "active": true,
+      "instagram": "https://www.instagram.com/solangecouto",
+      "followersStart": 1100000,
+      "followersCurrent": 1406000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 1406000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 1100000,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    },
+    {
+      "id": "leandro-boneco",
+      "name": "Leandro Boneco",
+      "active": true,
+      "instagram": "https://www.instagram.com/leandrorochaboneco/",
+      "followersStart": 13500,
+      "followersCurrent": 477000,
+      "history": [
+        {
+          "date": "2026-03-08",
+          "followers": 477000
+        },
+        {
+          "date": "2026-01-17",
+          "followers": 13500,
+          "source": "Dados iniciais BBB 26",
+          "notes": "Seguidores no início do programa"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-28T19:49:29.619Z",
+  "participants": {
+    "aline-campos": {
+      "status": "ELIMINADO"
+    },
+    "edilson": {
+      "status": "ATIVO"
+    },
+    "henri-castelli": {
+      "status": "DESCLASSIFICADO"
+    },
+    "juliano-floss": {
+      "status": "ATIVO"
+    },
+    "solange-couto": {
+      "status": "ATIVO"
+    },
+    "alberto-cowboy": {
+      "status": "ATIVO"
+    },
+    "ana-paula-renault": {
+      "status": "ATIVO"
+    },
+    "babu-santana": {
+      "status": "ATIVO"
+    },
+    "jonas-sulzbach": {
+      "status": "ATIVO"
+    },
+    "sarah-andrade": {
+      "status": "ATIVO"
+    },
+    "sol-vega": {
+      "status": "ATIVO"
+    },
+    "brigido": {
+      "status": "ATIVO"
+    },
+    "breno": {
+      "status": "ATIVO"
+    },
+    "chaiany": {
+      "status": "ATIVO"
+    },
+    "gabriela": {
+      "status": "ATIVO"
+    },
+    "jordana": {
+      "status": "ATIVO"
+    },
+    "leandro": {
+      "status": "ATIVO"
+    },
+    "marcelo": {
+      "status": "ATIVO"
+    },
+    "marciele": {
+      "status": "ATIVO"
+    },
+    "matheus": {
+      "status": "ELIMINADO"
+    },
+    "maxiane": {
+      "status": "ATIVO"
+    },
+    "milena": {
+      "status": "ATIVO"
+    },
+    "paulo-augusto": {
+      "status": "ATIVO"
+    },
+    "samira": {
+      "status": "ATIVO"
+    }
+  }
+}

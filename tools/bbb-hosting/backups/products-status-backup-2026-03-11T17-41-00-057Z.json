@@ -1,0 +1,112 @@
+{
+  "version": 22,
+  "updatedAt": "2026-03-11T17:40:16.544Z",
+  "season": "BBB26",
+  "products": [
+    {
+      "id": "shampoo-hidratante",
+      "title": "Shampoo Hidratante Profissional",
+      "subtitle": "Para cabelos secos e danificados",
+      "category": "cuidados-pessoais",
+      "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&q=80",
+      "affiliateUrl": "https://www.magazineluiza.com.br/shampoo",
+      "featured": false,
+      "active": true,
+      "sortOrder": 0,
+      "createdAt": "2026-03-10T20:13:36.858Z",
+      "updatedAt": "2026-03-10T20:13:36.858Z"
+    },
+    {
+      "id": "nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-48h-pele-firme-e-elasticidade-corporal-todos-os-tipos-de-pelenivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-48h-pele-firme-e-elasticidade-corporal-todos-os-tipos-de-pele-clip-icon-nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-48h-pele-firme-e-elasticidade-corporal-todos-os-tipos-de-pele-nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-48h-pele-firme-e-elasticidade-corporal-todos-os-tipos-de-pele-nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-48h-pele-firme-e-elasticidade-corporal-todos-os-tipos-de-pele-nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-48h-pele-firme-e-elasticidade-corporal-todos-os-tipos-de-pele-nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-48h-pele-firme-e-elasticidade-corporal-todos-os-tipos-de-pele-2-nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-48h-pele-firme-e-elasticidade-corporal-todos-os-tipos-de-pele-acesse-a-loja-oficial-de-nivea-novo-10mil-vendidos-nivea-locao-hidratante-firmador-q10-vitamina-c-400ml",
+      "title": "NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa 48h, Pele Firme e Elasticidade, Corporal, Todos os Tipos de PeleNIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa 48h, Pele Firme e Elasticidade, Corporal, Todos os Tipos de Pele clip-icon NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa 48h, Pele Firme e Elasticidade, Corporal, Todos os Tipos de Pele NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa 48h, Pele Firme e Elasticidade, Corporal, Todos os Tipos de Pele NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa 48h, Pele Firme e Elasticidade, Corporal, Todos os Tipos de Pele NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa 48h, Pele Firme e Elasticidade, Corporal, Todos os Tipos de Pele NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa 48h, Pele Firme e Elasticidade, Corporal, Todos os Tipos de Pele 2 NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa 48h, Pele Firme e Elasticidade, Corporal, Todos os Tipos de Pele  Acesse a Loja Oficial de Nivea   Novo  |  +10mil vendidos NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml",
+      "subtitle": "Hidratação Intensa 48h, Pele Firme e Elasticidade, Corporal, Todos os Tipos de Pele",
+      "category": "cuidados-pessoais",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_799423-MLA103735240063_012026-F.webp",
+      "affiliateUrl": "https://meli.la/1oQfcKz",
+      "featured": false,
+      "active": true,
+      "sortOrder": 1,
+      "createdAt": "2026-03-11T05:53:32.740Z",
+      "updatedAt": "2026-03-11T05:55:52.046Z"
+    },
+    {
+      "id": "kit-protetor-solar-nivea-protect-fps-50-200ml-fps-50-100ml",
+      "title": "Kit Protetor Solar Nivea Protect Fps 50 200ml + Fps 50 100ml",
+      "subtitle": "Aproveite o verão sem preocupações, protegendo a pele das pessoas que você mais ama dos raios ultravioleta do sol.",
+      "category": "cuidados-pessoais",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_694985-MLA106546049778_022026-F.webp",
+      "affiliateUrl": "https://meli.la/12WyoC6",
+      "featured": true,
+      "active": true,
+      "sortOrder": 2,
+      "createdAt": "2026-03-11T06:00:30.749Z",
+      "updatedAt": "2026-03-11T17:31:11.720Z"
+    },
+    {
+      "id": "micro-ondas-me23s-23l-efficient-com-descongelamento-assistido-cor-inox-electrolux",
+      "title": "Micro-ondas ME23S 23L Efficient Com Descongelamento Assistido Cor Inox Electrolux",
+      "subtitle": "pensado para facilitar sua rotina na cozinha. Ele conta com a tecnologia de Descongelamento Assistido da Electrolux para alcançar resultados mais uniformes ao descongelar os ingredientes, avisando no painel o momento certo de virar ou mexer os alimentos.",
+      "category": "cozinha",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_940680-MLA99700976956_122025-F.webp",
+      "affiliateUrl": "https://meli.la/1YfAhh5",
+      "featured": false,
+      "active": true,
+      "sortOrder": 3,
+      "createdAt": "2026-03-11T06:06:45.530Z",
+      "updatedAt": "2026-03-11T06:06:45.530Z"
+    },
+    {
+      "id": "pomada-reparadora-intensiva-aquaphor-pele-extrasseca-55ml-eucerin",
+      "title": "Pomada Reparadora Intensiva Aquaphor Pele Extrasseca 55ml Eucerin",
+      "subtitle": "ideal para reparação e hidratação da pele em diversos tipos de necessidades.",
+      "category": "cuidados-pessoais",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_810204-MLU72446499468_102023-F.webp",
+      "affiliateUrl": "https://meli.la/192T36C",
+      "participantId": "ana-paula-renault",
+      "featured": true,
+      "active": true,
+      "sortOrder": 4,
+      "createdAt": "2026-03-11T06:14:14.240Z",
+      "updatedAt": "2026-03-11T17:30:56.608Z"
+    },
+    {
+      "id": "carmed-sprite-hidratante-labial-10g",
+      "title": "Carmed Sprite Hidratante Labial 10g",
+      "subtitle": "Hidratação profunda e contínua: ajuda a manter os lábios macios e saudáveis ao longo do dia.",
+      "category": "cuidados-pessoais",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_732795-MLA107681766875_022026-F.webp",
+      "affiliateUrl": "https://meli.la/1AriTdG",
+      "featured": true,
+      "active": true,
+      "sortOrder": 5,
+      "createdAt": "2026-03-11T16:23:47.531Z",
+      "updatedAt": "2026-03-11T17:31:18.447Z"
+    },
+    {
+      "id": "enxaguante-bucal-frutas-tropicais-e-menta-cimed-super-500ml",
+      "title": "Enxaguante Bucal Frutas Tropicais E Menta Cimed Super 500ml",
+      "subtitle": "Escolha ideal para quem busca uma higiene bucal completa e refrescante.",
+      "category": "cuidados-pessoais",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_986417-MLA106180807964_022026-F.webp",
+      "affiliateUrl": "https://meli.la/2i9k84y",
+      "featured": false,
+      "active": true,
+      "sortOrder": 6,
+      "createdAt": "2026-03-11T17:34:05.547Z",
+      "updatedAt": "2026-03-11T17:34:05.547Z"
+    },
+    {
+      "id": "desodorante-antitranspirante-super-acqua-cimed-men-150ml-acqua",
+      "title": "Desodorante Antitranspirante Super Acqua Cimed Men 150ml Acqua",
+      "subtitle": "Proteção prolongada, frescor intenso e cuidado diário para as suas axilas.",
+      "category": "cuidados-pessoais",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_695351-MLB104967549935_012026-F.webp",
+      "affiliateUrl": "https://meli.la/2iDZboa",
+      "featured": false,
+      "active": true,
+      "sortOrder": 7,
+      "createdAt": "2026-03-11T17:40:15.180Z",
+      "updatedAt": "2026-03-11T17:40:15.180Z"
+    }
+  ]
+}

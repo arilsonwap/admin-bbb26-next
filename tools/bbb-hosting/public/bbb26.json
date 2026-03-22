@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "season": 26,
+  "updatedAt": "2026-01-29T20:17:23.579Z",
+  "highlights": [
+    {
+      "id": "leader",
+      "participantId": "babu-santana",
+      "type": "LEADER",
+      "title": "Líder da Semana",
+      "state": "CONFIRMED"
+    },
+    {
+      "id": "angel",
+      "participantId": "edilson",
+      "type": "ANGEL",
+      "title": "Anjo da Semana",
+      "state": "CONFIRMED"
+    },
+    {
+      "id": "imune",
+      "participantId": "alberto-cowboy",
+      "type": "IMUNE",
+      "title": "Imune",
+      "state": "CONFIRMED"
+    },
+    {
+      "id": "monstro",
+      "participantId": "",
+      "type": "MONSTRO",
+      "title": "Monstro",
+      "state": "PENDING"
+    }
+  ],
+  "paredao": [
+    {
+      "id": "p1",
+      "participantId": "",
+      "position": 1,
+      "status": "NOT_FORMED"
+    },
+    {
+      "id": "p2",
+      "participantId": "",
+      "position": 2,
+      "status": "NOT_FORMED"
+    },
+    {
+      "id": "p3",
+      "participantId": "",
+      "position": 3,
+      "status": "NOT_FORMED"
+    },
+    {
+      "id": "p4",
+      "participantId": "",
+      "position": 4,
+      "status": "NOT_FORMED"
+    }
+  ],
+  "paredaoState": "NOT_FORMED",
+  "votingStatus": "CLOSED"
+}

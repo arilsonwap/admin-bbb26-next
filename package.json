@@ -3,15 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "npm run sync-bbb26 && next dev",
+    "build": "npm run sync-bbb26 && next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "sync-bbb26": "cp bbb26.json public/ 2>/dev/null || echo 'bbb26.json not found in root, skipping sync'"
   },
   "dependencies": {
+    "@headlessui/react": "~2.2.9",
+    "@heroicons/react": "~2.2.0",
+    "@types/jszip": "~3.4.0",
+    "jszip": "~3.10.1",
+    "lucide-react": "~0.563.0",
     "next": "16.1.6",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "zod": "~4.3.6",
+    "zustand": "~5.0.10"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

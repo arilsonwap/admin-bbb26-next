@@ -1,0 +1,149 @@
+{
+  "version": 4,
+  "updatedAt": "2026-03-10T20:03:15.938Z",
+  "season": "BBB26",
+  "products": [
+    {
+      "id": "sofa-bege-3-lugares",
+      "title": "Sofá Bege 3 Lugares",
+      "subtitle": "Modelo confortável e elegante para sala de estar",
+      "category": "sala",
+      "imageUrl": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
+      "badge": "Parecido com o da sala",
+      "affiliateUrl": "https://www.magazineluiza.com.br/sofa-3-lugares",
+      "featured": false,
+      "active": true,
+      "sortOrder": 1,
+      "tags": [
+        "sofá",
+        "sala",
+        "conforto"
+      ],
+      "createdAt": "2026-03-10T02:30:41.113Z",
+      "updatedAt": "2026-03-10T02:30:41.113Z"
+    },
+    {
+      "id": "mesa-jantar-moderna",
+      "title": "Mesa de Jantar Moderna",
+      "category": "sala",
+      "imageUrl": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=800&q=80",
+      "affiliateUrl": "https://www.magazineluiza.com.br/mesa-jantar",
+      "featured": false,
+      "active": true,
+      "sortOrder": 2,
+      "createdAt": "2026-03-10T02:30:41.113Z",
+      "updatedAt": "2026-03-10T02:30:41.113Z"
+    },
+    {
+      "id": "conjunto-panelas-inox",
+      "title": "Conjunto de Panelas Inox",
+      "subtitle": "5 peças com revestimento antiaderente",
+      "category": "cozinha",
+      "imageUrl": "https://www.viainox.com/upload/produto/imagem/jogo-de-panelas-tramontina-solar-baquelite-em-a-o-inox-6-pe-as.webp",
+      "badge": "Destaque da semana",
+      "affiliateUrl": "https://www.magazineluiza.com.br/conjunto-panelas",
+      "featured": true,
+      "active": true,
+      "sortOrder": 3,
+      "tags": [
+        "panelas",
+        "cozinha",
+        "inox"
+      ],
+      "createdAt": "2026-03-10T02:30:41.113Z",
+      "updatedAt": "2026-03-10T20:00:15.553Z"
+    },
+    {
+      "id": "cadeira-gamer-rgb",
+      "title": "Cadeira Gamer RGB",
+      "subtitle": "Ergonômica com iluminação LED",
+      "category": "quarto",
+      "imageUrl": "https://m.media-amazon.com/images/I/51+JJakSApL._AC_UF894,1000_QL80_.jpg",
+      "affiliateUrl": "https://www.magazineluiza.com.br/cadeira-gamer",
+      "featured": false,
+      "active": true,
+      "sortOrder": 4,
+      "tags": [
+        "cadeira",
+        "gamer",
+        "rgb"
+      ],
+      "createdAt": "2026-03-10T02:30:41.113Z",
+      "updatedAt": "2026-03-10T19:34:03.770Z"
+    },
+    {
+      "id": "geladeira-frost-free",
+      "title": "Geladeira Frost Free Inox",
+      "subtitle": "2 portas, 400 litros",
+      "category": "cozinha",
+      "imageUrl": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=800&q=80",
+      "badge": "Igual a da cozinha",
+      "affiliateUrl": "https://www.magazineluiza.com.br/geladeira",
+      "featured": true,
+      "active": true,
+      "sortOrder": 5,
+      "tags": [
+        "geladeira",
+        "cozinha",
+        "frost-free"
+      ],
+      "createdAt": "2026-03-10T02:30:41.113Z",
+      "updatedAt": "2026-03-10T02:30:41.113Z"
+    },
+    {
+      "id": "tv-smart-55",
+      "title": "Smart TV 55\" 4K",
+      "category": "sala",
+      "imageUrl": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&q=80",
+      "badge": "Mesmo modelo do quarto",
+      "affiliateUrl": "https://www.magazineluiza.com.br/smart-tv",
+      "featured": false,
+      "active": true,
+      "sortOrder": 6,
+      "tags": [
+        "tv",
+        "smart",
+        "4k"
+      ],
+      "createdAt": "2026-03-10T02:30:41.113Z",
+      "updatedAt": "2026-03-10T02:30:41.113Z"
+    },
+    {
+      "id": "ar-condicionado-split",
+      "title": "Ar Condicionado Split 12000 BTUs",
+      "subtitle": "Inverter com WiFi",
+      "category": "quarto",
+      "imageUrl": "https://www.frigelar.com.br/ccstore/v1/images/?source=/file/v9071432143900886263/products/kit8607_10.jpg&height=300&width=300",
+      "affiliateUrl": "https://www.magazineluiza.com.br/ar-condicionado",
+      "featured": true,
+      "active": true,
+      "sortOrder": 7,
+      "tags": [
+        "ar-condicionado",
+        "inverter",
+        "wifi"
+      ],
+      "createdAt": "2026-03-10T02:30:41.113Z",
+      "updatedAt": "2026-03-10T20:02:44.543Z"
+    },
+    {
+      "id": "colchao-queen",
+      "title": "Colchão Queen Size Molas",
+      "subtitle": "Pillow top extra conforto",
+      "category": "quarto",
+      "imageUrl": "https://images.tcdn.com.br/img/img_prod/1083165/colchao_queen_molas_ensacadas_new_york_macio_king_koil_8081_1_7c0cdf1323a9d7a9150e8e006cdbf2e5.png",
+      "badge": "Produto inativo",
+      "affiliateUrl": "https://www.magazineluiza.com.br/colchao",
+      "featured": false,
+      "active": true,
+      "sortOrder": 8,
+      "tags": [
+        "colchão",
+        "queen",
+        "molas"
+      ],
+      "createdAt": "2026-03-10T02:30:41.113Z",
+      "updatedAt": "2026-03-10T20:03:14.356Z"
+    }
+  ]
+}

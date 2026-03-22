@@ -1,0 +1,373 @@
+{
+  "dataBusca": "2026-03-21",
+  "participantes": [
+    {
+      "id": "alberto-cowboy",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/",
+      "status": "líder,monstro,xepa",
+      "estalecas": 4050,
+      "historico": {
+        "lider": 4,
+        "paredao": 1,
+        "imune": 0,
+        "anjo": 2,
+        "naMira": 0,
+        "monstro": 2,
+        "vip": 9,
+        "xepa": 4
+      }
+    },
+    {
+      "id": "aline-campos",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/aline-campos/",
+      "status": "eliminada",
+      "estalecas": 0,
+      "historico": {
+        "lider": 0,
+        "paredao": 1,
+        "imune": 0,
+        "anjo": 0,
+        "naMira": 0,
+        "monstro": 0,
+        "vip": 1,
+        "xepa": 1
+      }
+    },
+    {
+      "id": "ana-paula-renault",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/",
+      "status": "xepa",
+      "estalecas": 100,
+      "historico": {
+        "lider": 0,
+        "paredao": 3,
+        "imune": 1,
+        "anjo": 0,
+        "naMira": 0,
+        "monstro": 2,
+        "vip": 3,
+        "xepa": 10
+      }
+    },
+    {
+      "id": "babu-santana",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/babu-santana/",
+      "status": "eliminado",
+      "estalecas": 1,
+      "historico": {
+        "lider": 1,
+        "paredao": 2,
+        "imune": 0,
+        "anjo": 0,
+        "naMira": 0,
+        "monstro": 0,
+        "vip": 3,
+        "xepa": 6
+      }
+    },
+    {
+      "id": "breno",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/breno/",
+      "status": "eliminado",
+      "estalecas": 0,
+      "historico": {
+        "lider": 0,
+        "paredao": 2,
+        "imune": 1,
+        "anjo": 1,
+        "naMira": 1,
+        "monstro": 0,
+        "vip": 4,
+        "xepa": 6
+      }
+    },
+    {
+      "id": "brigido",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/brigido/",
+      "status": "eliminado",
+      "estalecas": 0,
+      "historico": {
+        "lider": 0,
+        "paredao": 2,
+        "imune": 0,
+        "anjo": 0,
+        "naMira": 0,
+        "monstro": 0,
+        "vip": 1,
+        "xepa": 3
+      }
+    },
+    {
+      "id": "chaiany",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/",
+      "status": "xepa",
+      "estalecas": 50,
+      "historico": {
+        "lider": 0,
+        "paredao": 2,
+        "imune": 2,
+        "anjo": 1,
+        "naMira": 0,
+        "monstro": 1,
+        "vip": 1,
+        "xepa": 9
+      }
+    },
+    {
+      "id": "edilson",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/edilson/",
+      "status": "desclassificado",
+      "estalecas": null,
+      "historico": {
+        "lider": 0,
+        "paredao": 0,
+        "imune": 0,
+        "anjo": 0,
+        "naMira": 0,
+        "monstro": 0,
+        "vip": 0,
+        "xepa": 0
+      }
+    },
+    {
+      "id": "gabriela",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/",
+      "status": "xepa",
+      "estalecas": 1300,
+      "historico": {
+        "lider": 0,
+        "paredao": 0,
+        "imune": 2,
+        "anjo": 1,
+        "naMira": 0,
+        "monstro": 0,
+        "vip": 5,
+        "xepa": 5
+      }
+    },
+    {
+      "id": "henri-castelli",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/henri-castelli/",
+      "status": "desclassificado",
+      "estalecas": 0,
+      "historico": {
+        "lider": 0,
+        "paredao": 0,
+        "imune": 0,
+        "anjo": 0,
+        "naMira": 0,
+        "monstro": 0,
+        "vip": 1,
+        "xepa": 0
+      }
+    },
+    {
+      "id": "jonas-sulzbach",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/",
+      "status": "monstro,xepa",
+      "estalecas": 2719,
+      "historico": {
+        "lider": 4,
+        "paredao": 0,
+        "imune": 2,
+        "anjo": 2,
+        "naMira": 0,
+        "monstro": 3,
+        "vip": 8,
+        "xepa": 6
+      }
+    },
+    {
+      "id": "jordana",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/",
+      "status": "vip",
+      "estalecas": 3030,
+      "historico": {
+        "lider": 0,
+        "paredao": 1,
+        "imune": 1,
+        "anjo": 0,
+        "naMira": 0,
+        "monstro": 1,
+        "vip": 7,
+        "xepa": 5
+      }
+    },
+    {
+      "id": "juliano-floss",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/",
+      "status": "xepa",
+      "estalecas": 70,
+      "historico": {
+        "lider": 0,
+        "paredao": 0,
+        "imune": 0,
+        "anjo": 0,
+        "naMira": 0,
+        "monstro": 1,
+        "vip": 4,
+        "xepa": 7
+      }
+    },
+    {
+      "id": "leandro",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/",
+      "status": "anjo,xepa",
+      "estalecas": 510,
+      "historico": {
+        "lider": 0,
+        "paredao": 3,
+        "imune": 1,
+        "anjo": 1,
+        "naMira": 0,
+        "monstro": 0,
+        "vip": 1,
+        "xepa": 9
+      }
+    },
+    {
+      "id": "marcelo",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marcelo/",
+      "status": "eliminado",
+      "estalecas": 0,
+      "historico": {
+        "lider": 0,
+        "paredao": 1,
+        "imune": 1,
+        "anjo": 0,
+        "naMira": 0,
+        "monstro": 1,
+        "vip": 3,
+        "xepa": 3
+      }
+    },
+    {
+      "id": "marciele",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/",
+      "status": "vip",
+      "estalecas": 2720,
+      "historico": {
+        "lider": 0,
+        "paredao": 0,
+        "imune": 0,
+        "anjo": 0,
+        "naMira": 0,
+        "monstro": 0,
+        "vip": 7,
+        "xepa": 4
+      }
+    },
+    {
+      "id": "matheus",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/matheus/",
+      "status": "eliminado",
+      "estalecas": 0,
+      "historico": {
+        "lider": 0,
+        "paredao": 1,
+        "imune": 1,
+        "anjo": 0,
+        "naMira": 0,
+        "monstro": 0,
+        "vip": 1,
+        "xepa": 1
+      }
+    },
+    {
+      "id": "maxiane",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/maxiane/",
+      "status": "eliminada",
+      "estalecas": 1,
+      "historico": {
+        "lider": 1,
+        "paredao": 1,
+        "imune": 0,
+        "anjo": 0,
+        "naMira": 1,
+        "monstro": 0,
+        "vip": 4,
+        "xepa": 3
+      }
+    },
+    {
+      "id": "milena",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/",
+      "status": "xepa",
+      "estalecas": 600,
+      "historico": {
+        "lider": 0,
+        "paredao": 3,
+        "imune": 1,
+        "anjo": 1,
+        "naMira": 1,
+        "monstro": 1,
+        "vip": 4,
+        "xepa": 9
+      }
+    },
+    {
+      "id": "samira",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/",
+      "status": "xepa",
+      "estalecas": 570,
+      "historico": {
+        "lider": 1,
+        "paredao": 1,
+        "imune": 1,
+        "anjo": 0,
+        "naMira": 1,
+        "monstro": 0,
+        "vip": 3,
+        "xepa": 8
+      }
+    },
+    {
+      "id": "sarah-andrade",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/sarah-andrade/",
+      "status": "eliminada",
+      "estalecas": 0,
+      "historico": {
+        "lider": 0,
+        "paredao": 1,
+        "imune": 1,
+        "anjo": 1,
+        "naMira": 0,
+        "monstro": 0,
+        "vip": 4,
+        "xepa": 1
+      }
+    },
+    {
+      "id": "sol-vega",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/sol-vega/",
+      "status": "desclassificado",
+      "estalecas": null,
+      "historico": {
+        "lider": 0,
+        "paredao": 0,
+        "imune": 0,
+        "anjo": 0,
+        "naMira": 0,
+        "monstro": 0,
+        "vip": 0,
+        "xepa": 0
+      }
+    },
+    {
+      "id": "solange-couto",
+      "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/",
+      "status": "xepa",
+      "estalecas": 900,
+      "historico": {
+        "lider": 0,
+        "paredao": 1,
+        "imune": 0,
+        "anjo": 0,
+        "naMira": 0,
+        "monstro": 0,
+        "vip": 4,
+        "xepa": 7
+      }
+    }
+  ]
+}

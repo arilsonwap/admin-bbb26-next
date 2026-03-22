@@ -1,0 +1,763 @@
+[
+  {
+    "date": "2026-03-21",
+    "pageUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/",
+    "tab": "Recebidos",
+    "received": [
+      {
+        "fromName": "Jonas Sulzbach",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/"
+      },
+      {
+        "fromName": "Chaiany",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/"
+      },
+      {
+        "fromName": "Alberto Cowboy",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/"
+      },
+      {
+        "fromName": "Marciele",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/"
+      },
+      {
+        "fromName": "Jordana",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/"
+      },
+      {
+        "fromName": "Leandro",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/"
+      },
+      {
+        "fromName": "Gabriela",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/"
+      },
+      {
+        "fromName": "Milena",
+        "emoji": "mentiroso",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/"
+      },
+      {
+        "fromName": "Samira",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/"
+      },
+      {
+        "fromName": "Juliano Floss",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/"
+      },
+      {
+        "fromName": "Ana Paula Renault",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "pageUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/breno/",
+    "tab": "Recebidos",
+    "received": [],
+    "error": "Dados não encontrados",
+    "errorType": "not_found",
+    "evidence": {
+      "httpStatus": 200,
+      "finalUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/breno/",
+      "hasRoot": false,
+      "countersLen": 0,
+      "receivedLen": 0,
+      "title": "Breno | Pipoca | BBB 26 | gshow"
+    },
+    "attempts": 1
+  },
+  {
+    "date": "2026-03-21",
+    "pageUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/",
+    "tab": "Recebidos",
+    "received": [
+      {
+        "fromName": "Jonas Sulzbach",
+        "emoji": "biscoito",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/"
+      },
+      {
+        "fromName": "Chaiany",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/"
+      },
+      {
+        "fromName": "Alberto Cowboy",
+        "emoji": "coracao_partido",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/"
+      },
+      {
+        "fromName": "Marciele",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/"
+      },
+      {
+        "fromName": "Jordana",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/"
+      },
+      {
+        "fromName": "Solange Couto",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/"
+      },
+      {
+        "fromName": "Leandro",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/"
+      },
+      {
+        "fromName": "Gabriela",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/"
+      },
+      {
+        "fromName": "Milena",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/"
+      },
+      {
+        "fromName": "Juliano Floss",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/"
+      },
+      {
+        "fromName": "Ana Paula Renault",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "pageUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/",
+    "tab": "Recebidos",
+    "received": [
+      {
+        "fromName": "Jonas Sulzbach",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/"
+      },
+      {
+        "fromName": "Chaiany",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/"
+      },
+      {
+        "fromName": "Alberto Cowboy",
+        "emoji": "vomito",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/"
+      },
+      {
+        "fromName": "Marciele",
+        "emoji": "biscoito",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/"
+      },
+      {
+        "fromName": "Jordana",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/"
+      },
+      {
+        "fromName": "Solange Couto",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/"
+      },
+      {
+        "fromName": "Gabriela",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/"
+      },
+      {
+        "fromName": "Milena",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/"
+      },
+      {
+        "fromName": "Samira",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/"
+      },
+      {
+        "fromName": "Juliano Floss",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/"
+      },
+      {
+        "fromName": "Ana Paula Renault",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "pageUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/",
+    "tab": "Recebidos",
+    "received": [
+      {
+        "fromName": "Jonas Sulzbach",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/"
+      },
+      {
+        "fromName": "Chaiany",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/"
+      },
+      {
+        "fromName": "Marciele",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/"
+      },
+      {
+        "fromName": "Jordana",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/"
+      },
+      {
+        "fromName": "Solange Couto",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/"
+      },
+      {
+        "fromName": "Leandro",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/"
+      },
+      {
+        "fromName": "Gabriela",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/"
+      },
+      {
+        "fromName": "Milena",
+        "emoji": "vomito",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/"
+      },
+      {
+        "fromName": "Samira",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/"
+      },
+      {
+        "fromName": "Juliano Floss",
+        "emoji": "vomito",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/"
+      },
+      {
+        "fromName": "Ana Paula Renault",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "pageUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/",
+    "tab": "Recebidos",
+    "received": [
+      {
+        "fromName": "Jonas Sulzbach",
+        "emoji": "mentiroso",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/"
+      },
+      {
+        "fromName": "Chaiany",
+        "emoji": "mentiroso",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/"
+      },
+      {
+        "fromName": "Alberto Cowboy",
+        "emoji": "vomito",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/"
+      },
+      {
+        "fromName": "Marciele",
+        "emoji": "mala",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/"
+      },
+      {
+        "fromName": "Jordana",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/"
+      },
+      {
+        "fromName": "Solange Couto",
+        "emoji": "mala",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/"
+      },
+      {
+        "fromName": "Leandro",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/"
+      },
+      {
+        "fromName": "Gabriela",
+        "emoji": "mala",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/"
+      },
+      {
+        "fromName": "Milena",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/"
+      },
+      {
+        "fromName": "Samira",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/"
+      },
+      {
+        "fromName": "Juliano Floss",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "pageUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/",
+    "tab": "Recebidos",
+    "received": [
+      {
+        "fromName": "Jonas Sulzbach",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/"
+      },
+      {
+        "fromName": "Alberto Cowboy",
+        "emoji": "coracao_partido",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/"
+      },
+      {
+        "fromName": "Marciele",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/"
+      },
+      {
+        "fromName": "Jordana",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/"
+      },
+      {
+        "fromName": "Solange Couto",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/"
+      },
+      {
+        "fromName": "Leandro",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/"
+      },
+      {
+        "fromName": "Gabriela",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/"
+      },
+      {
+        "fromName": "Milena",
+        "emoji": "mentiroso",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/"
+      },
+      {
+        "fromName": "Samira",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/"
+      },
+      {
+        "fromName": "Juliano Floss",
+        "emoji": "coracao_partido",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/"
+      },
+      {
+        "fromName": "Ana Paula Renault",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "pageUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/",
+    "tab": "Recebidos",
+    "received": [
+      {
+        "fromName": "Jonas Sulzbach",
+        "emoji": "mentiroso",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/"
+      },
+      {
+        "fromName": "Chaiany",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/"
+      },
+      {
+        "fromName": "Alberto Cowboy",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/"
+      },
+      {
+        "fromName": "Marciele",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/"
+      },
+      {
+        "fromName": "Jordana",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/"
+      },
+      {
+        "fromName": "Solange Couto",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/"
+      },
+      {
+        "fromName": "Leandro",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/"
+      },
+      {
+        "fromName": "Milena",
+        "emoji": "vomito",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/"
+      },
+      {
+        "fromName": "Samira",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/"
+      },
+      {
+        "fromName": "Juliano Floss",
+        "emoji": "coracao_partido",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/"
+      },
+      {
+        "fromName": "Ana Paula Renault",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "pageUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/",
+    "tab": "Recebidos",
+    "received": [
+      {
+        "fromName": "Chaiany",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/"
+      },
+      {
+        "fromName": "Alberto Cowboy",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/"
+      },
+      {
+        "fromName": "Marciele",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/"
+      },
+      {
+        "fromName": "Jordana",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/"
+      },
+      {
+        "fromName": "Solange Couto",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/"
+      },
+      {
+        "fromName": "Leandro",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/"
+      },
+      {
+        "fromName": "Gabriela",
+        "emoji": "mala",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/"
+      },
+      {
+        "fromName": "Milena",
+        "emoji": "mentiroso",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/"
+      },
+      {
+        "fromName": "Samira",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/"
+      },
+      {
+        "fromName": "Juliano Floss",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/"
+      },
+      {
+        "fromName": "Ana Paula Renault",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "pageUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/",
+    "tab": "Recebidos",
+    "received": [
+      {
+        "fromName": "Jonas Sulzbach",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/"
+      },
+      {
+        "fromName": "Chaiany",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/"
+      },
+      {
+        "fromName": "Alberto Cowboy",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/"
+      },
+      {
+        "fromName": "Marciele",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/"
+      },
+      {
+        "fromName": "Solange Couto",
+        "emoji": "biscoito",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/"
+      },
+      {
+        "fromName": "Leandro",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/"
+      },
+      {
+        "fromName": "Gabriela",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/"
+      },
+      {
+        "fromName": "Milena",
+        "emoji": "mentiroso",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/"
+      },
+      {
+        "fromName": "Samira",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/"
+      },
+      {
+        "fromName": "Juliano Floss",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/"
+      },
+      {
+        "fromName": "Ana Paula Renault",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "pageUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/",
+    "tab": "Recebidos",
+    "received": [
+      {
+        "fromName": "Jonas Sulzbach",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/"
+      },
+      {
+        "fromName": "Chaiany",
+        "emoji": "coracao_partido",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/"
+      },
+      {
+        "fromName": "Alberto Cowboy",
+        "emoji": "vomito",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/"
+      },
+      {
+        "fromName": "Marciele",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/"
+      },
+      {
+        "fromName": "Jordana",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/"
+      },
+      {
+        "fromName": "Solange Couto",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/"
+      },
+      {
+        "fromName": "Leandro",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/"
+      },
+      {
+        "fromName": "Gabriela",
+        "emoji": "mala",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/"
+      },
+      {
+        "fromName": "Milena",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/"
+      },
+      {
+        "fromName": "Samira",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/"
+      },
+      {
+        "fromName": "Ana Paula Renault",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "pageUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/",
+    "tab": "Recebidos",
+    "received": [
+      {
+        "fromName": "Jonas Sulzbach",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/"
+      },
+      {
+        "fromName": "Chaiany",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/"
+      },
+      {
+        "fromName": "Alberto Cowboy",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/"
+      },
+      {
+        "fromName": "Jordana",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/"
+      },
+      {
+        "fromName": "Solange Couto",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/"
+      },
+      {
+        "fromName": "Leandro",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/"
+      },
+      {
+        "fromName": "Gabriela",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/"
+      },
+      {
+        "fromName": "Milena",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/"
+      },
+      {
+        "fromName": "Samira",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/"
+      },
+      {
+        "fromName": "Juliano Floss",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/"
+      },
+      {
+        "fromName": "Ana Paula Renault",
+        "emoji": "planta",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "pageUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/",
+    "tab": "Recebidos",
+    "received": [
+      {
+        "fromName": "Jonas Sulzbach",
+        "emoji": "mentiroso",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/"
+      },
+      {
+        "fromName": "Chaiany",
+        "emoji": "mala",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/"
+      },
+      {
+        "fromName": "Alberto Cowboy",
+        "emoji": "vomito",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/"
+      },
+      {
+        "fromName": "Marciele",
+        "emoji": "biscoito",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/"
+      },
+      {
+        "fromName": "Jordana",
+        "emoji": "alvo",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/"
+      },
+      {
+        "fromName": "Solange Couto",
+        "emoji": "mala",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/"
+      },
+      {
+        "fromName": "Leandro",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/"
+      },
+      {
+        "fromName": "Gabriela",
+        "emoji": "mala",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/"
+      },
+      {
+        "fromName": "Samira",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/"
+      },
+      {
+        "fromName": "Juliano Floss",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/"
+      },
+      {
+        "fromName": "Ana Paula Renault",
+        "emoji": "coracao",
+        "profileUrl": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/"
+      }
+    ]
+  }
+]
