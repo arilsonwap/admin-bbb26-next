@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-22T08:49:56.798Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-03-22T09:25:30.676Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Breno, do BBB 26, relembra carreira no vôlei com campeões olímpicos: 'Joguei com Lucarelli'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/breno-do-bbb-26-relembra-carreira-no-volei-com-campeoes-olimpicos-joguei-com-lucarelli.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/ZCp-eNk_sfbojXnHI-xZaBDJHig=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/d/H/40nFfdR7qS4Qz4AdnMmQ/breno-relembra-treino-com-campeoes-olimpicos-durante-passagem-pelo-volei.png"
+    },
+    {
+      "title": "Marciele diz que aliados vão 'rodar' no Paredão, e Jordana reage: 'Não fala isso'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/marciele-diz-que-aliados-vao-rodar-no-paredao-e-jordana-reage-nao-fala-isso.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/G4Wj89dn80dIQV-n1aMHzeloj54=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/92/46/14454692"
+    },
     {
       "title": "Palpite, Anjo e Contragolpe movimentam o Cartola BBB neste domingo (22)",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/palpite-anjo-e-contragolpe-movimentam-o-cartola-bbb-neste-domingo-22.ghtml",
@@ -242,16 +252,6 @@
       "title": "Vídeos do episódio de 'BBB' de sexta-feira, 20 de março de 2026",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/episodio/2026/03/20/videos-do-episodio-de-bbb-de-sexta-feira-20-de-marco-de-2026.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/A89pROeKAozl5DIcNdK1dIxUTlw=/540x304/top/smart/http://s2.glbimg.com/CKursifhDssPql-6dKsbhnbrFms=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/44/25/14452544"
-    },
-    {
-      "title": "Chaiany é repreendida por Boneco após dizer que todos têm 'medo' de Ana Paula: 'Erro grandíssimo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-leva-invertida-de-aliado-apos-dizer-que-todo-mundo-possui-medo-de-ana-paula-renault.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/pPv7zMdlij2ST38d9ZzYMNTkayE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/58/24/14452458"
-    },
-    {
-      "title": "Samira conta momento de choro de um brother e analisa: 'Pode ter um apelo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-conta-momento-sobre-o-choro-de-brother-e-analisa-pode-ter-um-apelo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/35gCCT4kTTA8G8y_g1ZbZYIqH3s=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/n/A/FnM4EuTMqU7EMdGI7KjA/pgm-b-20032026-010000-frame-115386.jpeg"
     }
   ]
 }
