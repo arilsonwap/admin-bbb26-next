@@ -1,12 +1,17 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-22T15:58:44.091Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-03-22T16:44:18.747Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Leandro Boneco analisa jogo de sister no BBB 26: 'Não confio 100%'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/leandro-boneco-analisa-jogo-de-sister-no-bbb-26-nao-confio-100percent.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/HsAltUrhkBTD7pPWN5zmARtfblI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Z/a/tOnWp8Qz6P1R5vGk055Q/prefixo-bbb-220326-131443.jpg"
+    },
     {
       "title": "Solange Couto recorda atitude que teve com sister no BBB 26: 'Foi imbecilidade'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/solange-couto-recorda-atitude-que-teve-com-sister-no-bbb-26-foi-imbecilidade.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/rS6ZPxLmhxecwz2fus4T3xKwciA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/B/L/7TZDiJQwKmZVtmx7UrGQ/prefixo-bbb-220326-114921.jpg"
+      "imageUrl": "https://s2-gshow.glbimg.com/er3kZ_1sWj2IaiLVo-puAtYKS00=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/30/48/14454830"
     },
     {
       "title": "Após o Tá Com Nada, brothers do BBB 26 recuperam alimentos e recebem compras",
@@ -247,11 +252,6 @@
       "title": "Vídeos do BBB 26 de sábado, 21/3",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-de-sabado-213.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/tJ2tUCXy1Wv83M-fJy1FtIrEeHk=/540x304/top/smart/http://s2.glbimg.com/1oexXd-ebcjFqMO-KL7cJyYhIDU=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/20/26/14452620"
-    },
-    {
-      "title": "Que horas começa o BBB 26 hoje, sábado (21)?",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/que-horas-comeca-o-bbb-26-hoje-sabado-21-1.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/D75BSYBd0CDAc16ePf-S1HZnJpw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/b/L/RaJAGPShOa6W5mvZbW6A/tadeu-schmidt-bbb22.jpg"
     }
   ]
 }
