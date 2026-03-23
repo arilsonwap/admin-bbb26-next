@@ -15,7 +15,7 @@ concurrency:
 jobs:
   update-news:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 10
 
     steps:
       - name: Checkout
@@ -35,11 +35,11 @@ jobs:
           npm run dev > next.log 2>&1 &
           echo $! > next.pid
 
-      - name: Wait for API
+      - name: Wait for server
         run: |
           for i in {1..60}; do
-            if curl -fsS http://127.0.0.1:3000/api/gshow-bbb26-news?read=1 > /dev/null; then
-              echo "API ready"
+            if curl -fsS http://127.0.0.1:3000/ > /dev/null; then
+              echo "Server ready"
               exit 0
             fi
             sleep 2
@@ -50,12 +50,15 @@ jobs:
 
       - name: Run news update
         run: |
-          curl -fsS http://127.0.0.1:3000/api/gshow-bbb26-news | tee update-response.json
+          curl --retry 3 --retry-delay 2 --retry-connrefused -fsS \
+            http://127.0.0.1:3000/api/gshow-bbb26-news \
+            | tee update-response.json
 
       - name: Validate output files
         run: |
           test -f tools/bbb-hosting/public/noticiasbbb.json
           test -f tools/bbb-hosting/public/noticiasbbb-latest.json
+
           jq empty tools/bbb-hosting/public/noticiasbbb.json
           jq empty tools/bbb-hosting/public/noticiasbbb-latest.json
 
@@ -63,8 +66,20 @@ jobs:
         if: always()
         run: |
           if [ -f next.pid ]; then
-            kill $(cat next.pid) || true
+            kill "$(cat next.pid)" || true
+            sleep 2
+            kill -9 "$(cat next.pid)" || true
           fi
+
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gshow-news-debug
+          path: |
+            next.log
+            update-response.json
+          if-no-files-found: ignore
 
       - name: Commit changes if any
         run: |
@@ -73,14 +88,17 @@ jobs:
 
           git add tools/bbb-hosting/public/noticiasbbb.json tools/bbb-hosting/public/noticiasbbb-latest.json
 
-          echo "Checking diff..."
-          git status
-
-          if git diff --cached --exit-code; then
+          if git diff --cached --quiet; then
             echo "No changes detected"
             exit 0
           fi
 
-          echo "Changes detected, committing..."
           git commit -m "chore: update gshow BBB news"
+
+          if ! git pull --rebase origin main; then
+            echo "Rebase failed; aborting this run"
+            git rebase --abort || true
+            exit 1
+          fi
+
           git push
