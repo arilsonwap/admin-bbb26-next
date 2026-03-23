@@ -1,8 +1,23 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-23T14:50:37.035Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-03-23T16:05:04.485Z",
+  "lastAddedCount": 3,
   "items": [
+    {
+      "title": "Durante ação, Chaiany dá selinho em Marciele no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/durante-acao-chaiany-da-selinho-em-marciele-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/jMcbMc9bUmIF0-t_DwvAJv9xU08=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/24/67/14456724"
+    },
+    {
+      "title": "Ana Paula Renault provoca Jonas Sulzbach: 'Hoje vale tirar a sunga branca da mala'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-provoca-jonas-sulzbach-hoje-vale-tirar-a-sunga-branca-da-mala.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/Yx2qyfJ74W9iV_24ZyNaUOfXkDs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/12/67/14456712"
+    },
+    {
+      "title": "Ana Paula Renault chama Alberto Cowboy de 'frouxo' no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-chama-alberto-cowboy-de-frouxo-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/fpy7VL3bZ_wZHPSdr5wWNsxjq6E=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/31/66/14456631"
+    },
     {
       "title": "Vídeos do Raio-X de segunda, 23/3, do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-segunda-233-do-bbb-26.ghtml",
@@ -237,21 +252,6 @@
       "title": "Ana Paula Renault discute com Chaiany: 'Nunca mais vai jogar o seu jogo contra mim'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-se-envolve-em-discussao-com-chaiany-no-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/dSXadm6JWgpF3YW2dlvdiHHGx8E=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/43/49/14454943"
-    },
-    {
-      "title": "Ana Paula conversa com aliado sobre Chaiany: 'Tá achando que vai continuar nesse jogo confortável'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-conversa-com-juliano-floss-sobre-chaiany-ta-achando-que-vai-continuar-nesse-jogo-confortavel.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/7fT-UjRHtrRFeOdv3N4AwTFMAmU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/03/49/14454903"
-    },
-    {
-      "title": "Chaiany discute relação com Juliano Floss no BBB 26: 'Falou que eu era um personagem'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-e-juliano-floss-discutem-relacao-no-bbb-26-falou-que-eu-era-um-personagem.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/hq-0fhg_-4pA2VGAFDdTSptXQEM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/15/49/14454915"
-    },
-    {
-      "title": "Chaiany fala sobre atrito com Ana Paula Renault: 'No momento de mentir para me ferrar, você fez'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-lamenta-atrito-com-ana-paula-renault-no-momento-de-mentir-para-me-ferrar-voce-fez.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/mFdfFEx0kD9qFBjPsClD8Lr4MEM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/09/49/14454909"
     }
   ]
 }
