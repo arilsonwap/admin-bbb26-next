@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-23T20:51:28.348Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-23T21:46:09.868Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Quem sai do BBB 26 amanhã (24/3)?",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/quem-sai-do-bbb-26-amanha-243.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/5FCFXXMaEsp8HI8oyuzEiSL8fOI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/a/x/plBrEQS0OXfWAzg2uNIw/paredao-bbb-26.png"
+    },
+    {
+      "title": "Participantes ganham kit com itens oficiais do BBB",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/participantes-ganham-kit-com-itens-oficiais-do-bbb.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/tOUQdKJ-Tvzt2u_dsIQIuXrSpZM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/27/86/14458627"
+    },
     {
       "title": "Marciele comenta formação do Paredão com Gabriela: ‘Juliano tem que sair’",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/marciele-comenta-formacao-do-paredao-com-gabrielajuliano-tem-que-sair.ghtml",
@@ -242,16 +252,6 @@
       "title": "Samira revela possível voto de rivais após conversa com Jonas Sulzbach e pede sigilo a Ana Paula Renault",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-revela-possivel-voto-de-grupo-rival-apos-conversa-com-jonas-sulzbach-no-bbb-26-voce-nao-votaria.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/l6LgsDlRUN9r9ljDaaYH_fB9unM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/38/53/14455338"
-    },
-    {
-      "title": "A pedido de Cowboy, Marciele questiona Gabriela sobre discussão e avisa: 'Sou ruim em mentir'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/marciele-questiona-gabriela-sobre-discussao-no-bbb-26-a-pedido-de-alberto-cowboy-sou-ruim-em-mentir.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/l1rheKOQOYt0cMLRshFoVaQXjtg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/82/51/14455182"
-    },
-    {
-      "title": "Ana Paula Renault desabafa após discussão com Chaiany: 'Estou longe de ser esse monstro'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-repercute-discussao-com-chaiany-e-desabafa-estou-longe-de-ser-esse-monstro.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/CNM2CflS-rSGO8Z0mgQSW2AeXOU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/63/51/14455163"
     }
   ]
 }
