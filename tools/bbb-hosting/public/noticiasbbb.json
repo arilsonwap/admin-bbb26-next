@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-23T19:12:55.137Z",
+  "fetchedAt": "2026-03-23T20:00:14.771Z",
   "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Marciele comenta formação do Paredão com Gabriela:‘Juliano tem que sair’",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/marciele-comenta-formacao-do-paredao-com-gabrielajuliano-tem-que-sair.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/cet7xCzxtDOKvIGVQy8phJ7SrSE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/09/83/14458309"
+    },
     {
       "title": "Raio-X do BBB 26 tem repercussão do Paredão e pedidos de permanência dos emparedados",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/raio-x-do-bbb-26-tem-repercussao-do-paredao-e-pedidos-de-permanencia-dos-emparedados.ghtml",
@@ -247,11 +252,6 @@
       "title": "Ana Paula Renault desabafa após discussão com Chaiany: 'Estou longe de ser esse monstro'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-repercute-discussao-com-chaiany-e-desabafa-estou-longe-de-ser-esse-monstro.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/CNM2CflS-rSGO8Z0mgQSW2AeXOU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/63/51/14455163"
-    },
-    {
-      "title": "Raio-X do BBB 26: brothers comentam Formação do Paredão, Triângulo de Risco e Prova do Anjo",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/raio-x-do-bbb-26-brothers-comentam-formacao-do-paredao-triangulo-de-risco-e-prova-do-anjo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/N5OxYBvvt9O96J-xmPXSjzpEAyM=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/E/0/bs9MeWQIu9BAGAB1czHg/colagens-gshow-36-.png"
     }
   ]
 }
