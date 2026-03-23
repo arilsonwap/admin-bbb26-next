@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-23T22:17:53.657Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-23T22:56:25.579Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Jordana sugere possível Paredão para eliminar Ana Paula Renault: 'Ver quem é mais forte'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-sugere-possivel-paredao-para-eliminar-ana-paula-renault-ver-quem-e-mais-forte.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/KQOKctzxnY7hg1nSJxuVTAFh-tI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/U/t/3o7BXBTE6sV6LD8NhTVg/prefixo-bbb-230326-190744.jpg"
+    },
+    {
+      "title": "Alberto Cowboy sugere mudança de comportamento com Ana Paula Renault: 'Estou cansado'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/alberto-cowboy-sugere-mudanca-de-comportamento-com-ana-paula-renault-estou-cansado.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/yzSnP7Mv7c3C7FUkdggJ9axSllA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/43/87/14458743"
+    },
     {
       "title": "Quem sai do BBB 26 amanhã (24/3)?",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/quem-sai-do-bbb-26-amanha-243.ghtml",
@@ -242,16 +252,6 @@
       "title": "Alberto Cowboy revela a Gabriela: 'Colocaram você como uma pessoa não muito autêntica'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/alberto-cowboy-revela-a-gabriela-colocaram-voce-como-uma-pessoa-nao-muito-autentica.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/PId0BADOWGJQSpCLR3Iht23k_rA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/94/53/14455394"
-    },
-    {
-      "title": "Palpite do Cartola BBB fecha neste domingo: tente acertar quem será o indicado no Contragolpe",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/palpite-do-cartola-bbb-fecha-neste-domingo-tente-acertar-quem-sera-o-indicado-no-contragolpe.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/e9k0tDHfLgY6kIjQ3hMRZUcfGj4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/P/e/R0jX2BT4OURL6pHMBJjQ/whatsapp-image-2026-02-19-at-22.22.34.jpeg"
-    },
-    {
-      "title": "Samira revela possível voto de rivais após conversa com Jonas Sulzbach e pede sigilo a Ana Paula Renault",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-revela-possivel-voto-de-grupo-rival-apos-conversa-com-jonas-sulzbach-no-bbb-26-voce-nao-votaria.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/l6LgsDlRUN9r9ljDaaYH_fB9unM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/38/53/14455338"
     }
   ]
 }
