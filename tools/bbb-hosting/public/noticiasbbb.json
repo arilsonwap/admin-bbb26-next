@@ -1,12 +1,22 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-22T23:43:29.631Z",
+  "fetchedAt": "2026-03-23T01:00:47.839Z",
   "lastAddedCount": 2,
   "items": [
     {
+      "title": "Juliano Floss revela ligação de avós com Gal Costa: 'Fiquei em choque'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-revela-ligacao-de-avos-com-gal-costa-fiquei-em-choque.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/dWBXpXdi3hxwH8itwbMxOuL8fEQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/5/B/Xh9YabRwuLgiB0IVWEkw/pgm-b-22032026-210000-frame-43336.jpeg"
+    },
+    {
+      "title": "Juliano Floss teme ir ao Paredão no BBB 26 pela indicação do Líder: 'Pode ser em mim'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-teme-ir-ao-paredao-do-bbb-26-pela-indicacao-do-lider-penso-que-pode-ser-em-mim.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/weKAIVHHzhquOclSwIabPDzz154=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/99/54/14455499"
+    },
+    {
       "title": "Chaiany chora e desabafa no BBB 26: 'Nunca consegui mudar'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-chora-e-desabafa-nunca-consegui-mudar.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Crxw6jw4fdIfF8Z4TmylddBUvxI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/c/s/BbJvNjSgeA9ACBueqJtQ/prefixo-bbb-220326-195736.jpg"
+      "imageUrl": "https://s2-gshow.glbimg.com/2KvalZ8Enra8Zoo_OXvYwCiTtig=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/43/54/14455443"
     },
     {
       "title": "Jordana comenta 'habilidade de persuasão' de Ana Paula, e Cowboy opina sobre briga: 'Bola fora'",
@@ -242,16 +252,6 @@
       "title": "Alberto Cowboy e Jonas Sulzbach cumprem Castigo do Monstro do BBB 26 pela primeira vez",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/alberto-cowboy-e-jonas-sulzbach-cumprem-castigo-do-monstro-do-bbb-26-pela-primeira-vez.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/Xk5TSV6PFbdwhCf6reLPrkkyuUU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/05/39/14453905"
-    },
-    {
-      "title": "Após indicação ao Castigo do Monstro, Leandro alfineta Cowboy: 'Foi mal, coronel'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/apos-indicacao-ao-castigo-do-monstro-leandro-boneco-alfineta-alberto-cowboy-no-bbb-26-foi-mal-coronel.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/jkMXgqqXcGRcWGekescLhfSi76Q=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/53/39/14453953"
-    },
-    {
-      "title": "No BBB 26, Alberto Cowboy discute com Ana Paula Renault: 'O seu jogo tá caindo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/no-bbb-26-ana-paula-renault-discute-com-alberto-cowboy-o-seu-jogo-ta-caindo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/SJsemQ23eafJ8m7G2_tc6nwxYHk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/O/E/nJx3KERby7ZAvbW0PBqg/prefixo-bbb-210326-165541.jpg"
     }
   ]
 }
