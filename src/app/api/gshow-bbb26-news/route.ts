@@ -12,11 +12,12 @@ type NewsItem = {
 };
 
 function normalizeHref(href: string): string {
-  if (!href) return href;
-  if (href.startsWith('http://') || href.startsWith('https://')) return href;
-  if (href.startsWith('//')) return `https:${href}`;
-  if (href.startsWith('/')) return `https://gshow.globo.com${href}`;
-  return href;
+  const h = (href || '').trim();
+  if (!h) return h;
+  if (h.startsWith('http://') || h.startsWith('https://')) return h;
+  if (h.startsWith('//')) return `https:${h}`;
+  if (h.startsWith('/')) return `https://gshow.globo.com${h}`;
+  return h;
 }
 
 function normalizeImageUrl(url: string): string {
@@ -72,19 +73,20 @@ function extractLatestNews(html: string): NewsItem[] {
   const imagesByHref = new Map<string, string>();
   const itemIndexByHref = new Map<string, number>();
 
+  // href entre aspas duplas ou simples (o HTML do hub pode variar)
   const anchorRe =
-    /<a\b[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi;
+    /<a\b[^>]*\bhref\s*=\s*(?:"([^"]+)"|'([^']+)')[^>]*>([\s\S]*?)<\/a>/gi;
 
   let m: RegExpExecArray | null;
   while ((m = anchorRe.exec(slice)) && items.length < 30) {
-    const hrefRaw = m[1] ?? '';
+    const hrefRaw = (m[1] ?? m[2] ?? '').trim();
     const href = normalizeHref(hrefRaw);
     if (!href || !href.includes('gshow.globo.com')) continue;
     if (href.includes('/realities/bbb/bbb-26/') === false) continue;
     if (href.includes('#')) continue;
     if (/\/videos?\//i.test(href) || /\/video\//i.test(href)) continue;
 
-    const inner = m[2] ?? '';
+    const inner = m[3] ?? '';
 
     // As imagens do feed geralmente ficam em outro <a> (figure-link) com o mesmo href.
     // Captura a imagem mesmo que esse anchor não tenha "título" legível.
@@ -198,14 +200,15 @@ export async function GET(request: Request) {
     const existingHref = new Set(existingItems.map((it) => it.href).filter(Boolean));
     let addedCount = 0;
 
-    // novas primeiro
+    // Novas primeiro (href vem do HTML atual do hub). Em seguida, reaproveita itens do JSON
+    // antigo que não apareceram nesta extração — isso mantém histórico, mas pode preservar
+    // URLs de matérias já removidas do ar (404) até serem empurradas fora do limite.
     for (const it of incomingItems) {
       if (!it.href || seenHref.has(it.href)) continue;
       seenHref.add(it.href);
       merged.push(it);
       if (!existingHref.has(it.href)) addedCount += 1;
     }
-    // depois as antigas, sem repetir
     for (const it of existingItems) {
       if (!it?.href || seenHref.has(it.href)) continue;
       seenHref.add(it.href);
