@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-24T22:40:40.846Z",
+  "fetchedAt": "2026-03-24T23:18:11.622Z",
   "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Ana Paula Renault avalia possível Eliminação de Juliano Floss: 'Tem que analisar vários aspectos'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-avalia-possivel-eliminacao-de-juliano-floss-no-bbb-26-tem-que-analisar-varios-aspectos.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/9HSHxecv32VN6WExLus8pVvpN5g=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/v/0/51cQv1QGyQNStvB9QkAg/prefixo-bbb-240326-194540.jpg"
+    },
     {
       "title": "Jogada de Leandro para emparedar Jordana é eleita como o auge da Formação do 10º Paredão",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/enquete-bbb/noticia/jogada-de-leandro-para-emparedar-jordana-e-eleita-como-o-auge-da-formacao-do-10o-paredao.ghtml",
@@ -247,11 +252,6 @@
       "title": "Chaiany desabafa após acusações de 'personagem': 'Não vou ficar implorando para ninguém acreditar em mim'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-desabafa-apos-acusacoes-de-personagem-nao-vou-ficar-implorando-para-ninguem-acreditar-em-mim.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/BBc1Cu5P83iWgB2B5p4KuWLgsR8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/9/B/G019x5QlA97DpPxOxIBw/pgm-b-23032026-190000-frame-200490.jpeg"
-    },
-    {
-      "title": "Solange Couto questiona Chaiany: 'Você acha as pessoas estão preocupadas de saber quem é você?'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/solange-couto-questiona-chaiany-voce-acha-as-pessoas-estao-preocupadas-de-saber-quem-e-voce.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/sAkBpuGo4wxcd_M2KPzQgw1JKC0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/l/Y/K37BBTQWGr5CxRHAV7oA/pgm-b-23032026-190000-frame-199003.jpeg"
     }
   ]
 }
