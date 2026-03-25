@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-25T21:04:23.686Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-03-25T21:53:12.325Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Jonas Sulzbach revela saudade do filho, de 10 anos: ‘Estou louco para falar com ele’",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jonas-sulzbach-revela-saudade-de-filho-de-10-anos-estou-louco-para-falar-com-ele.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/9_7HWTnrz4RBbCYCc1o_PdthxdI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Y/Z/E4GAa2TaW6Z6iNBr3Iog/whatsapp-image-2026-03-25-at-12.59.48.jpeg"
+    },
+    {
+      "title": "Na última Festa do Líder do BBB 26, Alberto Cowboy ganha celebração com o tema 'Velho Oeste'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/na-ultima-festa-do-lider-do-bbb-26-alberto-cowboy-ganha-celebracao-com-o-tema-velho-oeste.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/o1By7LuPUVu2XzbCu0gAh6ZkgSQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/q/e/Xici3JShGGrEvF5QYxbg/whatsapp-image-2026-03-19-at-23.11.27.jpeg"
+    },
     {
       "title": "Ludmilla é a atração da Festa deste sábado (28) no BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/ludmilla-e-a-atracao-da-festa-deste-sabado-28-no-bbb-26.ghtml",
@@ -242,16 +252,6 @@
       "title": "Juliano Floss opina sobre mudança de comportamento no BBB 26: 'Do nada, ama todo mundo'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-opina-sobre-mudanca-de-comportamento-no-bbb-26-do-nada-ama-todo-mundo.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/C8TxfThy9D7JUHOfWdgLm8ctvvA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/10/21/14462110"
-    },
-    {
-      "title": "Ana Paula Renault vê sisters conversando e provoca: 'Amizade verdadeira'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-ve-sisters-conversando-e-provoca-amizade-verdadeira.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/oPgSwA2yWi0TIm_T51_QoTw30pw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/95/19/14461995"
-    },
-    {
-      "title": "Raio-X tem ansiedade dos emparedados e embate entre Ana Paula Renault e Chaiany",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/raio-x-tem-ansiedade-dos-emparedados-e-embate-entre-ana-paula-renault-e-chaiany.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Pn9wECT25gDRVtUEKYwQDHrrB7k=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/O/R/JlZkvbTUGTM4VkT1LrOA/whatsapp-image-2026-03-24-at-13.29.39.jpeg"
     }
   ]
 }
