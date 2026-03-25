@@ -1,8 +1,43 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-24T23:51:55.545Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-25T02:51:47.687Z",
+  "lastAddedCount": 7,
   "items": [
+    {
+      "title": "Marina Sena reage à permanência de Juliano Floss no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/marina-sena-reage-a-permanencia-de-juliano-floss-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/wkzxJtbpRLRrmrc4Wjf48vOA7OE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/h/r/AmAnjFQWyS7yUoQuXBSA/capa-4-.png"
+    },
+    {
+      "title": "Juliano Floss chora e Gabriela pula na piscina após voltarem do Paredão",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-chora-e-gabriela-pula-na-piscina-apos-voltarem-do-paredao.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/XEvbNBTcgJsgoVcBOA6nYJ145Fk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/H/B/AvJBadSzm6VZClQm2rkw/pgm-a-24032026-230000-frame-44227.jpeg"
+    },
+    {
+      "title": "Jonas Sulzbach é eliminado do BBB 26: confira como fica a pontuação do ex-brother no Cartola BBB",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/jonas-sulzbach-e-eliminado-do-bbb-26-confira-como-fica-a-pontuacao-do-ex-brother-no-cartola-bbb.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/K1gZECM_NpJpHPGUIWhwIhbapes=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/o/e/Rp2sQwQuCkKPBKfMRiBg/prefixo-bbb-240326-232455.jpg"
+    },
+    {
+      "title": "Tadeu Schmidt recebe Jonas Sulzbach, e nono eliminado diz que não fugiu de embates: 'Enfrentei desde o início'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/tadeu-schmidt-recebe-jonas-sulzbach-e-nono-eliminado-diz-que-nao-fugiu-de-embates-enfrentei-desde-o-inicio.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/SOD9IoVYvFYQJ4oxN4bQYGoeB_4=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/43/29/14462943"
+    },
+    {
+      "title": "Bate-Papo BBB: Gil do Vigor e Ceci Ribeiro conversam com Jonas Sulzbach, nono Eliminado do BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/ao-vivo/bate-papo-bbb-gil-do-vigor-e-ceci-ribeiro-conversam-com-a-nona-pessoa-eliminada-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/UcsNopcEohtYXD2qq2THXkmBuZI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/55/11265566"
+    },
+    {
+      "title": "Eliminado, Jonas Sulzbach se despede de participantes e ouve recado de Ana Paula Renault",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/eliminado-jonas-sulzbach-se-despede-de-participantes-e-ouve-recado-de-ana-paula-renault.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/vBpAeNkktwvgSKwMbVZbMPRcz7A=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/z/B/D6x0aUSKikdGsXYNNm5g/prefixo-bbb-240326-232430.jpg"
+    },
+    {
+      "title": "Veja o discurso de Tadeu Schmidt para a Eliminação de Jonas Sulzbach do BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/veja-o-discurso-de-tadeu-schmidt-para-a-eliminacao-de-jonas-sulzbach-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/pxJgcDlFp5v2ofmUoKNIt8of5ww=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/38/29/14462938"
+    },
     {
       "title": "Ana Paula Renault avalia possível Eliminação de brother: 'Tem que analisar vários aspectos'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-avalia-possivel-eliminacao-de-juliano-floss-no-bbb-26-tem-que-analisar-varios-aspectos.ghtml",
@@ -217,41 +252,6 @@
       "title": "Chaiany critica Ana Paula Renault após discussão: 'Para mim, ela está errada'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-critica-ana-paula-renault-apos-discussao-para-mim-ela-esta-errada.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/ur9IoPwdCZNdi00YXjXy_JqneOI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/39/93/14459339"
-    },
-    {
-      "title": "Chaiany chora no BBB 26, e Gabriela a aconselha: 'Você não pode mostrar sua fraqueza para ela'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-chora-e-gabriela-a-aconselha-voce-nao-pode-mostrar-sua-fraqueza-para-ela.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/KqVo2-TKT2SiN4sFSaMLaCvybSw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/32/93/14459332"
-    },
-    {
-      "title": "Alberto Cowboy cogita aliança com Solange Couto e Chaiany: 'As miras estão voltadas para a gente'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/alberto-cowboy-cogita-alianca-com-solange-couto-e-chaiany-as-miras-estao-voltadas-para-a-gente.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/sv_2VI-OcwCtT1XMMfUxPn2Y--A=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/26/93/14459326"
-    },
-    {
-      "title": "Alberto Cowboy propõe estratégia para emparedar rivais no BBB 26: 'Era para eles estar fazendo esse movimento'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/alberto-cowboy-propoe-estrategia-para-emparedar-rivais-no-bbb-26-era-para-eles-estar-fazendo-esse-movimento.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/w0ZPzqTyzm-ZHC8KCn65AgISUn0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/22/93/14459322"
-    },
-    {
-      "title": "Jordana diz que Chaiany tem medo de Ana Paula Renault: 'Arregona'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-diz-que-chaiany-tem-medo-de-ana-paula-renault-arregona.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/0tz87a_rB9cAPLQf-kjmnDQKNoE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/18/93/14459318"
-    },
-    {
-      "title": "Gabriela comenta com Chaiany após treta no BBB 26: 'Acho que a gente interpretou dessa maneira'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/gabriela-comenta-com-chaiany-apos-treta-no-bbb-26-acho-que-a-gente-interpretou-dessa-maneira.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/uDXBlEUMPz3ygLEAAWRSba-evX4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/d/i/nHxNhQSBAtQLxbi8DacQ/pgm-b-23032026-190000-frame-205855.jpeg"
-    },
-    {
-      "title": "Solange Couto diz que está isolada no BBB 26: 'Ninguém quer falar comigo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/solange-couto-diz-que-esta-isolada-no-bbb-26-ninguem-quer-falar-comigo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/clXNLXlAKaBzLiddWOSTVBbNo7g=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/T/W/3XnUgPStmRCevWJWb2Ig/prefixo-bbb-230326-205653.jpg"
-    },
-    {
-      "title": "Chaiany desabafa após acusações de 'personagem': 'Não vou ficar implorando para ninguém acreditar em mim'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-desabafa-apos-acusacoes-de-personagem-nao-vou-ficar-implorando-para-ninguem-acreditar-em-mim.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/BBc1Cu5P83iWgB2B5p4KuWLgsR8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/9/B/G019x5QlA97DpPxOxIBw/pgm-b-23032026-190000-frame-200490.jpeg"
     }
   ]
 }
