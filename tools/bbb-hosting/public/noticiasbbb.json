@@ -1,12 +1,17 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-25T05:01:49.891Z",
-  "lastAddedCount": 6,
+  "fetchedAt": "2026-03-25T06:13:34.515Z",
+  "lastAddedCount": 1,
   "items": [
     {
-      "title": "Gabriela analisa próxima rival de Ana Paula Renault no BBB 26: 'A Chay atrapalha o jogo dela'",
+      "title": "Gabriela reclama de Alberto Cowboy no BBB 26: 'Está igual a Ana Paula'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/gabriela-reclama-de-alberto-cowboy-no-bbb-26-esta-igual-a-ana-paula.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/ckYTVO62AAjO4caE-TsC7nPzmRE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/G/q/despQAQiKEwTU0mrXexA/pgm-b-25032026-010000-frame-69462.jpeg"
+    },
+    {
+      "title": "Gabriela aposta em quem será próxima rival de Ana Paula Renault no BBB 26: 'Atrapalha o jogo dela'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/gabriela-analisa-proxima-rival-de-ana-paula-renault-no-bbb-26-a-chay-atrapalha-o-jogo-dela.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/1HrkwW-KqDyhwHkWwc_-D50O188=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Y/K/pmgA1gSPukcpVCynZVwA/pgm-b-25032026-010000-frame-40620.jpeg"
+      "imageUrl": "https://s2-gshow.glbimg.com/qD81oyt8jgl3K6ibtlUkVj87EE8=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/51/30/14463051"
     },
     {
       "title": "Bate-Papo BBB: Gil do Vigor e Ceci Ribeiro receberam Jonas Sulzbach, nono Eliminado do BBB 26; veja como foi!",
@@ -14,9 +19,9 @@
       "imageUrl": "https://s2-gshow.glbimg.com/UcsNopcEohtYXD2qq2THXkmBuZI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/55/11265566"
     },
     {
-      "title": "Jordana e Marciele especulam sobre possível informação de Milena: 'Falou que foi a mesma coisa'",
+      "title": "Jordana e Marciele especulam possível informação de Milena: 'Falou que foi a mesma coisa'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-e-marciele-especulam-sobre-possivel-informacao-privilegiada-de-milena-no-bbb-26-ela-falou-que-foi-a-mesma-coisa.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/dzf7JV6LD83XG4l4Ygs-jRHaYEQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/g/Y/IDyJr0QFq7JMwUd8wjGg/prefixo-bbb-250326-004310.jpg"
+      "imageUrl": "https://s2-gshow.glbimg.com/7PA37EsPbtSKNNl9zw6FjGHkmUo=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/46/30/14463046"
     },
     {
       "title": "Jonas Sulzbach revela que cogitou apertar o Botão da Desistência do BBB 26: 'Não foi fácil'",
@@ -247,11 +252,6 @@
       "title": "Jonas Sulzbach reclama do tempo de banho de Ana Paula Renault: 'Sem desligar o chuveiro'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jonas-sulzbach-reclama-do-tempo-de-banho-de-ana-paula-renault-sem-desligar-o-chuveiro.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/Kp5AdRv7fsF_qVqSuPBXAsOboIA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/37/94/14459437"
-    },
-    {
-      "title": "Alberto Cowboy se envolve em treta e leva invertida de Juliano Floss no BBB 26: 'Não se mete'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/alberto-cowboy-se-envolve-em-treta-e-leva-invertida-de-juliano-floss-no-bbb-26-nao-se-mete.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/naHUSnEP-iA1DJLWmYiKN9c1cxM=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/A/J/koys7ESICogTasLN9PQg/alberto-cowboy-se-envolve-em-treta-e-leva-invertida-de-juliano-floss-no-bbb-26-nao-se-mete.jpeg"
     }
   ]
 }
