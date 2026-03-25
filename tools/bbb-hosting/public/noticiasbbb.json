@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-25T06:13:34.515Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-03-25T07:33:20.639Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Veja reação dos participantes após Eliminação de Jonas Sulzbach no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-reacao-dos-participantes-apos-eliminacao-de-jonas-sulzbach-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/RqClbqThl3H8kBbx_OLfEJqHJOE=/540x304/top/smart/http://s2.glbimg.com/Uq_seFohG_JI2VUp9Hj4fjkRshM=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/59/30/14463059"
+    },
+    {
+      "title": "Jonas Sulzbach descarta romance com sisters do BBB 26: 'Não vão fazer parte da minha vida'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/noticia/jonas-sulzbach-descarta-romance-com-sisters-do-bbb-26-nao-vao-fazer-parte-da-minha-vida.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/6FUcA7kpoYZgxI_EmKBeo-Mq-Vw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/44/30/14463044"
+    },
     {
       "title": "Gabriela reclama de Alberto Cowboy no BBB 26: 'Está igual a Ana Paula'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/gabriela-reclama-de-alberto-cowboy-no-bbb-26-esta-igual-a-ana-paula.ghtml",
@@ -242,16 +252,6 @@
       "title": "Confira os melhores momentos do Big Show de segunda-feira, 23/3",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/confira-os-melhores-momentos-do-big-show-de-segunda-feira-233.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/w2POMra8oxJ5eVjeSsGy4TioGQ4=/540x304/top/smart/http://s2.glbimg.com/6dscADIpan_hK6JxhHMB7q318fg=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/18/94/14459418"
-    },
-    {
-      "title": "Diego Hypolito comenta relação com o BBB após participar do reality: 'Fiquei muito fã'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/sincerao/noticia/diego-hypolito-comenta-relacao-com-o-bbb-apos-participar-do-reality-eu-fiquei-fa.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/-tEB_3tCb5ce2g6RsX0bL86khW4=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/28/94/14459428"
-    },
-    {
-      "title": "Jonas Sulzbach reclama do tempo de banho de Ana Paula Renault: 'Sem desligar o chuveiro'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jonas-sulzbach-reclama-do-tempo-de-banho-de-ana-paula-renault-sem-desligar-o-chuveiro.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Kp5AdRv7fsF_qVqSuPBXAsOboIA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/37/94/14459437"
     }
   ]
 }
