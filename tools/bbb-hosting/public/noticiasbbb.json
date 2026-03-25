@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-25T07:33:20.639Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-03-25T08:29:53.538Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Décimo Paredão do BBB 26 bate recorde de votação; saiba mais!",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/decimo-paredao-do-bbb-26-bate-recorde-de-votacao-saiba-mais.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/vV20I8nD0QTxrNQSf7zSwdqrwaA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/50/29/14462950"
+    },
+    {
+      "title": "Bate-Papo BBB: Gil do Vigor e Ceci Ribeiro receberam Jonas Sulzbach, nono Eliminado do BBB 26; veja como foi!",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/ao-vivo/bate-papo-bbb-gil-do-vigor-e-ceci-ribeiro-conversam-com-a-nona-pessoa-eliminada-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/7dunCYEs_ZO0mKhHLnde5grfTRo=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/83/30/14463083"
+    },
     {
       "title": "Veja reação dos participantes após Eliminação de Jonas Sulzbach no BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-reacao-dos-participantes-apos-eliminacao-de-jonas-sulzbach-no-bbb-26.ghtml",
@@ -22,11 +32,6 @@
       "title": "Gabriela aposta em quem será próxima rival de Ana Paula Renault no BBB 26: 'Atrapalha o jogo dela'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/gabriela-analisa-proxima-rival-de-ana-paula-renault-no-bbb-26-a-chay-atrapalha-o-jogo-dela.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/qD81oyt8jgl3K6ibtlUkVj87EE8=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/51/30/14463051"
-    },
-    {
-      "title": "Bate-Papo BBB: Gil do Vigor e Ceci Ribeiro receberam Jonas Sulzbach, nono Eliminado do BBB 26; veja como foi!",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/ao-vivo/bate-papo-bbb-gil-do-vigor-e-ceci-ribeiro-conversam-com-a-nona-pessoa-eliminada-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/UcsNopcEohtYXD2qq2THXkmBuZI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/55/11265566"
     },
     {
       "title": "Jordana e Marciele especulam possível informação de Milena: 'Falou que foi a mesma coisa'",
@@ -247,11 +252,6 @@
       "title": "Jordana confronta Ana Paula Renault, e sisters têm treta generalizada: 'Expondo a sua maldade'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-confronta-ana-paula-renault-expondo-como-voce-se-contradiz.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/Oc_ylA7G2Hvg8VwtBC3bB2DY_FQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/46/94/14459446"
-    },
-    {
-      "title": "Confira os melhores momentos do Big Show de segunda-feira, 23/3",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/confira-os-melhores-momentos-do-big-show-de-segunda-feira-233.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/w2POMra8oxJ5eVjeSsGy4TioGQ4=/540x304/top/smart/http://s2.glbimg.com/6dscADIpan_hK6JxhHMB7q318fg=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/18/94/14459418"
     }
   ]
 }
