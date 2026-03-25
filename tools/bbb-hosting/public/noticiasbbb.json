@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-25T20:21:32.155Z",
+  "fetchedAt": "2026-03-25T21:04:23.686Z",
   "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Ludmilla é a atração da Festa deste sábado (28) no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/ludmilla-e-a-atracao-da-festa-deste-sabado-28-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/wM6TRd41Ywoc-mG9eZ6DOwuDK-c=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2025/U/e/C0BNZ9QFKqrvJmAcaGdg/0y6a7623.jpg"
+    },
     {
       "title": "Raio-X do BBB 26: sobreviventes comemoram, enquanto aliados de Jonas Sulzbach temem berlinda",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/raio-x-do-bbb-26-sobreviventes-comemoram-enquanto-aliados-de-jonas-sulzbach-temem-berlinda.ghtml",
@@ -247,11 +252,6 @@
       "title": "Raio-X tem ansiedade dos emparedados e embate entre Ana Paula Renault e Chaiany",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/raio-x-tem-ansiedade-dos-emparedados-e-embate-entre-ana-paula-renault-e-chaiany.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/Pn9wECT25gDRVtUEKYwQDHrrB7k=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/O/R/JlZkvbTUGTM4VkT1LrOA/whatsapp-image-2026-03-24-at-13.29.39.jpeg"
-    },
-    {
-      "title": "Ana Paula questiona Juliano Floss após presenciar conversa com sister: 'Fica ruim pra mim'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-questiona-juliano-floss-apos-presenciar-conversa-com-sister-fica-ruim-pra-mim.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/3YjAlnDpLJ-osK86L1vxLffWI8I=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/64/16/14461664"
     }
   ]
 }
