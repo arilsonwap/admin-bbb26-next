@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-25T10:32:05.746Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-03-25T11:27:58.787Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Vídeos do BBB 26: veja tudo o que rolou na madrugada de quarta-feira, 25/3",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-veja-tudo-o-que-rolou-na-madrugada-de-quarta-feira-253.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/S35PVaIhaFaQfasYha7tjgDnrfA=/540x304/top/smart/http://s2.glbimg.com/h_wS-z8r9OmxBEwyKjCk-Zlc_4k=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/51/30/14463051"
+    },
+    {
+      "title": "Resumo do BBB 26 hoje: madrugada tem Jonas elogiado por Ana Paula, previsão de nova rivalidade e receio de Jordana",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-jonas-elogiado-por-ana-paula-previsao-de-nova-rivalidade-e-receio-de-jordana.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/bMoSRe2pvUKQ7yoxCOVaZG00aNg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/E/K/28wGPPQoqOYADEL8BvBA/capa-71-.jpg"
+    },
     {
       "title": "Banho pelado, flerte com Ana Paula e edredom com Jordana: veja como foi o Bate-Papo BBB com Jonas Sulzbach",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/noticia/banho-pelado-flerte-com-ana-paula-e-romance-com-jordana-veja-como-foi-o-bate-papo-bbb-com-jonas-sulzbach.ghtml",
@@ -242,16 +252,6 @@
       "title": "Jonas Sulzbach garante para Gabriela sobre Paredão: 'Quero que o Juliano saia'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jonas-sulzbach-garante-para-gabriela-sobre-paredao-quero-que-o-juliano-saia.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/3fxXUB1qdVugMvIxHYG9PYXfxlU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/68/94/14459468"
-    },
-    {
-      "title": "Ana Paula Renault volta a falar de 'talaricagem' e critica Marciele: 'Isso é ser sem noção'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-fala-sobre-talaricagem-de-marciele-no-bbb-26-isso-e-ser-sem-nocao.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/__NRVGgtsvsekPr4SMv8QVhKCos=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/69/94/14459469"
-    },
-    {
-      "title": "Jonas Sulzbach nega 'talaricagem' no BBB 26: 'Passei por algumas bocas, e daí?'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jonas-sulzbach-nega-talaricagem-no-bbb-26-passei-por-algumas-bocas-e-dai.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/_oGtJzsVa2RBwG3wVqcUo4-y_QI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/65/94/14459465"
     }
   ]
 }
