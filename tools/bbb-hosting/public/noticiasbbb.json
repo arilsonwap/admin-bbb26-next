@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-26T20:23:44.215Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-26T21:03:01.398Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Jordana propõe estratégia de voto a Marciele no BBB 26: 'Vou puxar minha amiga'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-propoe-estrategia-de-jogo-a-marciele-a-gente-pode-amadurecer-a-ideia.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/cM0pNLiw8e2cdRBHmx1i7eXFn3k=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/97/91/14469197"
+    },
     {
       "title": "Cartola BBB: Janela de Escalação da 11ª rodada fecha nesta quinta (26)",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-janela-de-escalacao-da-11a-rodada-fecha-nesta-quinta-26.ghtml",
@@ -247,11 +252,6 @@
       "title": "Ana Paula abre os três cadeados em uma hora de Barrado no Baile",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/ana-paula-renault-completa-1-hora-de-barrado-no-baile.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/tynMcx5_3dm7eCa6M1iD4GPGf20=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/99/63/14466399"
-    },
-    {
-      "title": "Alberto Cowboy ganha chapéu autografado por Antônio Fagundes: 'É o Rei do Gado!'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/alberto-cowboy-ganha-chapeu-autografado-por-antonio-fagundes-e-o-rei-do-gado.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/HxzddWbLGt0-1Ec8sfgv8ZZ5Zic=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/85/63/14466385"
     }
   ]
 }
