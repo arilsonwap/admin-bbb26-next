@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-26T09:07:38.135Z",
+  "fetchedAt": "2026-03-26T10:12:21.124Z",
   "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de quinta-feira, 26/3",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-quinta-feira-263.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/-oB86IB0aBg7jtmp4svksG0R5eg=/540x304/top/smart/http://s2.glbimg.com/DY5-SPyVzsUgIS_9QXMH6KYhinY=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/86/64/14466486"
+    },
+    {
+      "title": "Jonas Sulzbach recorda brincadeiras com Ana Paula em papo com Karol Conká: 'Será que daria molho?'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jonas-sulzbach-recorda-brincadeiras-com-ana-paula-renault-em-papo-com-karol-conka-sera-que-daria-molho.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/pWxK8s7eiAPsL_SPgKAnfBVxBu8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/5/E/JknCYXSaAPjHu6tm4gSQ/jonas-e-karol.png"
+    },
     {
       "title": "Prova do Líder do BBB 26 será disputada em duas etapas nesta quinta (26)",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/prova-do-lider/noticia/prova-do-lider-do-bbb-26-sera-disputada-em-duas-etapas-nesta-quinta-26.ghtml",
@@ -242,16 +252,6 @@
       "title": "Jordana cogita aliança com grupo no BBB 26: 'Tem que articular'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-cogita-alianca-com-grupo-no-bbb-26-temos-que-articular-logo.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/uSF2RtoDEDLMLL9QBBswfWe0hjA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/15/40/14464015"
-    },
-    {
-      "title": "Jonas Sulzbach responde por que não beijou Ana Paula Renault no BBB 26: 'Por ela, não sei se passaria daquilo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/jonas-sulzbach-responde-por-que-nao-beijou-ana-paula-renault-no-bbb-26-nao-sei-se-passaria-daquilo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/IgWuYJ_ZspRaAiz2aHrJPTjAH94=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/86/38/14463886"
-    },
-    {
-      "title": "Jonas Sulzbach explica flertes com Ana Paula Renault e elogia: 'É uma mulher bonita'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/jonas-sulzbach-explica-flertes-com-ana-paula-renault-e-elogia-e-uma-mulher-bonita.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/dep-VPPlu7eQQDSfj2iPnh_aABw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/67/38/14463867"
     }
   ]
 }
