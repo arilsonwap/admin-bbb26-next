@@ -1,8 +1,23 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-26T12:04:50.755Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-03-26T13:58:20.427Z",
+  "lastAddedCount": 3,
   "items": [
+    {
+      "title": "Jonas Sulzbach fala sobre possível contato com Ana Paula Renault fora do BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jonas-diz-se-tera-contato-com-ana-paula-fora-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/BdahS_Srsg4mao8sUv1EC0nro2A=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/B/X/RrBiE8RBOALT8MYPPMOw/pgm-a-17022026-110000-frame-180837.jpeg"
+    },
+    {
+      "title": "Jonas Sulzbach diz se pretende repetir beijos com sisters e abre o jogo sobre vida amorosa",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jonas-sulzbach-diz-se-pretende-repetir-beijos-com-sisters-e-abre-o-jogo-sobre-vida-amorosa.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/fUmnTLBnMvJlwBa41UBgTOhkneo=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/P/4/4onveDRJSqs04gBlvCKA/jonas-beijo-novo.jpg"
+    },
+    {
+      "title": "Ranking Cartola BBB: veja quem são os maiores pontuadores da 10ª rodada",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/ranking-cartola-bbb-veja-quem-sao-os-maiores-pontuadores-da-10a-rodada.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/AZRX7dCbxMTLSP8t9YPLFEaQFpA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/y/t/gzOfT0Q3A3aruZmQxCZQ/rodada-10-1.png"
+    },
     {
       "title": "Cartola BBB: Jonas Sulzbach prevê aliada como Líder e entende que sister vai passar longe do Paredão",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-jonas-sulzbach-preve-aliada-como-lider-e-entende-que-sister-vai-passar-longe-do-paredao.ghtml",
@@ -237,21 +252,6 @@
       "title": "Ana Paula Renault relembra reação de aliados após voltar do Paredão: 'Não me deram apoio nenhum'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-relembra-reacao-de-aliados-apos-voltar-do-paredao-voces-nao-me-deram-apoio-nenhum.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/xNAoF0kurIcmQ3zLaE6ffvszhw8=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/84/41/14464184"
-    },
-    {
-      "title": "Janela de escalação para 11ª rodada do Cartola BBB está aberta!",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/janela-de-escalacao-para-11a-rodada-do-cartola-bbb-esta-aberta.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/b8euEcl2p4WiZ9ZxN8JVgGbAXfk=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/71/82/14318271"
-    },
-    {
-      "title": "Ana Paula Renault nega que Chaiany tenha sido chamada de 'personagem': 'Deturpou tudo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-nega-ter-usado-a-palavra-personagem-para-se-referir-a-chaiany-deturpou-tudo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/3X2f0ScwVLK3qhb218XBHeYgRbs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/97/40/14464097"
-    },
-    {
-      "title": "Jonas Sulzbach analisa que Juliano Floss 'não apareceu no jogo': 'Não movimentou'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/jonas-sulzbach-analisa-que-juliano-floss-nao-apareceu-no-jogo-nao-movimentou.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/qU-UZdxFRL_QjoejEo-NKIofNY0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/10/39/14463910"
     }
   ]
 }
