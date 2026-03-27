@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-27T11:56:29.947Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-27T13:25:54.816Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Jonas Sulzbach detalha procedimentos estéticos que já fez e revela se faria novas intervenções",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jonas-sulzbach-detalha-procedimentos-esteticos-que-ja-fez-e-revela-se-faria-novas-intervencoes.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/9_7HWTnrz4RBbCYCc1o_PdthxdI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Y/Z/E4GAa2TaW6Z6iNBr3Iog/whatsapp-image-2026-03-25-at-12.59.48.jpeg"
+    },
     {
       "title": "Resumo do BBB 26 hoje: madrugada tem choro de Ana Paula após liderança, críticas a Chaiany e sister sem 'paciência'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-choro-de-ana-paula-apos-lideranca-criticas-a-chaiany-e-sister-sem-paciencia.ghtml",
@@ -24,7 +29,7 @@
       "imageUrl": "https://s2-gshow.glbimg.com/8AnrE8gPP9d0UXJpHJ86c1_2OeM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/04/01/14470104"
     },
     {
-      "title": "Prova do Anjo, Monstro e Formação de Paredão agitam o Cartola BBB nesta sexta (27)",
+      "title": "Prova do Anjo e Formação de Paredão agitam o Cartola BBB nesta sexta (27)",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/prova-do-anjo-monstro-e-formacao-de-paredao-agitam-o-cartola-bbb-nesta-sexta-27.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/qg8hpDpWdBm7o3wEuUUxcsGrYTE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/C/y/BUOEy8SfGRt2CLWsnKCg/tadeu-bbb-26.jpeg"
     },
@@ -247,11 +252,6 @@
       "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de quinta-feira, 26/3",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-quinta-feira-263.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/-oB86IB0aBg7jtmp4svksG0R5eg=/540x304/top/smart/http://s2.glbimg.com/DY5-SPyVzsUgIS_9QXMH6KYhinY=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/86/64/14466486"
-    },
-    {
-      "title": "Jonas Sulzbach recorda brincadeiras com Ana Paula em papo com Karol Conká: 'Será que daria molho?'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jonas-sulzbach-recorda-brincadeiras-com-ana-paula-renault-em-papo-com-karol-conka-sera-que-daria-molho.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/pWxK8s7eiAPsL_SPgKAnfBVxBu8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/5/E/JknCYXSaAPjHu6tm4gSQ/jonas-e-karol.png"
     }
   ]
 }
