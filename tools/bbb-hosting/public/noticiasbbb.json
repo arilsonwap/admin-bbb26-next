@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-27T10:06:50.272Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-27T11:07:13.386Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Resumo do BBB 26 hoje: madrugada tem choro de Ana Paula após liderança, críticas a Chaiany e sister sem 'paciência'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-choro-de-ana-paula-apos-lideranca-criticas-a-chaiany-e-sister-sem-paciencia.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/TRgmdb1HCCEPjNJTOhRrjZ198Lg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/M/M/2kdJgfRB2pgtj0vBKHRA/capa-74-.jpg"
+    },
+    {
+      "title": "Maxiane celebra aniversário de 4 anos do filho: &quot;Transforma meus dias&quot;",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/maxiane-celebra-aniversario-de-4-anos-do-filho-transforma-meus-dias.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/Pjxww9IDAIikmiVDtnAKOt0T9rE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/78/01/14470178"
+    },
     {
       "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada desta sexta-feira 27/3",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-desta-sexta-feira-273.ghtml",
@@ -242,16 +252,6 @@
       "title": "Jonas Sulzbach recorda brincadeiras com Ana Paula em papo com Karol Conká: 'Será que daria molho?'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jonas-sulzbach-recorda-brincadeiras-com-ana-paula-renault-em-papo-com-karol-conka-sera-que-daria-molho.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/pWxK8s7eiAPsL_SPgKAnfBVxBu8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/5/E/JknCYXSaAPjHu6tm4gSQ/jonas-e-karol.png"
-    },
-    {
-      "title": "Prova do Líder do BBB 26 será disputada em duas etapas nesta quinta (26)",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/prova-do-lider/noticia/prova-do-lider-do-bbb-26-sera-disputada-em-duas-etapas-nesta-quinta-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/IBdE8xlGyBLI_GANWKVyaCDlVCM=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/h/9/JeUBr3T9CYmMM9ICe63g/whatsapp-image-2026-03-25-at-22.39.20.jpeg"
-    },
-    {
-      "title": "Jonas Sulzbach revela 'sintonia' com Mari Gonzalez e reage ao apoio da ex no BBB 26: 'Muito feliz'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jonas-sulzbach-revela-sintonia-com-mari-gonzalez-e-reage-ao-apoio-da-ex-no-bbb-26-muito-feliz.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/LQExgwCqXN-ke0LDFR8LZk3fM_M=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/B/F/6oArZxS6WeBpejoFP69Q/capa-43-.jpg"
     }
   ]
 }
