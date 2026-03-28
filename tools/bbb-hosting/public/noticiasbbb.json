@@ -1,11 +1,17 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-28T07:27:03.753Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-28T08:02:50.625Z",
+  "lastAddedCount": 1,
   "items": [
     {
+      "title": "Ana Paula Renault aciona Toque de Despertar e acorda a casa do BBB 26 pela segunda vez",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-aciona-toque-de-despertar-e-acorda-casa-pela-segunda-vez-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/epgs403411s4ia7Hj5Szu5t5Mow=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/6/L/bBksY7RbebZ9pbFzRpag/prefixo-bbb-280326-043922.jpg"
+    },
+    {
       "title": "Ana Paula Renault comenta atrito com sister: 'Único cancelamento que não vou levar para mim'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-comenta-atrito-com-sister-unico-cancelamento-que-nao-vou-levar-para-mim.ghtml"
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-comenta-atrito-com-sister-unico-cancelamento-que-nao-vou-levar-para-mim.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/dpP5DCfdZOvWYE5EhAE2UqCUopM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/02/39/14473902"
     },
     {
       "title": "Ana Paula Renault avalia postura de Alberto Cowboy no Paredão: 'Discurso derrotista'",
@@ -246,11 +252,6 @@
       "title": "Queridômetro BBB 26: Ana Paula e Milena recebem 'chuva' de emojis negativos; e aliados disparam 'alvos'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/queridometro-bbb-26-ana-paula-e-milena-recebem-chuva-de-emojis-negativos-e-aliados-disparam-alvos.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/ThYHb4QqyzTU0it0ImxzyUVzFtY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/n/Z/VjOXBjQ4ShhSVOUIUsQg/fotojet-32-.jpg"
-    },
-    {
-      "title": "Em conversa com Chaiany e Leandro, Juliano Floss articula votos contra Jordana",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/em-conversa-com-chaiany-e-leandro-juliano-floss-articula-votos-contra-jordana.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/VdydspbbM6jiXeswor2ssY_9t5w=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/90/14/14471490"
     }
   ]
 }
