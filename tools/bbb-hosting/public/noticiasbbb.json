@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-28T20:46:26.132Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-03-28T21:17:20.390Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Sozinho, Juliano Floss reclama de Samira: 'Querendo me tirar daqui, depois fala que é aliada'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/sozinho-juliano-floss-reclama-de-samira-querendo-me-tirar-daqui-depois-fala-que-e-aliada.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/uQvi2JV8X6SKVkAYk75x8Doddo4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/A/N/oP0Xt9QL6cLLf7rjJezg/prefixo-bbb-280326-172932.jpg"
+    },
+    {
+      "title": "Samira se estranha com Milena por causa de Juliano Floss no BBB 26: 'Você quer defender ele'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-se-estranha-com-milena-por-causa-de-juliano-floss-no-bbb-26-voce-quer-defender-ele.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/hOwXUirkYSJ8reSL4Ux_cDpezJw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/6/X/rw0SWnSsSIATghn3c71g/pgm-a-28032026-170000-frame-37165.jpeg"
+    },
     {
       "title": "Samira desabafa sobre treta com Juliano Floss no BBB 26: 'Aquilo me machucou'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-desabafa-sobre-treta-com-juliano-floss-no-bbb-26-aquilo-me-machucou.ghtml",
@@ -14,7 +24,7 @@
       "imageUrl": "https://s2-gshow.glbimg.com/0aWH3dWoYH0tt0rfhwNqbLUnUlk=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/47/50/14475047"
     },
     {
-      "title": "Samira se irrita com Juliano Floss por limpeza da cozinha e brother rebate: 'Você está querendo criar pauta'",
+      "title": "Samira se irrita com Juliano Floss por limpeza da cozinha e brother rebate: 'Está querendo criar pauta'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-se-irrita-com-juliano-floss-por-limpeza-da-cozinha-e-brother-rebate-voce-esta-querendo-criar-pauta.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/HywOysS4fm5hz-uJ0uMJZsHLXxQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/45/50/14475045"
     },
@@ -242,16 +252,6 @@
       "title": "Milena revela que pretende dormir na cama ao lado de Solange Couto no BBB 26: 'Vou ser a sombra dela'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-revela-que-pretende-dormir-na-cama-ao-lado-de-solange-couto-no-bbb-26-vou-ser-a-sombra-dela.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/yyw8WXekWaaLsGe9f8A1ukzFJJs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/62/30/14473062"
-    },
-    {
-      "title": "Milena confronta Solange Couto sobre Chaiany: 'Você vai contar a verdade para ela?'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-confronta-solange-couto-no-bbb-26-voce-vai-contar-a-verdade-para-ela.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/qwkGqvRADooxY-pH34UMvreQPew=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/43/30/14473043"
-    },
-    {
-      "title": "Milena diz que comerá todos os frangos da Xepa: 'Vou fritar tudo pra mim'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-diz-que-comera-todos-os-frangos-da-xepa-vou-fritar-tudo-pra-mim.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/KqkqZQ6TxVKzA6GlaznJOGGnfVY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/54/30/14473054"
     }
   ]
 }
