@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-28T09:49:13.658Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-28T10:22:28.453Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Resumo do BBB 26 hoje: madrugada tem vingança de Milena, desabafo de Jordana e Samira comemorando Top 10",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-vinganca-de-milena-desabafo-de-jordana-e-samira-comemorando-top-10.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/P3Nf5i2Oed9KJWfpyxV30QNywVc=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Z/n/iULGDyTbKZ2sYpMb6a5A/capa-76-.jpg"
+    },
     {
       "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de sábado, 28/3",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-sexta-feira-283.ghtml",
@@ -247,11 +252,6 @@
       "title": "Samira questiona Gabriela sobre opção de voto e afirma: 'Priorizar os Pipocas'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-questiona-gabriela-sobre-opcao-de-voto-e-afirma-priorizar-os-pipocas.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/tJmJTgWOLrrLmcEuTda_rqwJXzc=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/10/19/14471910"
-    },
-    {
-      "title": "Juliano Floss fala sobre estratégia de colocar Solange Couto no Paredão: 'Me senti mal'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-fala-sobre-estrategia-de-colocar-solange-couto-no-paredao-me-senti-mal.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/gBeNMjOOMi0XNkzg56DQhMfT4CY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/L/b/Q7KwH8SCif7PiXp66ACQ/prefixo-bbb-270326-123715.jpg"
     }
   ]
 }
