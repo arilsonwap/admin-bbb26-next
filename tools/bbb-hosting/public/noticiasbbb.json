@@ -1,8 +1,23 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-28T15:39:21.878Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-28T16:02:38.998Z",
+  "lastAddedCount": 3,
   "items": [
+    {
+      "title": "Participantes recebem aviso de que Castigo do Monstro está temporariamente suspenso",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/participantes-recebem-aviso-de-que-castigo-do-monstro-esta-temporariamente-suspenso.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/r9rpxJBkVm37qwhz28zAvWf7DKk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/n/V/6vH8jORzqcwhaT9PAr4Q/pgm-a-28032026-110000-frame-908.jpeg"
+    },
+    {
+      "title": "Queridômetro BBB 26: Emparedados disparam emojis negativos; e Ana Paula envia 'plantas' aos rivais",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/queridometro-bbb-26-emparedados-disparam-emojis-negativos-e-ana-paula-envia-plantas-aos-rivais.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/zpdP-zInxGpi_-IMSpxWUsgBVzU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/1/e/1kCWvFQjyi4dnMW0ut7w/fotojet-33-.jpg"
+    },
+    {
+      "title": "Alberto Cowboy e Jordana criticam postura de Ana Paula Renault no Castigo do Monstro: 'VT de vítima'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/alberto-cowboy-e-jordana-criticam-postura-de-ana-paula-renault-no-castigo-do-monstro-vt-de-vitima.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/G6ZthMxCyv9MCZw-iPPr18X-ZpQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/75/41/14474175"
+    },
     {
       "title": "Alberto Cowboy, do BBB 26, atinge a marca de 1 milhão de seguidores nas redes sociais",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/alberto-cowboy-do-bbb-26-atinge-a-marca-de-1-milhao-de-seguidores-nas-redes-sociais.ghtml",
@@ -237,21 +252,6 @@
       "title": "Jordana discute com Milena sobre postura de Juliano Floss: 'Não tem pensamento próprio'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-discute-com-milena-sobre-postura-de-juliano-floss-nao-tem-pensamento-proprio.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/FUnWj0bMfyJTdLf6A5ri4tOC_I4=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/63/24/14472463"
-    },
-    {
-      "title": "Juliano Floss critica Jordana durante discussão com a sister no BBB 26: 'Opinião frouxa'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-segue-discussao-com-jordana-no-bbb-26-opiniao-frouxa.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/LEcOgWFtBA5hernfQXybT8r82lY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/35/24/14472435"
-    },
-    {
-      "title": "Jordana e Juliano Floss brigam por escolha de coletes para a Prova do Anjo",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-e-juliano-floss-brigam-por-escolha-de-coletes-para-a-prova-do-anjo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Z-7F9i9g_isnNbkq2I-6uyLeAEo=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/31/23/14472331"
-    },
-    {
-      "title": "Décima primeira Prova do Anjo do BBB 26: veja os vídeos desta sexta (27)",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/decima-primeira-prova-do-anjo-do-bbb-26-veja-os-videos-desta-sexta-27.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/edI0LlhArwEvbAB18oypcUqWGN8=/540x304/top/smart/http://s2.glbimg.com/KXUYuwUXOY0C5woxMHjcL_XXVOg=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/22/12/14471222"
     }
   ]
 }
