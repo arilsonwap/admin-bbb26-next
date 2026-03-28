@@ -1,12 +1,22 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-28T21:49:32.673Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-03-28T22:19:51.053Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Juliano Floss chora e desabafa com Ana Paula Renault no BBB 26: 'Eu acho que eu vou embora'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-chora-e-desabafa-com-ana-paula-renault-no-bbb-26-eu-acho-que-eu-vou-embora.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/lPOilVwi_46QtyzT7n4wgZfWqb0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Z/A/dFPsZ1QEigBloNY7wpnQ/prefixo-bbb-280326-190802.jpg"
+    },
+    {
+      "title": "Chaiany questiona Juliano após briga com Samira, e brother reage: 'Nem as próprias roupas ela organiza'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-questiona-juliano-floss-apos-briga-com-samira-e-brother-reage-nem-as-proprias-roupas-ela-organiza.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/1qAr9snRMcS0dbsMIcNfdfpTFJs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/W/u/4zEIvDQSOAmPbuMt83oA/prefixo-bbb-280326-185547.jpg"
+    },
     {
       "title": "Jonas Sulzbach participa de torneio de beach tennis em São Paulo",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jonas-sulzbach-participa-de-torneio-de-beach-tennis-em-sao-paulo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/NqPxLiqE9Rp6KDo-hhMjyVGVGPw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/j/W/oaF6btS1Glxc05MHrGwA/fausto-e-jonas-14-.jpg"
+      "imageUrl": "https://s2-gshow.glbimg.com/FMSfMRVvt6OI5h3-aBDb0PcMZv8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Y/0/rTAXF5SrWGdNzT8e1Aiw/fausto-ok.jpg"
     },
     {
       "title": "Sozinho, Juliano Floss reclama de Samira: 'Querendo me tirar daqui, depois fala que é aliada'",
@@ -242,16 +252,6 @@
       "title": "Ana Paula procura Chaiany para esclarecer situação com Solange: 'Informações caíram no meu colo'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-procura-chaiany-para-esclarecer-situacao-envolvendo-solange-couto-varias-informacoes-cairam-no-meu-colo.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/L0PK1C2QiyCN9Qi9SIIKQuupGlY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/90/31/14473190"
-    },
-    {
-      "title": "Milena segue Solange Couto e entra no banho com a sister: 'Vai ter que me aguentar!'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-segue-solange-couto-e-entra-no-banho-com-a-sister-vai-ter-que-me-aguentar.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/8kZcnJIP2yaykbxkvnxKqcIv3T4=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/94/30/14473094"
-    },
-    {
-      "title": "Vitória de Solange Couto na Prova do Anjo do BBB 26 rende memes na web: 'Não é brinquedo, não'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/vitoria-de-solange-couto-na-prova-do-anjo-do-bbb-26-rende-memes-na-web-nao-e-brinquedo-nao.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/hEUeVgQFW7fPe74nlmmZZ0K8oTM=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2021/L/s/BMURbhShKx0VOxYxJYGg/solange-couto-dona-jura.gif"
     }
   ]
 }
