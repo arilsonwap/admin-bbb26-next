@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-28T14:18:56.712Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-03-28T14:55:36.101Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Alberto Cowboy, do BBB 26, atinge a marca de 1 milhão de seguidores nas redes sociais",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/alberto-cowboy-do-bbb-26-atinge-a-marca-de-1-milhao-de-seguidores-nas-redes-sociais.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/OjFGxq1bE9-DF4J9FuSp-ZS9pzs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/U/V/agLusZSYS3Yr8DALmdMQ/captura-de-tela-2026-03-28-113833.png"
+    },
     {
       "title": "Mãe analisa votos da casa em Jordana e atritos no BBB 26: 'Não é mulher de deixar nada para depois'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/mae-analisa-votos-da-casa-em-jordana-e-atritos-da-sister-no-bbb-26-nao-e-mulher-de-deixar-nada-para-depois.ghtml",
@@ -247,11 +252,6 @@
       "title": "Décima primeira Prova do Anjo do BBB 26: veja os vídeos desta sexta (27)",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/decima-primeira-prova-do-anjo-do-bbb-26-veja-os-videos-desta-sexta-27.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/edI0LlhArwEvbAB18oypcUqWGN8=/540x304/top/smart/http://s2.glbimg.com/KXUYuwUXOY0C5woxMHjcL_XXVOg=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/22/12/14471222"
-    },
-    {
-      "title": "Entenda as regras da 11ª Prova do Anjo no BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/prova-do-anjo/noticia/entenda-as-regras-da-11a-prova-do-anjo-no-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/D2PNnWCMtxaKvktX7lmtKe7E6NQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/74/21/14472174"
     }
   ]
 }
