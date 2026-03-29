@@ -1,17 +1,22 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-29T16:19:11.687Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-03-29T16:59:46.985Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Ana Paula chora após discutir com Solange Couto e se declara para Milena: 'Eu te amo muito'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-chora-apos-discutir-com-solange-couto-e-se-declara-para-milena-eu-te-amo-muito.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/szKmA4ASDwzK4ZVT3XTEa1-hUT4=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/06/59/14475906"
+    },
     {
       "title": "Solange Couto segue briga com Ana Paula Renault, que questiona: 'Você está sendo atriz?'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/solange-couto-segue-briga-com-ana-paula-renault-que-questiona-voce-esta-sendo-atriz.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/4PzUxhy0iebe6XICAsef_CenN3s=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/L/K/Ahvjv2RguV1ai860ruDg/pgm-a-29032026-110000-frame-174591.jpeg"
+      "imageUrl": "https://s2-gshow.glbimg.com/KTOZ2sw6FSn92_sM9BKxD6nhl08=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/95/58/14475895"
     },
     {
       "title": "Ana Paula Renault e Solange Couto trocam farpas por Castigo do Monstro no BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-e-solange-couto-trocam-farpas-por-castigo-do-monstro-no-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/9BnsqbtmqqbnB0Kpbh8tLI-Nopc=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/86/58/14475886"
+      "imageUrl": "https://s2-gshow.glbimg.com/cskAZZ30YS1wPLm6XUlD2KOYAss=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/84/58/14475884"
     },
     {
       "title": "Esposa de Leandro Boneco comenta sobre jogo e aliados: 'Arriscar quando necessário'",
@@ -247,11 +252,6 @@
       "title": "Jonas Sulzbach retorna a São Paulo e passeia no Parque Ibirapuera: 'O bom filho à casa torna'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jonas-sulzbach-retorna-a-sao-paulo-e-passeia-no-parque-ibirapuera-o-bom-filho-a-casa-torna.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/ztbOyhiNmYdV1cHz0e2sod-bM0E=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/m/b/4i7GFARAyxAKato15M6A/whatsapp-image-2026-03-28-at-15.06.51.jpeg"
-    },
-    {
-      "title": "Jordana se emociona ao relembrar trajetória no BBB 26: 'Meu sonho de criança, eu realizei'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-se-emociona-ao-relembrar-trajetoria-no-bbb-26-meu-sonho-de-crianca-eu-realizei.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/o9v_kz704nOH5-CzVN0I6rCpJEU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/80/45/14474580"
     }
   ]
 }
