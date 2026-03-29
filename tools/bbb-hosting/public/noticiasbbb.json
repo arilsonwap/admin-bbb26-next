@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-29T07:42:38.282Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-29T08:25:25.274Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Ana Paula Renault aconselha Samira a conversar com Juliano Floss, que reage: 'Ele nunca me respeitou'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/ana-paula-renault-aconselha-samira-a-conversar-com-juliano-floss-que-reage-ele-nunca-me-respeitou.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/Y32UPZbetOxw_mkV_aobu435zYg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/I/h/Llkd23QRaIrnYwSOiJOw/prefixo-bbb-290326-032848.jpg"
+    },
     {
       "title": "Leandro Boneco desabafa com Juliano Floss sobre sister: 'Não confio no jogo'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/leandro-boneco-desabafa-com-juliano-floss-sobre-sister-nao-confio-no-jogo.ghtml",
@@ -247,11 +252,6 @@
       "title": "Jordana desabafa com Alberto Cowboy sobre eliminações: 'Onde foi que erramos tanto?'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-desabafa-com-alberto-cowboy-sobre-eliminacoes-onde-foi-que-erramos-tanto.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/VXDPKstMFANPZtDgXA-brxbcOdE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/86/38/14473886"
-    },
-    {
-      "title": "Milena planeja vingança após acabarem com suco da Xepa",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-planeja-vinganca-apos-acabarem-com-suco-da-xepa.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/6s8s3_OmprKDYjibQ7WUyGomg2Q=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/79/38/14473879"
     }
   ]
 }
