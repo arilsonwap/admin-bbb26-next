@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-29T18:51:54.714Z",
-  "lastAddedCount": 6,
+  "fetchedAt": "2026-03-29T19:10:11.128Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Tadeu Schmidt recebe Alberto Cowboy, que avalia sua trajetória no jogo:' Foi completamente diferente'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/tadeu-schmidt-recebe-alberto-cowboy-que-avalia-sua-trajetoria-no-jogo-foi-completamente-diferente.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/xe1BQtqxoSMPYCpfirV_7AHLra0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/w/8/UWXWRWQpaAZRhA3oxaIw/alberto-cowboy-eliminado-.png"
+    },
     {
       "title": "Dinâmica da semana do BBB 26 tem Big Fone e Eliminação na terça (31)",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/dinamica-da-semana-do-bbb-26-tem-big-fone-e-eliminacao-na-terca-31.ghtml",
@@ -31,7 +36,7 @@
     {
       "title": "Tadeu Schimidt cita frase antológica de discurso de Pedro Bial em Eliminação de Alberto Cowboy; veja a íntegra",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/tadeu-schimidt-cita-frase-antologica-de-discurso-de-pedro-bial-em-eliminacao-de-alberto-cowboy-veja-a-integra.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/jzHJ5WYynyq7RYdR4DOUCmfi9qs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/a/a/UvrEXGRteZCFbDzWQkBw/prefixo-bbb-290326-151840.jpg"
+      "imageUrl": "https://s2-gshow.glbimg.com/PqwVjNbBpmgAKmT_RlUJJsbs96s=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/60/59/14475960"
     },
     {
       "title": "O que marcou a trajetória de Alberto no BBB 26?",
@@ -247,11 +252,6 @@
       "title": "Ludmilla comemora aniversário de Chaiany no BBB 26: 'É hoje!'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/ludmilla-surpreende-e-comemora-aniversario-de-chaiany-no-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/tcBVsG3ZhmzEtDgJIN01gJrMIEs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/76/56/14475676"
-    },
-    {
-      "title": "Ludmilla pede para brothers mandarem beijo para Brunna Gonçalves, que brinca: 'Dei um jeito de aparecer'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/ludmilla-pede-para-brothers-mandar-beijo-para-brunna-goncalves-que-retribui-beijo-gente.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/ouqkU01aA7b25Mi5Zju3Q1x6Dlk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Y/1/oKDrbySoetcyTKvF8dbQ/ludmilla-pede-para-brothers-mandar-beijo-para-brunna-goncalves.jpg"
     }
   ]
 }
