@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-29T17:44:55.406Z",
-  "lastAddedCount": 7,
+  "fetchedAt": "2026-03-29T18:21:35.160Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Quem saiu do BBB 26? Alberto Cowboy é o décimo eliminado do reality",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/quem-saiu-do-bbb-26-alberto-cowboy-e-o-decimo-eliminado-do-reality.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/zTK8pxpV-hgY-QcKU7CDDRcYaHo=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/i/9/bzJaAhSLmjw1vhrBIxsw/prefixo-bbb-290326-150940.jpg"
+    },
+    {
+      "title": "Chaiany completa 26 anos no BBB 26: descubra curiosidades sobre a sister",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/chaiany-completa-26-anos-no-bbb-26-descubra-curiosidades-sobre-a-sister.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/G_WcxATUOkt_FjlQv1I5XK0fbUI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/v/h/g2rTAESxABOzPZB0XZGw/chaiany-gosta-de-andar-a-cavalo-.png"
+    },
     {
       "title": "Bate-Papo BBB: Gil do Vigor e Ceci Ribeiro conversam com a décima pessoa eliminada do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/ao-vivo/bate-papo-bbb-gil-do-vigor-e-ceci-ribeiro-conversam-com-a-decima-pessoa-eliminada-do-bbb-26.ghtml",
@@ -242,16 +252,6 @@
       "title": "Chaiany questiona Juliano após briga com Samira, e ele diz: 'Nem as próprias roupas ela organiza'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-questiona-juliano-floss-apos-briga-com-samira-e-brother-reage-nem-as-proprias-roupas-ela-organiza.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/4IUL8Mj4EQpX6HGee1U_9UUE9N0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/30/52/14475230"
-    },
-    {
-      "title": "Jonas Sulzbach participa de torneio de beach tennis em São Paulo",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jonas-sulzbach-participa-de-torneio-de-beach-tennis-em-sao-paulo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/FMSfMRVvt6OI5h3-aBDb0PcMZv8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Y/0/rTAXF5SrWGdNzT8e1Aiw/fausto-ok.jpg"
-    },
-    {
-      "title": "Sozinho, Juliano Floss reclama de Samira: 'Querendo me tirar daqui, depois fala que é aliada'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/sozinho-juliano-floss-reclama-de-samira-querendo-me-tirar-daqui-depois-fala-que-e-aliada.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Dzt_E2V33v3pMJXJeq7BsHtskbY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/49/51/14475149"
     }
   ]
 }
