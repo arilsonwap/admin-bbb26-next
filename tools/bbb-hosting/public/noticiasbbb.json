@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-29T14:21:12.784Z",
-  "lastAddedCount": 3,
+  "fetchedAt": "2026-03-29T15:02:26.468Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Resumo BBB 26: veja os vídeos do dia 29/3/2026 – Click BBB",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/resumo-bbb-26-veja-os-videos-do-dia-2932026-click-bbb.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/gJIPlQeNqWCLQh5bPrpWZznnzrc=/540x304/top/smart/http://s2.glbimg.com/k0n9oCRXWakQIDWskKKwmsm93cE=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/39/57/14475739"
+    },
+    {
+      "title": "Vídeos do Raio-X de domingo, 29/3, do BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-domingo-293-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/H7NTULqxYYuZV4j_claIam7lB7Q=/540x304/top/smart/http://s2.glbimg.com/CkUVJVdUA-OQvCagt_8W7brcC9k=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/21/58/14475821"
+    },
     {
       "title": "Domingo de Eliminação e Formação de Paredão impacta a pontuação no Cartola BBB",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/domingo-de-eliminacao-e-formacao-de-paredao-impacta-a-pontuacao-no-cartola-bbb.ghtml",
@@ -11,7 +21,7 @@
     {
       "title": "Ana Paula Renault e Milena recebem aviso e retomam Castigo do Monstro",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-volta-a-cumprir-o-castigo-do-monstro-no-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/fMYHeXdeUtH-3Ds_1ziUSdybjnA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/l/M/2qxWRQSamcAU1Ij3CcDA/pgm-a-29032026-090000-frame-215069.jpeg"
+      "imageUrl": "https://s2-gshow.glbimg.com/1hsk-EJU-5Wl8fj0NnIyBRoeJTg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/19/58/14475819"
     },
     {
       "title": "Ludmilla agita festa do BBB 26 ;veja conteúdos feitos pelos brothers",
@@ -242,16 +252,6 @@
       "title": "Alberto Cowboy e Jordana criticam postura de Ana Paula Renault no Castigo do Monstro: 'VT de vítima'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/alberto-cowboy-e-jordana-criticam-postura-de-ana-paula-renault-no-castigo-do-monstro-vt-de-vitima.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/G6ZthMxCyv9MCZw-iPPr18X-ZpQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/75/41/14474175"
-    },
-    {
-      "title": "Alberto Cowboy, do BBB 26, atinge a marca de 1 milhão de seguidores nas redes sociais",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/alberto-cowboy-do-bbb-26-atinge-a-marca-de-1-milhao-de-seguidores-nas-redes-sociais.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/4NpmC4MsF5s5OezLpNI4dMd90go=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/i/7/bd0GT5Rly2E3cBiDmhrA/captura-de-tela-2026-03-27-060407.png"
-    },
-    {
-      "title": "Mãe analisa votos da casa em Jordana e atritos no BBB 26: 'Não é mulher de deixar nada para depois'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/mae-analisa-votos-da-casa-em-jordana-e-atritos-da-sister-no-bbb-26-nao-e-mulher-de-deixar-nada-para-depois.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/L1eXPIszLlmNTRDI7ZZHhYtMDe4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/w/W/t5kHDUS6AMQNKgtgO66A/whatsapp-image-2026-02-05-at-21.46.04-1-.jpeg"
     }
   ]
 }
