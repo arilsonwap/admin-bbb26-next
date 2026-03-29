@@ -1,12 +1,22 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-29T09:53:26.078Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-03-29T10:43:41.080Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Alberto Cowboy diz que Leandro Boneco &quot;não ganha&quot; o BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/alberto-cowboy-diz-que-leandro-boneco-nao-ganha-o-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/4U6kKTomDMPiwHjdayTy9FdrCSE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/c/j/0zNeMITmGVo0WgB9Ljbw/prefixo-bbb-290326-053348.jpg"
+    },
+    {
+      "title": "'Gratidão', 'Vai Tomando' e mais: veja dialetos da Chaiany no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/gratidao-vai-tomando-e-mais-veja-dialetos-da-chaiany-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/PZH6SdksIcERthi2HDUSAyCIfC0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/6/5/0SJwhIRz6uXwAVtAFHqQ/chaiany.png"
+    },
     {
       "title": "Que horas começa o BBB 26? Tadeu Schmidt explica horários deste domingo (29)",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/que-horas-comeca-o-bbb-26-tadeu-schmidt-explica-horarios-deste-domingo-29.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/HJMEK_-k516B09GMJ9uKbBrM8Y0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/36/56/14475636"
+      "imageUrl": "https://s2-gshow.glbimg.com/BlMkUu49vOyVeKuOgl-gGKvxu78=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/c/n/FBZ7V1RHyjdaJKiayn3A/whatsapp-image-2026-02-23-at-22.25.49.jpeg"
     },
     {
       "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de domingo (29)",
@@ -242,16 +252,6 @@
       "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de sábado, 28/3",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-sexta-feira-283.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/1BPpPocaP-fHtH01lP9ofBkjOug=/540x304/top/smart/http://s2.glbimg.com/9wpf2KRfc4Bplhfdj4jYSLbR5dU=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/11/39/14473911"
-    },
-    {
-      "title": "Fora do BBB 26, Jonas Sulzbach se prepara para voltar à rotina fitness: 'Estava correndo 250 km por mês'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/fora-do-bbb-26-jonas-sulzbach-se-prepara-para-voltar-a-rotina-fitness-estava-correndo-250-km-por-mes.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/prosJUctqP3gv0Lcro-eZJapNEA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/K/I/QKzfA7RBmPhONieYIUOw/jonas-maratona.jpeg"
-    },
-    {
-      "title": "Ana Paula Renault aciona Toque de Despertar e acorda a casa do BBB 26 pela segunda vez",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-aciona-toque-de-despertar-e-acorda-casa-pela-segunda-vez-no-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/R_ykRmpVivO6q_FD7NucCF3aVNY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/11/39/14473911"
     }
   ]
 }
