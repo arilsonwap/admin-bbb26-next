@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-30T09:46:57.136Z",
+  "fetchedAt": "2026-03-30T10:52:17.925Z",
   "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Resumo do BBB 26 hoje: madrugada tem 'bronca' de Ana Paula, promessa de Samira e climão entre aliados",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-bronca-de-ana-paula-promessa-de-samira-e-climao-entre-aliados.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/GMPEgfYwX3DYNmuXDQTivIvLcCU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/k/k/hGyZduQlqvagAVMXtmYQ/whatsapp-image-2026-03-30-at-06.45.04.jpeg"
+    },
     {
       "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de segunda 30/3",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-segunda-303.ghtml",
@@ -247,11 +252,6 @@
       "title": "Jonas Sulzbach relembra cena com Deborah Secco e revela se teria carreira como ator: 'Fiquei tenso'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jonas-sulzbach-relembra-cena-com-deborah-secco-e-revela-se-teria-carreira-como-ator-fiquei-tenso.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/C0u3lnsaOZyGtfBCTKdHjsk6WqY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/A/w/VjLT4eSHSS6MyNT8nBlA/jonas-louco-por-elas-1-.jpg"
-    },
-    {
-      "title": "Resumo BBB 26: veja os vídeos do dia 29/3/2026 – Click BBB",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/resumo-bbb-26-veja-os-videos-do-dia-2932026-click-bbb.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/gJIPlQeNqWCLQh5bPrpWZznnzrc=/540x304/top/smart/http://s2.glbimg.com/k0n9oCRXWakQIDWskKKwmsm93cE=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/39/57/14475739"
     }
   ]
 }
