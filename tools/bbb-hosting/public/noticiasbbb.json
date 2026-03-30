@@ -1,22 +1,37 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-30T17:35:37.241Z",
-  "lastAddedCount": 6,
+  "fetchedAt": "2026-03-30T18:38:26.155Z",
+  "lastAddedCount": 3,
   "items": [
+    {
+      "title": "Maxiane retoma aulas de direção: ‘Daqui a pouco habilitada’",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/maxiane-retoma-aulas-de-direcao-daqui-a-pouco-habilitada.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/5AqxpEnKfOiWkCzugDfw8YA85AU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Z/z/5JMidEQjANZ8tC1DUOkg/captura-de-tela-2026-03-30-152411.png"
+    },
+    {
+      "title": "Leandro conversa com Ana Paula sobre alianças na casa: 'Foi uma pena a gente se desencontrar no jogo'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/leandro-conversa-com-ana-paula-sobre-aliancas-na-casa-foi-uma-pena-a-gente-se-desencontrar-no-jogo.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/uYsVVTsrgnzej8kXHVVPL6hgpro=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/62/83/14478362"
+    },
+    {
+      "title": "Samira reflete sobre briga com Juliano Floss no BBB 26: 'Caí no Paredão, eu saio'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-reflete-sobre-briga-com-juliano-floss-no-bbb-26-cai-no-paredao-eu-saio.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/nF6wwJcMzgRlHixHfsipOmY3ClM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/76/83/14478376"
+    },
     {
       "title": "Queridômetro BBB 26: Ana Paula Renault e Solange Couto trocam emojis negativos após treta",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/queridometro-bbb-26-ana-paula-renault-e-solange-couto-trocam-emojis-negativos-apos-treta.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/JVcDoGYqgNddhdqMdqp0YPR4NVQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/b/g/Oy5Kv6ScOLRTKvPTEGKA/fotojet-35-.jpg"
     },
     {
-      "title": "Solange Couto desabafa com Jordana sobre atrito com sister no BBB 26",
+      "title": "Solange Couto desabafa com Jordana sobre atrito com sister no BBB 26: 'Pensa que fiquei muito contente?'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/solange-couto-desabafa-com-jordana-sobre-atrito-com-sister-no-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/_Bwt-D9XaJfnzh3sPtQIZPfdY2I=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/E/5/UZftFQRsOjCJLGNJBh9g/pgm-a-30032026-130000-frame-108019.jpeg"
+      "imageUrl": "https://s2-gshow.glbimg.com/4hoPpfWNP6v9RarDqUpS3xSOGIM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/60/82/14478260"
     },
     {
       "title": "Samira relata incômodo com Juliano Floss antes de brigas: 'Não estava me sentindo legal'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-relata-incomodo-com-juliano-floss-antes-de-brigas-nao-estava-me-sentindo-legal.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/4psnPa6UHf88jvtLhFWrIE5GLN8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/I/E/1g8jUoTgG75jPL8wLIlw/prefixo-bbb-300326-133105.jpg"
+      "imageUrl": "https://s2-gshow.glbimg.com/w4IBEh-2AOLSInfqJ23f0BTnVrk=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/28/82/14478228"
     },
     {
       "title": "Alberto Cowboy fala sobre planos de voltar a morar nos Estados Unidos: 'Não quero adiantar nada'",
@@ -237,21 +252,6 @@
       "title": "Alberto Cowboy assiste ao vídeo de tretas com Ana Paula Renault e afirma que dupla passou do ponto",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/noticia/alberto-cowboy-assiste-ao-video-de-tretas-com-ana-paula-renault-e-afirma-que-dupla-passou-do-ponto.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/YXCr1ivj5sIw-h2IvIRZuvPsXVo=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/20/60/14476020"
-    },
-    {
-      "title": "Milena atende ao Big Fone e soma pontos no Cartola BBB",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/milena-atende-ao-big-fone-e-soma-pontos-no-cartola-bbb.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/mWfD7ZzI339nu9nr1cGsOmDa9LI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/L/9/7wZA3LSh2GcX77aWREvQ/prefixo-bbb-290326-155755.jpg"
-    },
-    {
-      "title": "Quem atendeu ao Big Fone do BBB 26? Milena recebe mensagem sobre missão importante no jogo",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/quem-atendeu-ao-big-fone-do-bbb-26-milena-recebe-mensagem-sobre-missao-importante-no-jogo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/lSvLkjKeGYPpYfmm6yoUlhcpK9s=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/I/Z/BK6yheRJAJaOPRZgvkoA/pgm-a-29032026-150000-frame-101763.jpeg"
-    },
-    {
-      "title": "Tadeu Schmidt recebe Alberto Cowboy, que avalia sua trajetória no jogo: 'Foi completamente diferente'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/tadeu-schmidt-recebe-alberto-cowboy-que-avalia-sua-trajetoria-no-jogo-foi-completamente-diferente.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/xe1BQtqxoSMPYCpfirV_7AHLra0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/w/8/UWXWRWQpaAZRhA3oxaIw/alberto-cowboy-eliminado-.png"
     }
   ]
 }
