@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-30T08:04:47.727Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-03-30T09:46:57.136Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de segunda 30/3",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-segunda-303.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/3fWQ14LCQD4QeAJecQyK91ilq80=/540x304/top/smart/http://s2.glbimg.com/g2e6GUgLutF-3izozjvjvnTOkY4=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/11/64/14476411"
+    },
     {
       "title": "Ana Paula Renault utiliza Toque de Despertar para acordar brothers e alfineta: 'Povo chato dormindo'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-utiliza-despertar-do-lider-pela-primeira-vez-em-nova-lideranca.ghtml",
@@ -247,11 +252,6 @@
       "title": "Resumo BBB 26: veja os vídeos do dia 29/3/2026 – Click BBB",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/resumo-bbb-26-veja-os-videos-do-dia-2932026-click-bbb.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/gJIPlQeNqWCLQh5bPrpWZznnzrc=/540x304/top/smart/http://s2.glbimg.com/k0n9oCRXWakQIDWskKKwmsm93cE=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/39/57/14475739"
-    },
-    {
-      "title": "Vídeos do Raio-X de domingo, 29/3, do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-domingo-293-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/H7NTULqxYYuZV4j_claIam7lB7Q=/540x304/top/smart/http://s2.glbimg.com/CkUVJVdUA-OQvCagt_8W7brcC9k=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/21/58/14475821"
     }
   ]
 }
