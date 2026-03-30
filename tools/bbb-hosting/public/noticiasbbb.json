@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-30T22:05:48.239Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-30T22:56:14.328Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Samira avalia jogo de Chaiany no BBB 26: 'Morde e assopra'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-avalia-jogo-de-chaiany-no-bbb-26-morde-e-assopra.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/6EMdo0umea7exj6oEkctPT-jZjU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/28/94/14479428"
+    },
     {
       "title": "Milena revela sonho de conhecer Kate Middleton: 'Sou apaixonada!'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-revela-sonho-de-conhecer-kate-middleton-sou-apaixonada.ghtml",
@@ -247,11 +252,6 @@
       "title": "Bate-Papo BBB: Alberto Cowboy | Confira os melhores momentos com o décimo eliminado do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/bate-papo-bbb-alberto-cowboy-confira-os-melhores-momentos-com-o-decimo-eliminado-do-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/_Q0WhtfDLcJEwM69H60LIrY1lt0=/540x304/top/smart/http://s2.glbimg.com/doyk3o1vFTK-q1fHbCKljvbdzcU=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/93/59/14475993"
-    },
-    {
-      "title": "Jordana e Marciele analisam jogo e a possibilidade de somar votos com sisters: 'A gente podia tentar puxar'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-e-marciele-analisam-jogo-e-proximidade-com-sisters-do-bbb-26-a-gente-podia-tentar-puxar.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/tSqlJ_5rjXp_fuGAQs-f278iX40=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/27/61/14476127"
     }
   ]
 }
