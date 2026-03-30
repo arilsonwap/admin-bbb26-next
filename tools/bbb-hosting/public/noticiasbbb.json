@@ -1,6 +1,6 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-30T10:52:17.925Z",
+  "fetchedAt": "2026-03-30T11:59:04.908Z",
   "lastAddedCount": 1,
   "items": [
     {
@@ -12,6 +12,11 @@
       "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de segunda 30/3",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-segunda-303.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/3fWQ14LCQD4QeAJecQyK91ilq80=/540x304/top/smart/http://s2.glbimg.com/g2e6GUgLutF-3izozjvjvnTOkY4=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/11/64/14476411"
+    },
+    {
+      "title": "Enquete BBB 26: qual foi o auge da formação do 12º Paredão?",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/enquete-bbb/votacao/enquete-bbb-26-qual-foi-o-auge-da-formacao-do-12-paredao-Z2Sk3p8w92.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/xYKpfFnk6zCmWPXvtNBXqlcw7qQ=/540x304/top/smart/s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/T/o/Buq9fXTYOjXjkrc4TP9g/paredao-bbb-26.jpeg"
     },
     {
       "title": "Ana Paula Renault utiliza Toque de Despertar para acordar brothers e alfineta: 'Povo chato dormindo'",
@@ -247,11 +252,6 @@
       "title": "Esposa de Leandro Boneco comenta sobre jogo e aliados: 'Arriscar quando necessário'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/esposa-de-leandro-boneco-comenta-sobre-estrategia-de-jogo-e-aliados-arriscar-quando-necessario.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/wNSsWUxIiGlpo3NPYA0J9JbVoNU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/c/B/MJcjiYTAGqCMIm8AmLCA/leandro-do-bbb-26-com-a-filha-lilica-e-a-mulher-donminique-o1.jpg"
-    },
-    {
-      "title": "Jonas Sulzbach relembra cena com Deborah Secco e revela se teria carreira como ator: 'Fiquei tenso'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jonas-sulzbach-relembra-cena-com-deborah-secco-e-revela-se-teria-carreira-como-ator-fiquei-tenso.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/C0u3lnsaOZyGtfBCTKdHjsk6WqY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/A/w/VjLT4eSHSS6MyNT8nBlA/jonas-louco-por-elas-1-.jpg"
     }
   ]
 }
