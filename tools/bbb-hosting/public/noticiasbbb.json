@@ -1,8 +1,23 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-31T17:38:34.235Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-03-31T18:39:21.290Z",
+  "lastAddedCount": 3,
   "items": [
+    {
+      "title": "Tadeu Schmidt recria momentos de Alberto Cowboy no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/tadeu-schmidt-recria-momentos-de-alberto-cowboy-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/o5ce8uQFCWRRGcRvah_zKIoCrdQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/y/W/GWOLUZTCusyJq2aNmThg/tadeu-schmidt-recria-momentos-de-alberto-cowboy-no-bbb-26.jpg"
+    },
+    {
+      "title": "Solange Couto e Chaiany dançam na chuva ao som de Thiaguinho no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/solange-couto-e-chaiany-dancam-na-chuva-ao-som-de-thiaguinho-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/IV0luxnRhtt-MsEcZ9uJzvzNzSU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/77/22/14482277"
+    },
+    {
+      "title": "Raio-X BBB 26: Ana Paula Renault aponta novo alvo e sisters buscam apoio do público",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/raio-x-bbb-26-ana-paula-renault-aponta-novo-alvo-e-sisters-buscam-apoio-do-publico.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/d1FYPwMgOOmDwpMG0ZA2QnUg24k=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/H/Q/evYv28QAqwIclk3cW7Gw/raio-x-tem-pedido-de-apoio-e-repercussao-de-treta-entre-os-brothers.jpg"
+    },
     {
       "title": "Indicação de Solange Couto por Ana Paula Renault é escolhida pelo público como auge do 12º Paredão",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/enquete-bbb/noticia/indicacao-de-solange-couto-por-ana-paula-renault-e-escolhida-pelo-publico-como-auge-do-12o-paredao.ghtml",
@@ -237,21 +252,6 @@
       "title": "Alberto Cowboy diz que receberia visita de Ana Paula Renault nos Estados Unidos: 'Será muito bem-vinda'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/alberto-cowboy-diz-que-receberia-visita-de-ana-paula-renault-nos-estados-unidos-sera-muito-bem-vinda.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/EJuKEAFgpA8L9ZedZ8aS8lA8ufU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/92/73/14477392"
-    },
-    {
-      "title": "Alberto Cowboy conta sobre noite com a esposa após Eliminação",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/alberto-cowboy-conta-sobre-noite-com-a-esposa-apos-eliminacao.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/nx9T9qBqDmz4zTBNdejaZMOXEvg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/20/74/14477420"
-    },
-    {
-      "title": "Sarah Andrade curte dia de sol ao lado do namorado em Ubatuba",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/sarah-andrade-curte-ubatuba-ao-lado-de-namorado-e-compartilha-fotos-nas-redes-sociais.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/OYaHG0tTLH-W-gt0pbsV2goYYEc=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/i/K/p1eRfHSjmAb1GmlSdtFw/sarah-e-namorado-.jpg"
-    },
-    {
-      "title": "Vídeos do Raio-X de segunda, 30/3, do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-segunda-303-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/eGNf7GO3ywFqLY8MAKgDQoKn0BQ=/540x304/top/smart/http://s2.glbimg.com/Pniw46Tj-NjKzPzPGCg9UIB-iUY=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/39/73/14477339"
     }
   ]
 }
