@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-31T08:42:37.608Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-31T09:51:06.044Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Resumo do BBB 26 hoje: madrugada tem plano de Samira contra Juliano, 'frustração' entre rivais e 'risco' de Ana Paula",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-plano-de-samira-contra-juliano-frustracao-entre-rivais-e-risco-de-ana-paula.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/ORYMq1qKgD9Dod1LmQA6teltFEg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/B/5/gjITyUQdWWswJqMame8w/capa-77-.jpg"
+    },
+    {
+      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de terça-feira, 31/3",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-terca-feira-313.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/FWin11wHmwfFJD4VzUDdulHiZAo=/540x304/top/smart/http://s2.glbimg.com/3hHuoejm4RXtglfsZwbq83G3E4U=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/48/02/14480248"
+    },
     {
       "title": "Juliano Floss descarta devolver alvo em Samira: 'Não quero gastar voto à toa'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-descarta-devolver-alvo-em-samira-nao-quero-gastar-voto-a-toa.ghtml",
@@ -242,16 +252,6 @@
       "title": "Ana Paula Renault utiliza Toque de Despertar para acordar brothers e alfineta: 'Povo chato dormindo'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-utiliza-despertar-do-lider-pela-primeira-vez-em-nova-lideranca.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/XRUPOzBfmbjxKmOIGiXyYPy8KXU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/11/64/14476411"
-    },
-    {
-      "title": "Ana Paula Renault repreende Samira sobre atrito com brother: 'Não quero mais escutar'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-repreende-samira-sobre-atrito-com-brother-nao-quero-mais-escutar.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/mVvf5Si88mfkiPAg4nqCVG6WMaM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/06/64/14476406"
-    },
-    {
-      "title": "Samira discute com Milena sobre brother e revela: 'Se eu ganhar liderança, é ele no Paredão'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-discute-com-milena-sobre-brother-e-garante-se-eu-ganhar-lideranca-e-ele-no-paredao.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/PVq8T8wEKuImQTZEbhZWrP5_LO0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/03/64/14476403"
     }
   ]
 }
