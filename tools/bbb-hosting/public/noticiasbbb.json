@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-31T22:47:09.284Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-03-31T23:21:14.280Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Gabriela discute aos gritos com Marciele, que questiona: 'Você me deu algum apoio?'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/gabriela-discute-aos-gritos-com-marciele-que-questiona-voce-me-deu-algum-apoio.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/AK_s4_rNX1AVvnIjnTQ94YvnfCo=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/f/f/xIu41yScGjATMV60BJeQ/prefixo-bbb-310326-194959.jpg"
+    },
+    {
+      "title": "Solange Couto revela sentimento positivo em relação ao Paredão do BBB 26: 'Tô em paz'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/solange-couto-revela-sentimento-positivo-em-relacao-ao-paredao-do-bbb-26-to-em-paz.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/IsLGS0XPRmCfLz_xcYsn6RTH12Y=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/52/33/14483352"
+    },
     {
       "title": "BBB 26: Ganha-Ganha desta terça (31) terá escolha entre R$ 20 mil ou nova informação privilegiada",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/bbb-26-ganha-ganha-desta-terca-31-tera-escolha-entre-r-20-mil-ou-nova-informacao-privilegiada.ghtml",
@@ -242,16 +252,6 @@
       "title": "Samira relata incômodo com Juliano Floss antes de brigas: 'Não estava me sentindo legal'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-relata-incomodo-com-juliano-floss-antes-de-brigas-nao-estava-me-sentindo-legal.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/w4IBEh-2AOLSInfqJ23f0BTnVrk=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/28/82/14478228"
-    },
-    {
-      "title": "Alberto Cowboy fala sobre planos de voltar a morar nos Estados Unidos: 'Não quero adiantar nada'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/alberto-cowboy-fala-sobre-planos-de-voltar-a-morar-nos-estados-unidos-nao-quero-adiantar-nada.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/203-i6GjVVuc-tndgX_-PwyXGMU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/U/N/FdAfYXSCOtGDzTrpeZEQ/alberto-cowboy-fala-sobre-planos-de-voltar-a-morar-nos-estados-unidos-nao-quero-adiantar-nada.png"
-    },
-    {
-      "title": "Samira desabafa sobre atitude de aliadas no BBB 26: 'Mudaram comigo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-desabafa-sobre-atitude-de-aliadas-no-bbb-26-mudaram-comigo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/YEmqKK7QGCo5famBt3X5Jo1gtqk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/b/k/LxCUdpRLCbSkjjgDZVYg/prefixo-bbb-300326-125350.jpg"
     }
   ]
 }
