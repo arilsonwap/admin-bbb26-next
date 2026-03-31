@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-03-31T21:58:01.213Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-03-31T22:47:09.284Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "BBB 26: Ganha-Ganha desta terça (31) terá escolha entre R$ 20 mil ou nova informação privilegiada",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/bbb-26-ganha-ganha-desta-terca-31-tera-escolha-entre-r-20-mil-ou-nova-informacao-privilegiada.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/QdVL0cbN1QwbC1n3hUuAFj4LbnQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Q/6/xMTkI5S6CObQyd320viw/whatsapp-image-2026-03-31-at-18.56.54.jpeg"
+    },
     {
       "title": "Solange Couto comenta reação de rivais com possível retorno do 12º Paredão: 'Vão enlouquecer'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/solange-couto-comenta-reacao-de-rivais-com-possivel-retorno-do-12o-paredao-vao-enlouquecer.ghtml",
@@ -247,11 +252,6 @@
       "title": "Samira desabafa sobre atitude de aliadas no BBB 26: 'Mudaram comigo'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-desabafa-sobre-atitude-de-aliadas-no-bbb-26-mudaram-comigo.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/YEmqKK7QGCo5famBt3X5Jo1gtqk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/b/k/LxCUdpRLCbSkjjgDZVYg/prefixo-bbb-300326-125350.jpg"
-    },
-    {
-      "title": "Ana Paula Renault comenta atitude de Samira: ‘Não tem ninguém bom da cabeça’",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-comenta-atitude-de-samira-nao-tem-ninguem-bom-da-cabeca.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/ckioy0guCh9NVaeB-TVZfmdbnNc=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/92/76/14477692"
     }
   ]
 }
