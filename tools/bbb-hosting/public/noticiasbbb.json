@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-01T15:40:55.441Z",
-  "lastAddedCount": 5,
+  "fetchedAt": "2026-04-01T16:40:57.141Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Após discussão no BBB 26, Marciele e Gabriela trocam emojis negativos no Queridômetro",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/apos-discussao-no-bbb-26-marciele-e-gabriela-trocam-emojis-negativos-no-queridometro.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/jCNjmzckg_afVm_MkPb82khuMsc=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/0/5/bDjG2PRjKNVd6I3E52Aw/fotojet-36-.jpg"
+    },
+    {
+      "title": "Gabriela especula se receberá voto de Marciele após treta com sister: 'Me chateou, mas eu não voto'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/gabriela-especula-se-recebera-voto-de-marciele-apos-treta-com-sister-me-chateou-mas-eu-nao-voto.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/oAoIIv_yBFFHPMKLrHuhKw0zRjg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/n/M/YaarQTQ9KAAgQ8d0Przg/pgm-a-01042026-130000-frame-18706.jpeg"
+    },
     {
       "title": "Cartola BBB está com a janela de escalação para 12ª rodada aberta",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-esta-com-a-janela-de-escalacao-para-12a-rodada-aberta.ghtml",
@@ -242,16 +252,6 @@
       "title": "Juliano Floss levanta suspeita sobre atitude de Samira: 'Ela é muito inteligente'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-levanta-suspeita-sobre-atitude-de-samira-ela-e-muito-inteligente.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/TLTPSWkkelr4nvuAWampPlnh4kg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/00/13/14481300"
-    },
-    {
-      "title": "Ana Paula Renault analisa jogo de Chaiany como 'morde e assopra': 'Nunca vai sair de malvadona'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-analisa-chaiany-como-morde-e-assopra-e-afirma-nunca-vai-sair-de-malvadona.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/-HvnVxmqbRFa3qd33czVRmL2Gts=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/99/11/14481199"
-    },
-    {
-      "title": "Juliano Floss diz a aliadas que não indicaria Samira ao Paredão: 'Só por causa de vocês'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-diz-a-ana-paula-e-milena-que-nao-indicaria-samira-ao-paredao-so-por-causa-voces.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/FR4uFxIvtEyOiM9ZO8J_74C_Ad4=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/75/11/14481175"
     }
   ]
 }
