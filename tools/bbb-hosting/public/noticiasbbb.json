@@ -1,17 +1,42 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-01T14:04:32.361Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-04-01T15:40:55.441Z",
+  "lastAddedCount": 5,
   "items": [
+    {
+      "title": "Cartola BBB está com a janela de escalação para 12ª rodada aberta",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-esta-com-a-janela-de-escalacao-para-12a-rodada-aberta.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/o6yLY3ry5c1dVeRpUT0K6lWGv7Y=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Y/j/60F71gTJC4dxBfWuPt4A/tadeu-anuncia-prova-do-lider-quarta.jpeg"
+    },
+    {
+      "title": "Solange Couto chora com surpresa de amiga no Café com o Eliminado: 'Ela cuida de mim há 22 anos'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/solange-couto-chora-com-surpresa-de-amiga-ela-cuida-de-mim-ha-22-anos.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/VD45JhBuUmxdNStVyjTXdXwY7J0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/64/46/14484664"
+    },
+    {
+      "title": "Solange Couto analisa jogo de Leandro e opina que Chaiany está perdida no jogo: 'Ela não sabe o que fazer'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/solange-couto-analisa-jogo-de-leandro-e-opina-que-chaiany-esta-perdida-no-jogo-ela-nao-sabe-o-que-fazer.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/w64q_2j5BEYu3imm7GE5NzyEqMg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/63/46/14484663"
+    },
+    {
+      "title": "Vídeos do Raio-X de quarta, 1/4, do BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-quarta-14-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/P5PWj3RIqTIlRMjJDIqKnAHDWvU=/540x304/top/smart/http://s2.glbimg.com/VT-u5qLFfvzV-3cs0si-b7TQ518=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/16/46/14484616"
+    },
+    {
+      "title": "Solange Couto pede perdão para Ana Paula Renault: 'Eu não tinha o direito de te dizer isso'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/solange-couto-pede-perdao-para-ana-paula-renault-eu-nao-tinha-o-direito-de-te-dizer-isso.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/Og8aU-pCz_W2X0iJqA9cS0ZBn7Q=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/69/45/14484569"
+    },
     {
       "title": "Solange Couto no Mais Você: veja os vídeos da entrevista da 11ª eliminada do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/solange-couto-no-mais-voce-veja-os-videos-da-entrevista-da-11-eliminada-do-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/0a_DKIzy_u1I7mgq2cRGhsYXKqc=/540x304/top/smart/http://s2.glbimg.com/gUZO_swYPJlIUhAJO9eFbV3i2XA=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/02/45/14484502"
     },
     {
-      "title": "Solange Couto como foi reencontro com filhos após Eliminação",
+      "title": "Solange Couto conta como foi reencontro com filhos após Eliminação",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/solange-couto-como-foi-reencontro-com-filhos-apos-eliminacao.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/d_Co3dBZYi2xUdMtscl2gnyYpFs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/R/b/cxwLZ8RzA8Po1cN2gfEQ/solange-couto-no-cafe-com-o-eliminado.png"
+      "imageUrl": "https://s2-gshow.glbimg.com/8uCSJTwVhn8jW46CIk5fsrez7l8=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/02/45/14484502"
     },
     {
       "title": "Solange Couto se emociona ao comentar repercussão de atitudes no BBB 26: 'Fiquei com muita vergonha'",
@@ -227,31 +252,6 @@
       "title": "Juliano Floss diz a aliadas que não indicaria Samira ao Paredão: 'Só por causa de vocês'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-diz-a-ana-paula-e-milena-que-nao-indicaria-samira-ao-paredao-so-por-causa-voces.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/FR4uFxIvtEyOiM9ZO8J_74C_Ad4=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/75/11/14481175"
-    },
-    {
-      "title": "Resumo BBB 26: veja os vídeos do dia 31/3/2026 – Click BBB",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/resumo-bbb-26-veja-os-videos-do-dia-3132026-click-bbb.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/zEt2HzE4KYD3lI60rz4Ao4jaccY=/540x304/top/smart/http://s2.glbimg.com/vp5OghjOWDTx4nJel0Fzyt5-Zqc=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/98/02/14480298"
-    },
-    {
-      "title": "Vídeos do Raio-X de terça, 31/3, do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-terca-313-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Qu7_j4FDotb5Y2k_c3qfSfDszSM=/540x304/top/smart/http://s2.glbimg.com/a_Q0nlnu4jDaGtC1UIY-ls4yzZ4=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/34/10/14481034"
-    },
-    {
-      "title": "Resumo do BBB 26 hoje: madrugada tem plano de Samira contra Juliano, 'frustração' entre rivais e 'risco' de Ana Paula",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-plano-de-samira-contra-juliano-frustracao-entre-rivais-e-risco-de-ana-paula.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/ORYMq1qKgD9Dod1LmQA6teltFEg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/B/5/gjITyUQdWWswJqMame8w/capa-77-.jpg"
-    },
-    {
-      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de terça-feira, 31/3",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-terca-feira-313.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/FWin11wHmwfFJD4VzUDdulHiZAo=/540x304/top/smart/http://s2.glbimg.com/3hHuoejm4RXtglfsZwbq83G3E4U=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/48/02/14480248"
-    },
-    {
-      "title": "Juliano Floss descarta devolver alvo em Samira: 'Não quero gastar voto à toa'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-descarta-devolver-alvo-em-samira-nao-quero-gastar-voto-a-toa.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/F4r5l4E_0ha549TSKhEKjlxl7Mk=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/44/02/14480244"
     }
   ]
 }
