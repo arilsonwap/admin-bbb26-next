@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-01T23:47:26.296Z",
-  "lastAddedCount": 3,
+  "fetchedAt": "2026-04-02T01:02:14.580Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Solange Couto pede conselho a Karol Conká, que responde: 'Saber lidar com o erro'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/solange-couto-pede-conselho-a-karol-conka-que-responde-saber-lidar-com-o-erro.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/nBX9U68vEBibgB6OyI3ZLuEKkmw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/96/68/14486896"
+    },
     {
       "title": "Cartola BBB: Solange Couto prevê aliado como novo Líder e opina sobre próximo alvo da casa",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-solange-couto-preve-aliado-como-novo-lider-e-opina-sobre-proximo-alvo-da-casa.ghtml",
@@ -247,11 +252,6 @@
       "title": "Jordana fala de relação com Milena no BBB 26: 'Nem tenho mais sentimento de raiva'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-fala-de-relacao-com-milena-no-bbb-26-nem-tenho-mais-sentimento-de-raiva.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/3TmulOLoAIxeXnjVH03CzWShvO8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/A/l/9VnJS4RbGbIInASNTBpw/prefixo-bbb-310326-202514.jpg"
-    },
-    {
-      "title": "Cowboy conversa com Karol Conká sobre Eliminação do BBB 26: 'Não foi tombo, só um tropeção'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/alberto-cowboy-conversa-com-karol-conka-sobre-eliminacao-do-bbb-26-nao-foi-tombo-so-um-tropecao.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/pPy3RI60SW-OdkTHhoKIkf6NB1I=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/30/32/14483230"
     }
   ]
 }
