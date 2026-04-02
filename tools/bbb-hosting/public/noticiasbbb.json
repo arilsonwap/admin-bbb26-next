@@ -1,8 +1,43 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-02T18:05:15.962Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-04-02T19:14:39.027Z",
+  "lastAddedCount": 7,
   "items": [
+    {
+      "title": "Sisters avaliam voto em Ana Paula Renault, mas Leandro diz: 'Se eu fosse vocês, mirava em outro lugar'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/sisters-avaliam-voto-em-ana-paula-renault-mas-leandro-diz-se-eu-fosse-voces-mirava-em-outro-lugar.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/fvHEZV6LzUwiS2VICjdgkfaqXaE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/l/W/M5bA14Reqk6eBH5sCXcA/prefixo-bbb-020426-155302.jpg"
+    },
+    {
+      "title": "Raio-X do BBB 26: Juliano Floss teme indicação ao Paredão pela Líder Samira",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/raio-x-do-bbb-26-juliano-floss-teme-indicacao-ao-paredao-pela-lider-samira.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/r0Zo1Eix_7EOpPRPGvWkYQD3iR4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/n/7/5OigHoRSKBS99OE2mwGQ/whatsapp-image-2026-04-02-at-13.53.53.jpeg"
+    },
+    {
+      "title": "Gabriela desabafa com Chaiany sobre proposta de Jordana no BBB 26: 'Me sinto usada'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/gabriela-desabafa-com-chaiany-sobre-proposta-de-jordana-no-bbb-26-me-sinto-usada.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/zGoFT_Ri2LANyeXNE8wLjTP_OjE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/31/95/14489531"
+    },
+    {
+      "title": "Chaiany e Gabriela cogitam voto em Ana Paula Renault no Paredão do BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-e-gabriela-cogitam-voto-em-ana-paula-renault-no-paredao-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/vEoKB6XuTkG8riZSW3igw6ROvOw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/I/U/NWN5DjRjqDOcq7ndYeqw/pgm-b-02042026-130000-frame-212503.jpeg"
+    },
+    {
+      "title": "Geely estreia no BBB26 e acelera a primeira Prova do Líder com energia elétrica",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/ep/greely/noticia/geely-estreia-no-bbb26-e-acelera-a-primeira-prova-do-lider-com-energia-eletrica.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/l-Cbj3SrMvF2OTaHetEJ2Ai6oAY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/y/Y/q6FYtfRHu2eTKwtYlwww/imagem-principal-gshow-geely-conteudo-01.jpg"
+    },
+    {
+      "title": "Jordana propõe aliança com Gabriela para tentar se livrar de Paredão: 'A única chance'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-propoe-alianca-com-gabriela-para-tentar-se-livrar-de-paredao-a-unica-chance.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/7vgtfpwHknYNMNFAuCbUSwu7Zpk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/S/K/Bdf46KSvibr64iNYBPGg/pgm-a-02042026-130000-frame-202141.jpeg"
+    },
+    {
+      "title": "Queridômetro: Juliano Floss manda 'coração partido' a Samira, que envia 'alvo' ao brother",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/queridometro-do-bbb-26-juliano-floss-envia-coracao-partido-a-samira.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/utouG-MnCQSf8sqbseGNe3r8ipI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/a/R/6xI2gnR3uA0q6EpwaUDw/queridometro-02-04.jpg"
+    },
     {
       "title": "Samira questiona Leandro Boneco sobre “alvo”, e brother responde: 'Todo mundo aqui é voto'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-questiona-leandro-boneco-sobre-alvo-e-brother-afirma-todo-mundo-aqui-e-voto.ghtml",
@@ -217,41 +252,6 @@
       "title": "Samira conta informação falsa sobre Anjo para aliadas: 'Significa ir pro Paredão'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-conta-informacao-falsa-sobre-anjo-para-aliadas-significa-ir-pro-paredao.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/B4_e9kLkdU-6C3wLfF-x2osz47o=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/83/58/14485883"
-    },
-    {
-      "title": "Após discussão no BBB 26, Marciele e Gabriela trocam emojis negativos no Queridômetro",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/apos-discussao-no-bbb-26-marciele-e-gabriela-trocam-emojis-negativos-no-queridometro.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/jCNjmzckg_afVm_MkPb82khuMsc=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/0/5/bDjG2PRjKNVd6I3E52Aw/fotojet-36-.jpg"
-    },
-    {
-      "title": "Gabriela especula se receberá voto de Marciele após treta com sister: 'Me chateou, mas eu não voto'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/gabriela-especula-se-recebera-voto-de-marciele-apos-treta-com-sister-me-chateou-mas-eu-nao-voto.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/oAoIIv_yBFFHPMKLrHuhKw0zRjg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/n/M/YaarQTQ9KAAgQ8d0Przg/pgm-a-01042026-130000-frame-18706.jpeg"
-    },
-    {
-      "title": "Cartola BBB está com a janela de escalação para 12ª rodada aberta",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-esta-com-a-janela-de-escalacao-para-12a-rodada-aberta.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/o6yLY3ry5c1dVeRpUT0K6lWGv7Y=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Y/j/60F71gTJC4dxBfWuPt4A/tadeu-anuncia-prova-do-lider-quarta.jpeg"
-    },
-    {
-      "title": "Solange Couto chora com surpresa de amiga no Café com o Eliminado: 'Ela cuida de mim há 22 anos'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/solange-couto-chora-com-surpresa-de-amiga-ela-cuida-de-mim-ha-22-anos.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/VD45JhBuUmxdNStVyjTXdXwY7J0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/64/46/14484664"
-    },
-    {
-      "title": "Solange Couto analisa jogo de Leandro e opina que Chaiany está perdida no jogo: 'Ela não sabe o que fazer'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/solange-couto-analisa-jogo-de-leandro-e-opina-que-chaiany-esta-perdida-no-jogo-ela-nao-sabe-o-que-fazer.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/w64q_2j5BEYu3imm7GE5NzyEqMg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/63/46/14484663"
-    },
-    {
-      "title": "Vídeos do Raio-X de quarta, 1/4, do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-quarta-14-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/P5PWj3RIqTIlRMjJDIqKnAHDWvU=/540x304/top/smart/http://s2.glbimg.com/VT-u5qLFfvzV-3cs0si-b7TQ518=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/16/46/14484616"
-    },
-    {
-      "title": "Solange Couto pede perdão para Ana Paula Renault: 'Eu não tinha o direito de te dizer isso'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/solange-couto-pede-perdao-para-ana-paula-renault-eu-nao-tinha-o-direito-de-te-dizer-isso.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Og8aU-pCz_W2X0iJqA9cS0ZBn7Q=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/69/45/14484569"
     }
   ]
 }
