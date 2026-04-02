@@ -1,8 +1,43 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-02T01:02:14.580Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-04-02T04:01:10.593Z",
+  "lastAddedCount": 7,
   "items": [
+    {
+      "title": "Samira comenta indicação de brother no Paredão do BBB 26: 'Eu não faria isso'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-comenta-indicacao-de-brother-no-paredao-do-bbb-26-eu-nao-faria-isso.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/cYF3xWExmDs7KAFkEPqrA-61Urw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/O/w/hVqoAJT9Stc4SRJ1x57g/prefixo-bbb-020426-003416.jpg"
+    },
+    {
+      "title": "No Quarto do Líder pela segunda vez, Samira curte nova decoração e fotos da família",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-estreia-o-quarto-do-lider-do-bbb-26-pela-segunda-vez.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/3uMrOFxFrUja2uP0b8Mop8F4A7E=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/56/74/14487456"
+    },
+    {
+      "title": "Vídeos do BBB 26 de quinta-feira, 2/4",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-de-quinta-feira-24.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/lpGDIdM1iEv3vSjrQcHv4n37uxY=/540x304/top/smart/http://s2.glbimg.com/6lPmFT-vdo9xGdJVAgXckLsfYx4=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/47/74/14487447"
+    },
+    {
+      "title": "Chaiany chora e é consolada por Jordana: 'A gente tem que juntar nossos caquinhos'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-chora-e-e-consolada-por-jordana-a-gente-tem-que-juntar-nossos-caquinhos.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/4l9mfYbzatb8rrJ-WVA3Rc0BhI8=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/47/74/14487447"
+    },
+    {
+      "title": "Samira conta para Milena que Anjo é autoimune e teme pela sister: 'Vai macetar em cima do Líder'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-conta-a-informacao-privilegiada-para-milena-que-cogita-cenario-vai-macetar-em-cima-do-lider.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/WXqk4zqxPuntT6lOfDsQJ0K_V9o=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/40/74/14487440"
+    },
+    {
+      "title": "Que horas começa o BBB 26 hoje, quinta (2)?",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/que-horas-comeca-o-bbb-26-hoje-quinta-2.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/qg8hpDpWdBm7o3wEuUUxcsGrYTE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/C/y/BUOEy8SfGRt2CLWsnKCg/tadeu-bbb-26.jpeg"
+    },
+    {
+      "title": "Solange Couto fala sobre Ana Paula: 'Se eu perceber no olhar que ela permite, vou pedir desculpa'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/solange-couto-fala-sobre-ana-paula-se-eu-perceber-no-olhar-que-ela-permite-vou-pedir-desculpa.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/4KcWwPxuJ7WfHg2bWSEqLGGmYh0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/59/63/14486359"
+    },
     {
       "title": "Solange Couto pede conselho a Karol Conká, que responde: 'Saber lidar com o erro'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/solange-couto-pede-conselho-a-karol-conka-que-responde-saber-lidar-com-o-erro.ghtml",
@@ -217,41 +252,6 @@
       "title": "Solange Couto assiste ao vídeo de seus comentários no BBB 26 e se retrata: 'Fui muito infeliz nessas falas'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/noticia/solange-couto-assiste-ao-video-de-seus-comentarios-no-bbb-26-e-se-retrata-fui-muito-infeliz-nessas-falas.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/MHtZe-kqnfJyX7Gf2aJYDhCR-uI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/p/q/sXRzo2S0SlVgcL7nocUA/bate-papo-eliminado-frame-87419.jpeg"
-    },
-    {
-      "title": "Solange Couto assiste ao VAR de informação de Chaiany: 'Não deveria ter contado'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/noticia/solange-couto-assiste-ao-var-de-informacao-de-chaiany-nao-deveria-ter-contado.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/FDdkiVWmlsQSVOnPxPvkbFvnGJs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/w/H/nhJj3oRnittvQaDVbusg/indep-31032026-234233-frame-59234.jpeg"
-    },
-    {
-      "title": "Solange Couto sobre Eliminação de Babu Santana do BBB 26: 'Fiquei orfã'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/noticia/solange-couto-sobre-eliminacao-de-babu-santana-do-bbb-26-fiquei-orfa.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/k8JdimaPlNqmrVcvGR6lV7M8cLk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/t/C/s2uMOkQEO3Uiob2QjjkA/indep-31032026-234233-frame-51192.jpeg"
-    },
-    {
-      "title": "Jordana diz que Ana Paula tentará 'arrumar briga' com sisters: 'Qual historinha vai arrumar?'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-diz-que-ana-paula-renault-tentara-arrumar-briga-com-sisters-qual-historinha-vai-arrumar.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/VfWWlZNUiMZx0dsENbEtxzquKNQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/V/e/OYw2DnTFK4Xb1mAFwi9g/prefixo-bbb-010426-000707.jpg"
-    },
-    {
-      "title": "Bate-Papo BBB: Solange Couto | Confira os melhores momentos com a décima primeira eliminada do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/bate-papo-bbb-solange-couto-confira-os-melhores-momentos-com-a-decima-primeira-eliminada-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/v8Yna1DOm_8VuHSgWFg3Cg4yqOU=/540x304/top/smart/http://s2.glbimg.com/dZtpF5G2Wdjs4GFMcOGm30ZnEbs=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/22/37/14483722"
-    },
-    {
-      "title": "Ana Paula Renault repercute conversa, e Milena afirma: 'Você entende o que você quer'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-repercute-conversa-com-sister-e-milena-afirma-voce-entende-o-que-voce-quer.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/U5SwubpsXtHJrs2zCpsqfJIACbU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/38/37/14483738"
-    },
-    {
-      "title": "Samira se recusa a revelar informação privilegiada para Milena: 'É minha'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-questiona-samira-sobre-privilegio-mas-sister-se-recusa-a-compartilhar-a-informacao-e-minha.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/jYbGc5b6f6oLc-4YYED0D25i9Cs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/23/37/14483723"
-    },
-    {
-      "title": "Jordana fala de relação com Milena no BBB 26: 'Nem tenho mais sentimento de raiva'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-fala-de-relacao-com-milena-no-bbb-26-nem-tenho-mais-sentimento-de-raiva.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/3TmulOLoAIxeXnjVH03CzWShvO8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/A/l/9VnJS4RbGbIInASNTBpw/prefixo-bbb-310326-202514.jpg"
     }
   ]
 }
