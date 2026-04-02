@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-02T08:14:37.461Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-02T09:31:32.238Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de quinta-feira 2/4",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-quinta-feira-24.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/Kj3Me6CkWfzbRvLWl5WGMah9CXo=/540x304/top/smart/http://s2.glbimg.com/v1yQu061AUBBa7deBUbhpimUldU=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/19/75/14487519"
+    },
     {
       "title": "Juliano Floss confia em informação falsa de Samira: 'Não ia mentir para mim e para Ana'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-diz-acreditar-em-informacao-falsa-de-samira-ela-nao-ia-mentir-para-mim-e-para-ana.ghtml",
@@ -247,11 +252,6 @@
       "title": "Veja a reação dos participantes após Eliminação de Solange Couto",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-a-reacao-dos-participantes-apos-eliminacao-de-solange-couto.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/fArv09R6ASOtPOYphD_Wev7t9ss=/540x304/top/smart/http://s2.glbimg.com/4rpuHyNrZvRzVseEKpZ-QQt10Bo=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/89/37/14483789"
-    },
-    {
-      "title": "Bate-Papo BBB: Gil do Vigor e Ceci Ribeiro receberam Solange Couto, a 11ª Eliminada do BBB 26; veja como foi!",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/ao-vivo/bate-papo-bbb-gil-do-vigor-e-ceci-ribeiro-conversam-com-a-11-eliminada-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/GQK86jh_UTfKcGg5Rz-3NSdzFA4=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/93/37/14483793"
     }
   ]
 }
