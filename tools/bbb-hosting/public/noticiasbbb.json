@@ -1,12 +1,22 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-03T20:52:56.567Z",
-  "lastAddedCount": 3,
+  "fetchedAt": "2026-04-03T21:41:54.634Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Chaiany cogita ruptura na amizade com Gabriela, mas paulista nega: 'Conheço seu coração'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/chaiany-cogita-ruptura-na-amizade-com-gabriela-mas-sister-nega-jamais-vou-comer-pilha.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/OU0Q_f8tRKhRsc_BiBPvH1dSG1M=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/T/Y/muWyqDSX2Fn9o080NrKA/prefixo-bbb-030426-172219.jpg"
+    },
+    {
+      "title": "Ana Paula Renault fala para Samira após conversa com adversária: 'Você se colocou na fogueira'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-fala-para-samira-apos-conversa-com-adversaria-voce-se-colocou-na-fogueira.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/8OOZvHo3-ddIyZfjxJpsqsCUURE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/23/36/14493623"
+    },
     {
       "title": "Jordana diz estar 'chocada' com articulações de Ana Paula Renault: 'Foi jogar sujo'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-diz-estar-chocada-com-articulacoes-de-ana-paula-renault-no-bbb-26-foi-jogar-sujo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/BM5qE8LQG-8ydft6RsryGx6nOs0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/P/e/O9JvB9RUOYMLglpporAQ/prefixo-bbb-030426-171649.jpg"
+      "imageUrl": "https://s2-gshow.glbimg.com/3mAdsHxdr04-y-6bUanr6sZVK3I=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/74/35/14493574"
     },
     {
       "title": "Jordana admite emoji de 'cobra' para Gabriela em conversa e sisters expõem estratégias de voto",
@@ -24,7 +34,7 @@
       "imageUrl": "https://s2-gshow.glbimg.com/hoo8OXrhNAjkdQB17tdP7EkzZdc=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/v/5/51nem9TWm07TwBTpyDwg/prefixo-bbb-030426-164913.jpg"
     },
     {
-      "title": "Ana Paula Renault confronta Chaiany por não contar informação a Gabriela: 'Um risco pra sua amiga'",
+      "title": "Ana Paula confronta Chaiany por não contar informação a Gabriela: 'Um risco pra sua amiga'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-confronta-chaiany-por-nao-contar-informacao-a-gabriela-um-risco-pra-sua-amiga.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/cZR4-acXqTk8Q76IwrARsA4JrqU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/00/34/14493400"
     },
@@ -242,16 +252,6 @@
       "title": "Jordana critica postura de Gabriela no BBB 26: 'Se escondeu atrás do nosso grupo'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-critica-postura-de-gabriela-no-bbb-26-se-escondeu-atras-do-nosso-grupo.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/KXR6CN2n74zq2c-aNQKunaq95HE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/01/08/14490801"
-    },
-    {
-      "title": "Ana Paula Renault sobre ver Jonas Sulzbach fora do BBB 26: 'Eu, tia Milena e Samira combinamos'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-sobre-ver-jonas-sulzbach-fora-do-bbb-26-eu-tia-milena-e-samira-combinamos.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/VNLpyCp4r6mDLUy6Ab7tywDLj-8=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/47/07/14490747"
-    },
-    {
-      "title": "Samira questiona afastamento de Chaiany, que justifica: 'Coisa minha'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-questiona-afastamento-de-chaiany-que-justifica-e-coisa-minha.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/BGO4WWWGkvhWRJmyvw5kgohNU4M=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/68/05/14490568"
     }
   ]
 }
