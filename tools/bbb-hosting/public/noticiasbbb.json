@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-03T09:12:58.829Z",
+  "fetchedAt": "2026-04-03T10:06:32.481Z",
   "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de sexta-feira, 3/4",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-sexta-34.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/6TGk-gPyC2Z7TJwy9KwSECsYP48=/540x304/top/smart/http://s2.glbimg.com/HiNPeulASJFS6I6kqyYklHJWjw0=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/31/11/14491131"
+    },
     {
       "title": "BBB 26 tem Anjo autoimune e formação de Paredão nesta sexta (3)",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/bbb-26-tem-anjo-autoimune-e-formacao-de-paredao-nesta-sexta-3.ghtml",
@@ -247,11 +252,6 @@
       "title": "Resumo BBB 26: veja os vídeos do dia 2/4/2026 – Click BBB",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/resumo-bbb-26-veja-os-videos-do-dia-242026-click-bbb.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/HazQt9tbK4-__Crr8sxJZqUxjM8=/540x304/top/smart/http://s2.glbimg.com/gIJyzeZO_5wlo1joaxDDpDlmBEA=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/38/75/14487538"
-    },
-    {
-      "title": "Vídeos do Raio-X de quinta, 2/4, do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-quinta-24-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/22eU_x1ir9AODaGHUMzJYdNYDCI=/540x304/top/smart/http://s2.glbimg.com/b6eNSnBYCWn5QT0mSS5D7HArctA=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/71/81/14488171"
     }
   ]
 }
