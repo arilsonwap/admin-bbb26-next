@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-03T08:12:07.969Z",
+  "fetchedAt": "2026-04-03T09:12:58.829Z",
   "lastAddedCount": 1,
   "items": [
+    {
+      "title": "BBB 26 tem Anjo autoimune e formação de Paredão nesta sexta (3)",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/bbb-26-tem-anjo-autoimune-e-formacao-de-paredao-nesta-sexta-3.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/ef4xBJxjZA-PTKPY5uIvhmAFoDE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/5/h/CZZ5lVRQW1xLZ4mhbveg/whatsapp-image-2026-04-01-at-22.46.40.jpeg"
+    },
     {
       "title": "Samira usa Toque de Despertar para acordar a casa no BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-usa-toque-de-despertar-para-acordar-a-casa-no-bbb-26.ghtml",
@@ -14,9 +19,9 @@
       "imageUrl": "https://s2-gshow.glbimg.com/7yyemul9iDO_sMBguCZu97T1h6g=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/26/11/14491126"
     },
     {
-      "title": "Em papo com Ana Paula Renault, Juliano Floss diz sobre sisters: 'Estão procurando refúgio em você'",
+      "title": "Juliano Floss aponta mudança de postura de sisters com Ana Paula Renault: 'Procurando refúgio'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/em-papo-com-ana-paula-renault-juliano-floss-diz-sobre-sisters-estao-procurando-refugio-em-voce.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/z1PvnF6I37peuowuYp8kqdRzjFc=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/M/G/G527PpSn2jEcXAgMTcFg/pgm-b-03042026-010000-frame-169743.jpeg"
+      "imageUrl": "https://s2-gshow.glbimg.com/oIxzrobs2pg6nqsUr8c7y88qT2A=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/21/11/14491121"
     },
     {
       "title": "Jordana alerta Marciele após conversa com Ana Paula Renault: 'Ela escuta para usar contra'",
@@ -247,11 +252,6 @@
       "title": "Vídeos do Raio-X de quinta, 2/4, do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-quinta-24-do-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/22eU_x1ir9AODaGHUMzJYdNYDCI=/540x304/top/smart/http://s2.glbimg.com/b6eNSnBYCWn5QT0mSS5D7HArctA=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/71/81/14488171"
-    },
-    {
-      "title": "Rodada repleta de pontos aumenta disputa no Ranking do Cartola BBB",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/rodada-repleta-de-pontos-aumenta-disputa-no-ranking-do-cartola-bbb.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/yens9v5NZvwi8cGLIkiuFWYsFmA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/c/k/VAthlBRj6tEo0toYRbAw/whatsapp-image-2026-04-01-at-22.52.11.jpeg"
     }
   ]
 }
