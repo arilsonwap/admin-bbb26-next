@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-04T10:42:36.648Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-04T11:17:09.937Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de sábado, 4/4",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-sabado-44.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/xRhbpVcNLKcg0PvH0mKy7V-kEF4=/540x304/top/smart/http://s2.glbimg.com/5hHgBiJv4okPfxHHr4zj1MC7rmc=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/68/44/14494468"
+    },
     {
       "title": "Quem sai do BBB 26 amanhã (5/4)?",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/quem-sai-do-bbb-26-amanha-54.ghtml",
@@ -247,11 +252,6 @@
       "title": "Ana Paula Renault analisa postura de Chaiany com Jordana no BBB 26: 'Jogada de mestre'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-e-samira-analisam-jogo-de-chaiany-no-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/ot5kisj7hnUt-rhHIWrqPMrEgac=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/20/22/14492220"
-    },
-    {
-      "title": "Samira opina sobre brother que cogita mandar ao Paredão: 'Está me desafiando bastante'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/samira-opina-sobre-brother-que-cogita-mandar-ao-paredao-ta-me-desafiando-bastante.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/b0c5OsrBrrVuoteKHqlYb3zoMlY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/36/22/14492236"
     }
   ]
 }
