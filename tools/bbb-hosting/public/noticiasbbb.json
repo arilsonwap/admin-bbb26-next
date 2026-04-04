@@ -1,7 +1,7 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-04T12:31:00.240Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-04T13:39:45.369Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Resumo do BBB 26 hoje: madrugada tem reconciliação de Samira e Juliano, arrependimento e choro de emparedadas",
@@ -27,6 +27,11 @@
       "title": "Após participação no BBB 26, Solange Couto revela como criou o bordão 'Né brinquedo, não'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/apos-participacao-no-bbb-26-solange-couto-revela-como-criou-o-bordao-ne-brinquedo-nao.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/lPVZcc5xDYmCa527m7q4HW7-Lrc=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/X/U/jEk0ceQJuNI3rns9jNnA/capa-26-.jpg"
+    },
+    {
+      "title": "Enquete BBB 26: qual foi o auge da formação do 13º Paredão?",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/enquete-bbb/votacao/enquete-bbb-26-qual-foi-o-auge-da-formacao-do-13-paredao-0R5371y4xZ.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/9HyboouyIwnSZ0H3OBoLH0FXsLE=/540x304/top/smart/s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/G/w/kimh5uQIC0ZZjAakEyUQ/paredao-bbb.png"
     },
     {
       "title": "Jordana revela arrependimento com Monstro, e Gabriela rebate: 'Acho que você não gosta de mim'",
@@ -247,11 +252,6 @@
       "title": "Ana Paula Renault questiona lealdade de Chaiany a Gabriela no BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-questiona-lealdade-de-chaiany-a-gabriela-no-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/36gn7naYtnyyG8m6MOQNdzSml7w=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/x/l/9O84bSRlKMOgfYHADvHw/pgm-b-03042026-130000-frame-93191.jpeg"
-    },
-    {
-      "title": "Após compras da Xepa, Jordana organiza divisão de frango entre os brothers: 'Se pegar, vai ser briga'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/apos-compras-da-xepa-jordana-organiza-divisao-de-comida-entre-os-brothers-se-pegar-vai-ser-briga.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/fUE8wC4QDv7Nfxdm6bJgqveusZI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/00/24/14492400"
     }
   ]
 }
