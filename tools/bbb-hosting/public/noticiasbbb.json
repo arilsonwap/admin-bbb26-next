@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-04T22:49:09.319Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-04T23:22:23.491Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Brothers recebem vídeo de IZA e comemoram show da cantora no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/brothers-recebem-video-da-iza-e-comemoram-show-da-cantora-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/9zq_d0USyAwsgj5fBPjyWpB2TJg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/B/h/f7RRkkSj6nVBElv2cqlg/prefixo-bbb-040426-194700.jpg"
+    },
     {
       "title": "No Paredão, Chaiany comenta decisão de Samira no BBB 26: 'Eu me senti trocada'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/no-paredao-chaiany-comenta-decisao-de-samira-no-bbb-26-eu-me-senti-trocada.ghtml",
@@ -247,11 +252,6 @@
       "title": "Gabriela cumpre Castigo do Monstro no BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/gabriela-cumpre-castigo-do-monstro-no-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/qjhW6tvSa2zRqWPf1KkcSm2DYhc=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/33/37/14493733"
-    },
-    {
-      "title": "Jordana e Samira discutem sobre articulação da Líder no BBB 26: 'Teu jogo foi sujo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-e-samira-discutem-e-trocam-farpas-sobre-articulacao-de-lider-no-bbb-26-teu-jogo-foi-sujo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/xP5JoBnjC8x32hi6GEWFp0KDaS0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/40/37/14493740"
     }
   ]
 }
