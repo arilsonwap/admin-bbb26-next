@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-04T19:09:25.187Z",
+  "fetchedAt": "2026-04-04T19:47:23.963Z",
   "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Jordana e Chaiany atendem ao Big Fone e pontuam no Cartola BBB",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/jordana-e-chaiany-atendem-ao-big-fone-e-pontuam-no-cartola-bbb.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/d6HcEHay5wQpDyOaGZfC3tcGDwc=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/o/7/RvtI4FQ5mAKpNkBYDQNA/capa-45-.jpg"
+    },
+    {
+      "title": "Jade Picon curte dia de sol com André Lamoglia em clima de romance",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jade-picon-curte-dia-de-sol-com-andre-lamoglia-em-clima-de-romance.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/HcMsdajePTc-RZYnIaSxd_6BjCA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/r/e/lTcpXcTXqkLVYPUWtOUw/andre-lamoglia-e-jade-picon.jpg"
+    },
     {
       "title": "Raio-X do BBB 26: brothers reagem à jogada de Samira e emparedados suplicam para ficar",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/raio-x-do-bbb-26-brothers-reagem-a-jogada-de-samira-e-emparedados-suplicam-para-ficar.ghtml",
@@ -242,16 +252,6 @@
       "title": "Jordana diz estar 'chocada' com articulações de Ana Paula Renault: 'Foi jogar sujo'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-diz-estar-chocada-com-articulacoes-de-ana-paula-renault-no-bbb-26-foi-jogar-sujo.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/3mAdsHxdr04-y-6bUanr6sZVK3I=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/74/35/14493574"
-    },
-    {
-      "title": "Jordana admite emoji de 'cobra' para Gabriela em conversa e sisters expõem estratégias de voto",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-admite-emoji-de-cobra-para-gabriela-em-conversa-e-sisters-expoem-estrategias-de-voto.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/3h-XIF4TXhC0Sx_BaZ37Bc_Po_k=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/63/33/14493363"
-    },
-    {
-      "title": "Após liderança de Samira, Leandro Boneco aponta mudança no comportamento da sister",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/leandro-aponta-mudanca-no-comportamento-de-samira-apos-vitoria-na-prova-do-lider.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/4ZqSCYtYJG8PShAALJcI1i55g30=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/95/33/14493395"
     }
   ]
 }
