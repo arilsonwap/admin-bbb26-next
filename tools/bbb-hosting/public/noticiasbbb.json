@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-04T19:47:23.963Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-04-04T20:15:35.494Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Jordana e Marciele se desentendem sobre conflito com Gabriela no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-e-marciele-se-desentendem-sobre-conflito-com-gabriela-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/Ha2VNjPPjAc2QRcev9jF5JvHoXs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/51/56/14495651"
+    },
     {
       "title": "Jordana e Chaiany atendem ao Big Fone e pontuam no Cartola BBB",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/jordana-e-chaiany-atendem-ao-big-fone-e-pontuam-no-cartola-bbb.ghtml",
@@ -11,7 +16,7 @@
     {
       "title": "Jade Picon curte dia de sol com André Lamoglia em clima de romance",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jade-picon-curte-dia-de-sol-com-andre-lamoglia-em-clima-de-romance.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/HcMsdajePTc-RZYnIaSxd_6BjCA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/r/e/lTcpXcTXqkLVYPUWtOUw/andre-lamoglia-e-jade-picon.jpg"
+      "imageUrl": "https://s2-gshow.glbimg.com/o4B8XnGM9qDwJyo3h7N6Qp21zZY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/3/T/XUNBQ8QgKsO9iJCSf4Zg/jade-ok-.png"
     },
     {
       "title": "Raio-X do BBB 26: brothers reagem à jogada de Samira e emparedados suplicam para ficar",
@@ -247,11 +252,6 @@
       "title": "Ana Paula Renault fala para Samira após conversa com adversária: 'Você se colocou na fogueira'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-fala-para-samira-apos-conversa-com-adversaria-voce-se-colocou-na-fogueira.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/8OOZvHo3-ddIyZfjxJpsqsCUURE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/23/36/14493623"
-    },
-    {
-      "title": "Jordana diz estar 'chocada' com articulações de Ana Paula Renault: 'Foi jogar sujo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-diz-estar-chocada-com-articulacoes-de-ana-paula-renault-no-bbb-26-foi-jogar-sujo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/3mAdsHxdr04-y-6bUanr6sZVK3I=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/74/35/14493574"
     }
   ]
 }
