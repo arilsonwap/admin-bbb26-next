@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-05T10:51:04.528Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-04-05T11:37:50.717Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Domingo com Eliminação, Prova do Líder e novo Paredão agita pontuações no Cartola BBB",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/domingo-com-eliminacao-prova-do-lider-e-novo-paredao-agita-pontuacoes-no-cartola-bbb.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/mgLNcPV4rLpxYnqhcFgLKX8lSUw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/V/x/kfWAolRG61P6ACVWLbCA/whatsapp-image-2026-04-01-at-22.47.15.jpeg"
+    },
+    {
+      "title": "Quem sai do BBB 26 hoje (5/4)?",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/quem-sai-do-bbb-26-hoje-54.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/joLceXT9DR7dP1Lk7daA77Gfo9o=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/G/w/kimh5uQIC0ZZjAakEyUQ/paredao-bbb.png"
+    },
     {
       "title": "Resumo do BBB 26 hoje: madrugada de Festa tem DR, sister comparada à 'nota de três reais' e participantes pegas no flagra",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-de-festa-tem-dr-sister-comparada-a-nota-de-tres-reais-e-participantes-pegas-no-flagra.ghtml",
@@ -242,16 +252,6 @@
       "title": "Resumo do BBB 26 hoje: madrugada tem reconciliação de Samira e Juliano, arrependimento e choro de emparedadas",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-reconciliacao-de-samira-e-juliano-arrependimento-e-choro-de-emparedadas.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/Fcs2uOJRsM7F_ih8yswkjIwq3_M=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/e/3/P5Mi8NQPWeIaK2ndkVfw/whatsapp-image-2026-04-04-at-08.17.49-1-.jpeg"
-    },
-    {
-      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de sábado, 4/4",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-sabado-44.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/xRhbpVcNLKcg0PvH0mKy7V-kEF4=/540x304/top/smart/http://s2.glbimg.com/5hHgBiJv4okPfxHHr4zj1MC7rmc=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/68/44/14494468"
-    },
-    {
-      "title": "Quem sai do BBB 26 amanhã (5/4)?",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/quem-sai-do-bbb-26-amanha-54.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/joLceXT9DR7dP1Lk7daA77Gfo9o=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/G/w/kimh5uQIC0ZZjAakEyUQ/paredao-bbb.png"
     }
   ]
 }
