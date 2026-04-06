@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-06T08:49:38.895Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-04-06T10:01:50.887Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Veja a reação dos participantes após Eliminação de Chaiany no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-a-reacao-dos-participantes-apos-eliminacao-de-chaiany-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/drqzCPXKbyUUbjVAJRDz--lt0pQ=/540x304/top/smart/http://s2.glbimg.com/iFxGdpKVSKinnQpTJP40BJ4ny5U=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/68/75/14497568"
+    },
     {
       "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de segunda-feira, 6/4",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-segunda-feira-64.ghtml",
@@ -246,11 +251,6 @@
       "title": "Jordana se emociona, e Marciele consola a aliada: 'A gente se ataca e se protege'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/jordana-se-emociona-e-marciele-consola-a-aliada-irma-mais-velha.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/TCAnRTuro7rwg3hv8am-twBdK24=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/61/65/14496561"
-    },
-    {
-      "title": "Samira chora e faz promessa de amizade com Milena para fora do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/samira-chora-e-faz-promessa-de-amizade-com-milena-para-fora-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/U89-6Il2ABHEuCBaDFme5TV46NY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/56/65/14496556"
     }
   ]
 }
