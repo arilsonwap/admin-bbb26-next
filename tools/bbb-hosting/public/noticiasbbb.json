@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-06T22:47:10.488Z",
-  "lastAddedCount": 3,
+  "fetchedAt": "2026-04-06T23:23:53.344Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Veja os melhores momentos de Chaiany no Mesacast BBB de segunda-feira (6/4)",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-os-melhores-momentos-de-chaiany-no-mesacast-bbb-de-segunda-feira-64.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/dSdx1w2SZJCXbizajoDsu6R-784=/540x304/top/smart/http://s2.glbimg.com/TvDjpBTniARB5u58ffv5pm0ccDc=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/89/04/14500489"
+    },
+    {
+      "title": "Chaiany revela sobre Babu Santana pós-BBB 26: 'No momento que quiser conversar, vou estar aqui'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/mesacast-bbb/noticia/chaiany-revela-sobre-babu-santana-pos-bbb-26-no-momento-que-quiser-conversar-vou-estar-aqui.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/9_pgsYRUXRxxeNVde3KLahKX75k=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/90/05/14500590"
+    },
     {
       "title": "Chaiany fala dos memes, apoio de famosos e decepção com sister: 'Não esperava nunca'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/chaiany-fala-dos-memes-apoio-de-famosos-reacao-da-filha-e-decepcao-com-sister.ghtml",
@@ -21,7 +31,7 @@
     {
       "title": "Alberto Cowboy lembra de Jonas Sulzbach ao limpar a piscina: 'Matando a saudade'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/alberto-cowboy-brinca-com-jonas-sulzbach-em-video-na-piscina-matando-a-saudade.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/vpsDxPCHy6-BvBBZTrg0g9Yy6m4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/L/U/vwt2seRRS8pAWAr80AWQ/captura-de-tela-2026-04-06-171815.png"
+      "imageUrl": "https://s2-gshow.glbimg.com/beMrW4TMNjwJMIAj1WpHED9PHU8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/5/T/uFySJlSiKAr9VvYQEyBQ/1775516164108526.jpg"
     },
     {
       "title": "Marciele troca farpas com Milena citando Samira: 'Vocês viraram as costas para ela'",
@@ -241,16 +251,6 @@
       "title": "BBB 26: acompanhe a décima quarta Formação do Paredão",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/formacao-do-paredao/ao-vivo/bbb-26-acompanhe-a-prova-do-lider-e-a-decima-quarta-formacao-do-paredao.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/Xl-F_nenPPD7w8fF2VePiH1K5t0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/76/74/14497476"
-    },
-    {
-      "title": "Indicada pelo Líder, Jordana puxa Samira no Contragolpe do 14º Paredão do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/formacao-do-paredao/noticia/indicado-pelo-lider-jordana-puxa-samira-no-contragolpe-do-14o-paredao-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/jp846VE2c2BhUvOE1TwCEnPyaX0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/80/74/14497480"
-    },
-    {
-      "title": "Líder Juliano Floss dá voto de Minerva e indica Marciele ao Paredão do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/formacao-do-paredao/noticia/lider-juliano-floss-da-voto-de-minerva-e-indica-marciele-ao-paredao-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/5GexrnjC1nU3jKq09r7lGBiEI9U=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/X/A/SuhQgoT0yScvZUPBAxGg/prefixo-bbb-060426-001623.jpg"
     }
   ]
 }
