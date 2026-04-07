@@ -1,8 +1,23 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-07T08:17:34.546Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-04-07T09:39:20.781Z",
+  "lastAddedCount": 3,
   "items": [
+    {
+      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de terça-feira, 7/4",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-terca-feira-74.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/8F-EXJ_LsJjU8Bz0-q-8sQewAyw=/540x304/top/smart/http://s2.glbimg.com/81U2pvet99YqLE0msmgAbaw2XYU=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/94/11/14501194"
+    },
+    {
+      "title": "Quem sai do BBB 26 hoje (7/4)?",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/quem-sai-do-bbb-26-hoje-74.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/bKpwSS4kJZ4lbCX_b3DchrZeIUM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/88/74/14497488"
+    },
+    {
+      "title": "Chaiany reencontra pais e filha pela primeira vez após BBB 26: 'Era só isso que eu precisava'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/chaiany-reencontra-pais-e-filha-pela-primeira-vez-apos-bbb-26-era-so-isso-que-eu-precisava.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/HhGr8mJg4mbW4x7zBeEYwESoCfw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/i/A/OCfcbBRMaSsRs2q1lMQw/capa-38-.png"
+    },
     {
       "title": "Sincerão do BBB 26 tem pódios alterados e bate-boca entre participantes",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/sincerao/noticia/sincerao-do-bbb-26-tem-podios-alterados-e-bate-boca-entre-participantes.ghtml",
@@ -237,21 +252,6 @@
       "title": "Veja a reação dos participantes após Eliminação de Chaiany no BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-a-reacao-dos-participantes-apos-eliminacao-de-chaiany-no-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/drqzCPXKbyUUbjVAJRDz--lt0pQ=/540x304/top/smart/http://s2.glbimg.com/iFxGdpKVSKinnQpTJP40BJ4ny5U=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/68/75/14497568"
-    },
-    {
-      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de segunda-feira, 6/4",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-segunda-feira-64.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/EwUUVN6xGNQmQ1f5vDhf91mWa0E=/540x304/top/smart/http://s2.glbimg.com/bOnGpQVVRQC2pjDhH13wzQ6NgWc=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/58/75/14497558"
-    },
-    {
-      "title": "Quem sai do BBB 26 amanhã (7/4)?",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/quem-sai-do-bbb-26-amanha-74.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/YqnRLPp05iimtmSkXShKNaTvRGw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/k/G/OJkN4oQS6ubzJTspk38A/paredao-bbb.jpeg"
-    },
-    {
-      "title": "Juliano Floss cogita aliança de Gabriela com sisters após flagar conversa na Central do Líder",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-cogita-alianca-de-gabriela-com-sisters-apos-flagar-conversa-na-central-do-lider.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/uS17VzTnI4EQNpf7AayFEIq78vw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/58/75/14497558"
     }
   ]
 }
