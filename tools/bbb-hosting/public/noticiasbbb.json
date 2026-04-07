@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-07T15:57:21.614Z",
-  "lastAddedCount": 3,
+  "fetchedAt": "2026-04-07T17:12:40.059Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Após o Sincerão, Queridômetro é tomado por emojis negativos, e Milena dispara 'vômito' após pódio",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/apos-o-sincerao-queridometro-do-bbb-26-e-tomado-por-emojis-negativos-e-milena-dispara-vomito-apos-podio.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/aWkBFNFZN1E1MAdZxX8IQ87biJ0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/f/F/qUVfGGTwCKepLCySsyJQ/whatsapp-image-2026-04-07-at-13.06.01.jpeg"
+    },
     {
       "title": "Do BBB 26 à vida real: Maxiane estrela editorial, comenta planos e reencontro com Jonas Sulzbach",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/do-bbb-26-a-vida-real-maxiane-estrela-editorial-comenta-planos-e-reencontro-com-jonas-sulzbach.ghtml",
@@ -247,11 +252,6 @@
       "title": "Chaiany conta como foi a recepção dos fãs: 'O povo me ama'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/chaiany-conta-como-foi-a-recepcao-dos-fas-o-povo-me-ama.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/-ChqSKfcg7OPCyM7KIA5qIZrxk8=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/25/83/14498325"
-    },
-    {
-      "title": "Mãe de Chaiany conta reação da neta e opina o que prejudicou a filha no jogo: 'Foi apagando lá dentro'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/mae-de-chaiany-conta-reacao-da-neta-e-opina-o-que-prejudicou-a-filha-no-jogo-foi-apagando-la-dentro.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/3I5QTVqcbq-_R-HeK8nTz2l_dPk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/y/h/Q33jvRTFadvNj4VteBsQ/videoframe-4395972.png"
     }
   ]
 }
