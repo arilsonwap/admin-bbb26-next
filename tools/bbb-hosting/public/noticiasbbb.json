@@ -1,8 +1,23 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-08T22:52:26.723Z",
+  "fetchedAt": "2026-04-08T23:48:35.326Z",
   "lastAddedCount": 3,
   "items": [
+    {
+      "title": "Veja os melhores momentos do Mesacast BBB de quarta-feira (8/4)",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-os-melhores-momentos-do-mesacast-bbb-de-quarta-feira-84.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/OslUe325Lzx71Jfm-wvJUSAyUNA=/540x304/top/smart/http://s2.glbimg.com/TFp4rIA-JD-Zop9lCQDcSYbsBe8=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/86/75/14507586"
+    },
+    {
+      "title": "Leandro Boneco recebe apoio de Juliano Floss: 'Quero muito que você lute ate o final'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/leandro-boneco-recebe-apoio-de-juliano-floss-quero-muito-que-voce-lute-ate-o-final.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/HwqbHdZ8o29W-3TywwBb3zQUi-c=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/45/78/14507845"
+    },
+    {
+      "title": "Samira fala do Paredão com Jordana no BBB 26: 'Achei que ela ia sair'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/mesacast-bbb/noticia/samira-fala-do-paredao-com-jordana-no-bbb-26-achei-que-ela-ia-sair.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/AVCG6Muc9gz-TUx0h5gnnsnuFyg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/11/76/14507611"
+    },
     {
       "title": "Samira comenta memes e surpresa com seguidores após BBB 26: 'Não imaginava receber tanto carinho'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/samira-comenta-memes-e-surpresa-com-seguidores-apos-bbb-26-nao-imaginava-receber-tanto-carinho.ghtml",
@@ -237,21 +252,6 @@
       "title": "Que horas começa o BBB 26 hoje, quarta (8)?",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/que-horas-comeca-o-bbb-26-hoje-quarta-8.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/ueAaEDH0S3BFeSFhjKTNIeFrGUo=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/z/5/bFmKNzQD69LpdzNLal4A/whatsapp-image-2026-04-01-at-22.47.36.jpeg"
-    },
-    {
-      "title": "Jordana e Marciele voltam do Paredão: veja a pontuação da dupla no Cartola BBB",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/jordana-e-marciele-voltam-do-paredao-veja-a-pontuacao-da-dupla-no-cartola-bbb-1.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/t55cbP84Q8g_f3OegOFg_TiS0iw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Z/p/Yt7NCKQcWAL492kT2LLw/fotojet-3-.jpg"
-    },
-    {
-      "title": "Após Eliminação de Samira, Milena reafirma voto em Jordana: 'Vou em cima, continuo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/apos-eliminacao-de-samira-milena-reafirma-voto-eu-vou-em-cima-continuo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/TnxNnsJSez2qR0NpGMzVQY8QJPQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/58/46/14504658"
-    },
-    {
-      "title": "Jonas Sulzbach e Alberto Cowboy comemoram saída de Samira; veja estas e outras reações",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/web-reage-a-saida-de-samira-no-bbb-26-e-jonas-sulzbach-comemora-finalmente.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/rfydLyMn0Vnf8AgtI50pnFHbjkU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/g/J/TA0QyAQSS8aaP9hG60Og/web-reage-a-saida-de-samira-no-bbb-26.png"
     }
   ]
 }
