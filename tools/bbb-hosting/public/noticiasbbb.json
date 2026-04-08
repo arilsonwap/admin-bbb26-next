@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-08T08:17:15.300Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-04-08T09:39:58.184Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Bate-Papo BBB: Gil do Vigor e Ceci Ribeiro receberam Samira, a 13ª Eliminada do BBB 26; veja como foi!",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/ao-vivo/bate-papo-bbb-gil-do-vigor-e-ceci-ribeiro-conversam-com-a-13-eliminada-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/SzWicC0I6X0v1hWH6dEPxeBfsuw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/47/47/14504747"
+    },
+    {
+      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de quarta-feira, 8/4",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-quarta-feira-84.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/9AxYMurSPqTviZqWoLVCy3JPMKA=/540x304/top/smart/http://s2.glbimg.com/_-2xIySVhIrecNysAQYlcioQL4A=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/42/47/14504742"
+    },
     {
       "title": "Choro, presente e desculpas: veja a reação dos participantes após Eliminação de Samira no BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/choro-presente-e-desculpas-veja-a-reacao-dos-participantes-apos-eliminacao-de-samira-no-bbb-26.ghtml",
@@ -27,11 +37,6 @@
       "title": "Ana Paula Renault diz que Milena não quer papo, e Juliano Floss opina: 'Não tem maturidade'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-fala-sobre-silencio-de-milena-e-juliano-floss-opina-nao-tem-essa-maturidade.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/GVMcy3kvojrtQBQ-IFaXYk8Cwxg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/44/47/14504744"
-    },
-    {
-      "title": "Bate-Papo BBB: Gil do Vigor e Ceci Ribeiro receberam Samira, a 13ª Eliminada do BBB 26; veja como foi!",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/ao-vivo/bate-papo-bbb-gil-do-vigor-e-ceci-ribeiro-conversam-com-a-13-eliminada-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/UcsNopcEohtYXD2qq2THXkmBuZI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/55/11265566"
     },
     {
       "title": "Samira chora ao reencontrar irmã após Eliminação do BBB 26: 'Eu te amo muito'",
@@ -247,11 +252,6 @@
       "title": "Marciele se desculpa com Jordana, mas afirma: 'Não gosto do jeito que você fala comigo'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/marciele-se-desculpa-com-jordana-mas-afirma-nao-gosto-do-jeito-que-voce-fala-comigo.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/RJ0EDrEQAzPj3p8Gk66DWO0-O1w=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/52/11/14501152"
-    },
-    {
-      "title": "Confira os melhores momentos do Big Show de segunda-feira, 6/4",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/confira-os-melhores-momentos-do-big-show-de-segunda-feira-64.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/pZizer--D_81ZQyQ0RzsoX9tdkc=/540x304/top/smart/http://s2.glbimg.com/v9mb1AkTrFJCpuriRYc1RPMLjEE=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/41/11/14501141"
     }
   ]
 }
