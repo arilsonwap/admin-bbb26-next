@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-08T19:51:38.477Z",
-  "lastAddedCount": 3,
+  "fetchedAt": "2026-04-08T20:55:21.308Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Leandro Boneco retorna à casa do BBB 26 após atendimento médico: 'Tudo certo'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/leandro-boneco-retorna-a-casa-do-bbb-26-apos-atendimento-medico-tudo-certo.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/lwsOgQOWf_tSEM9-EIIZ0XF1Y1w=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/99/71/14507199"
+    },
     {
       "title": "Jordana aponta 'erro' de aliadas e analisa grupo rival: 'Eles não deixam sair da redoma'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-aponta-erro-de-aliadas-e-analisa-grupo-rival-eles-nao-deixam-sair-da-redoma.ghtml",
@@ -247,11 +252,6 @@
       "title": "Ana Paula Renault revela decisão de não ser mãe: 'Não tive coragem de me aventurar'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-revela-decisao-de-nao-ser-mae-nao-tive-coragem-de-me-aventurar-nessa-historia.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/QLF5ALELtz6QvDxYXqhbiFSMiBc=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/46/37/14503746"
-    },
-    {
-      "title": "Tadeu Schmidt recria bordões de Chaiany no BBB 26 e brinca: 'Prô prô te ama!'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/tadeu-schmidt-recria-bordoes-de-chaiany-no-bbb-26-e-brinca-pro-pro-te-ama.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/QqXCIZdfIlHplhtJu1rBtgYlqNE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/P/R/vmhFJ5SCOTrZf9QNIrOA/whatsapp-image-2026-04-05-at-23.38.49.jpeg"
     }
   ]
 }
