@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-09T18:38:24.175Z",
+  "fetchedAt": "2026-04-09T19:50:45.211Z",
   "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Nova temporada de Os Outros estreia no Globoplay e brothers assistem ao 1º episódio no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/nova-temporada-de-os-outros-estreia-no-globoplay-e-brothers-assistem-ao-1o-episodio-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/kUq5Sjd0iaCL5Pe5lQ9flGVBht0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/5/M/z6AIwOSS6EN1xAd6hfxQ/prefixo-bbb-090426-162515.jpg"
+    },
+    {
+      "title": "Janela de escalação para 13ª rodada do Cartola BBB fecha nesta quinta (9)",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/janela-de-escalacao-para-13a-rodada-do-cartola-bbb-fecha-nesta-quinta-9.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/Lr19fJ1cx-M0Q-4RNqdW_54RYy8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/S/P/UUdbPBSNGLjpAgFLqzdQ/tadeu-bbb.jpg"
+    },
     {
       "title": "Brothers celebram Festa em grande estilo com Gloria Groove no BBB 26; veja os registros!",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/brothers-celebram-festa-em-grande-estilo-com-gloria-groove-no-bbb-26-veja-os-registros.ghtml",
@@ -242,16 +252,6 @@
       "title": "Vídeos do Raio-X de quarta, 8/4, do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-quarta-84-do-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/WtNLS8lZ23v8zII0Y6E0__kel18=/540x304/top/smart/http://s2.glbimg.com/RLETL4ai2uzVyfKORKxtgNAhTx0=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/08/57/14505708"
-    },
-    {
-      "title": "Está aberta a rodada 13 do Cartola BBB; última a valer pontos para o ranking de premiação",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/rodada-13-do-cartola-bbb-esta-aberta-ultima-a-valer-pontos-para-o-ranking-de-premiacao.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/IMg98XTE7P8LMA4y5sg1lOElC2g=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/U/A/8W97BRQyeJO3T9HkfNxA/20260107-bbb26-fr-088.jpg"
-    },
-    {
-      "title": "Samira revê briga com Juliano Floss e cita arrependimento: 'Não deveria ter feito isso'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/samira-reve-briga-com-juliano-floss-e-cita-arrependimento-nao-deveria-ter-feito-isso.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/53lGNHIyauMLg6V44jdnISQVkdY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/77/55/14505577"
     }
   ]
 }
