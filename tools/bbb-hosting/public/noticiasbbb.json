@@ -1,8 +1,23 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-09T14:46:13.234Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-04-09T16:08:19.456Z",
+  "lastAddedCount": 3,
   "items": [
+    {
+      "title": "Milena especula sobre Botão Misterioso, e Juliano Floss relembra: 'Você ganhou a informação'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-especula-sobre-botao-misterioso-e-juliano-floss-relembra-voce-ganhou-a-informacao.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/zSw3SnUq3GAYk-R0RwtxG3b02ho=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/16/94/14509416"
+    },
+    {
+      "title": "Eliminado do BBB 26, Alberto Cowboy solta a voz em encontro com o ex-jogador Vampeta",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/fora-da-casa-alberto-cowboy-solta-a-voz-em-encontro-com-o-ex-jogador-vampeta.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/vBYuMw8KYP4iITG-qnui1Tb58oM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/91/92/14509291"
+    },
+    {
+      "title": "Milena aperta Botão Misterioso no BBB 26 e terá que decidir quem vai dar o Contragolpe",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-aperta-botao-misterioso-no-bbb-26-e-tera-que-decidir-quem-vai-dar-o-contragolpe.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/dZ23ed0p5fOm2Uirzm59LoyrVkk=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/98/93/14509398"
+    },
     {
       "title": "Botão Misterioso já está no gramado do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/botao-misterioso-ja-esta-no-gramado-do-bbb-26.ghtml",
@@ -237,21 +252,6 @@
       "title": "Marciele tenta se explicar para Gabriela, que reage: 'Paciência e respeito são o mínimo'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/marciele-tenta-se-explicar-para-gabriela-que-reage-paciencia-e-respeito-e-o-minimo.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/3zdr4TWzIrMY7o8B8OSVQacJSQ8=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/08/56/14505608"
-    },
-    {
-      "title": "Samira repercute 'fake news' que espalhou no BBB 26: 'Ferrou'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/samira-repercute-fake-news-que-espalhou-no-bbb-26-ferrou.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/5QvIUq9VJjvZ0qIFMfe1pzuj9qM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/24/55/14505524"
-    },
-    {
-      "title": "Samira brinca sobre ter namorado: 'Sempre quis, mas ninguém quis'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/samira-brinca-sobre-ter-namorado-sempre-quis-mas-ninguem-quis.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/4eBhjarivHlP4E30KHhqVU7lRnU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/l/n/PmzpMxSAamZwjxJhyGeg/whatsapp-image-2026-04-08-at-10.42.31.jpeg"
-    },
-    {
-      "title": "Samira celebra prêmios no BBB 26 e brinca: 'Tem que limpar o nome primeiro'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/samira-celebra-premios-no-bbb-26-e-brinca-tem-que-limpar-o-nome-primeiro.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/m_LzzY0M39PBKg6pFU73265QnX4=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/05/55/14505505"
     }
   ]
 }
