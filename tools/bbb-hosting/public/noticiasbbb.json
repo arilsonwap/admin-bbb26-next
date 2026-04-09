@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-09T10:38:46.732Z",
-  "lastAddedCount": 3,
+  "fetchedAt": "2026-04-09T11:38:41.358Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Cartola BBB: Samira faz previsões, exalta aliada e aponta rival como alvo da casa",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-samira-faz-previsoes-exalta-aliada-e-aponta-rival-como-alvo-da-casa.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/ZNidzk0IApF3zTioPBJ5GM_o_nc=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/v/Q/clkJFPQVabn3QXRboV8w/fotojet-7-.jpg"
+    },
     {
       "title": "Resumo do BBB 26 hoje: madrugada de Festa tem voto de Gloria Groove, alfinetada em Ana Paula e 'jogo arriscado'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-de-festa-tem-voto-de-gloria-groove-alfinetada-em-ana-paula-e-jogo-arriscado.ghtml",
@@ -247,11 +252,6 @@
       "title": "Resumo BBB 26: veja os vídeos do dia 8/4/2026 – Click BBB",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/resumo-bbb-26-veja-os-videos-do-dia-842026-click-bbb.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/E6roA4JwmUvvJQYJqj_vR2Zwer8=/540x304/top/smart/http://s2.glbimg.com/_laJKFaGWuXcix6obSgz1ZsANQA=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/59/47/14504759"
-    },
-    {
-      "title": "Samira avalia trajetória no BBB 26: 'Estou em paz. Fui eu o tempo todo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/samira-toma-cafe-com-ana-maria-braga-apos-eliminacao-no-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/37FiMmskpPzz2eVtxSuhVIwhR6I=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/p/f/vXRmOWTfSAjx1XwXST1g/samira.jpeg"
     }
   ]
 }
