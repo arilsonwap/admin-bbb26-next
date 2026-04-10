@@ -1,8 +1,23 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-10T23:06:53.128Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-10T23:52:17.563Z",
+  "lastAddedCount": 3,
   "items": [
+    {
+      "title": "Veja os melhores momentos do Mesacast BBB de sexta-feira (10/4)",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-os-melhores-momentos-do-mesacast-bbb-de-sexta-feira-104.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/d2jQnYWP_kahokhmXk6nnPG8jNQ=/540x304/top/smart/http://s2.glbimg.com/lkJUi9zK-bhWw5iz50BxIm_kauQ=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/57/49/14514957"
+    },
+    {
+      "title": "Vivian Amorim relembra participação do BBB 17 e agradece experiência: 'Viveria tudo isso de novo'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/mesacast-bbb/noticia/vivian-amorim-relembra-participacao-do-bbb-17-e-agradece-experiencia-viveria-tudo-isso-de-novo.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/bbYmv2Yj8dRuKivFXuRoqwVcjbQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/m/W/jYX5jVSlqsCPCGLU6xUw/mesacast-limpo-10042026-190000-frame-147675.jpeg"
+    },
+    {
+      "title": "Jordana cumpre Castigo do Monstro no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-cumpre-castigo-do-monstro-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/9PsIn85vt0KFfsjcYBJaSPaEP4s=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/87/49/14514987"
+    },
     {
       "title": "Marciele e Jordana se desentendem sobre papo com rivais, e paraense diz: 'Insuportável'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/durante-discussao-jordana-diz-que-nao-esta-com-paciencia-e-marciele-concorda-insuportavel.ghtml",
@@ -237,21 +252,6 @@
       "title": "Leandro aconselha Milena sobre possível dupla para prova, e sister reage: 'Não aguenta resistência'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/leandro-aconselha-milena-sobre-possivel-dupla-para-prova-e-sister-reage-nao-aguenta-resistencia.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/dOHLu7Fz4aG9038v7xCn-FQDUcs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/4/M/puwr7uRuSOF9tA17sdxg/prefixo-bbb-090426-213524.jpg"
-    },
-    {
-      "title": "Veja os melhores momentos do Mesacast BBB de quinta-feira (9/4)",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-os-melhores-momentos-do-mesacast-bbb-de-quinta-feira-94.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Al8ssW1OrF3I-U3jNJbCroqD1J4=/540x304/top/smart/http://s2.glbimg.com/vMiYF6Io2OQmhlT-WuNY1PFnFdY=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/29/13/14511329"
-    },
-    {
-      "title": "Juliano relembra início de namoro com Marina Sena em camping de criação: 'A música é total nós dois'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-revela-detalhes-sobre-o-camping-de-composicao-do-album-coisas-naturais-de-marina-sena.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Ng_1HDxjd8ESzsDaEGMNC_rS_yQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/37/11/14511137"
-    },
-    {
-      "title": "Gabriela reclama de Jordana em papo sobre indicações: 'Me senti encurralada'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/gabriela-reclama-de-atitude-de-jordana-que-rebate-querendo-criar-essas-situacoes-para-o-meu-lado.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/nG45vr7fFy8k7SWc1piIBNXDxm0=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/13/10/14511013"
     }
   ]
 }
