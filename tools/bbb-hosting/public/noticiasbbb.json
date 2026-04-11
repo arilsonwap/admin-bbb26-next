@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-11T16:19:16.261Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-11T17:01:57.786Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Marciele analisa jogo de sister com Gabriela: ‘Ela fala como se a gente fosse inimiga’",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/marciele-analisa-jogo-de-sister-com-gabriela-ela-fala-como-se-a-gente-fosse-inimiga.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/d8Cml-sKQzl_wd4_r-Dr5Y0LVtY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/24/61/14516124"
+    },
+    {
+      "title": "Ana Paula Renault e Juliano Floss fazem plano contra Jordana no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-e-juliano-floss-fazem-plano-contra-jordana-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/EsH9Q3v8KHpNSXXFk0dXHJC0njE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/B/o/MjMxFURpGRd1ZN05jZZg/pgm-b-11042026-130000-frame-19381.jpeg"
+    },
     {
       "title": "Vídeos do Raio-X de sábado, 11/4, do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-sabado-114-do-bbb-26.ghtml",
@@ -242,16 +252,6 @@
       "title": "BBB 26: Modo Turbo traz mudanças na programação deste domingo (12); saiba mais!",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/bbb-26-modo-turbo-traz-mudancas-na-programacao-deste-domingo-12-saiba-mais.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/kJeyusnRu9vd75m2mmlTZwMZgx8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/4/U/18MAHfToKrm08Hky0QAA/whatsapp-image-2026-04-08-at-23.51.04.jpeg"
-    },
-    {
-      "title": "Ana Paula Renault comenta postura de Gabriela no BBB 26: 'A gata joga'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-comenta-postura-de-gabriela-no-bbb-26-a-gata-joga.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Bwlnca35VkvaOtzzyF3h5MYqGac=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/94/33/14513394"
-    },
-    {
-      "title": "Brothers fazem o último Mercado VIP e Xepa do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/brothers-fazem-o-ultimo-mercado-vip-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/NhG5L9CgCwPlkP-UOewJRQk6WtQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/57/27/14512757"
     }
   ]
 }
