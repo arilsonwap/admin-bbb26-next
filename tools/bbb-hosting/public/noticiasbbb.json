@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-11T21:20:45.055Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-11T21:58:06.100Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Juliano Floss chama Milena para ver Ana Paula Renault dormindo na cama de sua rival",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-chama-milena-para-ver-ana-paula-renault-dormindo-na-cama-de-sua-rival.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/YWlE-ReVcJdLzFD24YukFQfQEg4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/s/l/NeN9yzS8a5zkIshqhABQ/prefixo-bbb-110426-184158.jpg"
+    },
     {
       "title": "Brigido encontra Belo e se declara: 'Ele sempre foi meu artista favorito'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/brigido-encontra-belo-e-se-declara-ele-sempre-foi-meu-artista-favorito.ghtml",
@@ -247,11 +252,6 @@
       "title": "Jordana recebe Castigo do Monstro pela segunda vez no BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/prova-do-anjo/noticia/jordana-recebe-castigo-do-monstro-no-bbb-26-1.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/rXRNSOwxDlLQ1Ql5hl2QWcTJ_vQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/35/42/14514235"
-    },
-    {
-      "title": "Raio-X: Juliano Floss repercute segunda liderança seguida e Jordana pensa em próximo Paredão",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/raio-x-juliano-floss-repercute-segunda-lideranca-seguida-e-jordana-pensa-em-proximo-paredao.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/YsJ3posnjTJDE_Q0u-_oGDoH-Xk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/e/V/B1wfYSTQA6Mk15BFImOA/colagens-gshow-52-.png"
     }
   ]
 }
