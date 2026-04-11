@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-11T13:21:57.815Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-11T14:08:04.830Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "De 'quinta série' a 'panquequinha', relembre os apelidos dos brothers no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/de-quinta-serie-a-panquequinha-relembre-os-apelidos-dos-brothers-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/yaCccr8ILfkkUhjlTnJBSkowJJs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/2/D/88FH0nSg2zvgZJNVNTsw/apelidos-bbb.jpg"
+    },
     {
       "title": "Resumo do BBB 26 hoje: madrugada tem plano de Jordana contra os 'Eternos', 'fofoca' de Milena e análise de Ana Paula",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-plano-de-jordana-contra-os-eternos-fofoca-de-milena-e-analise-de-ana-paula.ghtml",
@@ -247,11 +252,6 @@
       "title": "Após memes com Malhação, Samira revela interesse em atuar: 'Curiosa para esse novo mundo'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/apos-memes-com-malhacao-samira-revela-interesse-em-carreira-como-atriz-curiosa-para-esse-novo-mundo.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/a-xJSEPiwbY1tIL1tIgQrmKMu2Y=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/M/A/xO2mSdTyKl72gSMZJgdg/samira-carreira.jpg"
-    },
-    {
-      "title": "Marcelo e Breno posam juntos para ensaio e comentam status de relação após BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/marcelo-e-breno-posam-juntos-para-ensaio-e-comentam-status-de-relacionamento-apos-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/dBCdrpOQaY_EZDgizFEioEPCm14=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/1/W/rQFbZoRjAQnkuBh7eTyQ/marcelo-breno-trumpas.jpg"
     }
   ]
 }
