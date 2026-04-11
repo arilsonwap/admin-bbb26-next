@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-11T05:01:55.934Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-04-11T06:12:28.025Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Jordana planeja acender luzes do quarto de adversários durante Castigo do Monstro: 'Vamos perturbar'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-planeja-acender-luzes-do-quarto-de-adversarios-durante-castigo-do-monstro-vamos-perturbar.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/50GHh0av36x5cLpC62u_MixooWk=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/89/55/14515589"
+    },
     {
       "title": "Vídeos do BBB 26 de sábado, 11/4",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-de-sabado-114.ghtml",
@@ -247,11 +252,6 @@
       "title": "Juliano Floss propõe estratégia para ajudar Leandro Boneco: 'É um ponto que muda tudo'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-comenta-sobre-possivel-alvo-para-ajudar-leandro-boneco-falou-que-eu-nao-ganhava.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/Ht7MDYUPWnpIdIVYFOrYfVShMsg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/54/18/14511854"
-    },
-    {
-      "title": "Juliano Floss e Ana Paula Renault avaliam cenários para eliminar sister: 'Narrativa de perseguida'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/juliano-floss-analisa-paredao-que-possa-eliminar-jordana-e-opina-narrativa-de-perseguida.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Jf4KBnI3omlNY5rDhy_8iXFBSSE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/52/18/14511852"
     }
   ]
 }
