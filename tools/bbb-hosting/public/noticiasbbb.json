@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-11T10:52:10.020Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-11T11:37:51.510Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Resumo do BBB 26 hoje: madrugada tem plano de Jordana contra os 'Eternos', 'fofoca' de Milena e análise de Ana Paula",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-plano-de-jordana-contra-os-eternos-fofoca-de-milena-e-analise-de-ana-paula.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/xAL34cvqZJSNc3ozFBTpYOjYilE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/y/5/tZYMOtSCOEMEaMKctBKw/bbb26.jpeg"
+    },
     {
       "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de sábado - 11/4",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-sabado-114.ghtml",
@@ -247,11 +252,6 @@
       "title": "Marcelo e Breno posam juntos para ensaio e comentam status de relação após BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/marcelo-e-breno-posam-juntos-para-ensaio-e-comentam-status-de-relacionamento-apos-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/dBCdrpOQaY_EZDgizFEioEPCm14=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/1/W/rQFbZoRjAQnkuBh7eTyQ/marcelo-breno-trumpas.jpg"
-    },
-    {
-      "title": "Resumo BBB 26 hoje: madrugada tem segredo de Milena revelado, indicação de Juliano e presente para rivais",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-bbb-26-hoje-madrugada-tem-segredo-de-milena-revelado-indicacao-de-juliano-e-presente-para-rivais.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/cw-GCVdnRQciWPYbOKantRnuXyk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/F/A/NyBMMuSXeZ09G1LL8kEg/whatsapp-image-2026-04-10-at-06.36.59.jpeg"
     }
   ]
 }
