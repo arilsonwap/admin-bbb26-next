@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-12T14:29:37.225Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-04-12T15:09:31.046Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Anitta, Ivete Sangalo, Thiaguinho e mais: relembre os shows que marcaram o BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/anitta-ivete-sangalo-thiaguinho-e-mais-relembre-os-shows-que-marcaram-o-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/aGVnemlrfhp_AhZJLvYsXNcQpww=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/q/D/h9Bn5eRMCgXzQXypHMRw/capa.jpg"
+    },
+    {
+      "title": "Vídeos do Raio-X de domingo, 12/4, do BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-domingo-124-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/F_yd6KN3rY7niBlerkGT4EuvqZs=/540x304/top/smart/http://s2.glbimg.com/_NsoAo0YCJC0rSvcmd00aDeXCjQ=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/96/79/14517996"
+    },
     {
       "title": "Resumo BBB 26: veja os vídeos do dia 12/4/2026 – Click BBB",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/resumo-bbb-26-veja-os-videos-do-dia-1242026-click-bbb.ghtml",
@@ -242,16 +252,6 @@
       "title": "Jordana planeja acender luzes do quarto de adversários durante Castigo do Monstro: 'Vamos perturbar'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-planeja-acender-luzes-do-quarto-de-adversarios-durante-castigo-do-monstro-vamos-perturbar.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/50GHh0av36x5cLpC62u_MixooWk=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/89/55/14515589"
-    },
-    {
-      "title": "Vídeos do BBB 26 de sábado, 11/4",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-de-sabado-114.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/JTZ69Uj1PsrWmg44acapHlf4OaE=/540x304/top/smart/http://s2.glbimg.com/cuwPjdMEszqckAemkRpjhkP-cGE=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/47/55/14515547"
-    },
-    {
-      "title": "Cartola BBB: entenda a pontuação dos participantes que não estão no 15º Paredão",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-entenda-a-pontuacao-dos-participantes-que-nao-estao-no-15o-paredao.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/BjJtx8-Gab2Pcqt-cqbj3OG0KJk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/d/i/dh38CeRkOxcLh2Kz3EYA/prefixo-bbb-100426-230917.jpg"
     }
   ]
 }
