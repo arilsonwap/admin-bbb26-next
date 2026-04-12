@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-12T05:46:23.958Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-12T06:59:57.372Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Emparedada, Marciele recebe apoio de Jordana e responde: 'Forte como uma castanheira'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/emparedada-marciele-recebe-apoio-de-jordana-e-responde-forte-como-uma-castanheira.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/ThtsgC9LOVT-BXgh2U_detDrJmg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/S/h/Dl1L96RSO5TCvtDnQLwQ/prefixo-bbb-120426-022534.jpg"
+    },
+    {
+      "title": "Chaiany revela planos para a carreira e avalia fama após BBB 26: 'Ser amada é melhor do que dinheiro'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/chaiany-abre-planos-de-carreira-e-avalia-fama-apos-bbb-26-ser-amada-e-melhor-do-que-dinheiro.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/FRxWr7HVOQXq2RUlUE1RzyqwyPI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/h/y/RO46S2TQq2VT8t8kwaJg/capa.jpg"
+    },
     {
       "title": "'Crossover de BBB 26 e Três Graças': público elogia Festa com Xamã, Negra Li e Alana Cabral",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/crossover-de-bbb-26-e-tres-gracas-publico-elogia-festa-com-participacao-de-xama-negra-li-e-alana-cabral.ghtml",
@@ -242,16 +252,6 @@
       "title": "Veja como foi formado o 15º Paredão do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-como-foi-formado-o-15-paredao-do-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/Ql72I6ejyltC1upyav9qUKIqmX0=/540x304/top/smart/http://s2.glbimg.com/FFNUGp1djCAbnhkG3gmNutcA8fg=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/55/54/14515455"
-    },
-    {
-      "title": "Veja os melhores momentos do Mesacast BBB de sexta-feira (10/4)",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-os-melhores-momentos-do-mesacast-bbb-de-sexta-feira-104.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/d2jQnYWP_kahokhmXk6nnPG8jNQ=/540x304/top/smart/http://s2.glbimg.com/lkJUi9zK-bhWw5iz50BxIm_kauQ=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/57/49/14514957"
-    },
-    {
-      "title": "Vivian Amorim relembra participação do BBB 17 e agradece experiência: 'Viveria tudo isso de novo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/mesacast-bbb/noticia/vivian-amorim-relembra-participacao-do-bbb-17-e-agradece-experiencia-viveria-tudo-isso-de-novo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/bbYmv2Yj8dRuKivFXuRoqwVcjbQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/m/W/jYX5jVSlqsCPCGLU6xUw/mesacast-limpo-10042026-190000-frame-147675.jpeg"
     }
   ]
 }
