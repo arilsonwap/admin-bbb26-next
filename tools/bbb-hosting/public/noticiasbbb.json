@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-12T23:00:16.130Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-04-12T23:49:14.084Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Bate-Papo BBB: Gil do Vigor e Ceci Ribeiro receberam Marciele, a 14ª Eliminada do BBB 26; veja como foi!",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/ao-vivo/bate-papo-bbb-gil-do-vigor-e-ceci-ribeiro-conversam-com-a-14-pessoa-eliminada-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/UcsNopcEohtYXD2qq2THXkmBuZI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/55/11265566"
+    },
+    {
+      "title": "Marciele chora com recado de Isabelle Nogueira no Bate-Papo BBB: 'De Cunhã para Cunhã'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/noticia/marciele-chora-com-recado-de-isabelle-nogueira-de-cunha-para-cunha.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/nTxXtJpBl9UbeWqbn__DgvXIdcM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/52/85/14518552"
+    },
     {
       "title": "Marciele manda recado para Jordana: 'Não quero ser sua amiga'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/noticia/marciele-manda-recado-para-jordana-nao-quero-ser-sua-amiga.ghtml",
@@ -22,11 +32,6 @@
       "title": "Veja a reação de Marciele ao assistir vídeo de Jordana no edredom com Jonas Sulzbach",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/noticia/veja-a-reacao-de-marciele-ao-assistir-video-de-jordana-no-edredom-com-jonas-sulzbach.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/CM5Fphd5IHUaSyGndiRmtggZtuU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/84/14518466"
-    },
-    {
-      "title": "Bate-Papo BBB: Gil do Vigor e Ceci Ribeiro conversam com Marciele, a 14ª Eliminada do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/ao-vivo/bate-papo-bbb-gil-do-vigor-e-ceci-ribeiro-conversam-com-a-14-pessoa-eliminada-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/UcsNopcEohtYXD2qq2THXkmBuZI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/55/11265566"
     },
     {
       "title": "Marciele fica chocada ao assistir a vídeo com comentários de Jordana: 'Me doeu'",
@@ -247,11 +252,6 @@
       "title": "Jordana diz que Ana Paula a 'imitou': 'Achei que tivesse mais personalidade'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-alfineta-ana-paula-renault-no-bbb-26-achei-que-tivesse-mais-personalidade.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/Bb-Px_GZ38JxmZNQMFT7TxsstzQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/15/72/14517215"
-    },
-    {
-      "title": "Jordana encontra Ana Paula Renault deitada debaixo de edredom: 'Que susto!'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-encontra-ana-paula-renault-deitada-debaixo-de-edredom-e-diz-que-susto.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/u4RZATmW0gc-awWwEPR1hGKN4so=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/10/72/14517210"
     }
   ]
 }
