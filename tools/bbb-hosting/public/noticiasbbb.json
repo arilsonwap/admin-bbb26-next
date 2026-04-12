@@ -1,8 +1,23 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-12T16:51:06.353Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-04-12T17:42:25.524Z",
+  "lastAddedCount": 3,
   "items": [
+    {
+      "title": "Milena se surpreende com número de vacilos de Gabriela e teme que a casa vá para o Tá Com Nada",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-se-surpreende-com-numero-de-vacilos-de-gabriela-e-teme-que-a-casa-va-para-o-ta-com-nada.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/w5oxHF-yACl5XW-oPrVUNMdlocM=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Y/4/nGLtzYT7CB1qlH3xd07Q/pgm-a-12042026-130000-frame-89782.jpeg"
+    },
+    {
+      "title": "Gabriela reclama de Ana Paula Renault por uso de máquina de lavar: 'Tem que ter senso'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/gabriela-reclama-de-ana-paula-renault-por-uso-de-maquina-de-lavar-tem-que-ter-senso.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/ZsJAhfzijQO8VpbqLmYMyVqs-ZU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/20/81/14518120"
+    },
+    {
+      "title": "Cinco Casas de Vidro, três Big Fones, Ganha-Ganha e Triângulo de Risco: relembre as novidades do BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/cinco-casas-de-vidro-tres-big-fones-ganha-ganha-e-triangulo-de-risco-relembre-as-novidades-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/iWLnLIbzEzL4Cxfq9P6r2jXX2nU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/B/k/yWC2K6TqiTRtB8fGAmWA/whatsapp-image-2026-04-10-at-10.35.58.jpeg"
+    },
     {
       "title": "Brothers posam com Xamã, Negra Li e Alana Cabral em Festa com tema Três Graças; veja os registros!",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/brothers-posam-com-xama-negra-li-e-alana-cabral-em-festa-com-tema-tres-gracas-veja-os-registros.ghtml",
@@ -237,21 +252,6 @@
       "title": "Resumo do BBB 26 hoje: madrugada tem plano de Jordana contra os 'Eternos', 'fofoca' de Milena e análise de Ana Paula",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-plano-de-jordana-contra-os-eternos-fofoca-de-milena-e-analise-de-ana-paula.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/xAL34cvqZJSNc3ozFBTpYOjYilE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/y/5/tZYMOtSCOEMEaMKctBKw/bbb26.jpeg"
-    },
-    {
-      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de sábado - 11/4",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-sabado-114.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/XL5BDVpndZzuuIzSpzbMz-SAi2g=/540x304/top/smart/http://s2.glbimg.com/F-mU3gV22IeMM7NOyUrlCpNPyEY=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/97/55/14515597"
-    },
-    {
-      "title": "Jordana acende luzes do quarto adversário ao cumprir Castigo do Monstro e ironiza: 'Tem que fazer direitinho'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-acende-luzes-do-quarto-adversario-ao-cumprir-castigo-do-monstro-e-ironiza-tem-que-fazer-direitinho.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/cVAVj1nKwina3sTxaNmfdC3IT20=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/99/55/14515599"
-    },
-    {
-      "title": "Jordana relembra fofoca sobre 'grupão' do BBB 26: 'Não podia ter opinião'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-relembra-fofoca-sobre-grupao-do-bbb-26-nao-podia-ter-opiniao.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/fKNNGYq_ES_LkhlF8XgwSYDxuaE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/97/55/14515597"
     }
   ]
 }
