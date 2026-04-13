@@ -1,17 +1,27 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-13T18:09:23.610Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-04-13T19:40:10.440Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Raio-X do BBB 26: emparedados fazem apelo na reta final, e Leandro Boneco comemora Top 5",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/raio-x-do-bbb-26-emparedados-fazem-apelo-na-reta-final-e-leandro-boneco-comemora-top-5.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/FnvWCu8MbD-8ITB4Y-4Xxa8URvc=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/e/1/YmdxHARfm19AvcxXKvSQ/queridometro-bbb.png"
+    },
+    {
+      "title": "Quem sai do BBB 26 amanhã (14/4)?",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/quem-sai-do-bbb-26-amanha-144.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/UEVHO1F1QBjluvYHnywR0C4MLvs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/77/87/14518777"
+    },
     {
       "title": "Ana Paula Renault planeja mudança de quarto e explica estratégia para Juliano Floss",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-planeja-mudanca-de-quarto-e-explica-estrategia-para-juliano-floss.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/96qWEdlReCn6BvKV5EoHsoQjEiA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/C/m/VKsOCjTJ2Xq0wtMKDjQA/pgm-a-13042026-130000-frame-192180.jpeg"
+      "imageUrl": "https://s2-gshow.glbimg.com/hAhz0uXM4zh_PzskqugME5tzaaU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/11/08/14520811"
     },
     {
       "title": "Ex-BBBs Brunna Gonçalves e Pocah são homenageadas no Jardim BBBotânico dos Estúdios Globo",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/ex-bbbs-brunna-goncalves-e-pocah-sao-homenageadas-no-jardim-bbbotanico-dos-estudios-globo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/pkLQsWKc7zxFKi-mep_TDqVzD3g=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/q/o/SYJA3LSpiU8rj1K4XsfQ/jardim-bbbotanico-globo.jpeg"
+      "imageUrl": "https://s2-gshow.glbimg.com/OseLQDHv0MUyVMs6SuFkCYeawqE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/1/t/I4Xgr5SfesN88BuTniQA/brunna-e-pocah-bbb.jpg"
     },
     {
       "title": "Queridômetro do BBB 26: Após ser escolhido para o VIP, Boneco dispara 'alvo' contra Jordana",
@@ -242,16 +252,6 @@
       "title": "Sonho do Poder: participante vai poder indicar ao Paredão do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/sonho-do-poder-participante-vai-poder-indicar-ao-paredao-do-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/axx79P1zC7fgVOLMA3rUaY2UWmw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/09/83/14518309"
-    },
-    {
-      "title": "Quem saiu do BBB 26? Marciele é a décima quarta eliminada do reality",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/eliminacao/noticia/quem-saiu-do-bbb-26-marciele-e-a-decima-quarta-eliminada-do-reality.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/uuaj1zinteWIaz5IL1CNgpxvE3U=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/M/B/XoxAATTVKTrAJ4EptvzQ/prefixo-bbb-120426-174435.jpg"
-    },
-    {
-      "title": "Vídeos do episódio de 'BBB' de domingo, 12 de abril de 2026",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/episodio/2026/04/12/videos-do-episodio-de-bbb-de-domingo-12-de-abril-de-2026.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/DWV8WzhfkyakWIj-0yIwlsCY1O4=/540x304/top/smart/http://s2.glbimg.com/6YGMxcITBZ3fcsrBbAvCjkFTrrI=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/76/82/14518276"
     }
   ]
 }
