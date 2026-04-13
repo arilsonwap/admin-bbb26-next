@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-13T21:32:55.860Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-13T22:28:47.780Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Participantes celebram lançamento do GloboPop no BBB 26; confira!",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/participantes-vibram-com-coller-e-celebram-globopop-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/NLTO1BgmTH9HkMNf9LP4IuHYguY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/97/17/14521797"
+    },
     {
       "title": "Raio-X do BBB 26: emparedados fazem apelo na reta final, e Leandro Boneco comemora Top 5",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/raio-x-do-bbb-26-emparedados-fazem-apelo-na-reta-final-e-leandro-boneco-comemora-top-5.ghtml",
@@ -247,11 +252,6 @@
       "title": "Dinâmica da Semana tem Sonho do Poder e Eliminação na terça (14)",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/dinamica-da-semana-tem-sonho-do-poder-e-eliminacao-na-terca-14.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/seH6_OauOlwIn9rH_WkO8Y74eCs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/11/83/14518311"
-    },
-    {
-      "title": "Sonho do Poder: participante vai poder indicar ao Paredão do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/sonho-do-poder-participante-vai-poder-indicar-ao-paredao-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/axx79P1zC7fgVOLMA3rUaY2UWmw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/09/83/14518309"
     }
   ]
 }
