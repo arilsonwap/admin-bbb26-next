@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-13T15:46:54.635Z",
-  "lastAddedCount": 7,
+  "fetchedAt": "2026-04-13T16:50:45.352Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Jordana rebate argumento de Ana Paula Renault: 'Tiro saiu pela culatra'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jordana-rebate-argumento-de-ana-paula-renault-tiro-saiu-pela-culatra.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/8_GBQM26_eLyexlC9I5_mv2O9Xk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Z/S/vITZFuSlmdVx6OOaz8Lg/pgm-a-13042026-110000-frame-202642.jpeg"
+    },
     {
       "title": "Samira relembra Raio-X do BBB 26 após perrengue em aeroporto",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/samira-relembra-raio-x-do-bbb-26-apos-perrengue-em-aeroporto.ghtml",
@@ -247,11 +252,6 @@
       "title": "Milena se surpreende com número de vacilos de Gabriela e teme que a casa vá para o Tá Com Nada",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-se-surpreende-com-numero-de-vacilos-de-gabriela-e-teme-que-a-casa-va-para-o-ta-com-nada.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/65D2tjLQNwCZhqUfm6sztbgEm1M=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/47/81/14518147"
-    },
-    {
-      "title": "Gabriela reclama de Ana Paula Renault por uso de máquina de lavar: 'Tem que ter senso'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/gabriela-reclama-de-ana-paula-renault-por-uso-de-maquina-de-lavar-tem-que-ter-senso.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/ZsJAhfzijQO8VpbqLmYMyVqs-ZU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/20/81/14518120"
     }
   ]
 }
