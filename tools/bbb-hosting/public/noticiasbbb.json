@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-16T05:53:36.158Z",
+  "fetchedAt": "2026-04-16T07:59:28.935Z",
   "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Milena diz que quer conhecer Jordana fora do BBB 26: 'Quero saber mais'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/festa/noticia/milena-diz-que-quer-conhecer-jordana-fora-do-bbb-26-quero-saber-mais.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/0hEieTjt9S7mB7hH_xzCcl99epk=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/35/97/14529735"
+    },
     {
       "title": "Vídeos do BBB 26 de quinta-feira, 16/4",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-de-quinta-feira-164.ghtml",
@@ -247,11 +252,6 @@
       "title": "Ana Paula Renault, Jordana e Juliano Floss no Paredão: confira a pontuação do trio no Cartola BBB",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/ana-paula-renault-jordana-e-juliano-floss-no-paredao-confira-a-pontuacao-do-trio-no-cartola-bbb.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/d3cc-Vny9yVlQNb0GduovKPx2Z4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/f/5/hTH1niT3Kq9PN0KQfSRQ/whatsapp-image-2026-04-14-at-23.57.30.jpeg"
-    },
-    {
-      "title": "Gabriela assiste ao vídeo de críticas de aliados e desabafa: 'Fui tonta'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/noticia/gabriela-assiste-ao-video-de-criticas-de-aliados-e-desabafa-fui-tonta.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/e7x52EqrFA3L6Y4AhU0HnfvBK6I=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/53/60/14526053"
     }
   ]
 }
