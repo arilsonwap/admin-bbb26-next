@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-16T22:53:30.370Z",
+  "fetchedAt": "2026-04-16T23:51:59.011Z",
   "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Cartola BBB: veja a lista dos premiados da primeira edição do fantasy game",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-veja-a-lista-dos-premiados-da-primeira-edicao-do-fantasy-game.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/NlgXXCYQKRwwjnVEaTf6kcmjJxE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/d/4/PLSy70QDmT6zm5ignWYA/whatsapp-image-2026-04-09-at-23.12.24.jpeg"
+    },
     {
       "title": "Promessas de 'gritos' e constância: relembre vídeos de apresentação do Top 5 do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/promessas-de-gritos-e-constancia-relembre-videos-de-apresentacao-do-top-5-do-bbb-26.ghtml",
@@ -247,11 +252,6 @@
       "title": "Gabriela confere conversa entre aliados e lamenta: 'Eu era só mais um voto'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/gabriela-confere-conversa-entre-aliados-e-lamenta-eu-era-so-mais-um-voto.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/u6EWgCiLJClAksesEppaJqe_5Kc=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/57/69/14526957"
-    },
-    {
-      "title": "Gabriela fala sobre a relação com a mãe e dificuldade para bancar tratamento da irmã com Espectro Autista",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/gabriela-fala-sobre-a-relacao-com-a-mae-e-dificuldade-para-bancar-tratamento-da-irma-com-espectro-autista.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/r38hhygYEXjeVLUx_5fsmUrhx9o=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/08/69/14526908"
     }
   ]
 }
