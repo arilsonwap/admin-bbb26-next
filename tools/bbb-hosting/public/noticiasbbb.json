@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-16T03:40:44.152Z",
-  "lastAddedCount": 7,
+  "fetchedAt": "2026-04-16T05:53:36.158Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Vídeos do BBB 26 de quinta-feira, 16/4",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-de-quinta-feira-164.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/ByOiPG3rpq1xOFnArRIc90gLlcg=/540x304/top/smart/http://s2.glbimg.com/xJuIS3wqciyd9xMQwJzDgzD3HPw=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/77/96/14529677"
+    },
     {
       "title": "Vídeos do episódio de 'BBB' de quarta-feira, 15 de abril de 2026",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/episodio/2026/04/16/videos-do-episodio-de-bbb-de-quarta-feira-15-de-abril-de-2026.ghtml",
@@ -247,11 +252,6 @@
       "title": "Gabriela assiste ao vídeo de críticas de aliados e desabafa: 'Fui tonta'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/noticia/gabriela-assiste-ao-video-de-criticas-de-aliados-e-desabafa-fui-tonta.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/e7x52EqrFA3L6Y4AhU0HnfvBK6I=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/53/60/14526053"
-    },
-    {
-      "title": "Leandro Boneco inaugura Quarto do Líder e vê foto de Lilica, sua filha: 'Que saudade que papai tá'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/leandro-boneco-inaugura-quarto-do-lider-e-ve-foto-de-lilica-sua-filha-que-saudade-que-papai-ta.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/vzsiaq0mNQ129pZZB2BQI_TDtUk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/c/M/gyDchXQRCNkH1KHGRIdQ/prefixo-bbb-150426-003209.jpg"
     }
   ]
 }
