@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-17T20:31:31.773Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-17T21:26:35.113Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Tadeu Schmidt presta homenagem a seu irmão, Oscar: 'Meu maior ídolo'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/tadeu-schmidt-presta-homenagem-sobre-seu-irmao-oscar-meu-maior-idolo.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/1OWpdWr4h6GNj5hjUv3lgfNJZeI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/B/z/cfPqflRg6y4DwrQXOV5g/captura-de-tela-2026-04-17-181931.png"
+    },
     {
       "title": "Cartola BBB: veja qual brother somou mais pontos no item Prova do Líder",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-veja-qual-brother-somou-mais-pontos-no-item-prova-do-lider.ghtml",
@@ -246,11 +251,6 @@
       "title": "Resumo BBB 26: veja os vídeos do dia 16/4/2026 – Click BBB",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/resumo-bbb-26-veja-os-videos-do-dia-1642026-click-bbb.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/IDI4uZbwrfNWC0kyzc-wPBhmU5w=/540x304/top/smart/http://s2.glbimg.com/ZSiNY3ptx0-BlHTGBZIZtIWVP9I=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/90/97/14529790"
-    },
-    {
-      "title": "BBB 26: após conversa, Jordana manda 'coração', e Milena responde com 'vômito' no Queridômetro",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/bbb-26-apos-conversa-jordana-manda-coracao-e-milena-responde-com-vomito-no-queridometro.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/QPxuyDPgD7dqQsYvGj6e2KdUn4I=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/m/b/XTNtuWRxuhs4RwFcd1kg/fotojet-40-.jpg"
     }
   ]
 }
