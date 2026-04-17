@@ -1,8 +1,23 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-17T18:35:29.233Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-17T19:44:58.149Z",
+  "lastAddedCount": 3,
   "items": [
+    {
+      "title": "Cartola BBB: veja qual brother somou mais pontos no item Prova do Líder",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-veja-qual-brother-somou-mais-pontos-no-item-prova-do-lider.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/GKtngrqE6z24gzL7mQO9-FlcTUk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/6/Y/sfiQJ9ShqIjHhQ5fGeQQ/pgm-a-06032026-130000-frame-82723.jpeg"
+    },
+    {
+      "title": "Eita, Brasil! Gil do Vigor monta “Dream Team” do BBB com nomes icônicos (e polêmicos)",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/ep/ifood/noticia/eita-brasil-gil-do-vigor-monta-dream-team-do-bbb-com-nomes-iconicos-e-polemicos.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/cFi44pKXWW5zva72wqUATy9zVUU=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/07/56/14535607"
+    },
+    {
+      "title": "Jordana e Maxiane se reencontram após Eliminação da advogada no BBB 26: 'Tudo fica no jogo'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/jordana-e-maxiane-se-reencontram-apos-eliminacao-da-advogada-no-bbb-26-tudo-fica-no-jogo.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/kzuTwvkbYqJq98mge2b3N34ee-E=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/q/O/vxQx31SZAotU1WbXgvSg/jordana-maxi.jpg"
+    },
     {
       "title": "Juliano Floss fala sobre brother no BBB 26: 'Nunca foi um 'eterno''",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-e-juliano-comentam-atitude-de-milena-e-jogo-de-leandro-nunca-foi-um-eterno.ghtml",
@@ -236,21 +251,6 @@
       "title": "BBB 26: após conversa, Jordana manda 'coração', e Milena responde com 'vômito' no Queridômetro",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/bbb-26-apos-conversa-jordana-manda-coracao-e-milena-responde-com-vomito-no-queridometro.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/QPxuyDPgD7dqQsYvGj6e2KdUn4I=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/m/b/XTNtuWRxuhs4RwFcd1kg/fotojet-40-.jpg"
-    },
-    {
-      "title": "Gabriela abre o coração sobre carreira, estudos e novo sonho: 'Dar uma casa para minha mãe'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/gabriela-revela-planos-para-carreira-estudos-e-seus-novos-objetivos-sonho-de-dar-uma-casa-para-minha-mae.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/DDkWMbtNdX98XtNvCc6GoMOVGXA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/73/10/14531073"
-    },
-    {
-      "title": "Marciele mostra reencontro com Gabriela após Eliminação do BBB 26: 'Minha panquequinha'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/marciele-mostra-reencontro-com-gabriela-apos-eliminacao-do-bbb-26-minha-panquequinha.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/UjOasVLSshx9JDKaBPBkUPnpVPI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/0/0/2ZlATXSaSwZn1kvYppNA/marciele-gabi-bbb.jpg"
-    },
-    {
-      "title": "Vídeos do Raio-X de quinta, 16/4, do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-quinta-164-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/PB0YjDkC1U8CDyw_Iao1yF1m5wQ=/540x304/top/smart/http://s2.glbimg.com/O6PTWc_r3_w6S_gdcVVEu6M_SKs=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/32/05/14530532"
     }
   ]
 }
