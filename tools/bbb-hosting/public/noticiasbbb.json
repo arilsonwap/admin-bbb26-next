@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-18T10:53:56.345Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-18T11:41:04.978Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Resumo do BBB 26 hoje: madrugada tem comemoração do primeiro finalista, desabafo de sister e alfinetada",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-comemoracao-do-primeiro-finalista-desabafo-de-sister-e-alfinetada.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/Ig89TAnL_Vh4PlKanISpKshg_BY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/f/c/3xO8jYQ6qla1DiNkgsNw/resumo-bbb26.jpeg"
+    },
     {
       "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de sábado, 18/4",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-sabado-184.ghtml",
@@ -246,11 +251,6 @@
     {
       "title": "Prova do Finalista BBB 26: confira os vídeos da disputa",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/prova-do-finalista-bbb-26-confira-os-videos-da-disputa.ghtml"
-    },
-    {
-      "title": "Que horas começa o BBB 26 hoje, sexta (17)?",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/que-horas-comeca-o-bbb-26-hoje-sexta-17.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/SBSHZpx89fPNq4-ulNsy8dBMy_E=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/r/p/3oOL9XSFGiRTH4h8vABw/whatsapp-image-2026-04-14-at-22.30.00.jpeg"
     }
   ]
 }
