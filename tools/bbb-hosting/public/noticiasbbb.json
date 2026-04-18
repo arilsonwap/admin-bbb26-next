@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-18T05:20:37.880Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-18T06:48:08.176Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Vídeos do BBB 26 de sábado, 18/4",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-de-sabado-184.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/d1BlaPjNvgmqc81JLM_WUOfHKzA=/540x304/top/smart/http://s2.glbimg.com/u6ryq6XFa6J6a72kh7bUYicpJCg=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/82/69/14536982"
+    },
+    {
+      "title": "Na Reta Final do BBB 26, Ana Paula Renault analisa estratégia de grupo adversário: 'Sempre tiveram medo'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/na-reta-final-do-bbb-26-ana-paula-renault-analisa-estrategia-de-grupo-adversario-sempre-tiveram-medo.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/y6lrxR2g0397D1PeDxiHlfOgBuY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/82/69/14536982"
+    },
     {
       "title": "Que horas começa o BBB 26 hoje, sábado (18)?",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/que-horas-comeca-o-bbb-26-hoje-sabado-18.ghtml",
@@ -241,16 +251,6 @@
       "title": "Dinâmica da semana tem Prova da Finalista e Eliminação no domingo (19)",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/dinamica-da-semana-tem-prova-da-finalista-e-eliminacao-no-domingo-19.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/fYFK1e7egCb4J7UbPUzIr-TfIsE=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/10/30/14533010"
-    },
-    {
-      "title": "Cartola BBB: veja a lista dos premiados da primeira edição do fantasy game",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-veja-a-lista-dos-premiados-da-primeira-edicao-do-fantasy-game.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/NlgXXCYQKRwwjnVEaTf6kcmjJxE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/d/4/PLSy70QDmT6zm5ignWYA/whatsapp-image-2026-04-09-at-23.12.24.jpeg"
-    },
-    {
-      "title": "Promessas de 'gritos' e constância: relembre vídeos de apresentação do Top 5 do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/promessas-de-gritos-e-constancia-relembre-videos-de-apresentacao-do-top-5-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/6h0QxMrmyMkpSwM_S3dBK8-uPXY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/4/j/P0XjjSQ5WLBmJVPWAAOw/whatsapp-image-2026-04-14-at-18.24.55.jpeg"
     }
   ]
 }
