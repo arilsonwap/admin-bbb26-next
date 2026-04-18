@@ -1,12 +1,17 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-18T12:28:40.330Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-04-18T13:44:54.642Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Lázaro Ramos se diverte ao contar reações de Chaiany ao encontrá-lo",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/lazaro-ramos-se-diverte-ao-contar-reacoes-de-chaiany-ao-encontra-lo.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/Dd73PJuX9PN-yHaHqt9pCC6oMjQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/o/D/Y5q3MdTkaZjtDF54alAQ/chai-lazaro-e-de-casa.jpg"
+    },
     {
       "title": "Samira e Jordana relembram rivalidade no BBB 26: 'Jogo é lá dentro'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/samira-e-jordana-relembram-rivalidade-no-bbb-26-jogo-e-la-dentro.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/yEvQCbrOWAmDn4p488_9pnXkhG8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/0/o/5zupZLQf6er0apqFrlNg/samira-e-jordana-edecasa.png"
+      "imageUrl": "https://s2-gshow.glbimg.com/ef1nsmPiymU6mOVQ_2u6o-RbSzc=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/49/70/14537049"
     },
     {
       "title": "Gabriela, Samira, Chaiany e Jordana comentam a ida de Juliano Floss para a Final do BBB 26",
@@ -247,11 +252,6 @@
       "title": "Jordana revela o que rolou embaixo do edredom com Jonas Sulzbach no BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/noticia/jordana-revela-o-que-rolou-embaixo-do-edredom-com-jonas-sulzbach-no-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/eOp3RojPwgU4TVQVe8gBNNtEmCA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/35/31/14533135"
-    },
-    {
-      "title": "Bate-Papo BBB: Jordana | Confira os melhores momentos com a décima sexta eliminada do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/playlist/bate-papo-bbb-jordana-confira-os-melhores-momentos-com-a-decima-sexta-eliminada-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Cy7E4dq_1imYKtpHET3m-5XsRkM=/540x304/top/smart/http://s2.glbimg.com/CjU6g2QYfXD-Lpxo-yjIRsvmmS4=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/87/30/14533087"
     }
   ]
 }
