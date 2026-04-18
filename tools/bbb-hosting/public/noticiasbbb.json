@@ -1,12 +1,22 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-18T18:32:18.961Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-04-18T19:29:34.033Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Com show de Alok, BBB 26 chega à Final em noite de festa nesta terça (21)",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/com-show-de-alok-bbb-26-chega-a-final-em-noite-de-festa-nesta-terca-21.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/9yPZOPSfoVRcPSTr9NYuEXxfLZ8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/C/2/QTVDhzR26IKq2BCASeFg/alok.png"
+    },
+    {
+      "title": "Quiz BBB 26: teste sua memória sobre os acontecimentos da edição",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/quiz-bbb-26-teste-sua-memoria-sobre-os-acontecimentos-da-edicao.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/McJjVEuYfljjj0ULDr4wa1vu7XY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/18/86/14248618"
+    },
     {
       "title": "Chaiany encontra Tatá Werneck e brinca: 'Valdirene e Chai Chai, duas ex-BBBs'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/chaiany-encontra-tata-werneck-nos-estudios-globo-e-brinca-valdirene-e-chai-chai-duas-ex-bbbs.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/crqDby72T2dQ6lXHq7ODXI4h5RA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/09/71/14537109"
+      "imageUrl": "https://s2-gshow.glbimg.com/zMLHs0Q7pvyXDRXi_bFrRfNOyBk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/e/E/PEMZyvSKKk2VmPqNhepw/670885281-18578611783012882-2643957030669782028-n.jpg"
     },
     {
       "title": "Veja quem foi o maior pontuador no Cartola BBB por atender ao Big Fone",
@@ -242,16 +252,6 @@
       "title": "Resumo BBB 26: veja os vídeos do dia 17/4/2026 – Click BBB",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/resumo-bbb-26-veja-os-videos-do-dia-1742026-click-bbb.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/bc5Y_yHu8r_mlAqzJxdND5U-aOE=/540x304/top/smart/http://s2.glbimg.com/9D19xziEp6J6F_bWtPyvHCsiRVc=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/37/32/14533237"
-    },
-    {
-      "title": "Ana Paula Renault critica postura de Milena em Prova do Finalista: 'Se fosse fácil não valeria milhões'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-critica-postura-de-milena-em-prova-do-finalista-se-fosse-facil-nao-valeria-milhoes.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/-ctHcYGH6d6TIH0JvvWAGdUXQyA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/41/14534166"
-    },
-    {
-      "title": "Jordana conta quais são seus planos após BBB 26: 'Trabalhar com televisão'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/jordana-conta-quais-sao-seus-planos-apos-bbb-trabalhar-com-televisao.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/trXt5tCY--yLs_U9Al9GB25wlzw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/23/41/14534123"
     }
   ]
 }
