@@ -1,8 +1,23 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-18T23:00:40.931Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-18T23:50:52.749Z",
+  "lastAddedCount": 3,
   "items": [
+    {
+      "title": "Ana Paula Renault e Milena discutem sobre informações a Prova do Finalista: 'Eu já falei que eu me enganei'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-e-milena-discutem-sobre-informacoes-a-prova-do-finalista-eu-ja-falei-que-eu-me-enganei.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/VgqKxQYfDIwwaNEZxtMDO_Qijqg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/o/9/4toChOSnqx4eNa9DI76Q/prefixo-bbb-180426-195341.jpg"
+    },
+    {
+      "title": "Ana Paula e Milena discutem por defesa de Boneco em Paredão: 'Tem sonhos como eu'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-e-milena-discutem-sobre-defesa-em-ultimo-paredao-fiquei-chateada.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/Yc3Xdp8BgCFaNknusBOtWIDqMSs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/47/88/14538847"
+    },
+    {
+      "title": "Barraco de Jordana e Chaiany é escolhido como a maior treta do BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/enquete-bbb/noticia/barraco-de-jordana-e-chaiany-e-escolhido-como-a-maior-treta-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/-1khQUtXQuvG1gSfAh3tf56TXb0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/I/H/LoPniOQQKjicHP0Nhjbw/enquete-maiores-tretas-bbb-26.jpg"
+    },
     {
       "title": "Com show de Alok, BBB 26 chega à Final em noite de festa nesta terça (21)",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/com-show-de-alok-bbb-26-chega-a-final-em-noite-de-festa-nesta-terca-21.ghtml",
@@ -237,21 +252,6 @@
       "title": "Ana Paula Renault questiona jogo de Milena no BBB 26: 'A gente sempre jogou junto'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-questiona-jogo-de-milena-no-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/fAsKceW4hBMuHWMt7xnDG2IrJwQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/40/44/14534440"
-    },
-    {
-      "title": "Jordana 'gag' com a volta de Breno e Juliano do Quarto Secreto é eleito o melhor meme do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/enquete-bbb/noticia/jordana-gag-com-a-volta-de-breno-e-juliano-do-quarto-secreto-e-eleito-o-melhor-meme-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/xV0mlUED2BeooqLO4XvQJjPXyBM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/78/29/14532978"
-    },
-    {
-      "title": "Ana Paula Renault confronta Milena sobre Prova do Finalista: 'Tem ideia da importância?'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-confronta-milena-sobre-desempenho-na-prova-do-finalista-tem-ideia-da-importancia.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/ynmKFAUzXixNoMUUjk7gtP_8d_4=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/64/42/14534264"
-    },
-    {
-      "title": "Resumo BBB 26: veja os vídeos do dia 17/4/2026 – Click BBB",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/resumo-bbb-26-veja-os-videos-do-dia-1742026-click-bbb.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/bc5Y_yHu8r_mlAqzJxdND5U-aOE=/540x304/top/smart/http://s2.glbimg.com/9D19xziEp6J6F_bWtPyvHCsiRVc=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/37/32/14533237"
     }
   ]
 }
