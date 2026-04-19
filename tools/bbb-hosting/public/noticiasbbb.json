@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-19T17:48:35.484Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-19T18:32:41.179Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Milena surpreende brothers ao revelar que guardou item inusitado de Gloria Groove no BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-surpreende-brothers-ao-revelar-que-guardou-item-inusitado-de-gloria-groove-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/TpFSWEe5g3Qfj8ioEGcZqec7xXg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/w/c/cbGNy1Sq2AdBQwSmuP2w/pgm-a-19042026-130000-frame-194814.jpeg"
+    },
     {
       "title": "Letícia Colin visita casa do BBB 26 durante ação",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/leticia-colin-visita-casa-do-bbb-26-durante-acao.ghtml",
@@ -247,11 +252,6 @@
       "title": "Confira a reação dos Pipocas ao descobrir que estariam no BBB 26!",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/confira-a-reacao-dos-pipocas-ao-descobrir-que-estariam-no-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/oVqvObHzeOusCeolEI3I8E9WHgg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/s/I/mWRwSCQjCeYUcv88ymOQ/whatsapp-image-2026-04-17-at-18.28.36.jpeg"
-    },
-    {
-      "title": "Vídeos do BBB 26 de sábado, 18/4",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-de-sabado-184.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/d1BlaPjNvgmqc81JLM_WUOfHKzA=/540x304/top/smart/http://s2.glbimg.com/u6ryq6XFa6J6a72kh7bUYicpJCg=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/82/69/14536982"
     }
   ]
 }
