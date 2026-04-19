@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-19T08:13:58.252Z",
+  "fetchedAt": "2026-04-19T09:10:22.166Z",
   "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de domingo (19/4)",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-domingo-194.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/MbyqWfwWqe36PPep2vA1IfB1Luo=/540x304/top/smart/http://s2.glbimg.com/Hoz-dLQQP4lWx6O9tPQviI2baJw=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/65/91/14539165"
+    },
     {
       "title": "Marciele sobe ao palco com Boi Caprichoso pela primeira vez após BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/marciele-sobe-ao-palco-com-boi-caprichoso-pela-primeira-vez-apos-bbb-26.ghtml",
@@ -247,11 +252,6 @@
       "title": "Jordana recria no Mesacast meme eleito como o melhor do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/mesacast-bbb/noticia/jordana-recria-no-mesacast-meme-eleito-como-o-melhor-do-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/JZZjfD84h92HZZrM9d5q6RyH83c=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/c/s/V9J7EETzOt6PDb6BhFYQ/whatsapp-image-2026-04-17-at-20.23.35.jpeg"
-    },
-    {
-      "title": "Tadeu Schmidt apresenta o BBB 26 desta sexta (17) e abre edição com homenagem ao irmão Oscar Schmidt",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/tadeu-schmidt-apresenta-o-bbb-26-desta-sexta-17-e-abre-edicao-com-homenagem-ao-irmao-oscar-schmidt.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/ackyPAFaibk0CjEyL2w-xYd4-Oo=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/s/G/NDDoCoTrqVeF96hBM0Bg/tadeuschmidt-1776460388-3877547506557115149-191035709.jpg"
     }
   ]
 }
