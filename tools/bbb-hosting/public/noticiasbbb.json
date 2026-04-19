@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-19T07:07:33.729Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-19T08:13:58.252Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Marciele sobe ao palco com Boi Caprichoso pela primeira vez após BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/marciele-sobe-ao-palco-com-boi-caprichoso-pela-primeira-vez-apos-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/twe0GohArYrqmEiatvuAjnroBaw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/D/0/qzS22hTEGKchoFsRkZdg/capa-11-.jpg"
+    },
     {
       "title": "Vídeos do BBB 26 de domingo, 19/4",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-de-domingo-194.ghtml",
@@ -247,11 +252,6 @@
       "title": "Tadeu Schmidt apresenta o BBB 26 desta sexta (17) e abre edição com homenagem ao irmão Oscar Schmidt",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/tadeu-schmidt-apresenta-o-bbb-26-desta-sexta-17-e-abre-edicao-com-homenagem-ao-irmao-oscar-schmidt.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/ackyPAFaibk0CjEyL2w-xYd4-Oo=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/s/G/NDDoCoTrqVeF96hBM0Bg/tadeuschmidt-1776460388-3877547506557115149-191035709.jpg"
-    },
-    {
-      "title": "Tadeu Schmidt presta homenagem a seu irmão, Oscar: 'Meu maior ídolo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/tadeu-schmidt-presta-homenagem-sobre-seu-irmao-oscar-meu-maior-idolo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/PFkcF8JQAHxH1BApuEV75MELmtU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/o/J/AAXFTATNWT5DOnUwzPAA/whatsapp-image-2026-04-17-at-18.22.36.jpeg"
     }
   ]
 }
