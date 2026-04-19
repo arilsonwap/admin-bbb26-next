@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-19T16:04:37.263Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-19T16:58:03.313Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Letícia Colin visita casa do BBB 26 durante ação",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/leticia-colin-visita-casa-do-bbb-26-durante-acao.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/v-xle4nKLFb5arHTmGFXw4kM61k=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/36/94/14539436"
+    },
     {
       "title": "Queridômetro do BBB 26: Ana Paula Renault envia 'coração partido' a Milena",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/queridometro-do-bbb-26-ana-paula-renault-envia-coracao-partido-a-milena.ghtml",
@@ -247,11 +252,6 @@
       "title": "Vídeos do BBB 26 de sábado, 18/4",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-de-sabado-184.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/d1BlaPjNvgmqc81JLM_WUOfHKzA=/540x304/top/smart/http://s2.glbimg.com/u6ryq6XFa6J6a72kh7bUYicpJCg=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/82/69/14536982"
-    },
-    {
-      "title": "Na Reta Final do BBB 26, Ana Paula Renault analisa estratégia de grupo adversário: 'Sempre tiveram medo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/na-reta-final-do-bbb-26-ana-paula-renault-analisa-estrategia-de-grupo-adversario-sempre-tiveram-medo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/y6lrxR2g0397D1PeDxiHlfOgBuY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/82/69/14536982"
     }
   ]
 }
