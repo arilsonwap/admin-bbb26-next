@@ -1,10 +1,15 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-20T18:41:29.427Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-04-20T19:50:22.749Z",
+  "lastAddedCount": 1,
   "items": [
     {
-      "title": "Henri Castelli encontra Gabriela após BBB 26 e elogia: 'Uma querida'",
+      "title": "Ana Paula Renault brinca sobre look que pretende usar na Final do BBB 26: 'É a Carminha'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renault-brinca-sobre-look-que-pretende-usar-na-final-do-bbb-26-e-a-carminha.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/ukHIvJiHDluaNxuAQYMcCEI8XNs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/65/24/14542465"
+    },
+    {
+      "title": "Henri Castelli encontra Gabriela após BBB 26 e brinca: 'Olha a panquequinha que encontrei'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/henri-castelli-encontra-gabriela-e-elogia-uma-querida.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/axXI7QmovPvJk0uIsQpMlUwbxmg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/1/z/zbDLm8Q1Gbfl9zKYByBA/captura-de-tela-2026-04-20-150947.png"
     },
@@ -247,11 +252,6 @@
       "title": "Vídeos do Raio-X de domingo, 19/4, do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/raio-x/playlist/videos-do-raio-x-de-domingo-194-do-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/8p2Rfq2QaJK14IFjSiu_P93x62g=/540x304/top/smart/http://s2.glbimg.com/CabdgiWY0qozykHki0yxZPyUNCA=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/52/92/14539252"
-    },
-    {
-      "title": "Resumo do BBB 26 hoje: madrugada tem discussão entre aliadas, sister 'apreensiva' e análise de Juliano Floss",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-madrugada-tem-discussao-entre-aliadas-sister-apreensiva-e-analise-de-juliano-floss.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/spfpkUHWQW-YlyhLV07KIsJlFoA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/h/a/esqlLqRNAq9FokqvBVhg/sarah-aline.jpg"
     }
   ]
 }
