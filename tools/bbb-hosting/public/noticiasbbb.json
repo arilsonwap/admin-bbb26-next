@@ -1,10 +1,40 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-21T21:58:59.353Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-04-21T22:53:44.164Z",
+  "lastAddedCount": 6,
   "items": [
     {
-      "title": "'Trindade' comenta amizade fora do BBB 26: 'Se deu certo dentro da casa, dá certo fora'",
+      "title": "Veja os melhores momentos do Mesacast BBB de terça-feira (21/4)",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-os-melhores-momentos-do-mesacast-bbb-de-terca-feira-214.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/ADRei2U05rjoUQqIGaZ5eD9EPC8=/540x304/top/smart/http://s2.glbimg.com/Il4OzpRBsm9ty8DZ9jzt-6VIUI8=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/69/60/14546069"
+    },
+    {
+      "title": "Aline Campos relembra como conheceu o namorado e se declara: 'Aprendendo muito com ele'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/aline-campos-relembra-como-conheceu-o-namorado-e-se-declara-aprendendo-muito-com-ele.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/HR12JKEYIQeUfuoCRpdT8yqKAQg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/l/7/fDids1RY6Sm628ng4mBQ/aline-campos-fred-costa.jpg"
+    },
+    {
+      "title": "Babu Santana comenta bordão 'Se toca!', de Sol Vega: 'Não posso mais vacilar'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/babu-santana-comenta-bordao-se-toca-de-sol-vega-nao-posso-mais-vacilar.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/dwivkcMHO8Q5QqiwAB9Er_5iYxI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/a/I/6HV9oATZWLfjMrh9Bp6g/gshow.png"
+    },
+    {
+      "title": "Alberto Cowboy conta fofoca nos bastidores da Final do BBB 26: 'Já tem casal se formando'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/alberto-cowboy-conta-fofoca-nos-bastidores-da-final-do-bbb-26-ja-tem-casal-se-formando.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/jP6Fjbk7Y0vZ2N9gVXg2YVVse8U=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/t/H/pqbsqBSrecLHpcyiiFOA/whatsapp-image-2026-04-21-at-18.24.00.jpeg"
+    },
+    {
+      "title": "Ana Paula Renault, Juliano Floss e Milena recebem os looks da Final do BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ana-paula-renaut-juliano-floss-e-milena-recebem-os-looks-da-final-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/kOloLwMixoqwmeUPz2URGA_KgIU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/c/7/uAZZUoSWuJa6Zoo0PK0A/pgm-b-21042026-170000-frame-213905.jpeg"
+    },
+    {
+      "title": "Em dia de Final, Ana Paula Renault chora e conta para Milena: 'Fiquei acordada esse tempo todo'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/em-dia-de-final-ana-paula-renault-chora-e-conta-para-milena-fiquei-acordada-esse-tempo-todo.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/gudnQ96q0W3390q4q4Gab6ftr6M=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/V/8/OWeX7aSLA29NCWlZnRhw/pgm-a-21042026-170000-frame-153219.jpeg"
+    },
+    {
+      "title": "'Trindade' comenta amizade em dia de Final do BBB 26: 'A gente teve uma conexão natural'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/trindade-comenta-amizade-fora-do-bbb-26-se-deu-certo-dentro-da-casa-da-certo-fora.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/Rz7B34E1SuqixTFcx5yokXQM2Ww=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/W/i/7NkEuDQkGYD47e1xQKhA/amizade-alberto-sarah-jonas.jpg"
     },
@@ -222,36 +252,6 @@
       "title": "Finalistas do BBB 26: veja o antes e depois de Ana Paula Renault, Juliano Floss e Milena",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/finalistas-do-bbb-26-veja-o-antes-e-depois-de-ana-paula-renault-juliano-floss-e-milena.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/e1ByTZPgbfyd7lxZfQNJAlZtHM4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/K/T/QyYd7IRQaJXhIVAsDyvA/finalistas.jpg"
-    },
-    {
-      "title": "BBB 26 em números: veja os recordes da temporada",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/bbb-26-em-numeros-veja-os-recordes-da-temporada.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/3NN-J1VySk88hNRSHqvKoPnmCHE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/N/1/eu3FK6TJaHTogs2AFFvg/quais-marcos-os-participantes-alcancaram-na-temporada-do-bbb-26.jpg"
-    },
-    {
-      "title": "Milena revela requisito para relacionamento: 'Não quero ter sogra'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-revela-requisito-para-relacionamento-nao-quero-ter-sogra.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/P2MrW7tQHIHC84HSr-AFzLJTq90=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/51/36/14543651"
-    },
-    {
-      "title": "Leandro encontra Maria Eugênia, boneca de lata do BBB 1, e brinca: 'Boneco com a boneca'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/big-show/noticia/leandro-boneco-danca-com-maria-eugenia-boneca-de-lata-do-bbb-1-sentimento-tao-expressivo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/BpWZXKNWMI1rIKl_PaJx7BdM_gs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/i/B/dTFkHiRTqYmKsueAYUmg/captura-de-tela-2026-04-21-020141.png"
-    },
-    {
-      "title": "Gabriela, Jordana e Leandro Boneco reagem a seus vídeos de inscrição para BBB 26: 'Deu muito bom'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/big-show/noticia/gabriela-jordana-e-leandro-boneco-reagem-a-seus-videos-de-inscricao-deu-muito-bom.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/tnbUeuzsHxprE0VZO3p3v0SCV6s=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/22/36/14543622"
-    },
-    {
-      "title": "É hoje: veja quando abrem as votações do Prêmio gshow BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/noticia/e-hoje-veja-quando-abrem-as-votacoes-do-premio-gshow-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/RjB2buMG8uyOmGkQaU33NKT7uqs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/V/p/qY6tBESqufHRce0JsVGw/whatsapp-image-2026-04-16-at-22.58.17.jpeg"
-    },
-    {
-      "title": "Confira os melhores momentos do Big Show de segunda, 20/4",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/confira-os-melhores-momentos-do-big-show-de-segunda-214.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/klnYsoUyPKIsbhJiTgVzCnxWXLs=/540x304/top/smart/http://s2.glbimg.com/jz9t1ixe-SbcmjJQhyZeAJXZ8Hs=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/95/35/14543595"
     }
   ]
 }
