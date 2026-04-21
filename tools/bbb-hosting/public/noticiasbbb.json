@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-21T09:51:23.392Z",
-  "lastAddedCount": 3,
+  "fetchedAt": "2026-04-21T11:16:33.542Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "BBB 26 tem eliminada com 94,17% dos votos; confira ranking completo",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/bbb-26-tem-eliminada-com-9417percent-dos-votos-confira-ranking-completo.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/PQJRaa2bs5JEDmtAE3Pg55z02oE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/h/Z/nyfYDQQE6PBAAapnjJXQ/ranking-de-eliminados-bbb-26.png"
+    },
+    {
+      "title": "Resumo do BBB 26 hoje: última madrugada tem surpresa, brinde, confissão de Milena e 'recado' para Marina Sena",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/resumo/noticia/resumo-do-bbb-26-hoje-ultima-madrugada-tem-surpresa-brinde-confissao-de-milena-e-recado-para-marina-sena.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/gv7-0BrtEWyWZrRc_1OSqCCkyyA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/h/E/R0oF36Qk29u9HJl6RhSg/capa-2026-04-21t063202.798.jpg"
+    },
     {
       "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de terça-feira, 21/4",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-terca-feira-214.ghtml",
@@ -242,16 +252,6 @@
       "title": "Vídeos do BBB 26: confira tudo o que rolou na madrugada de segunda-feira, 20/4",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/videos-do-bbb-26-confira-tudo-o-que-rolou-na-madrugada-de-segunda-feira-204.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/_zqxHFvEXblBT4dAcB1TsglGozw=/540x304/top/smart/http://s2.glbimg.com/YuY2vx9RHKa8mBunvz8xwJ5UeuU=/filters:max_age(3600)/s01.video.glbimg.com/deo/vi/76/01/14540176"
-    },
-    {
-      "title": "Rivalidade com Cowboy, embate com Edilson e mais: veja como foi o Bate-Papo BBB com Leandro Boneco",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/bate-papo-bbb/noticia/rivalidade-com-cowboy-embate-com-edilson-e-mais-veja-como-foi-o-bate-papo-bbb-com-leandro-boneco.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/RWHYtkvDF7y2xv9kmVSy_ub8njc=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/9/V/XBvf02T5Wne8LlYBv7Aw/capa.jpg"
-    },
-    {
-      "title": "De beijo a banho pelado, ex-participantes listam as melhores coisas que fizeram fora das câmeras",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/de-beijo-a-banho-pelado-ex-participantes-listam-as-melhores-coisas-que-fizeram-fora-das-cameras.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/G8kUFS_BecD6o0qNEqF13Bf1roE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/8/v/qYZAkiS2WvPrAUuUaHkA/ex-participantes-bbb-26-lista.jpg"
     }
   ]
 }
