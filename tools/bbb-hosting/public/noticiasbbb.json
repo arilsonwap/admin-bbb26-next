@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-20T23:24:29.501Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-04-21T00:08:30.254Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Leandro Boneco revela motivo de ter pensando em desistir do BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/mesacast-bbb/noticia/leandro-boneco-fala-sobre-momentos-que-pensou-em-desistir-no-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/aM64gVEapEjbK5icpNSgeB3Ucvg=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/96/30/14543096"
+    },
     {
       "title": "Veja os melhores momentos do Mesacast BBB de segunda-feira (20/4)",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-os-melhores-momentos-do-mesacast-bbb-de-segunda-feira-204.ghtml",
@@ -247,11 +252,6 @@
       "title": "Milena questiona 'coração partido' no Queridômetro e se desentende com Ana Paula Renault",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-questiona-coracao-partido-no-queridometro-e-se-desentende-com-ana-paula-renault.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/tkDl6lsABtwH24FDvVYtz5wDGMQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/74/92/14539274"
-    },
-    {
-      "title": "Resumo BBB 26: veja os vídeos do dia 19/4/2026 – Click BBB",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/resumo-bbb-26-veja-os-videos-do-dia-1942026-click-bbb.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/-yixkmmwX-6DX5BsoM6jOVEMAm4=/540x304/top/smart/http://s2.glbimg.com/xrdLFPcKSqOmmJr37aFSKamO68U=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/74/91/14539174"
     }
   ]
 }
