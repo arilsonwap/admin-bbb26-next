@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-21T15:47:28.867Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-04-21T16:45:18.899Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Veja quem ficou mais tempo no VIP e na Xepa durante o BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/veja-quem-ficou-mais-tempo-no-vip-e-na-xepa-durante-o-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/jzt60kdS86w2ZNsJzItYsclViFs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/B/R/MRKkEVTWeyZZWMsYN0cw/195342.jpg"
+    },
+    {
+      "title": "Não emparedado: veja quais participantes mais receberam pontos deste item no Cartola BBB",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/nao-emparedado-veja-quais-participantes-mais-receberam-pontos-deste-item-no-cartola-bbb.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/nV9sJHsLD_n7Nnu-S3B0H-1CtLM=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/q/7/eaBQjlTsA84G6XCmj16Q/whatsapp-image-2026-04-21-at-12.50.28.jpeg"
+    },
     {
       "title": "Último Raio-X do BBB 26 tem emoção, gratidão e apelo dos finalistas",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/ultimo-raio-x-do-bbb-26-tem-emocao-gratidao-e-apelo-dos-finalistas.ghtml",
@@ -242,16 +252,6 @@
       "title": "Milena reage ao ver look escolhido por Juliano Floss para Final do BBB 26: 'Não me surpreendeu'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/milena-reage-ao-ver-look-escolhido-por-juliano-floss-para-final-do-bbb-26-nao-me-surpreendeu.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/LiU7d2oUVw_5p-HqWjR3aY7S_6c=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/09/11/14541109"
-    },
-    {
-      "title": "Leandro Boneco fala ao vivo com a filha e revê participação no Domingão com Huck: 'Que alegria'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/leandro-boneco-fala-ao-vivo-com-a-filha-e-reve-participacao-no-domingao-com-huck-que-saudade.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Rd4X-Bzvpydd-0yYtJhJvKaG39Y=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/46/09/14540946"
-    },
-    {
-      "title": "Leandro Boneco no Mais Você: reveja os vídeos da entrevista do 17º eliminado do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/leandro-boneco-no-mais-voce-reveja-os-videos-da-entrevista-do-17-eliminado-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/3AVR1i7tbYnN9Y--lUYMpvto16I=/540x304/top/smart/http://s2.glbimg.com/nBP9MYVCXQKz6IpDHNxLHts65Fs=/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/22/09/14540922"
     }
   ]
 }
