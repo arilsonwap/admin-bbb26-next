@@ -1,17 +1,27 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-22T15:45:43.909Z",
-  "lastAddedCount": 5,
+  "fetchedAt": "2026-04-22T16:45:54.852Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Juliano Floss compartilha encontro com Ana Paula Renault e Milena: ' Reencontro dos Eternos'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/juliano-floss-compartilha-encontro-com-ana-paula-renault-e-milena-reencontro-dos-eternos.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/PoJHF9MGuaUVdWNJ9A8G0MisbQY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/47/81/14548147"
+    },
+    {
+      "title": "Cartola BBB: confira quem sãos os maiores pontuadores da edição",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-confira-quem-saos-os-maiores-pontuadores-da-edicao.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/r9TZJ66Ib5NancgeYnsSGdV-vW0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/F/i/tKLw0MTAChrdBdkVuQ6w/fotojet-13-.jpg"
+    },
     {
       "title": "Ana Paula Renault responde sobre como pretende usar prêmio do BBB 26: 'Muita responsabilidade'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/ana-paula-renault-responde-sobre-como-pretende-usar-premio-do-bbb-26-muita-responsabilidade.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/qUBkQvK5x90QH2J08cuTzV7DnGU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/j/u/VEfabuR0yzSANHSRiEFw/anap.jpg"
     },
     {
-      "title": "Ana Paula se surpreende ao ver beijo entre Jordana e Jonas: &quot;Negócio esquentou&quot;",
+      "title": "Ana Paula se surpreende ao ver beijo entre Jordana e Jonas: 'Negócio esquentou'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/ana-paula-se-surpreende-ao-ver-beijo-entre-jordana-e-jonas-negocio-esquentou.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/9azwDj8V7bbf45laGX2Dsice2bs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/i/T/8DUzO5Sb2WGOdXUHcCLA/ap.jpg"
+      "imageUrl": "https://s2-gshow.glbimg.com/74RWqz6Zi8ZxvM3aNaVoXeiN5aQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/65/76/14547665"
     },
     {
       "title": "Ana Paula Renault comenta flertes com Jonas Sulzbach no BBB 26: 'Brincadeiras de adulto'",
@@ -242,16 +252,6 @@
       "title": "Veja os melhores momentos do Mesacast BBB de terça-feira (21/4)",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/veja-os-melhores-momentos-do-mesacast-bbb-de-terca-feira-214.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/ADRei2U05rjoUQqIGaZ5eD9EPC8=/540x304/top/smart/http://s2.glbimg.com/Il4OzpRBsm9ty8DZ9jzt-6VIUI8=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/69/60/14546069"
-    },
-    {
-      "title": "Aline Campos relembra como conheceu o namorado e se declara: 'Aprendendo muito com ele'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/aline-campos-relembra-como-conheceu-o-namorado-e-se-declara-aprendendo-muito-com-ele.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/HR12JKEYIQeUfuoCRpdT8yqKAQg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/l/7/fDids1RY6Sm628ng4mBQ/aline-campos-fred-costa.jpg"
-    },
-    {
-      "title": "Babu Santana comenta bordão 'Se toca!', de Sol Vega: 'Não posso mais vacilar'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/babu-santana-comenta-bordao-se-toca-de-sol-vega-nao-posso-mais-vacilar.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/dwivkcMHO8Q5QqiwAB9Er_5iYxI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/a/I/6HV9oATZWLfjMrh9Bp6g/gshow.png"
     }
   ]
 }
