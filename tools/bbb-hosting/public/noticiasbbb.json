@@ -1,8 +1,48 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-22T22:08:03.877Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-04-22T23:07:10.690Z",
+  "lastAddedCount": 7,
   "items": [
+    {
+      "title": "Premiados do Cartola BBB realizam sonho de conhecer a casa do BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/premiados-do-cartola-bbb-realizam-sonho-de-conhecer-a-casa-do-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/9MyDa8vNOWIJ1rrGusdfTGXTv7c=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/58/93/14549358"
+    },
+    {
+      "title": "Jordana e Jonas Sulzbach abrem o jogo sobre relação após o BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/noticia/jordana-e-jonas-sulzbach-abrem-o-jogo-sobre-relacao-apos-o-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/ymGKmbewqRTTnPY6minVB2v6wYc=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/79/96/14549679"
+    },
+    {
+      "title": "Prêmio gshow BBB 26: acompanhe AO VIVO!",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/ao-vivo/premio-gshow-bbb-26-acompanhe-tudo-ao-vivo.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/UcsNopcEohtYXD2qq2THXkmBuZI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/55/11265566"
+    },
+    {
+      "title": "Milena conhece Marina Sena após o fim do BBB 26, e cantora declara: 'Sou sua fã'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/milena-conhece-marina-sena-apos-o-fim-do-bbb-26-e-cantora-declara-sou-sua-fa.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/iRKoBuavHscL4tduRm-uEevEK3A=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/r/3/HB5ZmKQGArRmBIbCxb0w/milena-conhece-marina-sena-apos-o-fim-do-bbb-26-e-cantora-declara.png"
+    },
+    {
+      "title": "Jonas Sulzbach comenta unfollow em Marciele, que rebate: 'Foi recíproco'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/noticia/jonas-sulzbach-comenta-unfollow-em-marciele-que-rebate-foi-reciproco.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/zQmU8no7V_nQy2MZB4EQjf8PYNA=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/42/95/14549542"
+    },
+    {
+      "title": "Marciele revela como está amizade com Jordana após o BBB 26",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/noticia/marciele-revela-como-esta-amizade-com-jordana-apos-o-bbb-26.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/WtKLpRuM5npi2vo3yOJGgxmRkYM=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/76/95/14549576"
+    },
+    {
+      "title": "Chaiany se declara para Babu Santana: 'Te amo, independente do que aconteceu'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/noticia/chaiany-se-declara-para-babu-santana-te-amo-independente-do-que-aconteceu.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/FWcdX-ztCaFtC2ucCzWx-kZ4uSI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/68/94/14549468"
+    },
+    {
+      "title": "Babu Santana relembra Almoço do Anjo com Chaiany: 'Não quis manipular ninguém'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/noticia/babu-santana-relembra-almoco-do-anjo-com-chaiany-nao-quis-manipular-ninguem.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/gcAgJzdAcshqxlq6oMve8wXCuQ8=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/61/94/14549461"
+    },
     {
       "title": "Prêmio gshow BBB 26: confira os looks dos ex-participantes para a cerimônia",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/noticia/premio-gshow-bbb-26-confira-os-looks-dos-ex-participantes-para-a-cerimonia.ghtml",
@@ -37,11 +77,6 @@
       "title": "Veja os vencedores de todas as categorias do Prêmio gshow BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/noticia/veja-os-vencedores-de-todas-as-categorias-do-premio-gshow-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/I8AkPDnPlXCkxAHCrPu3stht7-k=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/11/94/14549411"
-    },
-    {
-      "title": "Prêmio gshow BBB 26: acompanhe AO VIVO!",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/ao-vivo/premio-gshow-bbb-26-acompanhe-tudo-ao-vivo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/UcsNopcEohtYXD2qq2THXkmBuZI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/55/11265566"
     },
     {
       "title": "Solange Couto agradece fãs e faz reflexão após a Final do BBB 26: 'Estou me dando um tempinho'",
@@ -217,41 +252,6 @@
       "title": "Milena agradece 2º lugar no BBB 26 e comenta sobre planos após a edição",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/big-show/noticia/milena-agradece-2o-lugar-no-bbb-26-e-comenta-sobre-planos-apos-a-edicao.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/K_HzLJv6AV4WZcZHaU_HtllnLHY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/45/67/14546745"
-    },
-    {
-      "title": "Ludmilla, Marina Sena e mais famosos comentam resultado do BBB 26 nas redes sociais",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/ludmilla-marina-sena-e-mais-famosos-comentam-resultado-do-bbb-26-nas-redes-sociais.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/YscuDdI47WuwWgc1PkN5AyFlx3E=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/6/y/BIHhqyQBS3D1r0G1dIlw/captura-de-tela-2026-04-22-010213.png"
-    },
-    {
-      "title": "No Big Show A Invasão, Ana Clara e Ed Gama celebram participação na Rede BBB",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/no-big-show-a-invasao-ana-clara-e-ed-gama-celebram-participacao-na-rede-bbb.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/9jff-6XNe8vxsCWlYHG5Rl_iUFs=/540x304/top/smart/http://s2.glbimg.com/_EnSVEPYRGEx_vwCmekhG8ueVWg=/filters:max_age(3600)/s04.video.glbimg.com/deo/vi/43/67/14546743"
-    },
-    {
-      "title": "Juliano Floss manda recado para Marina Sena pela 1ª vez após o BBB 26: ‘Doido para te ver’",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/big-show/noticia/juliano-floss-manda-recado-para-marina-sena-pela-1a-vez-apos-o-bbb-26-estou-doido-para-te-ver.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/SwMv2BHlb4sdNTx0xKvTtCTIyJE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/W/e/xGvpA4QzAZBQyj8ccaFg/invasao-frame-61505.jpeg"
-    },
-    {
-      "title": "Ana Paula Renault é a campeã do BBB 26, e web vibra com a vitória: 'Sempre foi seu'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/ana-paula-renault-e-a-campea-do-bbb-26-confira-a-reacao-das-redes.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/z9xRfJ9xHAq1gYZWJnNopGzhDzI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/38/67/14546738"
-    },
-    {
-      "title": "Vitória de Ana Paula Renault no BBB 26 faz Veterana bater recordes; veja quais!",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/campea-do-bbb-26-ana-paula-renault-bate-recordes-com-a-vitoria-veja-quais.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/kCq_LM5Y1YGaP6KxIMPMbP1ShN8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/a/N/8Wqe9ZTmugriwWX6v7Pg/ana-paula-renault-antes-e-depois-bbb-2-.png"
-    },
-    {
-      "title": "Ana Paula Renault é a grande campeã da temporada — veja tudo que rolou",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/ao-vivo/final-do-bbb-26-acompanhe-tudo-em-tempo-real.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/z9xRfJ9xHAq1gYZWJnNopGzhDzI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/38/67/14546738"
-    },
-    {
-      "title": "Marina Sena homenageia Juliano Floss após namorado ficar em 3º lugar no BBB 26: 'Te amo'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/marina-sena-homenageia-juliano-floss-apos-namorado-ficar-em-3o-lugar-no-bbb-26-te-amo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/2X2--VmWDl6NISi_Lg7L8haMhC8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/H/3/m0vIkyTJO0Ih6OWRMyVw/marina-sena-e-juliano-floss-bbb.png"
     }
   ]
 }
