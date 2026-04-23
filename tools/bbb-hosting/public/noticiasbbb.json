@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-22T23:07:10.690Z",
-  "lastAddedCount": 7,
+  "fetchedAt": "2026-04-23T00:01:32.741Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Milena fala sobre aproximação com Jordana: 'Primeira vez que senti afeto por um inimigo",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/noticia/milena-fala-sobre-aproximacao-com-jordana-primeira-vez-que-senti-afeto-por-um-inimigo.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/klbvSx6RYEZw_MNyf_F046BfBxs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/18/97/14549718"
+    },
+    {
+      "title": "Prêmio gshow BBB 26: veja tudo o que rolou!",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/ao-vivo/premio-gshow-bbb-26-acompanhe-tudo-ao-vivo.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/PXMhTqAQOOd_jyjD9ohdHFLz_nw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/69/97/14549769"
+    },
     {
       "title": "Premiados do Cartola BBB realizam sonho de conhecer a casa do BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/premiados-do-cartola-bbb-realizam-sonho-de-conhecer-a-casa-do-bbb-26.ghtml",
@@ -12,11 +22,6 @@
       "title": "Jordana e Jonas Sulzbach abrem o jogo sobre relação após o BBB 26",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/noticia/jordana-e-jonas-sulzbach-abrem-o-jogo-sobre-relacao-apos-o-bbb-26.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/ymGKmbewqRTTnPY6minVB2v6wYc=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/79/96/14549679"
-    },
-    {
-      "title": "Prêmio gshow BBB 26: acompanhe AO VIVO!",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/ao-vivo/premio-gshow-bbb-26-acompanhe-tudo-ao-vivo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/UcsNopcEohtYXD2qq2THXkmBuZI=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/66/55/11265566"
     },
     {
       "title": "Milena conhece Marina Sena após o fim do BBB 26, e cantora declara: 'Sou sua fã'",
@@ -247,11 +252,6 @@
       "title": "Madrasta de Ana Paula Renault desabafa e se declara para campeã: 'Você me representou naquela casa'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/big-show/noticia/madrasta-de-ana-paula-renault-desabafa-e-se-declara-para-campea-voce-me-representou-naquela-casa.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/VXnVYi5X9dZGoGIHQvWqJrkhbLs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/58/67/14546758"
-    },
-    {
-      "title": "Milena agradece 2º lugar no BBB 26 e comenta sobre planos após a edição",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/big-show/noticia/milena-agradece-2o-lugar-no-bbb-26-e-comenta-sobre-planos-apos-a-edicao.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/K_HzLJv6AV4WZcZHaU_HtllnLHY=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/45/67/14546745"
     }
   ]
 }
