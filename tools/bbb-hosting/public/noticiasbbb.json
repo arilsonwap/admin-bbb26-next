@@ -1,8 +1,18 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-23T09:57:41.415Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-04-23T11:18:16.574Z",
+  "lastAddedCount": 2,
   "items": [
+    {
+      "title": "Campeã do BBB 26, Ana Paula Renault compara experiências no reality e explica apelidos: 'Uma forma de irritar'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/campea-do-bbb-26-ana-paula-renault-compara-experiencias-no-reality-e-explica-apelidos-uma-forma-de-irritar.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/5i8IscfaA0LCFk6hHG423RjoTI0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/2/B/AE8z9mSwKdNt8tAguYKg/ana-paula-gshow.jpg"
+    },
+    {
+      "title": "Milena comenta fama após BBB 26 e novo comportamento: 'Abraço todo mundo agora'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/milena-comenta-fama-apos-bbb-26-e-novo-comportamento-abraco-todo-mundo-agora.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/IIUXAF9wcvB1QYQmD59PaNkoRO8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/l/i/sC5G0qS8m1hoyCa8SQIg/milena-bbb26.jpg"
+    },
     {
       "title": "Ana Paula Renault fala sobre planos de carreira após o BBB 26: 'Me aguardem que eu volto'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/ana-paula-renault-fala-sobre-planos-de-carreira-apos-o-bbb-26-me-aguardem-que-eu-volto.ghtml",
@@ -242,16 +252,6 @@
       "title": "Veja como ficou a casa do BBB 26 após invasão de Ana Clara, Ed Gama e convidados do Big Show",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/veja-como-ficou-a-casa-do-bbb-26-apos-invasao-de-ana-clara-ed-gama-e-convidados-do-big-show.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/0xaf-U9z5zGnXu-NWYjj35G897Y=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/V/K/NStMYMRWKeExnhVTUADw/casa-bbb-apos-final.jpg"
-    },
-    {
-      "title": "Compilado do BBB: veja as reações dos Finalistas no Bate-Papo BBB",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/compilado-do-bbb-veja-as-reacoes-dos-finalistas-no-bate-papo-bbb.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/KNaTjEJD2cARxDclT03Pw5Mg4So=/540x304/top/smart/http://s2.glbimg.com/-8-XCDGNiqklZMGRWSsWeuB6zDM=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/21/68/14546821"
-    },
-    {
-      "title": "Ex-participantes do BBB 26 celebram festa de encerramento do programa",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/ex-participantes-do-bbb-26-celebram-festa-de-encerramento-do-programa.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/Op_FevCyhy5QZHRnWSQZyFtUifM=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/B/Y/a0TPN6QJWpDDpHuBfiTA/capa-42-.png"
     }
   ]
 }
