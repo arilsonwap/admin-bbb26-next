@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-23T08:08:06.915Z",
+  "fetchedAt": "2026-04-23T09:57:41.415Z",
   "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Ana Paula Renault fala sobre planos de carreira após o BBB 26: 'Me aguardem que eu volto'",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/ana-paula-renault-fala-sobre-planos-de-carreira-apos-o-bbb-26-me-aguardem-que-eu-volto.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/Ww9_jp7C6vr0MtwCMQOSd4t98fk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/i/b/Z6B8rLT72B8FDkWmI7zg/assets-fotos-983-entrevista-com-a-campea-ana-paula-renault-d7f04b946542.jpg.jpeg"
+    },
     {
       "title": "Segunda colocada do BBB 26, Milena explica mudança de pódio e conexão com Ana Paula: 'Verdadeira e real'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/segunda-colocada-do-bbb-26-milena-explica-mudanca-de-podio-e-conexao-com-ana-paula-verdadeira-e-real.ghtml",
@@ -247,11 +252,6 @@
       "title": "Ex-participantes do BBB 26 celebram festa de encerramento do programa",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/ex-participantes-do-bbb-26-celebram-festa-de-encerramento-do-programa.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/Op_FevCyhy5QZHRnWSQZyFtUifM=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/B/Y/a0TPN6QJWpDDpHuBfiTA/capa-42-.png"
-    },
-    {
-      "title": "Bate-Papo BBB: Milena | Confira os melhores momentos com a vice-campeã do BBB 26",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/videos-do-bbb/playlist/bate-papo-bbb-milena-confira-os-melhores-momentos-com-a-vice-campea-do-bbb-26.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/KNaTjEJD2cARxDclT03Pw5Mg4So=/540x304/top/smart/http://s2.glbimg.com/-8-XCDGNiqklZMGRWSsWeuB6zDM=/filters:max_age(3600)/s02.video.glbimg.com/deo/vi/21/68/14546821"
     }
   ]
 }
