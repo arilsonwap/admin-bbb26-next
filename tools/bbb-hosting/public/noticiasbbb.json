@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-23T11:18:16.574Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-04-23T12:12:49.795Z",
+  "lastAddedCount": 0,
   "items": [
+    {
+      "title": "Prêmio gshow BBB 26: veja tudo o que rolou!",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/ao-vivo/premio-gshow-bbb-26-acompanhe-tudo-ao-vivo.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/ejCzvaMeZ_MI29hk5rXc-uEeW_Q=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/91/04/14550491"
+    },
     {
       "title": "Campeã do BBB 26, Ana Paula Renault compara experiências no reality e explica apelidos: 'Uma forma de irritar'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/campea-do-bbb-26-ana-paula-renault-compara-experiencias-no-reality-e-explica-apelidos-uma-forma-de-irritar.ghtml",
@@ -57,11 +62,6 @@
       "title": "Milena fala sobre aproximação com Jordana: 'Primeira vez que senti afeto por um inimigo",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/noticia/milena-fala-sobre-aproximacao-com-jordana-primeira-vez-que-senti-afeto-por-um-inimigo.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/klbvSx6RYEZw_MNyf_F046BfBxs=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/18/97/14549718"
-    },
-    {
-      "title": "Prêmio gshow BBB 26: veja tudo o que rolou!",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/premio-gshow-bbb/ao-vivo/premio-gshow-bbb-26-acompanhe-tudo-ao-vivo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/PXMhTqAQOOd_jyjD9ohdHFLz_nw=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/69/97/14549769"
     },
     {
       "title": "Premiados do Cartola BBB realizam sonho de conhecer a casa do BBB 26",
