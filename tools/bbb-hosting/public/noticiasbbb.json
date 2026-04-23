@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-04-23T19:24:21.947Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-04-23T20:33:19.357Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Xuxa posta fotos com Ana Paula Renault: ‘Doida pra te dar esse abraço’",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/xuxa-posta-fotos-com-ana-paula-renault-doida-pra-te-dar-esse-abraco.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/vg9hwax51d_-U8i7BP23sZ8HeG8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/a/Y/nEal7uTWS2FNgngkxAng/xuxa-posta-foto-de-encontro-com-ana-paula-renault.jpg"
+    },
     {
       "title": "Milena relembra divergências entre os 'Eternos' no BBB 26: 'Fiquei muito brava'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/milena-relembra-divergencias-entre-os-eternos-no-bbb-26-fiquei-muito-brava.ghtml",
@@ -247,11 +252,6 @@
       "title": "Ana Paula Renault explica escolha de looks: 'As bruxonas têm que usar branco'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/ana-paula-renault-explica-escolha-de-looks-as-bruxonas-tem-que-usar-branco.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/OxXtAJlVnWYuAHrzdZJo4s4dIQQ=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/31/75/14547531"
-    },
-    {
-      "title": "Ana Paula Renault ressalta estratégia usada no BBB 26: 'Irritar quem me irrita'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/cafe-com-o-eliminado/noticia/campea-do-bbb-26-ana-paula-renault-toma-cafe-com-ana-maria-braga.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/ul9BWPgPBvdh7B_tm4vsN-xX2Sk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/A/Y/WNOIvcQeCmYTmAjeUHXQ/ana-paula-mais-voce-2.jpeg"
     }
   ]
 }
