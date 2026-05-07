@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-07T22:41:06.061Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-05-07T23:38:04.139Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Traição à vista? Participantes comprometidos se envolvem em triângulo amoroso no programa; entenda a nova relação",
@@ -100,6 +100,12 @@
       "type": "noticia"
     },
     {
+      "title": "Thiago diz para JP que 'tem que prestar atenção' no que Hassum fala ao vivo | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/thiago-diz-para-jp-que-tem-que-prestar-atencao-no-que-hassum-fala-ao-vivo-casa-do-patrao-07052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-07-2026%2Ft_366f0386d2ac47c89325c5fa2963b41a_name_file_960x540_1600_v4_.jpg?smart=true&auth=6557ff944f750bdf63bf9b5c9fcbf278360c66d25e3ea47936c5e6821b1edbbb&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Matheus diz que vai votar em Nataly sem dó | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-diz-que-vai-votar-em-nataly-sem-do-casa-do-patrao-07052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-07-2026%2Ft_bb59363428ba4d818aabab3c062f2d72_name_file_960x540_1600_v4_.jpg?smart=true&auth=547cfaa7ca1c36d119382bb9b7fff48d80594c8b27415e553c2adb761c5ba436&width=960&height=540",
@@ -157,12 +163,6 @@
       "title": "João Pedro desconversa sobre o jogo com Jackson: ‘Sei e não sei' | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-pedro-desconversa-sobre-o-jogo-com-jackson-sei-e-nao-sei-casa-do-patrao-07052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-07-2026%2Ft_7a286f1ac02d443f94c96d539692f6ef_name_file_960x540_1600_v4_.jpg?smart=true&auth=1ec68d05793e99538d318ff14359251afb513bee6b1a0df966fba4994ee6f27c&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Nikita dispara para Morena: ‘Você não está do outro lado, você é nossa amiga’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nikita-dispara-para-morena-voce-nao-esta-do-outro-lado-voce-e-nossa-amiga-casa-do-patrao-07052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-07-2026%2Ft_741adadc98e6412aa0f630495833da57_name_file_960x540_1600_v4_.jpg?smart=true&auth=bc7d9d8ea4589cdee0de71e3d243a288a63dd8ccdf233edcce448e4305a8233a&width=960&height=540",
       "type": "video"
     },
     {
@@ -266,6 +266,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/risada-garantida-confira-7-memes-servidos-nos-primeiros-dias-de-casa-do-patrao-29042026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/D33XQSLCBBHQRNOJGS7O3IHR3M.jpg?smart=true&auth=995ace63d62be0b93ae6f459a6a94c54a42255154c41c0fbe8f4f87281a10c41&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Nikita dispara para Morena: ‘Você não está do outro lado, você é nossa amiga’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nikita-dispara-para-morena-voce-nao-esta-do-outro-lado-voce-e-nossa-amiga-casa-do-patrao-07052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-07-2026%2Ft_741adadc98e6412aa0f630495833da57_name_file_960x540_1600_v4_.jpg?smart=true&auth=bc7d9d8ea4589cdee0de71e3d243a288a63dd8ccdf233edcce448e4305a8233a&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Agente do caos? Moradores dividem primeiras impressões sobre novo participante | Casa do Patrão",
@@ -599,12 +605,6 @@
       "title": "Nikita acusa João de vazar informação e dá ultimato",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nikita-acusa-joao-de-vazar-informacao-e-avisa-se-vacilar-de-novo-solto-sua-mao-casa-do-patrao-04052026/",
       "imageUrl": "https://d22yf0mxeu0gma.cloudfront.net/05-04-2026/t_19a321e110a34baea838c829121f7584_name_file_960x540_1600_v4_.jpg",
-      "type": "video"
-    },
-    {
-      "title": "Culpa de Nikita? Morena e Sheila iniciam 'acareação' para descobrir origem de treta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/culpa-de-nikita-morena-e-sheila-iniciam-acareacao-para-descobrir-origem-de-treta-casa-do-patrao-05052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-05-2026%2Ft_f0f3751d63ce4951beae294b9562034f_name_file_960x540_1600_v4_.jpg?smart=true&auth=7f291587f49dab3d500d77aa1d61c87e4c69913ce37c6c255ac5765feb72475e&width=960&height=540",
       "type": "video"
     }
   ],
