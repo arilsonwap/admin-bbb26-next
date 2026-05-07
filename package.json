@@ -10,7 +10,8 @@
     "lint": "eslint",
     "sync-bbb26": "cp bbb26.json public/ 2>/dev/null || echo 'bbb26.json not found in root, skipping sync'",
     "scrape:casa-patrao": "node scripts/extrair-casa-do-patrao.js",
-    "scrape:casa-patrao-barra": "node scripts/extrair-casa-do-patrao-barra.js"
+    "scrape:casa-patrao-barra": "node scripts/extrair-casa-do-patrao-barra.js",
+    "update:casa-patrao-conteudos": "node scripts/generate-casa-do-patrao-conteudos.mjs"
   },
   "dependencies": {
     "@dnd-kit/core": "~6.3.1",
