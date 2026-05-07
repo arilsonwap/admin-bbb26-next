@@ -1,0 +1,87 @@
+[
+  {
+    "nome": "Luis Fellipe",
+    "funcao": "PARÇA",
+    "funcaoSlug": "parca"
+  },
+  {
+    "nome": "Bianca",
+    "funcao": "PARÇA",
+    "funcaoSlug": "parca"
+  },
+  {
+    "nome": "Jackson",
+    "funcao": "PARÇA",
+    "funcaoSlug": "parca"
+  },
+ {
+    "nome": "JP",
+    "funcao": "PARÇA",
+    "funcaoSlug": "parca"
+  },
+  {
+    "nome": "Luiza",
+    "funcao": "PARÇA",
+    "funcaoSlug": "parca"
+  },
+  {
+    "nome": "Mari",
+    "funcao": "PARÇA",
+    "funcaoSlug": "parca"
+  },
+  {
+    "nome": "Marina",
+    "funcao": "PARÇA",
+    "funcaoSlug": "parca"
+  },
+  {
+    "nome": "Morena",
+    "funcao": "PATROA",
+    "funcaoSlug": "patroa"
+  },
+  {
+    "nome": "Thiago",
+    "funcao": "PARÇA",
+    "funcaoSlug": "parca"
+  },
+  {
+    "nome": "Vivão",
+    "funcao": "PARÇA",
+    "funcaoSlug": "parca"
+  },
+  {
+    "nome": "Andressa",
+    "funcao": "COZINHA",
+    "funcaoSlug": "cozinha"
+  },
+  {
+    "nome": "João Victor",
+    "funcao": "LOUÇA",
+    "funcaoSlug": "louca"
+  },
+  {
+    "nome": "Matheus",
+    "funcao": "BANHEIRO",
+    "funcaoSlug": "banheiro"
+  },
+  {
+    "nome": "Nataly",
+    "funcao": "LAVANDERIA",
+    "funcaoSlug": "lavanderia"
+  },
+  {
+    "nome": "Nikita",
+    "funcao": "COZINHA",
+    "funcaoSlug": "cozinha"
+  },
+  {
+    "nome": "Sheila",
+    "funcao": "SERVIR",
+    "funcaoSlug": "servir"
+  },
+  {
+    "nome": "Vini",
+    "funcao": "FAXINA",
+    "funcaoSlug": "faxina"
+  }
+]

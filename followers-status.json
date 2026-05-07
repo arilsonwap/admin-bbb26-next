@@ -1,6 +1,6 @@
 {
-  "version": 15,
-  "updatedAt": "2026-03-09T02:59:14.199Z",
+  "version": 27,
+  "updatedAt": "2026-03-24T03:19:51.486Z",
   "season": "BBB 26",
   "participants": [
     {
@@ -9,11 +9,11 @@
       "active": true,
       "instagram": "https://www.instagram.com/anapaularenault/",
       "followersStart": 2300000,
-      "followersCurrent": 5977000,
+      "followersCurrent": 6297000,
       "history": [
         {
-          "date": "2026-03-09",
-          "followers": 5977000
+          "date": "2026-03-24",
+          "followers": 6297000
         }
       ],
       "eliminated": false
@@ -24,13 +24,11 @@
       "active": true,
       "instagram": "https://www.instagram.com/chaianydeandrade/",
       "followersStart": 3300,
-      "followersCurrent": 2799000,
+      "followersCurrent": 2738036,
       "history": [
         {
-          "date": "2026-03-07",
-          "followers": 2799000,
-          "source": "Migrado automaticamente",
-          "notes": "Mantido apenas o valor mais recente"
+          "date": "2026-03-24",
+          "followers": 2738036
         }
       ],
       "eliminated": false
@@ -41,13 +39,11 @@
       "active": true,
       "instagram": "https://www.instagram.com/julianofloss/",
       "followersStart": 4000000,
-      "followersCurrent": 6169000,
+      "followersCurrent": 6257000,
       "history": [
         {
-          "date": "2026-03-07",
-          "followers": 6169000,
-          "source": "Migrado automaticamente",
-          "notes": "Mantido apenas o valor mais recente"
+          "date": "2026-03-24",
+          "followers": 6257000
         }
       ],
       "eliminated": false
@@ -58,13 +54,11 @@
       "active": true,
       "instagram": "https://www.instagram.com/samira_sagr",
       "followersStart": 5200,
-      "followersCurrent": 1584000,
+      "followersCurrent": 1516000,
       "history": [
         {
-          "date": "2026-03-08",
-          "followers": 1584000,
-          "source": "Migrado automaticamente",
-          "notes": "Mantido apenas o valor mais recente"
+          "date": "2026-03-24",
+          "followers": 1516000
         }
       ],
       "eliminated": false
@@ -75,13 +69,11 @@
       "active": true,
       "instagram": "https://www.instagram.com/tiamilenabbb/",
       "followersStart": 3500,
-      "followersCurrent": 1468000,
+      "followersCurrent": 1559000,
       "history": [
         {
-          "date": "2026-03-08",
-          "followers": 1468000,
-          "source": "Migrado automaticamente",
-          "notes": "Mantido apenas o valor mais recente"
+          "date": "2026-03-24",
+          "followers": 1559000
         }
       ],
       "eliminated": false
@@ -92,13 +84,11 @@
       "active": true,
       "instagram": "https://www.instagram.com/jonassulzbach/",
       "followersStart": 3000000,
-      "followersCurrent": 4240000,
+      "followersCurrent": 4535000,
       "history": [
         {
-          "date": "2026-03-08",
-          "followers": 4240000,
-          "source": "Migrado automaticamente",
-          "notes": "Mantido apenas o valor mais recente"
+          "date": "2026-03-24",
+          "followers": 4535000
         }
       ],
       "eliminated": false
@@ -109,11 +99,11 @@
       "active": true,
       "instagram": "https://www.instagram.com/albertocowboy/",
       "followersStart": 17800,
-      "followersCurrent": 757000,
+      "followersCurrent": 952588,
       "history": [
         {
-          "date": "2026-03-08",
-          "followers": 757000
+          "date": "2026-03-24",
+          "followers": 952588
         }
       ],
       "eliminated": false
@@ -124,16 +114,14 @@
       "active": true,
       "instagram": "https://www.instagram.com/brenocora/",
       "followersStart": 3000,
-      "followersCurrent": 621000,
+      "followersCurrent": 709813,
       "history": [
         {
-          "date": "2026-03-08",
-          "followers": 621000,
-          "source": "Migrado automaticamente",
-          "notes": "Mantido apenas o valor mais recente"
+          "date": "2026-03-24",
+          "followers": 709813
         }
       ],
-      "eliminated": false
+      "eliminated": true
     },
     {
       "id": "jordana",
@@ -141,13 +129,11 @@
       "active": true,
       "instagram": "https://www.instagram.com/jordanarimorais/",
       "followersStart": 32900,
-      "followersCurrent": 653000,
+      "followersCurrent": 1132000,
       "history": [
         {
-          "date": "2026-03-08",
-          "followers": 653000,
-          "source": "Migrado automaticamente",
-          "notes": "Mantido apenas o valor mais recente"
+          "date": "2026-03-24",
+          "followers": 1132000
         }
       ],
       "eliminated": false
@@ -158,13 +144,11 @@
       "active": true,
       "instagram": "https://www.instagram.com/gabisaporito__/",
       "followersStart": 2300,
-      "followersCurrent": 471000,
+      "followersCurrent": 521000,
       "history": [
         {
-          "date": "2026-03-08",
-          "followers": 471000,
-          "source": "Migrado automaticamente",
-          "notes": "Mantido apenas o valor mais recente"
+          "date": "2026-03-24",
+          "followers": 521000
         }
       ],
       "eliminated": false
@@ -178,13 +162,11 @@
       "followersCurrent": 5123000,
       "history": [
         {
-          "date": "2026-03-08",
-          "followers": 5123000,
-          "source": "Migrado automaticamente",
-          "notes": "Mantido apenas o valor mais recente"
+          "date": "2026-03-24",
+          "followers": 5123000
         }
       ],
-      "eliminated": false
+      "eliminated": true
     },
     {
       "id": "marciele",
@@ -192,13 +174,11 @@
       "active": true,
       "instagram": "https://www.instagram.com/marciele.albuquerque",
       "followersStart": 745000,
-      "followersCurrent": 1142000,
+      "followersCurrent": 1203830,
       "history": [
         {
-          "date": "2026-03-08",
-          "followers": 1142000,
-          "source": "Migrado automaticamente",
-          "notes": "Mantido apenas o valor mais recente"
+          "date": "2026-03-24",
+          "followers": 1203830
         }
       ],
       "eliminated": false
@@ -209,13 +189,11 @@
       "active": true,
       "instagram": "https://www.instagram.com/solangecouto",
       "followersStart": 1100000,
-      "followersCurrent": 1406000,
+      "followersCurrent": 1403000,
       "history": [
         {
-          "date": "2026-03-08",
-          "followers": 1406000,
-          "source": "Migrado automaticamente",
-          "notes": "Mantido apenas o valor mais recente"
+          "date": "2026-03-24",
+          "followers": 1403000
         }
       ],
       "eliminated": false
@@ -226,13 +204,11 @@
       "active": true,
       "instagram": "https://www.instagram.com/leandrorochaboneco/",
       "followersStart": 13500,
-      "followersCurrent": 477000,
+      "followersCurrent": 474000,
       "history": [
         {
-          "date": "2026-03-08",
-          "followers": 477000,
-          "source": "Migrado automaticamente",
-          "notes": "Mantido apenas o valor mais recente"
+          "date": "2026-03-24",
+          "followers": 474000
         }
       ],
       "eliminated": false

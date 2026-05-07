@@ -1,13 +1,11 @@
 'use client';
 
 import React, { useEffect, useCallback } from 'react';
-import { useRouter } from 'next/navigation';
 import { useAdminStore } from '../store/adminStore';
 import { useAdminApp } from '../hooks/useAdminApp';
 import { exportAllFilesAsZip } from '../services/exportService';
 
 export const KeyboardShortcuts: React.FC = () => {
-  const router = useRouter();
   const { database, errors } = useAdminStore();
   const { saveData } = useAdminApp();
 
@@ -49,7 +47,6 @@ export const KeyboardShortcuts: React.FC = () => {
 
     if (hasCriticalErrors) {
       showNotification('Corrija os erros antes de exportar', 'warning');
-      router.push('/issues');
       return;
     }
 
@@ -65,7 +62,7 @@ export const KeyboardShortcuts: React.FC = () => {
       console.error('Erro ao exportar:', error);
       showNotification('Erro ao exportar dados', 'error');
     }
-  }, [database, errors, router, showNotification]);
+  }, [database, errors, showNotification]);
 
   const focusSearch = useCallback(() => {
     // Tentar encontrar um campo de busca baseado na página atual

@@ -200,7 +200,8 @@ export const ProductCategorySchema = z.enum([
   'decoracao',
   'area-externa',
   'quarto',
-  'sala'
+  'sala',
+  'moda',
 ]);
 export type ProductCategory = z.infer<typeof ProductCategorySchema>;
 

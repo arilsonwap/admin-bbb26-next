@@ -1,29 +1,31 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { spawn } from 'child_process';
-import { writeFileSync, readFileSync, readdirSync, statSync } from 'fs';
-import { join, dirname } from 'path';
-import { tmpdir } from 'os';
+import { writeFileSync, readFileSync, statSync, renameSync } from 'fs';
+import { join } from 'path';
+import {
+  assertResumodojogoRunnable,
+  resolveBbbHostingPublicDir,
+  resolveResumodojogoJobDir,
+} from '@/lib/internalJobsRuntimePaths';
+import {
+  diagnoseResumodojogoExport,
+  logExportDiagnosis,
+} from '@/lib/publishExportDiagnostics';
 
 let running = false;
 const activeStreams = new Set<ReadableStreamDefaultController>();
 
-// Função para enviar dados para todos os streams ativos
 function broadcast(data: string) {
   activeStreams.forEach(controller => {
     try {
       controller.enqueue(`data: ${data}\n\n`);
     } catch (error) {
-      // Controller pode ter sido fechado
       activeStreams.delete(controller);
     }
   });
 }
 
-const RESUMODOJOGO_PATH = '/home/arilson/PROJETOS/resumodojogo';
-const LOCK_FILE = join(tmpdir(), 'resumodojogo-admin-panel.lock');
-
 export async function POST(request: NextRequest) {
-  // Verificar se já está executando
   if (running) {
     return NextResponse.json(
       { error: 'Resumo do jogo já está em execução' },
@@ -34,17 +36,10 @@ export async function POST(request: NextRequest) {
   running = true;
 
   try {
-    // Verificar se o projeto resumodojogo existe
-    try {
-      readdirSync(RESUMODOJOGO_PATH);
-    } catch (error) {
-      throw new Error(`Projeto resumodojogo não encontrado em: ${RESUMODOJOGO_PATH}`);
-    }
+    const jobDir = resolveResumodojogoJobDir();
+    assertResumodojogoRunnable(jobDir);
 
-    // Executar o resumo do jogo com streaming
     const executionResult = await executeResumoDoJogo();
-
-    // Encontrar e copiar o arquivo mais recente
     const copyResult = await copyLatestResult();
 
     running = false;
@@ -64,7 +59,7 @@ export async function POST(request: NextRequest) {
   } catch (error) {
     running = false;
 
-    console.error('Erro ao executar resumo do jogo:', error);
+    console.error('[run-resumodojogo]', error);
     return NextResponse.json({
       ok: false,
       error: error instanceof Error ? error.message : 'Erro desconhecido',
@@ -94,20 +89,17 @@ export async function GET() {
 
       running = true;
 
-      // Executar o resumo do jogo com streaming em tempo real
       executeResumoDoJogoStreaming().catch(error => {
-        console.error('Erro no streaming do resumo do jogo:', error);
-        broadcast(`❌ Erro: ${error.message}`);
+        console.error('[run-resumodojogo] Erro no streaming:', error);
+        broadcast(`❌ Erro: ${error instanceof Error ? error.message : String(error)}`);
         broadcast(`event: status\ndata: error\n\n`);
 
-        // Pequeno delay para garantir que o evento chegue ao cliente
         setTimeout(() => {
           finishStreaming();
         }, 500);
       });
     },
     cancel() {
-      // Cliente desconectou
       activeStreams.forEach(ctrl => {
         try {
           ctrl.close();
@@ -130,13 +122,15 @@ export async function GET() {
 }
 
 async function executeResumoDoJogo(): Promise<{ logTail: string[]; startedAt: string }> {
+  const jobDir = resolveResumodojogoJobDir();
+  assertResumodojogoRunnable(jobDir);
+
   return new Promise((resolve, reject) => {
     const logs: string[] = [];
     const startedAt = new Date().toISOString();
 
-    // Executar npm run scrape-all
     const child = spawn('npm', ['run', 'scrape-all'], {
-      cwd: RESUMODOJOGO_PATH,
+      cwd: jobDir,
       stdio: ['pipe', 'pipe', 'pipe'],
       env: { ...process.env, NODE_ENV: 'production' }
     });
@@ -157,37 +151,53 @@ async function executeResumoDoJogo(): Promise<{ logTail: string[]; startedAt: st
 
     child.on('close', (code) => {
       if (code === 0) {
-        // Pegar as últimas 10 linhas de log
         const logTail = logs.slice(-10);
         resolve({ logTail, startedAt });
       } else {
-        reject(new Error(`Script falhou com código de saída: ${code}. Logs: ${logs.join('\n')}`));
+        reject(
+          new Error(
+            `[resumo do jogo] npm run scrape-all encerrou com código ${code} (cwd=${jobDir}). Últimos logs:\n${logs.slice(-15).join('\n')}`
+          )
+        );
       }
     });
 
     child.on('error', (error) => {
-      reject(new Error(`Erro ao executar script: ${error.message}`));
+      reject(
+        new Error(
+          `[resumo do jogo] Não foi possível iniciar npm (cwd=${jobDir}): ${error.message}. Confira se node e npm estão no PATH.`
+        )
+      );
     });
 
-    // Timeout configurável via RESUMODOJOGO_TIMEOUT_MS
-    // Padrão: 1200000ms (20 min) para scraping de 24 participantes
     const timeoutMs = parseInt(process.env.RESUMODOJOGO_TIMEOUT_MS || '1200000');
     setTimeout(() => {
       child.kill();
-      reject(new Error(`Timeout: execução demorou mais de ${timeoutMs / 1000 / 60} minutos`));
+      reject(new Error(`[resumo do jogo] Timeout após ${timeoutMs / 1000 / 60} minutos (cwd=${jobDir})`));
     }, timeoutMs);
   });
 }
 
 async function executeResumoDoJogoStreaming(): Promise<void> {
+  let jobDir: string;
+  try {
+    jobDir = resolveResumodojogoJobDir();
+    assertResumodojogoRunnable(jobDir);
+  } catch (err) {
+    const msg = err instanceof Error ? err.message : String(err);
+    broadcast(`❌ ${msg}`);
+    broadcast(`event: status\ndata: error\n\n`);
+    finishStreaming();
+    throw err;
+  }
+
   return new Promise((resolve, reject) => {
     broadcast(`🚀 Iniciando resumo do jogo...`);
     broadcast(`📅 ${new Date().toLocaleString('pt-BR')}`);
-    broadcast(`📂 Diretório: ${RESUMODOJOGO_PATH}`);
+    broadcast(`📂 Diretório: ${jobDir}`);
 
-    // Executar npm run scrape-all
     const child = spawn('npm', ['run', 'scrape-all'], {
-      cwd: RESUMODOJOGO_PATH,
+      cwd: jobDir,
       stdio: ['pipe', 'pipe', 'pipe'],
       env: { ...process.env, NODE_ENV: 'production' }
     });
@@ -217,7 +227,6 @@ async function executeResumoDoJogoStreaming(): Promise<void> {
         if (code === 0) {
           broadcast(`✅ Script concluído com sucesso`);
 
-          // Copiar resultado
           broadcast(`📋 Copiando resultado...`);
           const copyResult = await copyLatestResult();
           broadcast(`📄 Arquivo atualizado: statusbbb.json`);
@@ -226,28 +235,26 @@ async function executeResumoDoJogoStreaming(): Promise<void> {
 
           broadcast(`✨ Resumo do jogo finalizado!`);
 
-          // Garantir que o evento status seja enviado - múltiplas formas para compatibilidade
-          console.log('📤 Enviando evento status: success');
+          console.log('[run-resumodojogo] Enviando evento status: success');
           broadcast(`event: status\ndata: success\n\n`);
-          // Também enviar como mensagem normal para fallback
           broadcast(`success`);
 
-          // Delay ainda maior para garantir que o cliente processe
           setTimeout(() => {
-            console.log('🔌 Fechando streams SSE após sucesso');
+            console.log('[run-resumodojogo] Fechando streams SSE após sucesso');
             finishStreaming();
           }, 2000);
 
         } else {
           broadcast(`❌ Script falhou (código: ${code})`);
-          console.log('📤 Enviando evento status: error');
+          broadcast(
+            `💡 Dica: verifique logs acima e dependências em internal-jobs/resumodojogo (npm ci). cwd do job: ${jobDir}`
+          );
+          console.log('[run-resumodojogo] Enviando evento status: error');
           broadcast(`event: status\ndata: error\n\n`);
-          // Também enviar como mensagem normal para fallback
           broadcast(`error`);
 
-          // Delay ainda maior para garantir que o cliente processe
           setTimeout(() => {
-            console.log('🔌 Fechando streams SSE após erro');
+            console.log('[run-resumodojogo] Fechando streams SSE após erro');
             finishStreaming();
           }, 2000);
         }
@@ -262,20 +269,21 @@ async function executeResumoDoJogoStreaming(): Promise<void> {
     });
 
     child.on('error', (error) => {
-      broadcast(`❌ Erro ao executar: ${error.message}`);
+      broadcast(
+        `❌ Erro ao executar: ${error.message} (cwd esperado do job: ${jobDir})`
+      );
       broadcast(`event: status\ndata: error\n\n`);
       finishStreaming();
       reject(error);
     });
 
-    // Timeout - 20 minutos para scraping de 24 participantes
     const timeoutMs = parseInt(process.env.RESUMODOJOGO_TIMEOUT_MS || '1200000');
     setTimeout(() => {
       child.kill();
       broadcast(`⏰ Timeout após ${timeoutMs / 1000 / 60} minutos`);
       broadcast(`event: status\ndata: error\n\n`);
       finishStreaming();
-      reject(new Error(`Timeout: execução demorou mais de ${timeoutMs / 1000 / 60} minutos`));
+      reject(new Error(`[resumo do jogo] Timeout após ${timeoutMs / 1000 / 60} minutos`));
     }, timeoutMs);
   });
 }
@@ -293,47 +301,64 @@ function finishStreaming() {
 }
 
 async function copyLatestResult(): Promise<{ publishedPath: string; sourcePath: string; bytes: number }> {
-  const sourcePath = join(RESUMODOJOGO_PATH, 'statusbbb.json');
+  const jobDir = resolveResumodojogoJobDir();
+  const sourcePath = join(jobDir, 'statusbbb.json');
+  const publicDir = resolveBbbHostingPublicDir();
 
   try {
-    // Verificar se o arquivo existe
     statSync(sourcePath);
 
-    // Caminhos de destino
-    const fs = require('fs');
-    const publicDir = join(process.cwd(), 'tools', 'bbb-hosting', 'public');
     const mainPath = join(publicDir, 'statusbbb.json');
 
-    // Ler o conteúdo
     const content = readFileSync(sourcePath, 'utf8');
 
-    // Criar/atualizar o arquivo principal (statusbbb.json)
+    const diag = diagnoseResumodojogoExport({
+      sourcePath,
+      publicDir,
+      content,
+    });
+    logExportDiagnosis(diag);
+    broadcast(
+      `📊 Diagnóstico: origem=statusbbb.json · dataBusca=${diag.dataBusca ?? 'n/d'} · participantes=${diag.participantesInFile} · ok=${diag.participantesOk} · erro scraper=${diag.participantesComErroScraper}`
+    );
+    broadcast(`📊 Versão conteúdo=${diag.contentVersion} · bytes=${diag.bytes} · gerado=${diag.generatedAt}`);
+    if (diag.participantesComErroScraper > 0 && diag.scraperErrorSamples.length > 0) {
+      const sample = diag.scraperErrorSamples
+        .map((s) => `${s.id ?? s.url ?? '?'}`)
+        .slice(0, 5)
+        .join(', ');
+      broadcast(`📊 Amostra erros scraper: ${sample}`);
+    }
+
     const mainTempPath = `${mainPath}.tmp`;
     writeFileSync(mainTempPath, content, 'utf8');
-    fs.renameSync(mainTempPath, mainPath);
+    renameSync(mainTempPath, mainPath);
 
-    // Atualizar metadados do arquivo mais recente
     const latestPath = join(publicDir, 'statusbbb-latest.json');
     const latestData = {
       file: 'statusbbb.json',
-      lastModified: new Date().toISOString(), // UTC para metadados
-      localDate: new Date().toISOString().split('T')[0], // Data local para referência
-      bytes: Buffer.byteLength(content, 'utf8')
+      lastModified: new Date().toISOString(),
+      localDate: new Date().toISOString().split('T')[0],
+      bytes: Buffer.byteLength(content, 'utf8'),
+      sha256: diag.contentSha256,
+      version: diag.contentVersion,
     };
 
     const latestTempPath = `${latestPath}.tmp`;
     writeFileSync(latestTempPath, JSON.stringify(latestData, null, 2), 'utf8');
-    fs.renameSync(latestTempPath, latestPath);
+    renameSync(latestTempPath, latestPath);
 
     broadcast(`📄 Arquivo principal atualizado: statusbbb.json`);
 
     return {
-      publishedPath: `/tools/bbb-hosting/public/statusbbb.json`,
+      publishedPath: `/api/hosting-public/statusbbb.json`,
       sourcePath,
       bytes: Buffer.byteLength(content, 'utf8')
     };
 
   } catch (error) {
-    throw new Error(`Erro ao copiar resultado: ${error instanceof Error ? error.message : 'Erro desconhecido'}`);
+    throw new Error(
+      `[resumo do jogo] Falha ao publicar (origem ${sourcePath} → ${publicDir}): ${error instanceof Error ? error.message : 'Erro desconhecido'}`
+    );
   }
 }

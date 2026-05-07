@@ -61,19 +61,17 @@ export const useQueridometro = () => {
 
         // Para compatibilidade, criar um lastExecution básico
         if (statusData === 'success') {
-          const today = new Date().toISOString().split('T')[0];
           setLastExecution({
-            startedAt: new Date().toISOString(), // Será atualizado pela API se necessário
+            startedAt: new Date().toISOString(),
             finishedAt: new Date().toISOString(),
-            publishedPath: `/tools/bbb-hosting/public/queridometro-${today}.json`,
-            bytes: 0 // Será atualizado se necessário
+            publishedPath: `/tools/bbb-hosting/public/queridometro.json`,
+            bytes: 0
           });
 
-          // Adicionar mensagem de confirmação
           setLogs(prev => [...prev,
             `📅 Data: ${new Date().toLocaleString('pt-BR')}`,
-            `✅ Arquivo salvo: queridometro-${today}.json`,
-            `🔗 Disponível em: /tools/bbb-hosting/public/queridometro-${today}.json`
+            `✅ Arquivo salvo: queridometro.json`,
+            `🔗 Preview: /api/hosting-public/queridometro.json`
           ]);
         }
 
@@ -92,18 +90,17 @@ export const useQueridometro = () => {
           completedRef.current = true;
 
           if (statusData === 'success') {
-            const today = new Date().toISOString().split('T')[0];
             setLastExecution({
               startedAt: new Date().toISOString(),
               finishedAt: new Date().toISOString(),
-              publishedPath: `/tools/bbb-hosting/public/queridometro-${today}.json`,
+              publishedPath: `/tools/bbb-hosting/public/queridometro.json`,
               bytes: 0
             });
 
             setLogs(prev => [...prev,
               `📅 Data: ${new Date().toLocaleString('pt-BR')}`,
-              `✅ Arquivo salvo: queridometro-${today}.json`,
-              `🔗 Disponível em: /tools/bbb-hosting/public/queridometro-${today}.json`
+              `✅ Arquivo salvo: queridometro.json`,
+              `🔗 Preview: /api/hosting-public/queridometro.json`
             ]);
           }
 

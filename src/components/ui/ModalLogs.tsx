@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useEffect, useLayoutEffect, useRef, useState } from 'react';
-import { XMarkIcon, CloudArrowUpIcon } from '@heroicons/react/24/outline';
+import { XMarkIcon, CloudArrowUpIcon, ArrowDownTrayIcon } from '@heroicons/react/24/outline';
 
 interface ModalLogsProps {
   isOpen: boolean;
@@ -9,9 +9,18 @@ interface ModalLogsProps {
   logs: string;
   status: 'running' | 'success' | 'error';
   onClose: () => void;
+  /** deploy = laranja (padrão); localDownload = destaque “máquina local / dev” */
+  variant?: 'deploy' | 'localDownload';
 }
 
-const ModalLogs: React.FC<ModalLogsProps> = ({ isOpen, title, logs, status, onClose }) => {
+const ModalLogs: React.FC<ModalLogsProps> = ({
+  isOpen,
+  title,
+  logs,
+  status,
+  onClose,
+  variant = 'deploy',
+}) => {
   const logsTextareaRef = useRef<HTMLTextAreaElement>(null);
 
   // Se o usuário estiver perto do fim, mantemos auto-scroll ligado.
@@ -145,8 +154,17 @@ const ModalLogs: React.FC<ModalLogsProps> = ({ isOpen, title, logs, status, onCl
 
   if (!isOpen) return null;
 
+  const titleId = variant === 'localDownload' ? 'local-vps-sync-modal-title' : 'deploy-modal-title';
+  const headerIconWrap =
+    variant === 'localDownload' ? 'bg-sky-100' : 'bg-orange-100';
+  const headerIconClass = variant === 'localDownload' ? 'text-sky-600' : 'text-orange-600';
+  const footerBtnClass =
+    variant === 'localDownload'
+      ? 'bg-sky-600 hover:bg-sky-700 focus:ring-sky-500'
+      : 'bg-orange-600 hover:bg-orange-700 focus:ring-orange-500';
+
   return (
-    <div className="fixed inset-0 z-50 overflow-y-auto" role="dialog" aria-modal="true" aria-labelledby="deploy-modal-title">
+    <div className="fixed inset-0 z-50 overflow-y-auto" role="dialog" aria-modal="true" aria-labelledby={titleId}>
       <div className="flex min-h-screen items-end justify-center px-4 pt-4 pb-20 text-center sm:block sm:p-0">
         {/* Background overlay */}
         <div
@@ -162,11 +180,17 @@ const ModalLogs: React.FC<ModalLogsProps> = ({ isOpen, title, logs, status, onCl
           {/* Header */}
           <div className="bg-white px-4 pt-5 pb-4 sm:p-6 sm:pb-4 border-b border-gray-200">
             <div className="sm:flex sm:items-start">
-              <div className="mx-auto flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-orange-100 sm:mx-0 sm:h-10 sm:w-10">
-                <CloudArrowUpIcon className="h-6 w-6 text-orange-600" />
+              <div
+                className={`mx-auto flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full ${headerIconWrap} sm:mx-0 sm:h-10 sm:w-10`}
+              >
+                {variant === 'localDownload' ? (
+                  <ArrowDownTrayIcon className={`h-6 w-6 ${headerIconClass}`} />
+                ) : (
+                  <CloudArrowUpIcon className={`h-6 w-6 ${headerIconClass}`} />
+                )}
               </div>
               <div className="mt-3 text-center sm:mt-0 sm:ml-4 sm:text-left flex-1">
-                <h3 id="deploy-modal-title" className="text-lg font-medium leading-6 text-gray-900">
+                <h3 id={titleId} className="text-lg font-medium leading-6 text-gray-900">
                   {title}
                 </h3>
                 <div className="mt-2">
@@ -221,7 +245,7 @@ const ModalLogs: React.FC<ModalLogsProps> = ({ isOpen, title, logs, status, onCl
                   scrollbarWidth: 'thin',
                   scrollbarColor: '#4B5563 #1F2937'
                 }}
-                aria-describedby="deploy-modal-title"
+                aria-describedby={titleId}
               />
 
               {showJumpToBottom && !shouldAutoScrollRef.current && (
@@ -241,7 +265,7 @@ const ModalLogs: React.FC<ModalLogsProps> = ({ isOpen, title, logs, status, onCl
             <div className="bg-gray-50 px-4 py-3 sm:flex sm:flex-row-reverse sm:px-6">
               <button
                 type="button"
-                className="inline-flex justify-center w-full px-4 py-2 text-base font-medium rounded-md shadow-sm text-white bg-orange-600 hover:bg-orange-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-500 sm:ml-3 sm:w-auto sm:text-sm"
+                className={`inline-flex justify-center w-full px-4 py-2 text-base font-medium rounded-md shadow-sm text-white focus:outline-none focus:ring-2 focus:ring-offset-2 sm:ml-3 sm:w-auto sm:text-sm ${footerBtnClass}`}
                 onClick={onClose}
               >
                 Fechar

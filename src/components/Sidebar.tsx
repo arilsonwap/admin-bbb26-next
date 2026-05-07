@@ -8,11 +8,20 @@ import {
   UsersIcon,
   CalendarDaysIcon,
   TrophyIcon,
-  ExclamationTriangleIcon,
   ArrowDownTrayIcon,
+  CubeIcon,
   FolderIcon,
-  RocketLaunchIcon,
   ChartBarIcon,
+  QuestionMarkCircleIcon,
+  PhotoIcon,
+  GlobeAltIcon,
+  ClockIcon,
+  RocketLaunchIcon,
+  WrenchScrewdriverIcon,
+  BellAlertIcon,
+  DevicePhoneMobileIcon,
+  UserMinusIcon,
+  ArrowPathIcon,
 } from '@heroicons/react/24/outline';
 
 interface SidebarItem {
@@ -30,15 +39,32 @@ const files: SidebarItem[] = [
   { name: 'bbb26.json', href: '/bbb26', icon: CalendarDaysIcon },
   { name: 'paredao-results.json', href: '/paredao-results', icon: TrophyIcon },
   { name: 'followers-status.json', href: '/followers', icon: UsersIcon },
-  { name: 'products-status.json', href: '/products', icon: UsersIcon },
+  { name: 'Exportar Dados', href: '/export', icon: ArrowDownTrayIcon },
+  { name: 'Publicar Arquivos', href: '/publish', icon: RocketLaunchIcon },
 ];
 
 const tools: SidebarItem[] = [
   { name: '📊 Queridômetro', href: '/queridometro', icon: ChartBarIcon },
+  { name: 'Produtos', href: '/products', icon: CubeIcon },
   { name: '👥 Resumo do Jogo', href: '/resumodojogo', icon: UsersIcon },
-  { name: 'Problemas', href: '/issues', icon: ExclamationTriangleIcon },
-  { name: 'Exportar', href: '/export', icon: ArrowDownTrayIcon },
+  { name: 'Notícias (gshow)', href: '/news', icon: GlobeAltIcon },
+  { name: 'Enquetes', href: '/polls', icon: QuestionMarkCircleIcon },
+  { name: 'Banners Dinâmica', href: '/admin/banners/dinamica', icon: PhotoIcon },
+  { name: 'Push editorial', href: '/admin/push', icon: BellAlertIcon },
+  { name: 'Versão do app', href: '/admin/app-version', icon: DevicePhoneMobileIcon },
+  { name: 'Semana', href: '/week', icon: CalendarDaysIcon },
+  { name: 'Participantes', href: '/participants', icon: UsersIcon },
+  { name: 'Histórico', href: '/history', icon: ClockIcon },
   { name: 'Backups', href: '/backups', icon: FolderIcon },
+  { name: 'Debug', href: '/debug', icon: WrenchScrewdriverIcon },
+];
+
+const casaDoPatrao: SidebarItem[] = [
+  { name: '🏠 Visão geral', href: '/casa-do-patrao', icon: HomeIcon },
+  { name: 'Histórico / Ciclos', href: '/casa-do-patrao/historico', icon: ArrowPathIcon },
+  { name: 'Barra (status)', href: '/ferramentas-utilizadas', icon: WrenchScrewdriverIcon },
+  { name: '📺 Conteúdos', href: '/casa-do-patrao-conteudos', icon: GlobeAltIcon },
+  { name: 'Eliminação (JSON)', href: '/casa-do-patrao-eliminacao-results', icon: UserMinusIcon },
 ];
 
 function isActivePath(pathname: string, href: string) {
@@ -57,10 +83,12 @@ function NavSection({
   items,
   pathname,
   sectionTitle,
+  onLinkClick,
 }: {
   items: SidebarItem[];
   pathname: string;
   sectionTitle?: string;
+  onLinkClick?: () => void;
 }) {
   return (
     <li>
@@ -103,6 +131,7 @@ function NavSection({
                 prefetch={shouldPrefetch(item.href)}
                 aria-current={active ? 'page' : undefined}
                 className={linkClass}
+                onClick={() => onLinkClick?.()}
               >
                 <item.icon className={iconClass} aria-hidden="true" />
                 <span className="truncate">{item.name}</span>
@@ -115,9 +144,27 @@ function NavSection({
   );
 }
 
-export const Sidebar: React.FC = () => {
+export function SidebarNavContent({ onLinkClick }: { onLinkClick?: () => void }) {
   const pathname = usePathname();
 
+  return (
+    <nav className="flex flex-1 flex-col" aria-label="Navegação lateral">
+      <ul role="list" className="flex flex-1 flex-col gap-y-7">
+        <NavSection items={navigation} pathname={pathname} onLinkClick={onLinkClick} />
+        <NavSection items={files} pathname={pathname} sectionTitle="Arquivos" onLinkClick={onLinkClick} />
+        <NavSection items={casaDoPatrao} pathname={pathname} sectionTitle="Casa do Patrão" onLinkClick={onLinkClick} />
+        <NavSection
+          items={tools}
+          pathname={pathname}
+          sectionTitle="Fluxo principal do dia a dia"
+          onLinkClick={onLinkClick}
+        />
+      </ul>
+    </nav>
+  );
+}
+
+export const Sidebar: React.FC = () => {
   return (
     <div className="hidden lg:fixed lg:inset-y-0 lg:z-50 lg:flex lg:w-72 lg:flex-col">
       <div className="flex grow flex-col gap-y-5 overflow-y-auto bg-white px-6 pb-4 border-r border-gray-200">
@@ -126,14 +173,7 @@ export const Sidebar: React.FC = () => {
           <h1 className="text-xl font-bold text-gray-900">Admin BBB26</h1>
         </div>
 
-        {/* Navigation */}
-        <nav className="flex flex-1 flex-col" aria-label="Navegação lateral">
-          <ul role="list" className="flex flex-1 flex-col gap-y-7">
-            <NavSection items={navigation} pathname={pathname} />
-            <NavSection items={files} pathname={pathname} sectionTitle="Arquivos" />
-            <NavSection items={tools} pathname={pathname} sectionTitle="Ferramentas" />
-          </ul>
-        </nav>
+        <SidebarNavContent />
 
         {/* Footer */}
         <div className="mt-auto">

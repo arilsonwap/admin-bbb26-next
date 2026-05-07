@@ -47,7 +47,6 @@ const requiredFiles = [
   'src/screens/ParticipantsScreen.tsx',
   'src/screens/WeekScreen.tsx',
   'src/screens/HistoryScreen.tsx',
-  'src/screens/IssuesScreen.tsx',
   'src/screens/ExportScreen.tsx',
   'src/components/common/Dropdown.tsx',
   'src/components/common/Chip.tsx',

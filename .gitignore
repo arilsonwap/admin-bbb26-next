@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+internal-jobs/**/node_modules
 /.pnp
 .pnp.*
 .yarn/*
@@ -39,3 +40,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local/generated backups
+tools/bbb-hosting/backups/*.json
+tools/bbb-hosting/followers-backups/*.json
+
+# Build/cache
+node_modules/
+.next/
+tsconfig.tsbuildinfo
+
+# Env/secrets
+.env
+.env.*

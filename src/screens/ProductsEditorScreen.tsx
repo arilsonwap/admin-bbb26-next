@@ -19,8 +19,9 @@ import {
 import { downloadFile, formatJSON } from '../services/exportService';
 import ModalConfirm from '../components/ui/ModalConfirm';
 import { useNotifications } from '../hooks/useNotifications';
+import { BBB26_PARTICIPANT_OPTIONS as AVAILABLE_PARTICIPANTS } from '../data/bbb26ParticipantOptions';
 
-type ProductCategory = 'cozinha' | 'cuidados-pessoais' | 'decoracao' | 'area-externa' | 'quarto' | 'sala';
+type ProductCategory = 'cozinha' | 'cuidados-pessoais' | 'decoracao' | 'area-externa' | 'quarto' | 'sala' | 'moda';
 type ProductStore = 'mercadolivre' | 'shopee';
 
 type Product = {
@@ -75,12 +76,25 @@ const PRODUCT_CATEGORIES = [
   { value: 'area-externa', label: 'Área Externa' },
   { value: 'quarto', label: 'Quarto' },
   { value: 'sala', label: 'Sala' },
+  { value: 'moda', label: 'Moda' },
 ] as const;
 
 const PRODUCT_STORES = [
   { value: 'mercadolivre', label: 'Mercado Livre' },
   { value: 'shopee', label: 'Shopee' },
 ] as const;
+
+/** Mercado Livre: amarelo marca sólido, contorno escuro e sombra para leitura forte */
+function storeBadgeClassName(store: ProductStore | undefined, mode: 'list' | 'modal'): string {
+  if (store === 'mercadolivre') {
+    return mode === 'list'
+      ? 'bg-[#FFE600] text-[#1a1a1a] border-[#C9A800] shadow-sm font-medium'
+      : 'bg-[#FFE600] text-[#1a1a1a] shadow-sm font-semibold ring-1 ring-[#C9A800]';
+  }
+  return mode === 'list'
+    ? 'bg-gray-50 text-gray-500 border-gray-100'
+    : 'bg-gray-100 text-gray-800';
+}
 
 // Validação estrutural de ProductsPayload (compatível com ProductsJsonPayloadSchema)
 const isValidProductsPayload = (data: unknown): data is ProductsPayload => {
@@ -152,39 +166,6 @@ const isValidProductsPayload = (data: unknown): data is ProductsPayload => {
 };
 
 const FALLBACK_PRODUCT_IMAGE = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjZjNmNGY2Ii8+CjxwYXRoIGQ9Ik0yMCAyMEgzNlYyMEgyMFptMCA0SDE2VjQ4SDE2VjI0SDR2NEg0VjIwSDIwVjI0SDIwVjIwWk0zNiAyNFYzNkgzNlYyNFoiIGZpbGw9IiM5Y2E0YWYiLz4KPC9zdmc+';
-
-// Lista de participantes disponíveis para associação com produtos
-const AVAILABLE_PARTICIPANTS = [
-  // CAMAROTE
-  { id: 'aline-campos', name: 'Aline Campos' },
-  { id: 'edilson', name: 'Edílson' },
-  { id: 'henri-castelli', name: 'Henri Castelli' },
-  { id: 'juliano-floss', name: 'Juliano Floss' },
-  { id: 'solange-couto', name: 'Solange Couto' },
-
-  // VETERANOS
-  { id: 'alberto-cowboy', name: 'Alberto "Cowboy"' },
-  { id: 'ana-paula-renault', name: 'Ana Paula Renault' },
-  { id: 'babu-santana', name: 'Babu Santana' },
-  { id: 'jonas-sulzbach', name: 'Jonas Sulzbach' },
-  { id: 'sarah-andrade', name: 'Sarah Andrade' },
-  { id: 'sol-vega', name: 'Sol Vega' },
-
-  // PIPOCA
-  { id: 'brigido', name: 'Brígido' },
-  { id: 'breno', name: 'Breno' },
-  { id: 'chaiany', name: 'Chaiany' },
-  { id: 'gabriela', name: 'Gabriela' },
-  { id: 'jordana', name: 'Jordana' },
-  { id: 'leandro', name: 'Leandro' },
-  { id: 'marcelo', name: 'Marcel' },
-  { id: 'marciele', name: 'Marciele' },
-  { id: 'matheus', name: 'Matheus' },
-  { id: 'maxiane', name: 'Maxiane' },
-  { id: 'milena', name: 'Milena' },
-  { id: 'paulo-augusto', name: 'Paulo Augusto' },
-  { id: 'samira', name: 'Samira' },
-] as const;
 
 // Formulário vazio constante para evitar recriação
 const EMPTY_FORM_DATA: ProductFormData = {
@@ -816,7 +797,11 @@ export const ProductsEditorScreen: React.FC = () => {
       filtered = filtered.filter((product: Product) => product.category === categoryFilter);
     }
 
-    return filtered;
+    return [...filtered].sort((a, b) => {
+      const ta = new Date(a.updatedAt).getTime();
+      const tb = new Date(b.updatedAt).getTime();
+      return (Number.isFinite(tb) ? tb : 0) - (Number.isFinite(ta) ? ta : 0);
+    });
   }, [productsData, searchTerm, categoryFilter]);
 
   const stats = useMemo(() => {
@@ -1305,9 +1290,12 @@ export const ProductsEditorScreen: React.FC = () => {
 
                         {/* Linha 3: Metadados secundários */}
                         <div className="flex flex-wrap items-center gap-2 text-xs text-gray-500 mb-3">
-                          <span className="font-mono bg-gray-50 px-2 py-1 rounded-md border border-gray-100">{product.id}</span>
                           <span className="bg-gray-50 px-2 py-1 rounded-md border border-gray-100">{product.category ? PRODUCT_CATEGORIES.find(c => c.value === product.category)?.label : 'Sem categoria'}</span>
-                          <span className="bg-gray-50 px-2 py-1 rounded-md border border-gray-100">{product.store ? PRODUCT_STORES.find(s => s.value === product.store)?.label : '—'}</span>
+                          <span
+                            className={`px-2 py-1 rounded-md border text-xs ${storeBadgeClassName(product.store, 'list')}`}
+                          >
+                            {product.store ? PRODUCT_STORES.find(s => s.value === product.store)?.label : '—'}
+                          </span>
                           <span className="bg-gray-50 px-2 py-1 rounded-md border border-gray-100">Ordem: {product.sortOrder}</span>
                         </div>
 
@@ -1637,7 +1625,9 @@ export const ProductsEditorScreen: React.FC = () => {
                                   </span>
                                 )}
                                 {formData.store && (
-                                  <span className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-gray-100 text-gray-800">
+                                  <span
+                                    className={`inline-flex items-center px-2 py-1 rounded-full text-xs font-medium ${storeBadgeClassName(formData.store as ProductStore, 'modal')}`}
+                                  >
                                     {PRODUCT_STORES.find(s => s.value === formData.store)?.label}
                                   </span>
                                 )}

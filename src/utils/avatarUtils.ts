@@ -84,10 +84,17 @@ export function getAutomaticAvatar(name: string, size: number = 40): string {
 }
 
 /**
- * Sistema híbrido inteligente:
- * 1. Primeiro: busca imagem local (se existir)
- * 2. Fallback: avatar automático
+ * Avatar por id de participante (lista local); fallback por nome / avatar gerado.
  */
+export function getParticipantImageById(
+  participantId: string | null | undefined,
+  participants: readonly { id: string; name: string }[]
+): string {
+  if (!participantId) return getParticipantImage('');
+  const p = participants.find((x) => x.id === participantId);
+  return getParticipantImage(p?.name);
+}
+
 export function getParticipantImage(name: string | undefined | null): string {
   // Proteção contra valores undefined/null/vazios
   if (!name || typeof name !== 'string' || name.trim() === '') {

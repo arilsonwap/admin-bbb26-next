@@ -1,0 +1,36 @@
+{
+  "version": 4,
+  "updatedAt": "2026-05-03T04:52:18.391Z",
+  "eliminacoes": [
+    {
+      "id": "eliminacao-1",
+      "data": "2026-04-30",
+      "titulo": "1ª Eliminação - 30/04/2026",
+      "subtitulo": "Porcentagem dos votos para ficar",
+      "tipoParedao": "NORMAL",
+      "tipoVotacao": "FICAR",
+      "objetivoVotacao": "FICAR",
+      "resultadoOficial": "ELIMINACAO",
+      "resultados": [
+        {
+          "id": "marina",
+          "name": "Marina",
+          "media": 46.59,
+          "status": "SALVA"
+        },
+        {
+          "id": "jovan",
+          "name": "Jovan",
+          "media": 31.81,
+          "status": "SALVO"
+        },
+        {
+          "id": "marcelo-skova",
+          "name": "Skova",
+          "media": 21.6,
+          "status": "ELIMINADO"
+        }
+      ]
+    }
+  ]
+}

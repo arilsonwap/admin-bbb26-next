@@ -21,7 +21,7 @@ export const ParedaoResultsEditor: React.FC = () => {
   useEffect(() => {
     const loadCurrentContent = async () => {
       try {
-        const response = await fetch('/tools/bbb-hosting/public/paredao-results.json');
+        const response = await fetch('/api/save-paredao-results');
         if (response.ok) {
           const text = await response.text();
           setJsonContent(text);
@@ -149,6 +149,69 @@ export const ParedaoResultsEditor: React.FC = () => {
                       <li>Salvar formatado no arquivo <code className="bg-blue-100 px-1 rounded">paredao-results.json</code></li>
                       <li>Gerar automaticamente o arquivo <code className="bg-blue-100 px-1 rounded">paredao-results-latest.json</code> com metadados</li>
                     </ul>
+                    <div className="mt-4 rounded-md border border-blue-200 bg-white/70 p-3">
+                      <p className="font-semibold text-blue-900">
+                        INSTRUÇÕES PARA ADICIONAR A FINAL NESTE ARQUIVO
+                      </p>
+                      <ol className="mt-2 ml-4 list-decimal space-y-1">
+                        <li>Vá até o último item do array <code className="bg-blue-100 px-1 rounded">paredoes</code>.</li>
+                        <li>No arquivo atual, o último item é o <code className="bg-blue-100 px-1 rounded">paredao-18</code>.</li>
+                        <li>Adicione uma vírgula após o fechamento do objeto do <code className="bg-blue-100 px-1 rounded">paredao-18</code>.</li>
+                        <li>Cole o bloco da final logo depois.</li>
+                        <li>
+                          Atualize <code className="bg-blue-100 px-1 rounded">updatedAt</code> no topo do arquivo para a data da alteração.
+                        </li>
+                        <li>
+                          Mantenha a final com estes campos para o app reconhecer corretamente:
+                          <ul className="mt-1 ml-4 list-disc space-y-1">
+                            <li><code className="bg-blue-100 px-1 rounded">tipoParedao</code>: <code className="bg-blue-100 px-1 rounded">FINAL</code></li>
+                            <li><code className="bg-blue-100 px-1 rounded">objetivoVotacao</code>: <code className="bg-blue-100 px-1 rounded">VENCER</code></li>
+                            <li><code className="bg-blue-100 px-1 rounded">resultadoOficial</code>: <code className="bg-blue-100 px-1 rounded">CAMPEAO</code></li>
+                            <li><code className="bg-blue-100 px-1 rounded">tipoVotacao</code>: <code className="bg-blue-100 px-1 rounded">FINAL</code></li>
+                          </ul>
+                        </li>
+                        <li>
+                          Em <code className="bg-blue-100 px-1 rounded">resultados</code>:
+                          <ul className="mt-1 ml-4 list-disc space-y-1">
+                            <li>deve existir exatamente 1 <code className="bg-blue-100 px-1 rounded">CAMPEAO</code></li>
+                            <li>pode existir 1 <code className="bg-blue-100 px-1 rounded">VICE</code></li>
+                            <li>pode existir 1 <code className="bg-blue-100 px-1 rounded">TERCEIRO_LUGAR</code></li>
+                          </ul>
+                        </li>
+                        <li>
+                          Como é final, deixe o campeão com a maior <code className="bg-blue-100 px-1 rounded">media</code>, depois o vice, depois o terceiro lugar.
+                        </li>
+                        <li>Depois de colar, valide o JSON para garantir que não ficou vírgula sobrando ou faltando.</li>
+                      </ol>
+
+                      <p className="mt-3 font-medium text-blue-900">BLOCO PRONTO PARA COLAR DENTRO DO ARRAY <code className="bg-blue-100 px-1 rounded">paredoes</code></p>
+                      <pre className="mt-2 whitespace-pre-wrap rounded-md bg-slate-900 text-slate-50 p-3 text-xs overflow-auto">
+{`{
+  "id": "paredao-19",
+  "data": "2026-04-21",
+  "titulo": "Grande Final - 21/04/2026",
+  "subtitulo": "Média dos votos baseada na porcentagem para vencer",
+  "tipoParedao": "FINAL",
+  "objetivoVotacao": "VENCER",
+  "resultadoOficial": "CAMPEAO",
+  "tipoVotacao": "FINAL",
+  "resultados": [
+    { "id": "juliano-floss", "name": "Juliano Floss", "media": 48.73, "status": "CAMPEAO" },
+    { "id": "ana-paula-renault", "name": "Ana Paula Renault", "media": 33.91, "status": "VICE" },
+    { "id": "milena", "name": "Milena", "media": 17.36, "status": "TERCEIRO_LUGAR" }
+  ]
+}`}
+                      </pre>
+
+                      <p className="mt-3 font-medium text-blue-900">EXEMPLO DO QUE TAMBÉM PRECISA MUDAR NO TOPO DO ARQUIVO</p>
+                      <pre className="mt-2 whitespace-pre-wrap rounded-md bg-slate-900 text-slate-50 p-3 text-xs overflow-auto">
+{`Trocar:
+"updatedAt": "2026-04-19T00:00:00.000Z"
+
+Por algo como:
+"updatedAt": "2026-04-21T00:00:00.000Z"`}
+                      </pre>
+                    </div>
                   </div>
                 </div>
               </div>

@@ -1,20 +1,20 @@
 {
-  "dataBusca": "2026-03-23",
+  "dataBusca": "2026-04-20",
   "participantes": [
     {
       "id": "alberto-cowboy",
       "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/",
-      "status": "líder,xepa",
-      "estalecas": 4150,
+      "status": "eliminado",
+      "estalecas": 4,
       "historico": {
         "lider": 4,
-        "paredao": 1,
+        "paredao": 2,
         "imune": 0,
         "anjo": 2,
         "naMira": 0,
         "monstro": 2,
         "vip": 9,
-        "xepa": 4
+        "xepa": 5
       }
     },
     {
@@ -36,17 +36,17 @@
     {
       "id": "ana-paula-renault",
       "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/ana-paula-renault/",
-      "status": "xepa",
-      "estalecas": 200,
+      "status": "1º lugar",
+      "estalecas": 1400,
       "historico": {
-        "lider": 0,
-        "paredao": 3,
+        "lider": 2,
+        "paredao": 6,
         "imune": 1,
         "anjo": 0,
         "naMira": 0,
-        "monstro": 2,
-        "vip": 3,
-        "xepa": 10
+        "monstro": 3,
+        "vip": 8,
+        "xepa": 13
       }
     },
     {
@@ -100,17 +100,17 @@
     {
       "id": "chaiany",
       "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/chaiany/",
-      "status": "xepa",
-      "estalecas": 150,
+      "status": "eliminada",
+      "estalecas": 0,
       "historico": {
         "lider": 0,
-        "paredao": 2,
+        "paredao": 3,
         "imune": 2,
         "anjo": 1,
         "naMira": 0,
         "monstro": 1,
         "vip": 1,
-        "xepa": 9
+        "xepa": 12
       }
     },
     {
@@ -132,17 +132,17 @@
     {
       "id": "gabriela",
       "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/gabriela/",
-      "status": "paredão,xepa",
-      "estalecas": 1300,
+      "status": "eliminada",
+      "estalecas": 0,
       "historico": {
         "lider": 0,
-        "paredao": 1,
+        "paredao": 3,
         "imune": 2,
         "anjo": 1,
         "naMira": 0,
-        "monstro": 0,
-        "vip": 5,
-        "xepa": 5
+        "monstro": 1,
+        "vip": 6,
+        "xepa": 10
       }
     },
     {
@@ -164,8 +164,8 @@
     {
       "id": "jonas-sulzbach",
       "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jonas-sulzbach/",
-      "status": "paredão,xepa",
-      "estalecas": 2819,
+      "status": "eliminado",
+      "estalecas": 4,
       "historico": {
         "lider": 4,
         "paredao": 1,
@@ -180,49 +180,49 @@
     {
       "id": "jordana",
       "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/jordana/",
-      "status": "vip",
-      "estalecas": 3080,
+      "status": "eliminada",
+      "estalecas": 1,
       "historico": {
-        "lider": 0,
-        "paredao": 1,
+        "lider": 1,
+        "paredao": 5,
         "imune": 1,
-        "anjo": 0,
+        "anjo": 1,
         "naMira": 0,
-        "monstro": 1,
-        "vip": 7,
-        "xepa": 5
+        "monstro": 2,
+        "vip": 9,
+        "xepa": 10
       }
     },
     {
       "id": "juliano-floss",
       "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/juliano-floss/",
-      "status": "paredão,xepa",
-      "estalecas": 120,
+      "status": "3º lugar",
+      "estalecas": 870,
       "historico": {
-        "lider": 0,
-        "paredao": 1,
+        "lider": 2,
+        "paredao": 4,
         "imune": 0,
         "anjo": 0,
         "naMira": 0,
         "monstro": 1,
-        "vip": 4,
-        "xepa": 7
+        "vip": 8,
+        "xepa": 10
       }
     },
     {
       "id": "leandro",
       "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/leandro/",
-      "status": "xepa",
-      "estalecas": 1110,
+      "status": "eliminado",
+      "estalecas": 1,
       "historico": {
-        "lider": 0,
-        "paredao": 3,
+        "lider": 1,
+        "paredao": 6,
         "imune": 1,
         "anjo": 1,
         "naMira": 0,
         "monstro": 0,
-        "vip": 1,
-        "xepa": 9
+        "vip": 3,
+        "xepa": 14
       }
     },
     {
@@ -244,17 +244,17 @@
     {
       "id": "marciele",
       "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/marciele/",
-      "status": "vip",
-      "estalecas": 2820,
+      "status": "eliminada",
+      "estalecas": 0,
       "historico": {
         "lider": 0,
-        "paredao": 0,
+        "paredao": 4,
         "imune": 0,
         "anjo": 0,
         "naMira": 0,
         "monstro": 0,
         "vip": 7,
-        "xepa": 4
+        "xepa": 9
       }
     },
     {
@@ -292,33 +292,33 @@
     {
       "id": "milena",
       "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/milena/",
-      "status": "xepa",
-      "estalecas": 700,
+      "status": "2º lugar",
+      "estalecas": 1850,
       "historico": {
         "lider": 0,
-        "paredao": 3,
-        "imune": 1,
-        "anjo": 1,
+        "paredao": 4,
+        "imune": 2,
+        "anjo": 2,
         "naMira": 1,
-        "monstro": 1,
-        "vip": 4,
-        "xepa": 9
+        "monstro": 2,
+        "vip": 9,
+        "xepa": 12
       }
     },
     {
       "id": "samira",
       "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/samira/",
-      "status": "xepa",
-      "estalecas": 570,
+      "status": "eliminada",
+      "estalecas": 2,
       "historico": {
-        "lider": 1,
-        "paredao": 1,
+        "lider": 2,
+        "paredao": 2,
         "imune": 1,
         "anjo": 0,
         "naMira": 1,
         "monstro": 0,
-        "vip": 3,
-        "xepa": 8
+        "vip": 6,
+        "xepa": 9
       }
     },
     {
@@ -356,18 +356,42 @@
     {
       "id": "solange-couto",
       "url": "https://gshow.globo.com/realities/bbb/bbb-26/participantes/solange-couto/",
-      "status": "xepa",
-      "estalecas": 1000,
+      "status": "eliminada",
+      "estalecas": 0,
       "historico": {
         "lider": 0,
-        "paredao": 1,
-        "imune": 1,
-        "anjo": 0,
+        "paredao": 2,
+        "imune": 2,
+        "anjo": 1,
         "naMira": 0,
         "monstro": 0,
         "vip": 4,
-        "xepa": 7
+        "xepa": 9
       }
     }
-  ]
+  ],
+  "resultadoFinal": {
+    "encerrado": true,
+    "ranking": [
+      {
+        "posicao": 1,
+        "id": "ana-paula-renault",
+        "nome": "Ana Paula Renault",
+        "titulo": "1º lugar"
+      },
+      {
+        "posicao": 2,
+        "id": "milena",
+        "nome": "Milena",
+        "titulo": "2º lugar"
+      },
+      {
+        "posicao": 3,
+        "id": "juliano-floss",
+        "nome": "Juliano Floss",
+        "titulo": "3º lugar"
+      }
+    ],
+    "updatedAt": "2026-04-22T03:36:23.400Z"
+  }
 }

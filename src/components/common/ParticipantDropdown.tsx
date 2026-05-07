@@ -9,6 +9,7 @@ interface ParticipantOption {
   label: string;
   value: string;
   disabled?: boolean;
+  image_url?: string | null;
 }
 
 interface ParticipantDropdownProps {
@@ -33,6 +34,9 @@ export const ParticipantDropdown: React.FC<ParticipantDropdownProps> = ({
   showAvatars = true,
 }) => {
   const selectedOption = options.find(option => option.value === value);
+  const selectedImageUrl =
+    selectedOption?.image_url?.trim() ||
+    (selectedOption?.label?.trim() ? getParticipantImage(selectedOption.label) : '');
 
   return (
     <div className="w-full">
@@ -63,11 +67,8 @@ export const ParticipantDropdown: React.FC<ParticipantDropdownProps> = ({
               {selectedOption && selectedOption.label && selectedOption.label.trim() !== '' && showAvatars && (
                 <div className="flex-shrink-0 mr-2">
                   <div className="relative w-6 h-6 rounded-full overflow-hidden bg-gray-200">
-                    <img
-                      src={getParticipantImage(selectedOption.label)}
-                      alt={selectedOption.label}
-                      className="w-full h-full object-cover"
-                    />
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={selectedImageUrl} alt={selectedOption.label} className="w-full h-full object-cover" />
                   </div>
                 </div>
               )}
@@ -107,8 +108,9 @@ export const ParticipantDropdown: React.FC<ParticipantDropdownProps> = ({
                         {showAvatars && option.label && option.label.trim() !== '' && (
                           <div className="flex-shrink-0 mr-3">
                             <div className="relative w-8 h-8 rounded-full overflow-hidden bg-gray-200">
+                              {/* eslint-disable-next-line @next/next/no-img-element */}
                               <img
-                                src={getParticipantImage(option.label)}
+                                src={(option.image_url?.trim() || getParticipantImage(option.label)) ?? ''}
                                 alt={option.label}
                                 className="w-full h-full object-cover"
                               />

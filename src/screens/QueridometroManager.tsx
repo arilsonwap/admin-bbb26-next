@@ -11,6 +11,7 @@ import {
   ArrowPathIcon
 } from '@heroicons/react/24/outline';
 import { useQueridometro } from '../hooks/useQueridometro';
+import { QueridometroEditorialPanel } from '../components/queridometro/QueridometroEditorialPanel';
 
 export const QueridometroManager: React.FC = () => {
   const {
@@ -80,6 +81,8 @@ export const QueridometroManager: React.FC = () => {
       {/* Main Content */}
       <main className="px-4 sm:px-6 lg:px-8 py-8">
         <div className="max-w-4xl mx-auto">
+          <QueridometroEditorialPanel />
+
           {/* Status Card */}
           <div className={`rounded-lg border p-6 mb-6 ${getStatusColor()}`}>
             <div className="flex items-center justify-between">
@@ -103,13 +106,13 @@ export const QueridometroManager: React.FC = () => {
                     {lastExecution.bytes ? `${(lastExecution.bytes / 1024).toFixed(1)} KB` : 'Tamanho desconhecido'}
                   </div>
                   <a
-                    href="/tools/bbb-hosting/public/queridometro.json"
+                    href="/api/hosting-public/queridometro.json"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center text-sm text-blue-600 hover:text-blue-800"
                   >
                     <ArrowUpRightIcon className="h-4 w-4 mr-1" />
-                    Ver JSON
+                    Ver JSON (dados)
                   </a>
                 </div>
               )}
@@ -125,7 +128,17 @@ export const QueridometroManager: React.FC = () => {
           {/* Action Button */}
           <div className="flex justify-center mb-8">
             <button
-              onClick={runQueridometro}
+              type="button"
+              onClick={() => {
+                if (
+                  !confirm(
+                    'Iniciar a geração do Queridômetro? O job interno pode levar vários minutos e o queridometro.json será atualizado em tools/bbb-hosting/public.'
+                  )
+                ) {
+                  return;
+                }
+                runQueridometro();
+              }}
               disabled={isRunning}
               className="flex items-center justify-center px-8 py-4 border border-transparent text-lg font-medium rounded-lg text-white bg-orange-600 hover:bg-orange-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-500 disabled:opacity-50 disabled:cursor-not-allowed transition-all"
             >
@@ -175,16 +188,17 @@ export const QueridometroManager: React.FC = () => {
             <h3 className="text-lg font-semibold text-blue-900 mb-2">ℹ️ Sobre o Queridômetro</h3>
             <div className="text-sm text-blue-800 space-y-2">
               <p>
-                Esta ferramenta executa o projeto queridômetro independente localizado em:
-                <code className="ml-1 px-2 py-1 bg-blue-100 rounded text-xs font-mono">
-                  /home/arilson/PROJETOS/queridometro
-                </code>
+                Esta ferramenta executa o job interno em{' '}
+                <code className="px-2 py-1 bg-blue-100 rounded text-xs font-mono">
+                  internal-jobs/queridometro
+                </code>{' '}
+                (relativo à raiz deste repositório admin).
               </p>
               <p>
-                O resultado é automaticamente copiado para <code className="px-2 py-1 bg-blue-100 rounded text-xs font-mono">tools/bbb-hosting/public/queridometro.json</code> e fica disponível para deploy.
+                O resultado é automaticamente copiado para <code className="px-2 py-1 bg-blue-100 rounded text-xs font-mono">tools/bbb-hosting/public/queridometro.json</code> e fica disponível para deploy (use o preview acima para ver o mesmo arquivo que o deploy publica).
               </p>
               <p>
-                <strong>Nota:</strong> O projeto queridômetro não é instalado nem modificado pelo painel - apenas executado quando solicitado.
+                <strong>Nota:</strong> O projeto queridômetro não é instalado nem modificado pelo painel - apenas executado quando solicitado. O bloqueio editorial usa <code className="px-2 py-1 bg-blue-100 rounded text-xs font-mono">queridometro-feature.json</code> e não é apagado pela extração.
               </p>
             </div>
           </div>

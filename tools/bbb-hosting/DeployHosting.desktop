@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=Application
 Name=Deploy Firebase Hosting (bbb-26)
-Comment=Deploy do Firebase Hosting
+Comment=Deploy oficial pelo monorepo admin-bbb26-next (tools/bbb-hosting/public). Não use outro clone só com public antiga.
 Icon=utilities-terminal
 Terminal=true
-WorkingDirectory=/home/arilson/PROJETOS/bbb-hosting
-Exec=bash -lc "cd /home/arilson/PROJETOS/bbb-hosting && npx firebase-tools deploy --only hosting; echo; echo '--- FIM ---'; read -n 1 -s -r -p 'Pressione qualquer tecla para fechar...'"
+WorkingDirectory=/home/arilson/PROJETOS/admin-bbb26-next
+Exec=bash -lc "cd /home/arilson/PROJETOS/admin-bbb26-next && bash tools/deploy-hosting/deploy-firebase-bbb-26.sh; echo; echo '--- FIM ---'; read -n 1 -s -r -p 'Pressione qualquer tecla para fechar...'"
 Categories=Development;

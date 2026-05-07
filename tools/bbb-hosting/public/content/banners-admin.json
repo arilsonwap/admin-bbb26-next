@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-20T04:35:00.611Z",
+  "sections": {
+    "dinamica": {
+      "items": [
+        {
+          "id": "banner-f5a7a3f8-c96a-4ced-8c32-7ec250ea2653",
+          "section": "dinamica",
+          "title": null,
+          "subtitle": null,
+          "imageUrl": "https://s2-gshow.glbimg.com/dTe69Kw23lR9wxIIX2E-HqYll3I=/0x0:1600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/W/r/9qb3gWQE6vhVmgTenbxA/whatsapp-image-2026-04-16-at-22.47.23.jpeg",
+          "targetUrl": null,
+          "active": true,
+          "sortOrder": 4,
+          "createdAt": "2026-04-17T02:35:58.729Z",
+          "updatedAt": "2026-04-17T02:35:58.729Z",
+          "startsAt": null,
+          "endsAt": null,
+          "notes": null
+        }
+      ]
+    }
+  }
+}

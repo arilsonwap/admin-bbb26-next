@@ -8,11 +8,17 @@ import {
   XCircleIcon,
   DocumentTextIcon,
   ArrowUpRightIcon,
-  ArrowPathIcon
+  ArrowPathIcon,
+  TrophyIcon,
+  UserGroupIcon
 } from '@heroicons/react/24/outline';
 import { useResumoDoJogo } from '../hooks/useResumoDoJogo';
+import { ResumoResultadoFinalModal } from '../components/resumo-do-jogo/ResumoResultadoFinalModal';
+import { ResumoFinalistasModal } from '../components/resumo-do-jogo/ResumoFinalistasModal';
 
 export const ResumoDoJogoManager: React.FC = () => {
+  const [resultadoFinalModalOpen, setResultadoFinalModalOpen] = useState(false);
+  const [finalistasModalOpen, setFinalistasModalOpen] = useState(false);
   const {
     status,
     lastExecution,
@@ -98,19 +104,30 @@ export const ResumoDoJogoManager: React.FC = () => {
               </div>
 
               {lastExecution && (
-                <div className="text-right">
+                <div className="text-right space-y-1">
                   <div className="text-sm text-gray-600">
                     {lastExecution.bytes ? `${(lastExecution.bytes / 1024).toFixed(1)} KB` : 'Tamanho desconhecido'}
                   </div>
-                  <a
-                    href="/tools/bbb-hosting/public/statusbbb.json"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center text-sm text-blue-600 hover:text-blue-800"
-                  >
-                    <ArrowUpRightIcon className="h-4 w-4 mr-1" />
-                    Ver JSON
-                  </a>
+                  <div className="flex flex-col items-end gap-1">
+                    <a
+                      href="/api/hosting-public/statusbbb.json"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center text-sm text-blue-600 hover:text-blue-800"
+                    >
+                      <ArrowUpRightIcon className="h-4 w-4 mr-1" />
+                      Ver JSON
+                    </a>
+                    <a
+                      href="/api/hosting-public/statusbbb-latest.json"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center text-sm text-blue-600 hover:text-blue-800"
+                    >
+                      <ArrowUpRightIcon className="h-4 w-4 mr-1" />
+                      Ver metadados (latest)
+                    </a>
+                  </div>
                 </div>
               )}
             </div>
@@ -122,17 +139,55 @@ export const ResumoDoJogoManager: React.FC = () => {
             )}
           </div>
 
-          {/* Action Button */}
-          <div className="flex justify-center mb-8">
+          {/* Action buttons */}
+          <div className="flex flex-col items-center gap-3 mb-8">
             <button
-              onClick={runResumoDoJogo}
+              type="button"
+              onClick={() => {
+                if (
+                  !confirm(
+                    'Iniciar a geração do Resumo do Jogo? Será feito o scraping de todos os participantes no Gshow (pode levar vários minutos) e o statusbbb.json será atualizado em tools/bbb-hosting/public.'
+                  )
+                ) {
+                  return;
+                }
+                runResumoDoJogo();
+              }}
               disabled={isRunning}
-              className="flex items-center justify-center px-8 py-4 border border-transparent text-lg font-medium rounded-lg text-white bg-orange-600 hover:bg-orange-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-500 disabled:opacity-50 disabled:cursor-not-allowed transition-all"
+              className="flex items-center justify-center px-8 py-4 border border-transparent text-lg font-medium rounded-lg text-white bg-orange-600 hover:bg-orange-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-500 disabled:opacity-50 disabled:cursor-not-allowed transition-all w-full max-w-md"
             >
               <PlayIcon className="h-6 w-6 mr-3" />
               {isRunning ? 'Gerando Resumo do Jogo...' : 'Gerar Resumo do Jogo Agora'}
             </button>
+            <button
+              type="button"
+              onClick={() => setFinalistasModalOpen(true)}
+              disabled={isRunning}
+              className="flex items-center justify-center px-6 py-3 border border-gray-300 text-base font-medium rounded-lg text-gray-800 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-400 disabled:opacity-50 disabled:cursor-not-allowed transition-all w-full max-w-md"
+            >
+              <UserGroupIcon className="h-5 w-5 mr-2 text-indigo-600" />
+              Definir finalistas
+            </button>
+            <button
+              type="button"
+              onClick={() => setResultadoFinalModalOpen(true)}
+              disabled={isRunning}
+              className="flex items-center justify-center px-6 py-3 border border-gray-300 text-base font-medium rounded-lg text-gray-800 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-400 disabled:opacity-50 disabled:cursor-not-allowed transition-all w-full max-w-md"
+            >
+              <TrophyIcon className="h-5 w-5 mr-2 text-amber-600" />
+              Definir resultado final
+            </button>
           </div>
+
+          <ResumoFinalistasModal
+            open={finalistasModalOpen}
+            onClose={() => setFinalistasModalOpen(false)}
+          />
+
+          <ResumoResultadoFinalModal
+            open={resultadoFinalModalOpen}
+            onClose={() => setResultadoFinalModalOpen(false)}
+          />
 
           {/* Logs Section */}
           {logs.length > 0 && (
@@ -175,13 +230,15 @@ export const ResumoDoJogoManager: React.FC = () => {
             <h3 className="text-lg font-semibold text-blue-900 mb-2">ℹ️ Sobre o Resumo do Jogo</h3>
             <div className="text-sm text-blue-800 space-y-2">
               <p>
-                Esta ferramenta executa o projeto resumodojogo independente localizado em:
-                <code className="ml-1 px-2 py-1 bg-blue-100 rounded text-xs font-mono">
-                  /home/arilson/PROJETOS/resumodojogo
-                </code>
+                Esta ferramenta executa o job interno em{' '}
+                <code className="px-2 py-1 bg-blue-100 rounded text-xs font-mono">
+                  internal-jobs/resumodojogo
+                </code>{' '}
+                (relativo à raiz deste repositório admin).
               </p>
               <p>
-                O resultado é automaticamente copiado para <code className="px-2 py-1 bg-blue-100 rounded text-xs font-mono">tools/bbb-hosting/public/statusbbb.json</code> e fica disponível para deploy.
+                O resultado é automaticamente copiado para <code className="px-2 py-1 bg-blue-100 rounded text-xs font-mono">tools/bbb-hosting/public/statusbbb.json</code> e fica disponível para deploy. O preview acima lê o mesmo arquivo via{' '}
+                <code className="px-2 py-1 bg-blue-100 rounded text-xs font-mono">/api/hosting-public/statusbbb.json</code>.
               </p>
               <p>
                 <strong>Nota:</strong> O projeto resumodojogo não é instalado nem modificado pelo painel - apenas executado quando solicitado.

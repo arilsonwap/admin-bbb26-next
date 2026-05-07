@@ -37,6 +37,7 @@ export const PRODUCT_CATEGORIES: { value: ProductCategory; label: string }[] = [
   { value: 'area-externa', label: 'Área Externa' },
   { value: 'quarto', label: 'Quarto' },
   { value: 'sala', label: 'Sala' },
+  { value: 'moda', label: 'Moda' },
 ];
 
 export const PRODUCT_STORES: { value: ProductStore; label: string }[] = [

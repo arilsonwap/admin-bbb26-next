@@ -1,6 +1,27 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { writeFileSync, statSync } from 'fs';
+import { readFileSync, writeFileSync, statSync } from 'fs';
 import { join } from 'path';
+
+export async function GET() {
+  try {
+    // Sempre ler o arquivo "real" usado na hospedagem
+    const hostingPath = join(process.cwd(), 'tools', 'bbb-hosting', 'public', 'paredao-results.json');
+    const content = readFileSync(hostingPath, 'utf8');
+
+    return new NextResponse(content, {
+      status: 200,
+      headers: {
+        'Content-Type': 'application/json; charset=utf-8',
+      },
+    });
+  } catch (error) {
+    console.error('Erro ao carregar paredao-results.json:', error);
+    return NextResponse.json({
+      error: 'Erro ao carregar arquivo',
+      details: error instanceof Error ? error.message : 'Erro desconhecido'
+    }, { status: 500 });
+  }
+}
 
 export async function POST(request: NextRequest) {
   try {

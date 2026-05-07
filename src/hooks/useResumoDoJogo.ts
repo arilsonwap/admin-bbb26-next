@@ -64,7 +64,7 @@ export const useResumoDoJogo = () => {
           setLastExecution({
             startedAt: new Date().toISOString(), // Será atualizado pela API se necessário
             finishedAt: new Date().toISOString(),
-            publishedPath: `/tools/bbb-hosting/public/statusbbb.json`,
+            publishedPath: `/api/hosting-public/statusbbb.json`,
             bytes: 0 // Será atualizado se necessário
           });
 
@@ -72,7 +72,7 @@ export const useResumoDoJogo = () => {
           setLogs(prev => [...prev,
             `📅 Data: ${new Date().toLocaleString('pt-BR')}`,
             `✅ Arquivo salvo: statusbbb.json`,
-            `🔗 Disponível em: /tools/bbb-hosting/public/statusbbb.json`
+            `🔗 Preview: /api/hosting-public/statusbbb.json`
           ]);
         }
 
@@ -94,14 +94,14 @@ export const useResumoDoJogo = () => {
             setLastExecution({
               startedAt: new Date().toISOString(),
               finishedAt: new Date().toISOString(),
-              publishedPath: `/tools/bbb-hosting/public/statusbbb.json`,
+              publishedPath: `/api/hosting-public/statusbbb.json`,
               bytes: 0
             });
 
             setLogs(prev => [...prev,
               `📅 Data: ${new Date().toLocaleString('pt-BR')}`,
               `✅ Arquivo salvo: statusbbb.json`,
-              `🔗 Disponível em: /tools/bbb-hosting/public/statusbbb.json`
+              `🔗 Preview: /api/hosting-public/statusbbb.json`
             ]);
           }
 

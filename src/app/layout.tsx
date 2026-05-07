@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { Sidebar } from "../components/Sidebar";
 import { KeyboardShortcuts } from "../components/KeyboardShortcuts";
+import { QueryProvider } from "../components/providers/QueryProvider";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -25,15 +26,17 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pt-BR">
+    <html lang="pt-BR" suppressHydrationWarning>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <KeyboardShortcuts />
-        <Sidebar />
-        <div className="lg:pl-72">
-          {children}
-        </div>
+        <QueryProvider>
+          <KeyboardShortcuts />
+          <Sidebar />
+          <div className="lg:pl-72">
+            {children}
+          </div>
+        </QueryProvider>
       </body>
     </html>
   );

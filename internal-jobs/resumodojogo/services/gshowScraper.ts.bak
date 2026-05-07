@@ -1,0 +1,279 @@
+import { chromium, Browser, Page } from "playwright";
+
+export interface HistoricoData {
+  lider: number;
+  paredao: number;
+  imune: number;
+  anjo: number;
+  naMira: number;
+  monstro: number;
+  vip: number;
+  xepa: number;
+}
+
+export interface ParticipantData {
+  id: string;
+  url: string;
+  status: string | null;
+  estalecas: number | null;
+  historico: HistoricoData;
+}
+
+export interface ScraperError {
+  url: string;
+  error: string;
+}
+
+export type ScraperResult = ParticipantData | ScraperError;
+
+function normalizeText(text: string): string {
+  return text
+    .replace(/\u00a0/g, " ")
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n{2,}/g, "\n")
+    .trim();
+}
+
+function pickMatch(text: string, regex: RegExp, castNumber = false): string | number | null {
+  const match = text.match(regex);
+  if (!match) return null;
+
+  const value = match[1]?.trim();
+  if (!castNumber) return value ?? null;
+
+  if (value == null) return null;
+
+  const num = Number(String(value).replace(/\./g, "").replace(",", "."));
+  return Number.isFinite(num) ? num : null;
+}
+
+function getCount(text: string, labelVariants: string[]): number {
+  // pega "label + numero" no texto da página
+  // exemplo: "líder 1", "vip 3", "na mira 0"
+  const labelGroup = labelVariants
+    .map(v => v.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"))
+    .join("|");
+
+  const regex = new RegExp(`(?:^|\\n|\\s)(?:${labelGroup})\\s+(\\d+)(?:\\s|$)`, "iu");
+  return (pickMatch(text, regex, true) as number) ?? 0;
+}
+
+function extractIdFromUrl(url: string): string {
+  // Extrai o ID da URL do participante
+  // Exemplo: https://gshow.globo.com/realities/bbb/bbb-26/participantes/alberto-cowboy/
+  // Resultado: alberto-cowboy
+  const match = url.match(/\/participantes\/([^\/]+)\/?$/);
+  return match ? match[1] : url;
+}
+
+function extractStatus(text: string, participantName?: string): string | null {
+  // Pega só o conteúdo ENTRE "Status" e "Estalecas" ou "Histórico"
+  const statusMatch = text.match(/Status[\s\S]*?(?:Estalecas|Histórico)/iu);
+  if (statusMatch) {
+    let status = statusMatch[0]
+      .replace(/Status/i, "")
+      .replace(/Estalecas|Histórico/i, "")
+      .trim()
+      .replace(/\s+/g, " ")
+      .toLowerCase();
+
+    // Se vier "vip xepa" etc, vira "vip,xepa"
+    if (status && status.includes(" ")) {
+      status = status.split(" ").filter(Boolean).join(",");
+    }
+
+    if (status && !/^\d+$/.test(status)) return status;
+  }
+
+  // Status especiais: se não tem bloco Status, às vezes aparece "eliminado" na página
+  const specialStatusMatch = text.match(/\b(eliminad[ao]|desclassificado)\b/iu);
+  if (specialStatusMatch) {
+    let status = specialStatusMatch[1].toLowerCase();
+
+    if (
+      status === "eliminado" &&
+      participantName &&
+      participantName.toLowerCase().endsWith("a")
+    ) {
+      status = "eliminada";
+    }
+
+    return status;
+  }
+
+  // ❌ SEM fallback genérico. Melhor retornar null do que chutar.
+  return null;
+}
+
+export async function scrapeParticipant(url: string): Promise<ParticipantData> {
+  const browser: Browser = await chromium.launch({ headless: true });
+  const page: Page = await browser.newPage({
+    // ajuda a evitar variações estranhas de locale
+    locale: "pt-BR",
+    userAgent:
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome Safari",
+  });
+
+  try {
+    // tenta carregar e esperar os rótulos aparecerem
+    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
+
+    // Espera o container principal aparecer (mais confiável que textos específicos)
+    await page
+      .locator("main")
+      .waitFor({ timeout: 20000 })
+      .catch(() => {
+        /* ainda tentamos ler, mas o gate vai bloquear se vier vazio */
+      });
+
+    // garante um tempinho pro JS renderizar
+    await page.waitForTimeout(800);
+
+    const rawText = await page.evaluate(() => {
+      // Primeiro tenta o seletor original
+      let section = document.querySelector(
+        "main .post-card-personalities-bbb__section"
+      );
+
+      // Se não encontrou, tenta seletores alternativos
+      if (!section) {
+        // Tenta encontrar qualquer seção BBB
+        section = document.querySelector('[class*="bbb"]');
+      }
+
+      if (!section) {
+        // Tenta encontrar seções de participantes
+        section = document.querySelector('[class*="participant"], [class*="participante"]');
+      }
+
+      if (!section) {
+        // Última tentativa: pega o main inteiro
+        section = document.querySelector('main');
+      }
+
+      if (!section) return "";
+      return (section as HTMLElement).innerText || "";
+    });
+    const text = normalizeText(rawText);
+
+    // Gate de segurança robusto: verifica conteúdo essencial da página
+    const hasStatusLabel = /\bStatus\b/i.test(text);
+    const hasHistorico = /\bHistórico\b/i.test(text);
+    const hasEliminado = /\b(eliminad[ao]|desclassificado)\b/i.test(text);
+
+    // Caso 1: página de participante (ativo) -> tem Status OU Histórico
+    const okActive = hasStatusLabel || hasHistorico;
+    // Caso 2: eliminado/desclassificado -> termo especial
+    const okSpecial = hasEliminado;
+
+    if (!okActive && !okSpecial) {
+      throw new Error("Conteúdo principal não encontrado (página instável ou layout mudou)");
+    }
+
+    const id = extractIdFromUrl(url);
+    const status = extractStatus(text, id.replace('-', ' '));
+
+    // Extrai estalecas diretamente do DOM (mais confiável)
+    const estalecas = await page.evaluate(() => {
+      // Primeiro tenta o seletor original
+      let el = document.querySelector(
+        "main .post-card-personalities-bbb__section .post-card-personalities-bbb__estalecas .jujubinha-estalecas span"
+      );
+
+      // Se não encontrou, tenta encontrar spans que contenham apenas números
+      if (!el) {
+        const spans = Array.from(document.querySelectorAll('span'));
+        // Procura por span que contenha apenas números (como "850")
+        const foundSpan = spans.find(span => {
+          const text = span.textContent?.trim() || '';
+          return /^\d+$/.test(text) && text.length > 2; // Pelo menos 3 dígitos
+        });
+        if (foundSpan) el = foundSpan;
+      }
+
+      const raw = (el?.textContent || "").trim();
+      const n = Number(raw.replace(/\./g, "").replace(",", "."));
+      return Number.isFinite(n) ? n : null;
+    });
+
+    const historico: HistoricoData = {
+      lider: getCount(text, ["líder", "lider"]),
+      paredao: getCount(text, ["paredão", "paredao"]),
+      imune: getCount(text, ["imune"]),
+      anjo: getCount(text, ["anjo"]),
+      naMira: getCount(text, ["na mira"]),
+      monstro: getCount(text, ["monstro"]),
+      vip: getCount(text, ["vip"]),
+      xepa: getCount(text, ["xepa"]),
+    };
+
+    return { id, url, status, estalecas, historico };
+  } finally {
+    await browser.close();
+  }
+}
+
+export async function scrapeMultipleParticipants(urls: string[]): Promise<ScraperResult[]> {
+  const results: ScraperResult[] = [];
+  const total = urls.length;
+
+  console.log(`🚀 Iniciando processamento de ${total} participante(s)...\n`);
+
+  for (let i = 0; i < urls.length; i++) {
+    const url = urls[i];
+    const current = i + 1;
+    const participantName = extractIdFromUrl(url).replace(/-/g, ' ');
+
+    console.log(`[${current}/${total}] 🔍 Processando: ${participantName}`);
+    console.log(`    URL: ${url}`);
+
+    // Sistema de retry para erros de conteúdo não encontrado
+    const maxRetries = 3;
+    let attempt = 0;
+    let success = false;
+
+    while (attempt < maxRetries && !success) {
+      attempt++;
+
+      if (attempt > 1) {
+        console.log(`    🔄 Tentativa ${attempt}/${maxRetries} (aguardando 2s...)`);
+        await new Promise(resolve => setTimeout(resolve, 2000)); // Espera 2 segundos entre tentativas
+      }
+
+      try {
+        const data = await scrapeParticipant(url);
+        results.push(data);
+        success = true;
+        console.log(`    ✅ Sucesso! Status: ${data.status || 'N/A'}, Estalecas: ${data.estalecas || 'N/A'}`);
+      } catch (error) {
+        const errorMsg = String((error as Error)?.message || error);
+
+        // Só faz retry se for erro de conteúdo não encontrado
+        if (errorMsg.includes('Conteúdo principal não encontrado') && attempt < maxRetries) {
+          console.log(`    ⚠️  Erro temporário: ${errorMsg}`);
+          continue; // Tenta novamente
+        } else {
+          // Erro definitivo ou última tentativa
+          results.push({
+            url,
+            error: errorMsg
+          });
+          console.log(`    ❌ Erro${attempt > 1 ? ` (após ${attempt} tentativas)` : ''}: ${errorMsg}`);
+          break;
+        }
+      }
+    }
+
+    console.log(`    📊 Progresso: ${current}/${total} (${Math.round((current/total)*100)}%)\n`);
+  }
+
+  const successCount = results.filter(r => !('error' in r)).length;
+  const errorCount = results.filter(r => 'error' in r).length;
+
+  console.log(`🎉 Processamento concluído!`);
+  console.log(`✅ Sucessos: ${successCount}`);
+  console.log(`❌ Erros: ${errorCount}`);
+  console.log(`📊 Total: ${total}`);
+
+  return results;
+}

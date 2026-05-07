@@ -3,16 +3,25 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "deploy:hosting": "bash tools/deploy-hosting/deploy-firebase-bbb-26.sh",
     "dev": "npm run sync-bbb26 && next dev",
     "build": "npm run sync-bbb26 && next build",
     "start": "next start",
     "lint": "eslint",
-    "sync-bbb26": "cp bbb26.json public/ 2>/dev/null || echo 'bbb26.json not found in root, skipping sync'"
+    "sync-bbb26": "cp bbb26.json public/ 2>/dev/null || echo 'bbb26.json not found in root, skipping sync'",
+    "scrape:casa-patrao": "node scripts/extrair-casa-do-patrao.js",
+    "scrape:casa-patrao-barra": "node scripts/extrair-casa-do-patrao-barra.js"
   },
   "dependencies": {
+    "@dnd-kit/core": "~6.3.1",
+    "@dnd-kit/sortable": "~10.0.0",
+    "@dnd-kit/utilities": "~3.2.2",
     "@headlessui/react": "~2.2.9",
     "@heroicons/react": "~2.2.0",
+    "@tanstack/react-query": "~5.85.9",
     "@types/jszip": "~3.4.0",
+    "cheerio": "~1.2.0",
+    "firebase-admin": "~13.7.0",
     "jszip": "~3.10.1",
     "lucide-react": "~0.563.0",
     "next": "16.1.6",
@@ -28,6 +37,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
+    "puppeteer": "~24.42.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

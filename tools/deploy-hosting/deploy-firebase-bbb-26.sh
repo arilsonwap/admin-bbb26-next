@@ -1,11 +1,19 @@
 #!/usr/bin/env bash
 set -e
 
+# Fluxo oficial do Hosting: monorepo admin-bbb26-next → tools/bbb-hosting/public
+# (não usar outro clone só com pasta public desatualizada.)
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+REPO_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
+
 echo "🚀 Deploy Firebase Hosting (bbb-26)"
+echo "📂 Repo: $REPO_ROOT"
 echo "Início: $(date)"
 echo "--------------------------------"
 
-cd "$(dirname "$0")/../bbb-hosting"
+node "$SCRIPT_DIR/ensure-app-version-manifest.cjs" "$REPO_ROOT"
+
+cd "$REPO_ROOT/tools/bbb-hosting"
 
 if [ ! -d "public" ]; then
   echo "❌ Pasta public não encontrada"

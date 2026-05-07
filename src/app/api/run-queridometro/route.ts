@@ -1,29 +1,31 @@
-import { NextRequest, NextResponse } from 'next/server';
+import { type NextRequest, NextResponse } from 'next/server';
 import { spawn } from 'child_process';
-import { writeFileSync, readFileSync, readdirSync, statSync } from 'fs';
-import { join, dirname } from 'path';
-import { tmpdir } from 'os';
+import { writeFileSync, readFileSync, readdirSync, statSync, existsSync, renameSync } from 'fs';
+import { join } from 'path';
+import {
+  assertQueridometroRunnable,
+  resolveBbbHostingPublicDir,
+  resolveQueridometroJobDir,
+} from '@/lib/internalJobsRuntimePaths';
+import {
+  diagnoseQueridometroExport,
+  logExportDiagnosis,
+} from '@/lib/publishExportDiagnostics';
 
 let running = false;
 const activeStreams = new Set<ReadableStreamDefaultController>();
 
-// Função para enviar dados para todos os streams ativos
 function broadcast(data: string) {
   activeStreams.forEach(controller => {
     try {
       controller.enqueue(`data: ${data}\n\n`);
     } catch (error) {
-      // Controller pode ter sido fechado
       activeStreams.delete(controller);
     }
   });
 }
 
-const QUERIDOMETRO_PATH = '/home/arilson/PROJETOS/queridometro';
-const LOCK_FILE = join(tmpdir(), 'queridometro-admin-panel.lock');
-
 export async function POST(request: NextRequest) {
-  // Verificar se já está executando
   if (running) {
     return NextResponse.json(
       { error: 'Queridômetro já está em execução' },
@@ -34,17 +36,10 @@ export async function POST(request: NextRequest) {
   running = true;
 
   try {
-    // Verificar se o projeto queridometro existe
-    try {
-      readdirSync(QUERIDOMETRO_PATH);
-    } catch (error) {
-      throw new Error(`Projeto queridômetro não encontrado em: ${QUERIDOMETRO_PATH}`);
-    }
+    const jobDir = resolveQueridometroJobDir();
+    assertQueridometroRunnable(jobDir);
 
-    // Executar o queridômetro com streaming
     const executionResult = await executeQueridometro();
-
-    // Encontrar e copiar o arquivo mais recente
     const copyResult = await copyLatestResult();
 
     running = false;
@@ -64,7 +59,7 @@ export async function POST(request: NextRequest) {
   } catch (error) {
     running = false;
 
-    console.error('Erro ao executar queridômetro:', error);
+    console.error('[run-queridometro]', error);
     return NextResponse.json({
       ok: false,
       error: error instanceof Error ? error.message : 'Erro desconhecido',
@@ -74,7 +69,75 @@ export async function POST(request: NextRequest) {
   }
 }
 
-export async function GET() {
+type QueridometroJsonState = {
+  ok: boolean;
+  mode: 'json';
+  running: boolean;
+  /** Eco do query param `afterLine` (polling incremental; linhas ainda não bufferizadas no servidor). */
+  afterLine: number;
+  nextLine: number;
+  lines: string[];
+  generatedAt: string;
+  jobDir?: string;
+  latestPublished: Record<string, unknown> | null;
+  error?: string;
+};
+
+function buildQueridometroJsonState(afterLine: number): QueridometroJsonState {
+  const generatedAt = new Date().toISOString();
+  const safeAfter = Number.isFinite(afterLine) && afterLine >= 0 ? Math.floor(afterLine) : 0;
+
+  try {
+    const jobDir = resolveQueridometroJobDir();
+    const publicDir = resolveBbbHostingPublicDir();
+    const latestPath = join(publicDir, 'queridometro-latest.json');
+    let latestPublished: Record<string, unknown> | null = null;
+    if (existsSync(latestPath)) {
+      latestPublished = JSON.parse(readFileSync(latestPath, 'utf8')) as Record<string, unknown>;
+    }
+
+    return {
+      ok: true,
+      mode: 'json',
+      running,
+      afterLine: safeAfter,
+      nextLine: safeAfter,
+      lines: [],
+      generatedAt,
+      jobDir,
+      latestPublished,
+    };
+  } catch (e) {
+    return {
+      ok: false,
+      mode: 'json',
+      running,
+      afterLine: safeAfter,
+      nextLine: safeAfter,
+      lines: [],
+      generatedAt,
+      latestPublished: null,
+      error: e instanceof Error ? e.message : 'Erro ao montar estado',
+    };
+  }
+}
+
+export async function GET(request: NextRequest) {
+  const { searchParams } = request.nextUrl;
+  if (searchParams.get('mode') === 'json') {
+    const raw = searchParams.get('afterLine');
+    const afterLine =
+      raw !== null && raw !== '' ? parseInt(raw, 10) : 0;
+    const body = buildQueridometroJsonState(afterLine);
+    return NextResponse.json(body, {
+      status: body.ok ? 200 : 500,
+      headers: {
+        'Content-Type': 'application/json; charset=utf-8',
+        'Cache-Control': 'no-store',
+      },
+    });
+  }
+
   const stream = new ReadableStream({
     start(controller) {
       activeStreams.add(controller);
@@ -94,20 +157,17 @@ export async function GET() {
 
       running = true;
 
-      // Executar o queridômetro com streaming em tempo real
       executeQueridometroStreaming().catch(error => {
-        console.error('Erro no streaming do queridômetro:', error);
-        broadcast(`❌ Erro: ${error.message}`);
+        console.error('[run-queridometro] Erro no streaming:', error);
+        broadcast(`❌ Erro: ${error instanceof Error ? error.message : String(error)}`);
         broadcast(`event: status\ndata: error\n\n`);
 
-        // Pequeno delay para garantir que o evento chegue ao cliente
         setTimeout(() => {
           finishStreaming();
         }, 500);
       });
     },
     cancel() {
-      // Cliente desconectou
       activeStreams.forEach(ctrl => {
         try {
           ctrl.close();
@@ -130,13 +190,15 @@ export async function GET() {
 }
 
 async function executeQueridometro(): Promise<{ logTail: string[]; startedAt: string }> {
+  const jobDir = resolveQueridometroJobDir();
+  assertQueridometroRunnable(jobDir);
+
   return new Promise((resolve, reject) => {
     const logs: string[] = [];
     const startedAt = new Date().toISOString();
 
-    // Tentar executar o script bash primeiro
     const child = spawn('bash', ['run-queridometro.sh'], {
-      cwd: QUERIDOMETRO_PATH,
+      cwd: jobDir,
       stdio: ['pipe', 'pipe', 'pipe'],
       env: { ...process.env, NODE_ENV: 'production' }
     });
@@ -157,37 +219,53 @@ async function executeQueridometro(): Promise<{ logTail: string[]; startedAt: st
 
     child.on('close', (code) => {
       if (code === 0) {
-        // Pegar as últimas 10 linhas de log
         const logTail = logs.slice(-10);
         resolve({ logTail, startedAt });
       } else {
-        reject(new Error(`Script falhou com código de saída: ${code}. Logs: ${logs.join('\n')}`));
+        reject(
+          new Error(
+            `[queridômetro] run-queridometro.sh encerrou com código ${code} (cwd=${jobDir}). Últimos logs:\n${logs.slice(-15).join('\n')}`
+          )
+        );
       }
     });
 
     child.on('error', (error) => {
-      reject(new Error(`Erro ao executar script: ${error.message}`));
+      reject(
+        new Error(
+          `[queridômetro] Não foi possível iniciar bash/run-queridometro.sh (cwd=${jobDir}): ${error.message}. Confira se bash está instalado e no PATH.`
+        )
+      );
     });
 
-    // Timeout configurável via QUERIDOMETRO_TIMEOUT_MS
-    // Padrão: 300000ms (5 min), recomendado para instabilidade: 900000ms (15 min)
-    const timeoutMs = parseInt(process.env.QUERIDOMETRO_TIMEOUT_MS || '300000');
+    const timeoutMs = parseInt(process.env.QUERIDOMETRO_TIMEOUT_MS || '900000');
     setTimeout(() => {
       child.kill();
-      reject(new Error(`Timeout: execução demorou mais de ${timeoutMs / 1000 / 60} minutos`));
+      reject(new Error(`[queridômetro] Timeout após ${timeoutMs / 1000 / 60} minutos (cwd=${jobDir})`));
     }, timeoutMs);
   });
 }
 
 async function executeQueridometroStreaming(): Promise<void> {
+  let jobDir: string;
+  try {
+    jobDir = resolveQueridometroJobDir();
+    assertQueridometroRunnable(jobDir);
+  } catch (err) {
+    const msg = err instanceof Error ? err.message : String(err);
+    broadcast(`❌ ${msg}`);
+    broadcast(`event: status\ndata: error\n\n`);
+    finishStreaming();
+    throw err;
+  }
+
   return new Promise((resolve, reject) => {
     broadcast(`🚀 Iniciando queridômetro...`);
     broadcast(`📅 ${new Date().toLocaleString('pt-BR')}`);
-    broadcast(`📂 Diretório: ${QUERIDOMETRO_PATH}`);
+    broadcast(`📂 Diretório: ${jobDir}`);
 
-    // Tentar executar o script bash
     const child = spawn('bash', ['run-queridometro.sh'], {
-      cwd: QUERIDOMETRO_PATH,
+      cwd: jobDir,
       stdio: ['pipe', 'pipe', 'pipe'],
       env: { ...process.env, NODE_ENV: 'production' }
     });
@@ -217,7 +295,6 @@ async function executeQueridometroStreaming(): Promise<void> {
         if (code === 0) {
           broadcast(`✅ Script concluído com sucesso`);
 
-          // Copiar resultado
           broadcast(`📋 Copiando resultado...`);
           const copyResult = await copyLatestResult();
           broadcast(`📄 Arquivo principal atualizado: queridometro.json`);
@@ -226,28 +303,26 @@ async function executeQueridometroStreaming(): Promise<void> {
 
           broadcast(`✨ Queridômetro finalizado!`);
 
-          // Garantir que o evento status seja enviado - múltiplas formas para compatibilidade
-          console.log('📤 Enviando evento status: success');
+          console.log('[run-queridometro] Enviando evento status: success');
           broadcast(`event: status\ndata: success\n\n`);
-          // Também enviar como mensagem normal para fallback
           broadcast(`success`);
 
-          // Delay ainda maior para garantir que o cliente processe
           setTimeout(() => {
-            console.log('🔌 Fechando streams SSE após sucesso');
+            console.log('[run-queridometro] Fechando streams SSE após sucesso');
             finishStreaming();
           }, 2000);
 
         } else {
           broadcast(`❌ Script falhou (código: ${code})`);
-          console.log('📤 Enviando evento status: error');
+          broadcast(
+            `💡 Dica: verifique logs acima, dependências em internal-jobs/queridometro (npm ci) e Playwright. cwd do job: ${jobDir}`
+          );
+          console.log('[run-queridometro] Enviando evento status: error');
           broadcast(`event: status\ndata: error\n\n`);
-          // Também enviar como mensagem normal para fallback
           broadcast(`error`);
 
-          // Delay ainda maior para garantir que o cliente processe
           setTimeout(() => {
-            console.log('🔌 Fechando streams SSE após erro');
+            console.log('[run-queridometro] Fechando streams SSE após erro');
             finishStreaming();
           }, 2000);
         }
@@ -263,20 +338,21 @@ async function executeQueridometroStreaming(): Promise<void> {
 
     child.on('error', (error) => {
       const errorMessage = error instanceof Error ? error.message : 'Erro desconhecido';
-      broadcast(`❌ Erro ao executar: ${errorMessage}`);
+      broadcast(
+        `❌ Erro ao executar: ${errorMessage} (cwd esperado do job: ${jobDir})`
+      );
       broadcast(`event: status\ndata: error\n\n`);
       finishStreaming();
       reject(error);
     });
 
-    // Timeout
-    const timeoutMs = parseInt(process.env.QUERIDOMETRO_TIMEOUT_MS || '300000');
+    const timeoutMs = parseInt(process.env.QUERIDOMETRO_TIMEOUT_MS || '900000');
     setTimeout(() => {
       child.kill();
       broadcast(`⏰ Timeout após ${timeoutMs / 1000 / 60} minutos`);
       broadcast(`event: status\ndata: error\n\n`);
       finishStreaming();
-      reject(new Error(`Timeout: execução demorou mais de ${timeoutMs / 1000 / 60} minutos`));
+      reject(new Error(`[queridômetro] Timeout após ${timeoutMs / 1000 / 60} minutos`));
     }, timeoutMs);
   });
 }
@@ -294,10 +370,15 @@ function finishStreaming() {
 }
 
 async function copyLatestResult(): Promise<{ publishedPath: string; sourcePath: string; bytes: number }> {
-  const dataDir = join(QUERIDOMETRO_PATH, 'data');
+  const jobDir = resolveQueridometroJobDir();
+  const dataDir = join(jobDir, 'data');
+  const publicDir = resolveBbbHostingPublicDir();
 
   try {
-    // Listar arquivos no diretório data
+    if (!existsSync(dataDir)) {
+      throw new Error(`[queridômetro] Pasta data/ ausente em ${jobDir} (o scraper deveria criá-la ao concluir).`);
+    }
+
     const files = readdirSync(dataDir)
       .filter(file => file.endsWith('.json'))
       .map(file => ({
@@ -308,37 +389,57 @@ async function copyLatestResult(): Promise<{ publishedPath: string; sourcePath: 
       .sort((a, b) => b.stats.mtime.getTime() - a.stats.mtime.getTime());
 
     if (files.length === 0) {
-      throw new Error('Nenhum arquivo JSON encontrado no diretório data do queridômetro');
+      throw new Error(`[queridômetro] Nenhum .json em ${dataDir}`);
     }
 
     const latestFile = files[0];
     const sourcePath = latestFile.path;
 
-    // Caminhos de destino
-    const fs = require('fs');
-    const publicDir = join(process.cwd(), 'tools', 'bbb-hosting', 'public');
     const mainPath = join(publicDir, 'queridometro.json');
 
-    // Ler o conteúdo
     const content = readFileSync(sourcePath, 'utf8');
 
-    // Criar/atualizar o arquivo principal (queridometro.json)
+    const diag = diagnoseQueridometroExport({
+      sourcePath,
+      publicDir,
+      dataDir,
+      sortedJsonFiles: files.map((f) => ({ name: f.name })),
+      selectedName: latestFile.name,
+      content,
+    });
+    logExportDiagnosis(diag);
+    broadcast(
+      `📊 Diagnóstico: origem=${diag.sourceFileName} · itens=${diag.itemsTotal} · ok=${diag.itemsOk} · falha busca=${diag.itemsWithFetchError} · candidatos data/=${diag.candidateJsonFilesInData} · ignorados (mtime)=${diag.skippedOlderCandidates}`
+    );
+    broadcast(`📊 Versão conteúdo=${diag.contentVersion} · bytes=${diag.bytes} · gerado=${diag.generatedAt}`);
+    if (diag.skippedOlderCandidates > 0) {
+      broadcast(`📊 Motivo ignorados: ${diag.skipReason}`);
+    }
+    if (diag.itemsWithFetchError > 0 && diag.fetchErrorSamples.length > 0) {
+      const sample = diag.fetchErrorSamples
+        .map((s) => `${s.slug}(${s.errorType ?? '?'})`)
+        .slice(0, 5)
+        .join(', ');
+      broadcast(`📊 Amostra falhas busca: ${sample}`);
+    }
+
     const mainTempPath = `${mainPath}.tmp`;
     writeFileSync(mainTempPath, content, 'utf8');
-    fs.renameSync(mainTempPath, mainPath);
+    renameSync(mainTempPath, mainPath);
 
-    // Atualizar metadados do arquivo mais recente
     const latestPath = join(publicDir, 'queridometro-latest.json');
     const latestData = {
       file: 'queridometro.json',
-      lastModified: new Date().toISOString(), // UTC para metadados
-      localDate: new Date().toISOString().split('T')[0], // Data local para referência
-      bytes: Buffer.byteLength(content, 'utf8')
+      lastModified: new Date().toISOString(),
+      localDate: new Date().toISOString().split('T')[0],
+      bytes: Buffer.byteLength(content, 'utf8'),
+      sha256: diag.contentSha256,
+      version: diag.contentVersion,
     };
 
     const latestTempPath = `${latestPath}.tmp`;
     writeFileSync(latestTempPath, JSON.stringify(latestData, null, 2), 'utf8');
-    fs.renameSync(latestTempPath, latestPath);
+    renameSync(latestTempPath, latestPath);
 
     broadcast(`📄 Arquivo atualizado: queridometro.json`);
 
@@ -349,6 +450,8 @@ async function copyLatestResult(): Promise<{ publishedPath: string; sourcePath: 
     };
 
   } catch (error) {
-    throw new Error(`Erro ao copiar resultado: ${error instanceof Error ? error.message : 'Erro desconhecido'}`);
+    throw new Error(
+      `[queridômetro] Falha ao publicar em ${publicDir}: ${error instanceof Error ? error.message : 'Erro desconhecido'}`
+    );
   }
 }

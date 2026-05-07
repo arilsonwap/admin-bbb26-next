@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "updatedAt": "2026-03-17T00:00:00.000Z",
+  "version": 18,
+  "updatedAt": "2026-04-21T00:00:00.000Z",
   "paredoes": [
     {
       "id": "paredao-1",
@@ -137,6 +137,156 @@
         { "id": "breno", "name": "Breno", "media": 58.96, "status": "ELIMINADO" },
         { "id": "ana-paula-renault", "name": "Ana Paula Renault", "media": 25.17, "status": "SALVO" },
         { "id": "leandro", "name": "Leandro", "media": 15.87, "status": "SALVO" }
+      ]
+    },
+    {
+      "id": "paredao-10",
+      "data": "2026-03-24",
+      "titulo": "10º Paredão - 24/03/2026",
+      "subtitulo": "Média dos votos baseada na porcentagem de eliminação",
+      "tipoParedao": "NORMAL",
+      "objetivoVotacao": "ELIMINAR",
+      "resultadoOficial": "ELIMINACAO",
+      "tipoVotacao": "ELIMINAR",
+      "resultados": [
+        { "id": "jonas-sulzbach", "name": "Jonas Sulzbach", "media": 53.48, "status": "ELIMINADO" },
+        { "id": "juliano-floss", "name": "Juliano Floss", "media": 43.49, "status": "SALVO" },
+        { "id": "gabriela", "name": "Gabriela", "media": 3.03, "status": "SALVO" }
+      ]
+    },
+    {
+      "id": "paredao-11",
+      "data": "2026-03-29",
+      "titulo": "11º Paredão - 29/03/2026",
+      "subtitulo": "Média dos votos baseada na porcentagem de eliminação",
+      "tipoParedao": "NORMAL",
+      "objetivoVotacao": "ELIMINAR",
+      "resultadoOficial": "ELIMINACAO",
+      "tipoVotacao": "ELIMINAR",
+      "resultados": [
+        { "id": "alberto-cowboy", "name": "Alberto Cowboy", "media": 67.95, "status": "ELIMINADO" },
+        { "id": "leandro", "name": "Leandro (Boneco)", "media": 28.74, "status": "SALVO" },
+        { "id": "jordana", "name": "Jordana", "media": 3.31, "status": "SALVO" }
+      ]
+    },
+    {
+      "id": "paredao-12",
+      "data": "2026-03-31",
+      "titulo": "12º Paredão - 31/03/2026",
+      "subtitulo": "Média dos votos baseada na porcentagem de eliminação",
+      "tipoParedao": "NORMAL",
+      "objetivoVotacao": "ELIMINAR",
+      "resultadoOficial": "ELIMINACAO",
+      "tipoVotacao": "ELIMINAR",
+      "resultados": [
+        { "id": "solange-couto", "name": "Solange Couto", "media": 94.17, "status": "ELIMINADO" },
+        { "id": "jordana", "name": "Jordana", "media": 3.54, "status": "SALVO" },
+        { "id": "marciele", "name": "Marciele", "media": 2.29, "status": "SALVO" }
+      ]
+    },
+    {
+      "id": "paredao-13",
+      "data": "2026-04-05",
+      "titulo": "13º Paredão - 05/04/2026",
+      "subtitulo": "Média dos votos baseada na porcentagem de eliminação",
+      "tipoParedao": "NORMAL",
+      "objetivoVotacao": "ELIMINAR",
+      "resultadoOficial": "ELIMINACAO",
+      "tipoVotacao": "ELIMINAR",
+      "resultados": [
+        { "id": "chaiany", "name": "Chaiany", "media": 61.07, "status": "ELIMINADO" },
+        { "id": "marciele", "name": "Marciele", "media": 20.37, "status": "SALVO" },
+        { "id": "juliano-floss", "name": "Juliano Floss", "media": 18.56, "status": "SALVO" }
+      ]
+    },
+    {
+      "id": "paredao-14",
+      "data": "2026-04-07",
+      "titulo": "14º Paredão - 07/04/2026",
+      "subtitulo": "Média dos votos baseada na porcentagem de eliminação",
+      "tipoParedao": "NORMAL",
+      "objetivoVotacao": "ELIMINAR",
+      "resultadoOficial": "ELIMINACAO",
+      "tipoVotacao": "ELIMINAR",
+      "resultados": [
+        { "id": "samira", "name": "Samira", "media": 51.24, "status": "ELIMINADO" },
+        { "id": "jordana", "name": "Jordana", "media": 47.67, "status": "SALVO" },
+        { "id": "marciele", "name": "Marciele", "media": 1.09, "status": "SALVO" }
+      ]
+    },
+    {
+      "id": "paredao-15",
+      "data": "2026-04-12",
+      "titulo": "15º Paredão - 12/04/2026",
+      "subtitulo": "Média dos votos baseada na porcentagem de eliminação",
+      "tipoParedao": "NORMAL",
+      "objetivoVotacao": "ELIMINAR",
+      "resultadoOficial": "ELIMINACAO",
+      "tipoVotacao": "ELIMINAR",
+      "resultados": [
+        { "id": "marciele", "name": "Marciele", "media": 59.34, "status": "ELIMINADO" },
+        { "id": "leandro", "name": "Leandro", "media": 37.62, "status": "SALVO" },
+        { "id": "gabriela", "name": "Gabriela", "media": 3.04, "status": "SALVO" }
+      ]
+    },
+    {
+      "id": "paredao-16",
+      "data": "2026-04-14",
+      "titulo": "16º Paredão - 14/04/2026",
+      "subtitulo": "Média dos votos baseada na porcentagem de eliminação",
+      "tipoParedao": "NORMAL",
+      "objetivoVotacao": "ELIMINAR",
+      "resultadoOficial": "ELIMINACAO",
+      "tipoVotacao": "ELIMINAR",
+      "resultados": [
+        { "id": "gabriela", "name": "Gabriela", "media": 64.12, "status": "ELIMINADO" },
+        { "id": "juliano-floss", "name": "Juliano Floss", "media": 29.24, "status": "SALVO" },
+        { "id": "ana-paula-renault", "name": "Ana Paula Renault", "media": 6.64, "status": "SALVO" }
+      ]
+    },
+    {
+      "id": "paredao-17",
+      "data": "2026-04-16",
+      "titulo": "17º Paredão - 16/04/2026",
+      "subtitulo": "Média dos votos baseada na porcentagem de eliminação",
+      "tipoParedao": "NORMAL",
+      "objetivoVotacao": "ELIMINAR",
+      "resultadoOficial": "ELIMINACAO",
+      "tipoVotacao": "ELIMINAR",
+      "resultados": [
+        { "id": "jordana", "name": "Jordana", "media": 71.8, "status": "ELIMINADO" },
+        { "id": "juliano-floss", "name": "Juliano Floss", "media": 26.14, "status": "SALVO" },
+        { "id": "ana-paula-renault", "name": "Ana Paula Renault", "media": 2.06, "status": "SALVO" }
+      ]
+    },
+    {
+      "id": "paredao-18",
+      "data": "2026-04-19",
+      "titulo": "18º Paredão - 19/04/2026",
+      "subtitulo": "Média dos votos baseada na porcentagem de eliminação",
+      "tipoParedao": "NORMAL",
+      "objetivoVotacao": "ELIMINAR",
+      "resultadoOficial": "ELIMINACAO",
+      "tipoVotacao": "ELIMINAR",
+      "resultados": [
+        { "id": "leandro", "name": "Leandro", "media": 52.19, "status": "ELIMINADO" },
+        { "id": "milena", "name": "Milena", "media": 43.3, "status": "SALVO" },
+        { "id": "ana-paula-renault", "name": "Ana Paula Renault", "media": 4.51, "status": "SALVO" }
+      ]
+    },
+    {
+      "id": "final-bbb-26",
+      "data": "2026-04-21",
+      "titulo": "Grande Final - 21/04/2026",
+      "subtitulo": "Média dos votos baseada na porcentagem para vencer",
+      "tipoParedao": "FINAL",
+      "objetivoVotacao": "VENCER",
+      "resultadoOficial": "CAMPEAO",
+      "tipoVotacao": "FINAL",
+      "resultados": [
+        { "id": "ana-paula-renault", "name": "Ana Paula Renault", "media": 75.94, "status": "CAMPEAO" },
+        { "id": "milena", "name": "Milena", "media": 17.29, "status": "VICE" },
+        { "id": "juliano-floss", "name": "Juliano Floss", "media": 6.77, "status": "TERCEIRO_LUGAR" }
       ]
     }
   ]
