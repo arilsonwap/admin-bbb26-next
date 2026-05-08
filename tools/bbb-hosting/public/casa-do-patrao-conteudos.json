@@ -1,23 +1,12 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-08T17:16:38.281Z",
+  "fetchedAt": "2026-05-08T18:47:52.098Z",
   "lastAddedCount": 2,
   "items": [
     {
-      "title": "Live Tá na Rua: Thiago revive os destaques da participação na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/live-ta-na-rua-thiago-revive-os-destaques-da-participacao-na-casa-do-patrao-08052026/",
-      "type": "noticia"
-    },
-    {
-      "title": "Choque, encarada e mergulho da vitória! Veja como os moradores reagiram à eliminação de Thiago no 2º Tá na Reta",
+      "title": "Choque, encarada e mergulho da vitória! Veja como os moradores reagiram à eliminação de Thiago",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/choque-encarada-e-mergulho-da-vitoria-veja-como-os-moradores-reagiram-a-eliminacao-de-thiago-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/V6SMHYTJGNDOBEY534RNLS6D2Y.png?auth=d2ae736c364c6baac1727fcd078a0b525842a8a9311208065432fb745fef30a1&smart=true&width=696&height=379",
-      "type": "foto"
-    },
-    {
-      "title": "Elétrico, polêmico e jogador! Confira como foi a passagem de Thiago pela Casa do Patrão; atleta colecionou tretas",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/eletrico-e-jogador-relembre-a-trajetoria-de-thiago-em-casa-do-patrao-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JVQNEDUTEFHEVB6DYKVRAVOUKA.png?auth=d4b4493d3c89c65a575d82ff34b3f9a5173ea48deeb5450b0fc475ec949a66e1&smart=true&width=208&height=330",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/V6SMHYTJGNDOBEY534RNLS6D2Y.png?smart=true&auth=d2ae736c364c6baac1727fcd078a0b525842a8a9311208065432fb745fef30a1&width=771&height=433",
       "type": "foto"
     },
     {
@@ -37,6 +26,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/traicao-a-vista-participantes-comprometidos-se-envolvem-em-triangulo-amoroso-na-casa-do-patrao-07052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/D2IDXIBG2RH3NPXYKRHXFSLJPI.png?smart=true&auth=3d77ecffa8b991dfba2b6a91321cc79be2935f4df18ac753c9936dde88e805e4&width=1354&height=761",
       "type": "noticia"
+    },
+    {
+      "title": "Elétrico e jogador! Relembre detalhes da trajetória de Thiago no programa",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/eletrico-e-jogador-relembre-a-trajetoria-de-thiago-em-casa-do-patrao-08052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JVQNEDUTEFHEVB6DYKVRAVOUKA.png?auth=d4b4493d3c89c65a575d82ff34b3f9a5173ea48deeb5450b0fc475ec949a66e1&smart=true&width=696&height=379",
+      "type": "foto"
     },
     {
       "title": "JP chega na Casa do Patrão gerando desconfianças, interesse amoroso e especulações: ‘Você é um perigo, né?’",
@@ -81,12 +76,6 @@
       "type": "video"
     },
     {
-      "title": "Recém-chegado, João Pedro escolhe lado e aceita ser arma secreta contra rivais | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/recem-chegado-joao-pedro-escolhe-lado-e-aceita-ser-arma-secreta-contra-rivais-casa-do-patrao-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_a07503f8d3a0486598869c245cfb0dea_name_file_960x540_1600_v4_.jpg?smart=true&auth=0e5ab4477319213317cf44229f29e4a05cdccadb7384ddefacdee882928bf48f&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Timaço! Conheça os avatares dos participantes da Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/timaco-conheca-os-avatares-dos-participantes-da-casa-do-patrao-04052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NYXSV6XTVFDYXFRP6JCOTZ4D3I.jpg?auth=4d5ebbc40c97ab91eeaa157e7f9bc0eddf5b848254589a8e1dbfe88f6526e35e&smart=true&width=696&height=379",
@@ -103,6 +92,18 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/assine-a-newsletter-da-casa-do-patrao-e-receba-informacoes-quentinhas-do-reality-01052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VTNVMI4XHVB5FITW5JM6HC4SHA.png?auth=0c04c1379709bf40e188ef4b63b93583784713e9f9b8874a9ace58380dd408f7&smart=true&width=696&height=379",
       "type": "noticia"
+    },
+    {
+      "title": "Thiago admite que voto em Jovan atrapalhou seu jogo | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/thiago-admite-que-voto-em-jovan-atrapalhou-seu-jogo-live-ta-na-rua-08052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_bd29748e9bbe4c10828045264ce9b7da_name_file_960x540_1600_v4_.jpg?smart=true&auth=9d14daea8a80471f57776ac98008163cb07f47a3934067c1666f02d473e2dc87&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Thiago abre o jogo, ataca Sheila e dispara: ‘É muita falsidade’ | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/thiago-abre-o-jogo-ataca-sheila-e-dispara-e-muita-falsidade-live-ta-na-rua-08052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_983e102997ce4a1d819591ce69d3d044_name_file_960x540_1600_v4_.jpg?smart=true&auth=0fb5850b5c4501bb2533c950af6fd59d71bf7654e08eefdaf21286823fc9159b&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Thiago abre o jogo e revela qual foi a sua estratégia na Casa do Patrão | Live Tá na Rua",
@@ -141,6 +142,12 @@
       "type": "video"
     },
     {
+      "title": "Recém-chegado, João Pedro escolhe lado e aceita ser arma secreta contra rivais | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/recem-chegado-joao-pedro-escolhe-lado-e-aceita-ser-arma-secreta-contra-rivais-casa-do-patrao-08052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_a07503f8d3a0486598869c245cfb0dea_name_file_960x540_1600_v4_.jpg?smart=true&auth=0e5ab4477319213317cf44229f29e4a05cdccadb7384ddefacdee882928bf48f&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Sheila dispara para Matheus: ‘Eu acho que se organizar direitinho todos rodam’ | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-dispara-para-matheus-eu-acho-que-se-organizar-direitinho-todos-rodam-casa-do-patrao-08052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_b3cabb590fe849c29b5e246381053ef9_name_file_960x540_1600_v4_.jpg?smart=true&auth=3a8fd3226c9baa63fef1a4c78d9a3aaa3f31f955735e49758b791a3f85f077c5&width=960&height=540",
@@ -165,16 +172,10 @@
       "type": "video"
     },
     {
-      "title": "Clima de emoção e arrependimento toma conta do trio do Tá na Reta antes de decisão | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/clima-de-emocao-e-arrependimento-toma-conta-do-trio-do-ta-na-reta-antes-de-decisao-casa-do-patrao-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_86c084ed8c5d41d5a7a09ec27600d705_name_file_960x540_1600_v4_.jpg?smart=true&auth=126fb9db678185e61c7a81a8ec30d1a6af81192a78436e362242fe9c01876753&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Ciúmes? Nikita acredita que chegada de JP abalou João Victor | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/ciumes-nikita-acredita-que-chegada-de-jp-abalou-joao-victor-casa-do-patrao-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_8dbf6f7cb859416b823e169c582d7216_name_file_960x540_1600_v4_.jpg?smart=true&auth=c1af52b8f3bd3afade1c9f1ff7909f86fdbd67452122bbb878566ecfa0a0cf59&width=960&height=540",
-      "type": "video"
+      "title": "Live Tá na Rua: Thiago revive os destaques da participação na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/live-ta-na-rua-thiago-revive-os-destaques-da-participacao-na-casa-do-patrao-08052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/TKRX6ZQACRCVPNKQLMQD7ESM4Q.png?smart=true&auth=29cd9e1b9f6d3a10134167a2ebc99d1dc5ec323d67ada6c32bc4766f5e50117d&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Luiza, Sheila ou Thiago? Quem você quer manter na Casa do Patrão?",
@@ -225,12 +226,6 @@
       "type": "noticia"
     },
     {
-      "title": "Boninho sugere convocar um ator para balançar o jogo na Casa do Patrão: ‘Tocar o terror!’",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/boninho-sugere-convocar-um-ator-para-balancar-o-jogo-na-casa-do-patrao-tocar-o-terror-05052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/MP4Z4NPPLVBMNBJXTPEKRLZ22Q.png?smart=true&auth=bf4e65945f3c39e4f738a5e081c97d4e7339824ca10d65586b118137c791ae1d&width=1185&height=666",
-      "type": "noticia"
-    },
-    {
       "title": "Quem vem aí? Público repercute o anúncio de 'gente nova' entrando na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/quem-vem-ai-publico-repercute-o-anuncio-de-gente-nova-entrando-na-casa-do-patrao-06052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IF3NKUV3BJB5NOI47UZIYADHWQ.png?smart=true&auth=c9bae4a88552be97b167a9f813443830d194a97a28341fef4c625a8c660b2b46&width=1444&height=812",
@@ -271,6 +266,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/jogo-interno-relembre-a-participacao-de-skova-na-casa-do-patrao-01052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/E6NBXALYUVDEZAPMZ42IUHO3D4.png?smart=true&auth=356801efcab14e59d16ed5a109018260f73545912caf00fe6b6274e6774a1ac6&width=1446&height=813",
       "type": "foto"
+    },
+    {
+      "title": "Clima de emoção e arrependimento toma conta do trio do Tá na Reta antes de decisão | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/clima-de-emocao-e-arrependimento-toma-conta-do-trio-do-ta-na-reta-antes-de-decisao-casa-do-patrao-08052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_86c084ed8c5d41d5a7a09ec27600d705_name_file_960x540_1600_v4_.jpg?smart=true&auth=126fb9db678185e61c7a81a8ec30d1a6af81192a78436e362242fe9c01876753&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Ciúmes? Nikita acredita que chegada de JP abalou João Victor | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/ciumes-nikita-acredita-que-chegada-de-jp-abalou-joao-victor-casa-do-patrao-08052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_8dbf6f7cb859416b823e169c582d7216_name_file_960x540_1600_v4_.jpg?smart=true&auth=c1af52b8f3bd3afade1c9f1ff7909f86fdbd67452122bbb878566ecfa0a0cf59&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Boninho sugere convocar um ator para balançar o jogo na Casa do Patrão: ‘Tocar o terror!’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/boninho-sugere-convocar-um-ator-para-balancar-o-jogo-na-casa-do-patrao-tocar-o-terror-05052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/MP4Z4NPPLVBMNBJXTPEKRLZ22Q.png?smart=true&auth=bf4e65945f3c39e4f738a5e081c97d4e7339824ca10d65586b118137c791ae1d&width=1185&height=666",
+      "type": "noticia"
     },
     {
       "title": "Hassum repercute DR entre João Victor e Nikita: ‘Casal não dorme brigado, né?’ | Casa do Patrão",
@@ -588,18 +601,6 @@
       "title": "Moradores sabonetam e levam bronca de Hassum ao vivo | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/moradores-sabonetam-e-levam-bronca-de-hassum-ao-vivo-casa-do-patrao-06052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-06-2026%2Ft_8e1ad93810794dfca2ae4fdfa6100d22_name_file_960x540_1600_v4_.jpg?smart=true&auth=a17933e0f8decb5c2e2b04618d4224a0a58b6a5e0507a0f9056072e3c6be6793&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Vini vence prova do Poder do Voto e pode indicar um participante ao Tá na Reta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/vini-vence-prova-do-poder-do-voto-e-pode-indicar-um-participante-ao-ta-na-reta-casa-do-patrao-06052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-06-2026%2Ft_c2815065e3eb48f795c649f6de669708_name_file_960x540_1600_v4_.jpg?smart=true&auth=ca9cc00fcc06656b5c81a9aed3addae77f29d2b1d2a1c5b936649a041b511592&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Morena chora e desabafa sobre indicações ao Tá na Reta: 'Não quero ser injusta' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/morena-chora-e-desabafa-sobre-indicacoes-ao-ta-na-reta-nao-quero-ser-injusta-casa-do-patrao-06052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-06-2026%2Ft_b28f0baf6a0144f3a89ef8e67387fc0e_name_file_960x540_1600_v4_.jpg?smart=true&auth=14e7660d0e49aaf7985d55be320db97b82354d8a816968ad9d595897520c97d1&width=960&height=540",
       "type": "video"
     }
   ],
