@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-09T03:59:46.348Z",
-  "lastAddedCount": 9,
+  "fetchedAt": "2026-05-09T06:24:19.283Z",
+  "lastAddedCount": 2,
   "items": [
     {
       "title": "Moradores curtem show de Felipe Araújo na festa deste domingo (10)",
@@ -102,6 +102,12 @@
       "type": "noticia"
     },
     {
+      "title": "Vivão, Andressa e Nikita conversam sobre estratégias de jogo | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-andressa-e-nikita-conversam-sobre-estrategias-de-jogo-casa-do-patrao-09052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_1585617285d3473d9c30a156d168d245_name_file_960x540_1600_v4_.jpg?smart=true&auth=444a70cdd26e27478d8e811d8f8d00f791c0bd7710d63eb2e823a5f7feb902cd&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "VAR revela ‘sumiço’ de Sheila | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/var-revela-sumico-de-sheila-casa-do-patrao-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_3bb36425fc4c4c3fbcaccac118081d18_name_file_960x540_1600_v4_.jpg?smart=true&auth=c115554eb576822af83247037c119fa7554e8cc3dc1c79504f48294dd3f40be2&width=960&height=540",
@@ -186,10 +192,10 @@
       "type": "video"
     },
     {
-      "title": "Thiago admite que voto em Jovan atrapalhou seu jogo | Live Tá na Rua",
-      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/thiago-admite-que-voto-em-jovan-atrapalhou-seu-jogo-live-ta-na-rua-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_bd29748e9bbe4c10828045264ce9b7da_name_file_960x540_1600_v4_.jpg?smart=true&auth=9d14daea8a80471f57776ac98008163cb07f47a3934067c1666f02d473e2dc87&width=960&height=540",
-      "type": "video"
+      "title": "Entre no canal da RECORD no WhatsApp e saiba tudo o que acontece na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/entre-no-canal-da-record-no-whatsapp-e-saiba-tudo-o-que-acontece-na-casa-do-patrao-09052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/63ZB3QXX6NBSRLQ3UOQVPEQG74.jpg?smart=true&auth=22555e837e09145b9a28ac665dcccf01dc06cd72ccb4e145d24e53f90bc1bcb9&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Live Tá na Rua: Thiago revive os destaques da participação na Casa do Patrão",
@@ -219,12 +225,6 @@
       "title": "Novo morador surpreende elenco de Casa do Patrão nesta quarta (6)",
       "href": "https://record.r7.com/casa-do-patrao/novidades/novo-morador-surpreende-elenco-de-casa-do-patrao-nesta-quarta-6-06052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/MSYWDJPNZZDVZA5L7DZMACF3QI.png?smart=true&auth=c24d0d486eee89d20963940cb51ac2cfc477fcfda963820b5b709f46c27d9dbc&width=677&height=380",
-      "type": "noticia"
-    },
-    {
-      "title": "Panelaço e greve no Trampo! Entenda o que rolou na madrugada caótica da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/panelaco-e-greve-no-trampo-entenda-o-que-rolou-na-madrugada-caotica-da-casa-do-patrao-06052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/B7HAOSZJ3RHVRHKY43FKRU5JOM.png?smart=true&auth=41cd064f3e555e33a1a8563a5edee926f2a2db7c7c24477565fa65180a315e14&width=1185&height=666",
       "type": "noticia"
     },
     {
@@ -262,6 +262,18 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/sheila-fica-aos-prantos-apos-ser-eleita-a-mais-falsa-na-casa-do-patrao-02052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NSOQSQYORRA5RMR4YFBK7ECFXQ.jpg?smart=true&auth=0e97964370c2c194fe4f474652a0c8e19819b8e2fa6e71c41874e70946e5eaff&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Thiago admite que voto em Jovan atrapalhou seu jogo | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/thiago-admite-que-voto-em-jovan-atrapalhou-seu-jogo-live-ta-na-rua-08052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_bd29748e9bbe4c10828045264ce9b7da_name_file_960x540_1600_v4_.jpg?smart=true&auth=9d14daea8a80471f57776ac98008163cb07f47a3934067c1666f02d473e2dc87&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Panelaço e greve no Trampo! Entenda o que rolou na madrugada caótica da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/panelaco-e-greve-no-trampo-entenda-o-que-rolou-na-madrugada-caotica-da-casa-do-patrao-06052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/B7HAOSZJ3RHVRHKY43FKRU5JOM.png?smart=true&auth=41cd064f3e555e33a1a8563a5edee926f2a2db7c7c24477565fa65180a315e14&width=1185&height=666",
+      "type": "noticia"
     },
     {
       "title": "Thiago abre o jogo, ataca Sheila e dispara: ‘É muita falsidade’ | Live Tá na Rua",
@@ -592,23 +604,11 @@
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/morena-avalia-semana-como-patroa-e-diz-que-esta-no-programa-para-jogar-casa-do-patrao-07052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-07-2026%2Ft_95488f32a9264d1c906ed36c6ea4be3e_name_file_960x540_1600_v4_.jpg?smart=true&auth=7ce0a6958926226fc920584c53db98b1ecc9b445c7b192ec8008d6905e370a37&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Matheus derruba Mariana na piscina e perde R$ 300 | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-derruba-mariana-na-piscina-e-perde-r-300-casa-do-patrao-06052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-06-2026%2Ft_aa6ea3431dc34045a4859fe5094a96a1_name_file_960x540_1600_v4_.jpg?smart=true&auth=2651d6396819ea6fcb05d18bf9b131c88286268ba2395553c4211cbd26fb0a8c&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Leandro Hassum cobra posicionamento dos participantes: ‘Estão sabonetando’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/leandro-hassum-cobra-posicionamento-dos-participantes-estao-sabonetando-casa-do-patrao-07052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-07-2026%2Ft_1faaf17d19cc47d8923d26bf84cf8a03_name_file_960x540_1600_v4_.jpg?smart=true&auth=bd69f3bb46562fe535e983c42eb373db54ea52967de6023db7c3cfa0f03ec804&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 22,
-    "video": 58,
+    "noticia": 23,
+    "video": 57,
     "foto": 20
   }
 }
