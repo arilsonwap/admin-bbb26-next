@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-09T21:58:40.885Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-05-09T22:55:18.131Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Naturalismo, esconde-esconde e mais! VAR da Casa do Patrão ataca novamente e não perdoa nem Leandro Hassum",
@@ -100,6 +100,12 @@
       "type": "noticia"
     },
     {
+      "title": "Vini reage diante a sujeira: ‘Eu vou chegar soltando os venenos’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vini-reage-diante-a-sujeira-eu-vou-chegar-soltando-os-venenos-casa-do-patrao-09052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_a8dcaf9f3c4a4eeeba9e47ae377a84f8_name_file_960x540_1600_v4_.jpg?smart=true&auth=c20a047ace81cbb1fd46c00c4b2a96585b2a7505149e1b7868603e1913080b9a&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Vivão avalia como movimentar o jogo e separar aliados | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-avalia-como-movimentar-o-jogo-e-separar-aliados-casa-do-patrao-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_29ec9fe9f0794adf8c3fdbc0c12127ba_name_file_960x540_1600_v4_.jpg?smart=true&auth=4d8004460643eef4bc173c798d13ab1c41710222990b6dcf9dac1572f02cbc77&width=960&height=540",
@@ -147,7 +153,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_ed35fa2dccde4592907333ebb6ded111_name_file_960x540_1600_v4_.jpg?smart=true&auth=cb29b50535546cfc76ae2cd25a432d45597cd4009489b4e142b02ebcc621e597&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 11 HORAS"
+      "time": "HÁ 12 HORAS"
     },
     {
       "title": "Vivão, Andressa e Nikita conversam sobre estratégias de jogo | Casa do Patrão",
@@ -183,12 +189,6 @@
       "title": "Confira a reação da casa após a saída de Thiago | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/confira-a-reacao-da-casa-apos-a-saida-de-thiago-casa-do-patrao-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_122d6aeaaefc4d6f863a8f3e00098861_name_file_960x540_1600_v4_.jpg?smart=true&auth=598b0cab367febf2356107fc3df224dfc704dee0a4035d9a0afbc87604984013&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Novo casal? João Victor fala sobre possível romance com Nikita | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/novo-casal-joao-victor-fala-sobre-possivel-romance-com-nikita-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_6d1eceb38be64afb85f62b7a3092bcba_name_file_960x540_1600_v4_.jpg?smart=true&auth=6baf3314b37186691d8ae11d04d502657b3285943f2d61a9f5accbde3e666053&width=960&height=540",
       "type": "video"
     },
     {
@@ -258,6 +258,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/montanha-russa-de-emocoes-veja-os-destaques-da-primeira-semana-de-casa-do-patrao-04052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BC47U2SS3NH6RIKEJALE7KDXZE.png?smart=true&auth=28e8b085bed881cdf07ad99baf77582418e799f7bdc8bee88d0dc0e43123f073&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Novo casal? João Victor fala sobre possível romance com Nikita | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/novo-casal-joao-victor-fala-sobre-possivel-romance-com-nikita-casa-do-patrao-09052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_6d1eceb38be64afb85f62b7a3092bcba_name_file_960x540_1600_v4_.jpg?smart=true&auth=6baf3314b37186691d8ae11d04d502657b3285943f2d61a9f5accbde3e666053&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Fim da amizade? Grupo sugere abandonar aliança com Sheila | Casa do Patrão",
@@ -600,17 +606,11 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/boninho-compartilha-dr-da-madrugada-de-casa-do-patrao-e-internautas-vibram-05052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/POZ73ZHAANGSFLHZ7UDFAES53Q.png?smart=true&auth=f8985607a07837b4b4ac154afccd385ea7dfbc9b1e2d2217ebe9b3b0a3eb8dd3&width=1354&height=761",
       "type": "noticia"
-    },
-    {
-      "title": "Gente da gente: confira a galeria de fotos dos participantes antes de entrarem na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/gente-da-gente-confira-a-galeria-de-fotos-dos-participantes-antes-de-entrar-na-casa-do-patrao-30042026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/QF7K2GHMYBDHFNSSPUIDOAV7KQ.jpg?smart=true&auth=7b0141037c8ea8a1e87984f6de78b0a384f4fa43ec9e5aa6ee198fc5ea3171c6&width=770&height=433",
-      "type": "foto"
     }
   ],
   "counts": {
     "noticia": 21,
-    "video": 58,
-    "foto": 21
+    "video": 59,
+    "foto": 20
   }
 }
