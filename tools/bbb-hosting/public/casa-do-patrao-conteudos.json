@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-09T16:11:05.713Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-05-09T17:15:38.267Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Moradores curtem show de Felipe Araújo na festa deste domingo (10)",
@@ -102,6 +102,12 @@
       "type": "noticia"
     },
     {
+      "title": "João Pedro recebe 'patada' de Morena e desabafa: 'As pessoas daqui estão malucas' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-pedro-recebe-patada-de-morena-e-desabafa-as-pessoas-daqui-estao-malucas-casa-do-patrao-09052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_094d9857afc14686b9b9c126a75cf8ae_name_file_960x540_1600_v4_.jpg?smart=true&auth=ffefd643d0e7a07c8091b8468b1709b7551adb79f75dc9849eab367458533071&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Sheila diz que Jackson não aguentaria cumprir uma prova de resistência | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-diz-que-jackson-nao-aguentaria-cumprir-uma-prova-de-resistencia-casa-do-patrao-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_45807deeee5244519760d8ca65ef3a6b_name_file_960x540_1600_v4_.jpg?smart=true&auth=9d1f014b493cebb8d02905587d6f8455c5b950b403a4d3d0aa09ec07282db99f&width=960&height=540",
@@ -125,7 +131,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_ed35fa2dccde4592907333ebb6ded111_name_file_960x540_1600_v4_.jpg?smart=true&auth=cb29b50535546cfc76ae2cd25a432d45597cd4009489b4e142b02ebcc621e597&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 5 HORAS"
+      "time": "HÁ 6 HORAS"
     },
     {
       "title": "Vivão, Andressa e Nikita conversam sobre estratégias de jogo | Casa do Patrão",
@@ -185,12 +191,6 @@
       "title": "Vini e Jackson desconfiam de jogo de JP: ‘Ninguém se enturma tão fácil assim’ | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vini-e-jackson-desconfiam-de-jogo-de-jp-ninguem-se-enturma-tao-facil-assim-casa-do-patrao-08052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_cdcefa0276f34f48ac0d14ee6e4d37e7_name_file_960x540_1600_v4_.jpg?smart=true&auth=ef7395717fa6de60ced10aaccfad39967139d2cbebfd2de0bc270dc25e1e2379&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Irônica, Sheila compara Nikita e Nataly a Ana Paula Renault e Milena | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/ironica-sheila-compara-nikita-e-nataly-a-ana-paula-renault-e-milena-casa-do-patrao-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_eaf329a448234bbf9b9f72b1ba32a696_name_file_960x540_1600_v4_.jpg?smart=true&auth=db463c916ba7f3496b3277c324ef230d686ca479e4d48c3cc1404ac80a10fb4a&width=960&height=540",
       "type": "video"
     },
     {
@@ -264,6 +264,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/chama-o-var-dinamica-dedura-xixi-fora-do-vaso-e-fofoca-durante-a-festa-para-os-competidores-02052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ST3KYZLJCVFTBCURKQ23CHQVCI.jpg?smart=true&auth=c79d23d709ff493ff9e6f4a9ae901b8c9babcbc461f38549913e088db2b3e8c4&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Irônica, Sheila compara Nikita e Nataly a Ana Paula Renault e Milena | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/ironica-sheila-compara-nikita-e-nataly-a-ana-paula-renault-e-milena-casa-do-patrao-08052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_eaf329a448234bbf9b9f72b1ba32a696_name_file_960x540_1600_v4_.jpg?smart=true&auth=db463c916ba7f3496b3277c324ef230d686ca479e4d48c3cc1404ac80a10fb4a&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "VAR chega para movimentar os participantes nesta sexta-feira (8) | Casa do Patrão",
@@ -599,12 +605,6 @@
       "title": "Agente do caos? Moradores dividem primeiras impressões sobre novo participante | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/agente-do-caos-moradores-dividem-primeiras-impressoes-sobre-novo-participante-casa-do-patrao-07052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-07-2026%2Ft_bfa6d6508a314c67b6c6db40e8806bae_name_file_960x540_1600_v4_.jpg?smart=true&auth=61d0e4ee1fff3c15dcf65105bca20d6f66d9f3e897681a5a5a4fdcf8355b15f0&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Novo morador chega e surpreende: ‘Estou aqui para me comprometer com o jogo’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/novo-morador-chega-e-surpreende-estou-aqui-para-me-comprometer-com-o-jogo-casa-do-patrao-07052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-07-2026%2Ft_c0400761b03840828b4b0bb0384105a8_name_file_960x540_1600_v4_.jpg?smart=true&auth=51917f41d7ae8372a42ae317feca17ab658c45fa5ad81d493ca6907cf96e9c9c&width=960&height=540",
       "type": "video"
     }
   ],
