@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-09T12:40:35.334Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-05-09T14:09:28.348Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Moradores curtem show de Felipe Araújo na festa deste domingo (10)",
@@ -102,12 +102,18 @@
       "type": "noticia"
     },
     {
+      "title": "Marina avalia como 'regular' mandato de Morena e alfineta Vini na faxina | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/marina-avalia-como-regular-mandato-de-morena-e-alfineta-vini-na-faxina-casa-do-patrao-09052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_17acf7032d9843ff87c43ce9d972b3c5_name_file_960x540_1600_v4_.jpg?smart=true&auth=cf7e6cf775eb77c0400c9d73feeea8641c8f75bfa2f7c6f91b4ff7999650bc5b&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "'Não quero ser a barraqueira da edição', confessa Nataly | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nao-quero-ser-a-barraqueira-da-edicao-confessa-nataly-casa-do-patrao-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_ed35fa2dccde4592907333ebb6ded111_name_file_960x540_1600_v4_.jpg?smart=true&auth=cb29b50535546cfc76ae2cd25a432d45597cd4009489b4e142b02ebcc621e597&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 2 HORAS"
+      "time": "HÁ 3 HORAS"
     },
     {
       "title": "Vivão, Andressa e Nikita conversam sobre estratégias de jogo | Casa do Patrão",
@@ -188,12 +194,6 @@
       "type": "video"
     },
     {
-      "title": "JP faz intriga e explana conversas de outros participantes sobre as Parças | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jp-faz-intriga-e-explana-conversas-de-outros-participantes-sobre-as-parcas-casa-do-patrao-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_c30cc40493c346f9857e0f84e4212323_name_file_960x540_1600_v4_.jpg?smart=true&auth=d7d535bcf482390a90145dba8faff03c91fa4daa35fc55e48e1680252a01a4e9&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Entre no canal da RECORD no WhatsApp e saiba tudo o que acontece na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/entre-no-canal-da-record-no-whatsapp-e-saiba-tudo-o-que-acontece-na-casa-do-patrao-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/63ZB3QXX6NBSRLQ3UOQVPEQG74.jpg?smart=true&auth=22555e837e09145b9a28ac665dcccf01dc06cd72ccb4e145d24e53f90bc1bcb9&width=677&height=380",
@@ -264,6 +264,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/sheila-fica-aos-prantos-apos-ser-eleita-a-mais-falsa-na-casa-do-patrao-02052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NSOQSQYORRA5RMR4YFBK7ECFXQ.jpg?smart=true&auth=0e97964370c2c194fe4f474652a0c8e19819b8e2fa6e71c41874e70946e5eaff&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "JP faz intriga e explana conversas de outros participantes sobre as Parças | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jp-faz-intriga-e-explana-conversas-de-outros-participantes-sobre-as-parcas-casa-do-patrao-08052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_c30cc40493c346f9857e0f84e4212323_name_file_960x540_1600_v4_.jpg?smart=true&auth=d7d535bcf482390a90145dba8faff03c91fa4daa35fc55e48e1680252a01a4e9&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Tá na Rua: Assista à íntegra da live com Thiago Monteiro | Casa do Patrão",
@@ -600,17 +606,11 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/de-olho-no-bolso-confira-o-saldo-atualizado-dos-moradores-de-casa-do-patrao-05052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/A6VDNLVWDVAU3G54BA6H2VJ74I.png?smart=true&auth=c4f37d85cd9e246704d13b6f5a7aae7b3d95e34ee2df419c2525a553a3fd962e&width=677&height=380",
       "type": "noticia"
-    },
-    {
-      "title": "Luis Fellipe vence a prova Tô Fora e é o novo morador da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/luis-fellipe-vence-a-prova-to-fora-e-e-o-novo-morador-da-casa-do-patrao-05052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/PZHZKTK5SBDBTO4NPLH4COWGFE.png?smart=true&auth=7c01e6202256678c98c4ec3a8e24c33d4377f6f6de8cf04769a028b63deb12ed&width=677&height=380",
-      "type": "noticia"
     }
   ],
   "counts": {
-    "noticia": 23,
-    "video": 57,
+    "noticia": 22,
+    "video": 58,
     "foto": 20
   }
 }
