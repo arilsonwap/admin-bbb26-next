@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-10T18:09:08.059Z",
+  "fetchedAt": "2026-05-10T19:32:23.616Z",
   "lastAddedCount": 1,
   "items": [
     {
@@ -19,6 +19,12 @@
       "title": "Entre no canal da RECORD no WhatsApp e saiba tudo o que acontece na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/entre-no-canal-da-record-no-whatsapp-e-saiba-tudo-o-que-acontece-na-casa-do-patrao-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/63ZB3QXX6NBSRLQ3UOQVPEQG74.jpg?smart=true&auth=22555e837e09145b9a28ac665dcccf01dc06cd72ccb4e145d24e53f90bc1bcb9&width=677&height=380",
+      "type": "noticia"
+    },
+    {
+      "title": "Morena ‘sabonetou’ na opinião do público de Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/morena-sabonetou-na-opiniao-do-publico-de-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/M73AJILMTVCARO5DSF5RR2YBKU.png?auth=6b03036ed2717ae84c05fd6201bfd33c64fff6e4cf963781f916a524e642140a&smart=true&width=696&height=390",
       "type": "noticia"
     },
     {
@@ -98,6 +104,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/assine-a-newsletter-da-casa-do-patrao-e-receba-informacoes-quentinhas-do-reality-01052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VTNVMI4XHVB5FITW5JM6HC4SHA.png?auth=0c04c1379709bf40e188ef4b63b93583784713e9f9b8874a9ace58380dd408f7&smart=true&width=696&height=379",
       "type": "noticia"
+    },
+    {
+      "title": "Vini detona moradores e aponta os falsos do reality | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vini-detona-moradores-e-aponta-os-falsos-do-reality-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_712fb2a61ff7412abf62ed7a0caad6c6_name_file_960x540_1600_v4_.jpg?smart=true&auth=75a0a41b73792b8ecfb922e1d795e7680939ef9e4fa18609280359a2477ef7b9&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Diário de um Quase Confinado: Hassum reage à gafe que cometeu no primeiro ao vivo | Casa do Patrão",
@@ -184,12 +196,6 @@
       "type": "video"
     },
     {
-      "title": "Público avalia comando de Morena como Patroa da semana: ‘Sabonetou’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/publico-avalia-comando-de-morena-como-patroa-da-semana-sabonetou-casa-do-patrao-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_166ed66138174651bd2cc928f0474f51_name_file_960x540_1600_v4_.jpg?smart=true&auth=a5ca5feaa1db0741ee1f92510d21e703448aba06f6abf85567555141c4ecf8bc&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Show exclusivo de Felipe Araújo embala a noite dos moradores na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/felipe-araujo-vai-agitar-a-festa-na-casa-do-patrao-deste-domingo-10-10052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VHEZBRTUTNH4DC74LS4XJS42MA.png?smart=true&auth=a2834a7b8170302592839239eb50f6f48aa30dcff77b7d9837a0603abf2a44bd&width=770&height=433",
@@ -199,12 +205,6 @@
       "title": "Saiba quem é a única mãe de Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/comemoracao-solo-saiba-quem-e-a-unica-mae-de-casa-do-patrao-10052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JTFQPW3I5FDPHOTLDPJZS2TVAI.png?smart=true&auth=2ef9cce61b3c1ad66c3ba2251a57f5510ca3d6a7c8be411e535d383d8129f3ff&width=677&height=380",
-      "type": "noticia"
-    },
-    {
-      "title": "Morena ‘sabonetou’ na opinião do público de Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/morena-sabonetou-na-opiniao-do-publico-de-casa-do-patrao-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/M73AJILMTVCARO5DSF5RR2YBKU.png?smart=true&auth=6b03036ed2717ae84c05fd6201bfd33c64fff6e4cf963781f916a524e642140a&width=770&height=433",
       "type": "noticia"
     },
     {
@@ -268,6 +268,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/resistencia-raiz-e-barraco-veja-todos-os-detalhes-da-segunda-prova-do-patrao-04052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ENT2LLNOUFGZVOX3NKHVZ7O4BE.png?smart=true&auth=ffcaa36fb5954c101689b1cc37e2093522996471750ece001980cfde35ea1467&width=1542&height=867",
       "type": "foto"
+    },
+    {
+      "title": "Público avalia comando de Morena como Patroa da semana: ‘Sabonetou’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/publico-avalia-comando-de-morena-como-patroa-da-semana-sabonetou-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_166ed66138174651bd2cc928f0474f51_name_file_960x540_1600_v4_.jpg?smart=true&auth=a5ca5feaa1db0741ee1f92510d21e703448aba06f6abf85567555141c4ecf8bc&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Bianca sobre Nataly: ‘Eu respeito sua opinião, mas eu fico com a minha’ | Casa do Patrão",
@@ -600,17 +606,11 @@
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/ciumes-nikita-acredita-que-chegada-de-jp-abalou-joao-victor-casa-do-patrao-08052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_8dbf6f7cb859416b823e169c582d7216_name_file_960x540_1600_v4_.jpg?smart=true&auth=c1af52b8f3bd3afade1c9f1ff7909f86fdbd67452122bbb878566ecfa0a0cf59&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Boninho sugere convocar um ator para balançar o jogo na Casa do Patrão: ‘Tocar o terror!’",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/boninho-sugere-convocar-um-ator-para-balancar-o-jogo-na-casa-do-patrao-tocar-o-terror-05052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/MP4Z4NPPLVBMNBJXTPEKRLZ22Q.png?smart=true&auth=bf4e65945f3c39e4f738a5e081c97d4e7339824ca10d65586b118137c791ae1d&width=1185&height=666",
-      "type": "noticia"
     }
   ],
   "counts": {
-    "noticia": 22,
-    "video": 57,
+    "noticia": 21,
+    "video": 58,
     "foto": 21
   }
 }
