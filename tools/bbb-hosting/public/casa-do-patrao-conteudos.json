@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-10T22:07:25.346Z",
+  "fetchedAt": "2026-05-10T23:05:53.865Z",
   "lastAddedCount": 2,
   "items": [
     {
@@ -106,6 +106,12 @@
       "type": "noticia"
     },
     {
+      "title": "Nataly é vetada de VAR Premium e Morena lamenta: 'Falta de respeito' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nataly-e-vetada-de-var-premium-e-morena-lamenta-falta-de-respeito-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_6ad8f5bd864b4317a0abe9d300dae393_name_file_960x540_1600_v4_.jpg?smart=true&auth=d9b0533b9c923bdf262f3eda66465e31aa7a44730f44fa45ed04970080f5f711&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "João Victor e Matheus discutem após VAR Premium de Dia das Mães | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-e-matheus-discutem-apos-var-premium-de-dia-das-maes-casa-do-patrao-10052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_ca8ba47530864cfb8870f2dc0f7ad6a5_name_file_960x540_1600_v4_.jpg?smart=true&auth=c17782387fa962773318e1cb6aa0bb1625a7971e38533c66a5ca5d870b2c3b79&width=960&height=540",
@@ -190,10 +196,12 @@
       "type": "video"
     },
     {
-      "title": "Seis moradores participam da Prova do Patrão; entenda a dinâmica | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/seis-moradores-participam-da-prova-do-patrao-entenda-a-dinamica-casa-do-patrao-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_37ecdea023d24d74a58a16435b4f9351_name_file_960x540_1600_v4_.jpg?smart=true&auth=7fb4432ae2b1ea202785fa2abbde8f9e0a518b04d4cd6548c70d109d71c52c3f&width=960&height=540",
-      "type": "video"
+      "title": "“Somos antagonistas”, diz Nikita ao comentar divisão de grupos na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/somos-antagonistas-diz-nikita-ao-comentar-divisao-de-grupos-na-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/OLCEPBSMSVECBE6XACLZAMNPIU.png?smart=true&auth=22f17bada25d316208ea8d29c38e4ab70dd8cd28eeb8ef092bf6f78c07960b08&width=770&height=433",
+      "type": "noticia",
+      "category": "NOVIDADES",
+      "time": "HÁ 8 MINUTOS"
     },
     {
       "title": "Agente do caos? JP monta plano para desestabilizar adversários em Casa do Patrão",
@@ -225,12 +233,6 @@
       "title": "Thiago é eliminado da Casa do Patrão, com 20,61% dos votos",
       "href": "https://record.r7.com/casa-do-patrao/novidades/thiago-e-eliminado-da-casa-do-patrao-com-2061-dos-votos-08052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/34REGUGXTNDVLHDUKSSGBGEZBU.png?smart=true&auth=800f54b5192bccd659e3a1ac1581d8812683102c94422a2440c04f71ded32d27&width=770&height=433",
-      "type": "noticia"
-    },
-    {
-      "title": "Luiza, Sheila ou Thiago? Quem você quer manter na Casa do Patrão?",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/luiza-sheila-ou-thiago-quem-voce-quer-manter-na-casa-do-patrao-07052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/REFSPHUXTJE3DBFJRECJSUQ6U4.png?smart=true&auth=fb8409744ad6ab7b7fae60c8797ff95eb521a649cf151ac30054e99ec117f33e&width=677&height=380",
       "type": "noticia"
     },
     {
@@ -274,6 +276,18 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/resistencia-raiz-e-barraco-veja-todos-os-detalhes-da-segunda-prova-do-patrao-04052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ENT2LLNOUFGZVOX3NKHVZ7O4BE.png?smart=true&auth=ffcaa36fb5954c101689b1cc37e2093522996471750ece001980cfde35ea1467&width=1542&height=867",
       "type": "foto"
+    },
+    {
+      "title": "Seis moradores participam da Prova do Patrão; entenda a dinâmica | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/seis-moradores-participam-da-prova-do-patrao-entenda-a-dinamica-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_37ecdea023d24d74a58a16435b4f9351_name_file_960x540_1600_v4_.jpg?smart=true&auth=7fb4432ae2b1ea202785fa2abbde8f9e0a518b04d4cd6548c70d109d71c52c3f&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Luiza, Sheila ou Thiago? Quem você quer manter na Casa do Patrão?",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/luiza-sheila-ou-thiago-quem-voce-quer-manter-na-casa-do-patrao-07052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/REFSPHUXTJE3DBFJRECJSUQ6U4.png?smart=true&auth=fb8409744ad6ab7b7fae60c8797ff95eb521a649cf151ac30054e99ec117f33e&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Luis Fellipe vence novamente a Prova do Patrão e é o mandachuva da semana | Casa do Patrão",
@@ -594,23 +608,11 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/luiza-sheila-e-thiago-estao-no-segundo-ta-na-reta-de-casa-do-patrao-06052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/2HUCMCIPNFB5DOS4ZLUEJRNUFE.png?smart=true&auth=f027d15ac2d805984cf3385e7a8a0d836cd588fac9dac86d1cc3e500898657ce&width=677&height=380",
       "type": "noticia"
-    },
-    {
-      "title": "Thiago alfineta participantes e diz que clima do jogo está 'morno' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/thiago-alfineta-participantes-e-diz-que-clima-do-jogo-esta-morno-casa-do-patrao-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_0fae40d44c1b4625b1de927b53b4beef_name_file_960x540_1600_v4_.jpg?smart=true&auth=4a16fd32ace006b56151f566282269d267786be3f7a67336e169b08d9f3b4393&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila agita a casa com mais um ‘PodPatrão’ e conversas sobre alianças no jogo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/sheila-agita-a-casa-com-mais-um-podpatrao-e-conversas-sobre-aliancas-no-jogo-casa-do-patrao-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_effd2063414f4ef89600deaab60c2840_name_file_960x540_1600_v4_.jpg?smart=true&auth=60a802cc1c3989323c0022830a5a5d2fdedac62e7efc0ff3ba5012a85a3d690b&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 21,
-    "video": 58,
+    "noticia": 22,
+    "video": 57,
     "foto": 21
   }
 }
