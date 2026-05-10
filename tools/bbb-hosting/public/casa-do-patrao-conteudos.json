@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-10T16:12:39.980Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-05-10T17:15:28.741Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Luis Fellipe vence Prova do Patrão e conquista o posto pela segunda vez; confira como foi a disputa pelo cargo",
@@ -100,6 +100,12 @@
       "type": "noticia"
     },
     {
+      "title": "Vivão escolhe Marina para as compras do mercado desta semana | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-escolhe-marina-para-as-compras-do-mercado-desta-semana-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_3658822963134b99920b59b246842f52_name_file_960x540_1600_v4_.jpg?smart=true&auth=d8596773b6417599bbe0b1d829df4b42944d2e342a0446b56a926e03ff220002&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Jackson e Vivão discutem sobre bagunça na cozinha e atraso no café da manhã | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-e-vivao-discutem-sobre-bagunca-na-cozinha-e-atraso-no-cafe-da-manha-casa-do-patrao-10052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_05ce64ca45c9437581953807a58f222a_name_file_960x540_1600_v4_.jpg?smart=true&auth=2a53313513791f499ee9450a63fba0b75cdf265896eaafc5c5403f058ac7e444&width=960&height=540",
@@ -184,12 +190,6 @@
       "type": "video"
     },
     {
-      "title": "Vini reage diante a sujeira: ‘Eu vou chegar soltando os venenos’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vini-reage-diante-a-sujeira-eu-vou-chegar-soltando-os-venenos-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_a8dcaf9f3c4a4eeeba9e47ae377a84f8_name_file_960x540_1600_v4_.jpg?smart=true&auth=c20a047ace81cbb1fd46c00c4b2a96585b2a7505149e1b7868603e1913080b9a&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Show exclusivo de Felipe Araújo embala a noite dos moradores na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/felipe-araujo-vai-agitar-a-festa-na-casa-do-patrao-deste-domingo-10-10052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VHEZBRTUTNH4DC74LS4XJS42MA.png?smart=true&auth=a2834a7b8170302592839239eb50f6f48aa30dcff77b7d9837a0603abf2a44bd&width=770&height=433",
@@ -268,6 +268,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/resistencia-raiz-e-barraco-veja-todos-os-detalhes-da-segunda-prova-do-patrao-04052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ENT2LLNOUFGZVOX3NKHVZ7O4BE.png?smart=true&auth=ffcaa36fb5954c101689b1cc37e2093522996471750ece001980cfde35ea1467&width=1542&height=867",
       "type": "foto"
+    },
+    {
+      "title": "Vini reage diante a sujeira: ‘Eu vou chegar soltando os venenos’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vini-reage-diante-a-sujeira-eu-vou-chegar-soltando-os-venenos-casa-do-patrao-09052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_a8dcaf9f3c4a4eeeba9e47ae377a84f8_name_file_960x540_1600_v4_.jpg?smart=true&auth=c20a047ace81cbb1fd46c00c4b2a96585b2a7505149e1b7868603e1913080b9a&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Vivão avalia como movimentar o jogo e separar aliados | Casa do Patrão",
@@ -599,12 +605,6 @@
       "title": "Hassum repercute DR entre João Victor e Nikita: ‘Casal não dorme brigado, né?’ | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/hassum-repercute-dr-entre-joao-victor-e-nikita-casal-nao-dorme-brigado-ne-casa-do-patrao-08052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_3210848deaed4dc7abc5cdf27f6535d1_name_file_960x540_1600_v4_.jpg?smart=true&auth=fa9e1388eceedf0e56edb88e64f4a97a50cbea61be93f943bdab28cd81c52837&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Teve passinho! Moradores se unem e fazem coreografias na Festa Circo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/teve-passinho-moradores-se-unem-e-fazem-coreografias-na-festa-circo-casa-do-patrao-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_120a386419da4b5abcf56d21cc36e998_name_file_960x540_1600_v4_.jpg?smart=true&auth=13270922d5288e8bd385b7448681efabb006e20e79e20358f23c92aedd03cb41&width=960&height=540",
       "type": "video"
     }
   ],
