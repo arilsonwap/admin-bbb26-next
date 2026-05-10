@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-09T23:45:26.130Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-05-10T01:26:39.761Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Naturalismo, esconde-esconde e mais! VAR da Casa do Patrão ataca novamente e não perdoa nem Leandro Hassum",
@@ -100,6 +100,12 @@
       "type": "noticia"
     },
     {
+      "title": "Bianca sobre Nataly: ‘Eu respeito sua opinião, mas eu fico com a minha’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-sobre-nataly-eu-respeito-sua-opiniao-mas-eu-fico-com-a-minha-casa-do-patrao-09052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_093714048f2a45e998fe449677c3ec0b_name_file_960x540_1600_v4_.jpg?smart=true&auth=b134639d1a124cb7dcb87a80fc9ad03b40774c7d41d5708af017aa0cf3d41f2a&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Vini reage diante a sujeira: ‘Eu vou chegar soltando os venenos’ | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vini-reage-diante-a-sujeira-eu-vou-chegar-soltando-os-venenos-casa-do-patrao-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_a8dcaf9f3c4a4eeeba9e47ae377a84f8_name_file_960x540_1600_v4_.jpg?smart=true&auth=c20a047ace81cbb1fd46c00c4b2a96585b2a7505149e1b7868603e1913080b9a&width=960&height=540",
@@ -153,7 +159,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_ed35fa2dccde4592907333ebb6ded111_name_file_960x540_1600_v4_.jpg?smart=true&auth=cb29b50535546cfc76ae2cd25a432d45597cd4009489b4e142b02ebcc621e597&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 13 HORAS"
+      "time": "09/05/2026"
     },
     {
       "title": "Vivão, Andressa e Nikita conversam sobre estratégias de jogo | Casa do Patrão",
@@ -183,12 +189,6 @@
       "title": "Hassum diverte o público ao comentar ‘direito de resposta’ do Disney+ | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/hassum-diverte-o-publico-ao-comentar-direito-de-resposta-do-disney-casa-do-patrao-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_5054aaf214df4f7a86128f7285a57e27_name_file_960x540_1600_v4_.jpg?smart=true&auth=3c3b9aa267ba289e88fea9a1d7f1f6686ae6bdadc0870beddfdde8198fba4ddf&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Confira a reação da casa após a saída de Thiago | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/confira-a-reacao-da-casa-apos-a-saida-de-thiago-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_122d6aeaaefc4d6f863a8f3e00098861_name_file_960x540_1600_v4_.jpg?smart=true&auth=598b0cab367febf2356107fc3df224dfc704dee0a4035d9a0afbc87604984013&width=960&height=540",
       "type": "video"
     },
     {
@@ -258,6 +258,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/montanha-russa-de-emocoes-veja-os-destaques-da-primeira-semana-de-casa-do-patrao-04052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BC47U2SS3NH6RIKEJALE7KDXZE.png?smart=true&auth=28e8b085bed881cdf07ad99baf77582418e799f7bdc8bee88d0dc0e43123f073&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Confira a reação da casa após a saída de Thiago | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/confira-a-reacao-da-casa-apos-a-saida-de-thiago-casa-do-patrao-09052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_122d6aeaaefc4d6f863a8f3e00098861_name_file_960x540_1600_v4_.jpg?smart=true&auth=598b0cab367febf2356107fc3df224dfc704dee0a4035d9a0afbc87604984013&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Novo casal? João Victor fala sobre possível romance com Nikita | Casa do Patrão",
@@ -600,17 +606,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-nega-titulo-de-mulherengo-e-nikita-resgata-suposto-interesse-em-bianca-casa-do-patrao-07052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-07-2026%2Ft_f4619d02be654ff38e4caff65b4a3453_name_file_960x540_1600_v4_.jpg?smart=true&auth=20c27cdb7afdc3d9428eaf0a114c68b9995433693d2758cc1fbf9efa97428e91&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Boninho compartilha DR da madrugada de Casa do Patrão, e internautas vibram",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/boninho-compartilha-dr-da-madrugada-de-casa-do-patrao-e-internautas-vibram-05052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/POZ73ZHAANGSFLHZ7UDFAES53Q.png?smart=true&auth=f8985607a07837b4b4ac154afccd385ea7dfbc9b1e2d2217ebe9b3b0a3eb8dd3&width=1354&height=761",
-      "type": "noticia"
     }
   ],
   "counts": {
-    "noticia": 21,
-    "video": 59,
+    "noticia": 20,
+    "video": 60,
     "foto": 20
   }
 }
