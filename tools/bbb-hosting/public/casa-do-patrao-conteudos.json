@@ -1,19 +1,13 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-11T14:07:39.929Z",
+  "fetchedAt": "2026-05-11T16:43:27.642Z",
   "lastAddedCount": 2,
   "items": [
     {
-      "title": "Provocações, acerto de contas e DR na madrugada: Casa do Patrão tem semana agitada; confira tudo o que rolou",
+      "title": "Provocações, acerto de contas e DR na madrugada: Casa do Patrão tem semana agitada",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/provocacoes-acerto-de-contas-e-dr-na-madrugada-casa-do-patrao-tem-semana-agitada-11052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JSSWYORRHBDNRFWUTFHVWLF7YU.png?auth=3f2337783e063bfd2b747336111b8500b6baf800c7da08268aca8e13a6dbe487&smart=true&width=696&height=379",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JSSWYORRHBDNRFWUTFHVWLF7YU.png?smart=true&auth=3f2337783e063bfd2b747336111b8500b6baf800c7da08268aca8e13a6dbe487&width=1542&height=867",
       "type": "foto"
-    },
-    {
-      "title": "Show de Felipe Araújo agita festa na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/show-de-felipe-araujo-agita-festa-na-casa-do-patrao-11052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_67133738ac484f32900faaa8508aff21_name_file_960x540_1600_v4_.jpg?smart=true&auth=ea60074cde4aa502d2a490a6696a151bae86ec58c918b7e3090b6540e80e0646&width=960&height=540",
-      "type": "video"
     },
     {
       "title": "Entre no canal da RECORD no WhatsApp e saiba tudo o que acontece na Casa do Patrão",
@@ -54,16 +48,22 @@
       "type": "foto"
     },
     {
-      "title": "Hassum ‘aluga triplex’ na cabeça de participantes após repercutir avaliação do público sobre comando de Morena",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/hassum-aluga-triplex-na-cabeca-de-participantes-apos-repercutir-avaliacao-do-publico-sobre-comando-de-morena-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/CULAZNFJ7ZBLHJ7U2TKRDWHXJQ.png?smart=true&auth=38ef7a3b4bcd51b6a85f1efc79fdc2df6beb139ca63f907422d98e3585b2330b&width=770&height=433",
-      "type": "noticia"
+      "title": "Luis Fellipe faz exigências para Vivão e Luiza | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luis-fellipe-faz-exigencias-para-vivao-e-luiza-casa-do-patrao-11052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_b1e484fe24d04d1daae5c1a5aef47a39_name_file_960x540_1600_v4_.jpg?smart=true&auth=d0b031ef9e68a71cabac77f3abe407e4f503644a116ba5e5d33b4c9a2e131cdb&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Patrão carrasco ou amigão? Relembre como foram as gestões de Luis Fellipe e Morena",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/patrao-carrasco-ou-amigao-relembre-como-foram-as-gestoes-de-luis-fellipe-e-morena-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/3OEWZDTCYJGOXOGDNDORMHWNZM.png?smart=true&auth=a2f91f308bd539e7d724f0926057c895fc3f86d56838030ac633625e6bb28736&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Hassum ‘aluga triplex’ na cabeça de participantes após repercutir avaliação do público sobre comando de Morena",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/hassum-aluga-triplex-na-cabeca-de-participantes-apos-repercutir-avaliacao-do-publico-sobre-comando-de-morena-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/CULAZNFJ7ZBLHJ7U2TKRDWHXJQ.png?smart=true&auth=38ef7a3b4bcd51b6a85f1efc79fdc2df6beb139ca63f907422d98e3585b2330b&width=770&height=433",
+      "type": "noticia"
     },
     {
       "title": "Confira quem é a única participante mãe do reality",
@@ -76,12 +76,6 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-e-o-primeiro-a-acordar-da-casa-do-trampo-casa-do-patrao-11052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_e2b3f1d8d4044cacb8fa86d82d0973d3_name_file_960x540_1600_v4_.jpg?smart=true&auth=1dadf34735090610852487127a172c732340030329054b1ef143bd49a806fcec&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Público vê semelhanças de Nikita com Ana Paula e Nicole",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/olha-ela-publico-aponta-semelhancas-de-nikita-com-ana-paula-renault-e-nicole-bahls-07052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4BIKK3AH4BA3TEJKL65FKD267Q.png?auth=bcc790bdf535b933b004d94c24594244f743a46e8b4350d15bcefc31fae2e6bb&smart=true&width=696&height=390",
-      "type": "noticia"
     },
     {
       "title": "Time do coração: descubra para quem os moradores de Casa do Patrão torcem no Brasileirão",
@@ -110,13 +104,19 @@
     {
       "title": "Assine a newsletter e receba informações quentinhas",
       "href": "https://record.r7.com/casa-do-patrao/novidades/assine-a-newsletter-da-casa-do-patrao-e-receba-informacoes-quentinhas-do-reality-01052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VTNVMI4XHVB5FITW5JM6HC4SHA.png?auth=0c04c1379709bf40e188ef4b63b93583784713e9f9b8874a9ace58380dd408f7&smart=true&width=696&height=379",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/XYF7KIFTD5HPRP22MOJXNXNEGY.jpg?auth=09e5f30c0d29479ae433cf83d9e10365ebf2bd49bf0bd7c262f5cc6a692ae3ed&smart=true&width=696&height=379",
       "type": "noticia"
     },
     {
-      "title": "Luís Fellipe faz exigências para Vivão e Luíza | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luis-fellipe-faz-exigencias-para-vivao-e-luiza-casa-do-patrao-11052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_b1e484fe24d04d1daae5c1a5aef47a39_name_file_960x540_1600_v4_.jpg?smart=true&auth=d0b031ef9e68a71cabac77f3abe407e4f503644a116ba5e5d33b4c9a2e131cdb&width=960&height=540",
+      "title": "Bianca se incomoda com atitude de Vini: ‘Eu vim jogar, não vim atrás de homem’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-se-incomoda-com-atitude-de-vini-eu-vim-jogar-nao-vim-atras-de-homem-casa-do-patrao-11052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_a1466fc7629b47ea83fb5e6838f097d7_name_file_960x540_1600_v4_.jpg?smart=true&auth=d13dbc214861a098d78dc336bd1006f450e55bb8609d12be3bda1b70baedb907&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Matheus e Bianca compartilham histórias da infância | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-e-bianca-compartilham-historias-da-infancia-casa-do-patrao-11052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_65196b0d681e4f3f9a6325382227d134_name_file_960x540_1600_v4_.jpg?smart=true&auth=1146de89466b5b74d125e44c005ba4500a8ccb9b04a2fa3c4e4ea8a426bf4b67&width=960&height=540",
       "type": "video"
     },
     {
@@ -141,6 +141,12 @@
       "title": "Andressa, Luiza e Morena elogiam show de Felipe Araújo | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/andressa-luiza-e-morena-elogiam-show-de-felipe-araujo-casa-do-patrao-11052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_77b09e5a422642abb983bf5c0a2491e0_name_file_960x540_1600_v4_.jpg?smart=true&auth=aaea77087c8db093cb3d6d6fe9886e78b81bce673b85de30a7f33507a7118229&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Show de Felipe Araújo agita festa na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/show-de-felipe-araujo-agita-festa-na-casa-do-patrao-11052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_67133738ac484f32900faaa8508aff21_name_file_960x540_1600_v4_.jpg?smart=true&auth=ea60074cde4aa502d2a490a6696a151bae86ec58c918b7e3090b6540e80e0646&width=960&height=540",
       "type": "video"
     },
     {
@@ -177,18 +183,6 @@
       "title": "Nataly é vetada de VAR Premium e Morena lamenta: 'Falta de respeito' | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nataly-e-vetada-de-var-premium-e-morena-lamenta-falta-de-respeito-casa-do-patrao-10052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_6ad8f5bd864b4317a0abe9d300dae393_name_file_960x540_1600_v4_.jpg?smart=true&auth=d9b0533b9c923bdf262f3eda66465e31aa7a44730f44fa45ed04970080f5f711&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "João Victor e Matheus discutem após VAR Premium de Dia das Mães | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-e-matheus-discutem-apos-var-premium-de-dia-das-maes-casa-do-patrao-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_ca8ba47530864cfb8870f2dc0f7ad6a5_name_file_960x540_1600_v4_.jpg?smart=true&auth=c17782387fa962773318e1cb6aa0bb1625a7971e38533c66a5ca5d870b2c3b79&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Vetados do VAR Premium votam e Luiza é escolhida para ver vídeo de Dia das Mães | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vetados-do-var-premium-votam-e-luiza-e-escolhida-para-ver-video-de-dia-das-maes-casa-do-patrao-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_c4410aa2a331481a994570fb5ca51f84_name_file_960x540_1600_v4_.jpg?smart=true&auth=3f3b520e5f76cac17cd99ba328685d5ee7b3d8a08d7b153363d7bb70961d91dd&width=960&height=540",
       "type": "video"
     },
     {
@@ -270,6 +264,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/quem-vem-ai-publico-repercute-o-anuncio-de-gente-nova-entrando-na-casa-do-patrao-06052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IF3NKUV3BJB5NOI47UZIYADHWQ.png?smart=true&auth=c9bae4a88552be97b167a9f813443830d194a97a28341fef4c625a8c660b2b46&width=1444&height=812",
       "type": "foto"
+    },
+    {
+      "title": "Público vê semelhanças de Nikita com Ana Paula e Nicole",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/olha-ela-publico-aponta-semelhancas-de-nikita-com-ana-paula-renault-e-nicole-bahls-07052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4BIKK3AH4BA3TEJKL65FKD267Q.png?auth=bcc790bdf535b933b004d94c24594244f743a46e8b4350d15bcefc31fae2e6bb&smart=true&width=696&height=390",
+      "type": "noticia"
+    },
+    {
+      "title": "João Victor e Matheus discutem após VAR Premium de Dia das Mães | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-e-matheus-discutem-apos-var-premium-de-dia-das-maes-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_ca8ba47530864cfb8870f2dc0f7ad6a5_name_file_960x540_1600_v4_.jpg?smart=true&auth=c17782387fa962773318e1cb6aa0bb1625a7971e38533c66a5ca5d870b2c3b79&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Vetados do VAR Premium votam e Luiza é escolhida para ver vídeo de Dia das Mães | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vetados-do-var-premium-votam-e-luiza-e-escolhida-para-ver-video-de-dia-das-maes-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_c4410aa2a331481a994570fb5ca51f84_name_file_960x540_1600_v4_.jpg?smart=true&auth=3f3b520e5f76cac17cd99ba328685d5ee7b3d8a08d7b153363d7bb70961d91dd&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Amor no ar? Fique de olho nos possíveis romances da Casa do Patrão",
@@ -596,18 +608,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/panelaco-e-greve-no-trampo-entenda-o-que-rolou-na-madrugada-caotica-da-casa-do-patrao-06052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/B7HAOSZJ3RHVRHKY43FKRU5JOM.png?smart=true&auth=41cd064f3e555e33a1a8563a5edee926f2a2db7c7c24477565fa65180a315e14&width=1185&height=666",
       "type": "noticia"
-    },
-    {
-      "title": "Thiago abre o jogo, ataca Sheila e dispara: ‘É muita falsidade’ | Live Tá na Rua",
-      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/thiago-abre-o-jogo-ataca-sheila-e-dispara-e-muita-falsidade-live-ta-na-rua-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_983e102997ce4a1d819591ce69d3d044_name_file_960x540_1600_v4_.jpg?smart=true&auth=0fb5850b5c4501bb2533c950af6fd59d71bf7654e08eefdaf21286823fc9159b&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Thiago abre o jogo e revela qual foi a sua estratégia na Casa do Patrão | Live Tá na Rua",
-      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/thiago-abre-o-jogo-e-revela-qual-foi-a-sua-estrategia-na-casa-do-patrao-live-ta-na-rua-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-08-2026%2Ft_184555a6763345e3affe6934d9ca3f72_name_file_960x540_1600_v4_.jpg?smart=true&auth=ad4d8a46d3004f3bc3336998ffac11238a50c2d91ea7700c6c2ead51b8ed92e8&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
