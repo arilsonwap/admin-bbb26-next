@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-12T10:30:39.975Z",
+  "fetchedAt": "2026-05-12T12:27:46.479Z",
   "lastAddedCount": 2,
   "items": [
     {
@@ -94,6 +94,14 @@
       "type": "noticia"
     },
     {
+      "title": "'Furto de comida'? Matheus e Bianca temem VAR após ataque ao doce de leite | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/furto-de-comida-matheus-e-bianca-temem-var-apos-ataque-ao-doce-de-leite-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_484fe7be5eb7452694b23c157ce4c837_name_file_960x540_1600_v4_.jpg?smart=true&auth=4e15f37389cd93116d152322d33d4e7f672d84af9e62b7b177239d39de1530f8&width=960&height=540",
+      "type": "video",
+      "category": "HORAS",
+      "time": "HÁ 34 MINUTOS"
+    },
+    {
       "title": "Moradores detonam aparência de João Victor e especulam: '20 mil reais só em dente' | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-detonam-aparencia-de-joao-victor-e-especulam-20-mil-reais-so-em-dente-casa-do-patrao-12052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_916d2af90bab49ec995206fcb6deec11_name_file_960x540_1600_v4_.jpg?smart=true&auth=c6286c458fd0f386c2fce322545b0e2828d8a4db10860c3ef74d7f2eb2a7d894&width=960&height=540",
@@ -105,7 +113,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_ec64a5fab9474592b55236b7e6c8b63c_name_file_960x540_1600_v4_.jpg?smart=true&auth=4beeca6ec617b7bce9fdcb994c48c6863f7da65561456a9a92ee3fb38fe41aa3&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 2 HORAS"
+      "time": "HÁ 4 HORAS"
     },
     {
       "title": "Rachou de vez! Magoada com atitude de Jackson, Nataly declara fim de aliança | Casa do Patrão",
@@ -180,10 +188,10 @@
       "type": "video"
     },
     {
-      "title": "Matheus alfineta Parças: 'Passam 80% do tempo dormindo' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-alfineta-parcas-passam-80-do-tempo-dormindo-casa-do-patrao-11052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_2112db0fd56643c7a6594470d9135a6d_name_file_960x540_1600_v4_.jpg?smart=true&auth=4028c4f1d708e373e84f04f572f6d3c51aa346ab9c3ebe09a16a6a2a4dd46322&width=960&height=540",
-      "type": "video"
+      "title": "Hassum dá nova bronca no elenco de Casa do Patrão: ‘Entendam que é um jogo’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/hassum-da-nova-bronca-no-elenco-de-casa-do-patrao-entendam-que-e-um-jogo-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/FAFJX5XZUNA5NG3FRZODC572GY.png?smart=true&auth=f217ef8426a810a282ca284d3b2a14a24b31d7591089ab4984db315fa71321c9&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "“Somos antagonistas”, diz Nikita ao comentar divisão de grupos na Casa do Patrão",
@@ -258,6 +266,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/quem-vem-ai-publico-repercute-o-anuncio-de-gente-nova-entrando-na-casa-do-patrao-06052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IF3NKUV3BJB5NOI47UZIYADHWQ.png?smart=true&auth=c9bae4a88552be97b167a9f813443830d194a97a28341fef4c625a8c660b2b46&width=1444&height=812",
       "type": "foto"
+    },
+    {
+      "title": "Matheus alfineta Parças: 'Passam 80% do tempo dormindo' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-alfineta-parcas-passam-80-do-tempo-dormindo-casa-do-patrao-11052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_2112db0fd56643c7a6594470d9135a6d_name_file_960x540_1600_v4_.jpg?smart=true&auth=4028c4f1d708e373e84f04f572f6d3c51aa346ab9c3ebe09a16a6a2a4dd46322&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Prova Tô Fora vai tirar alguém do Trampo nesta segunda (11) | Casa do Patrão",
@@ -596,23 +610,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-avalia-como-movimentar-o-jogo-e-separar-aliados-casa-do-patrao-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_29ec9fe9f0794adf8c3fdbc0c12127ba_name_file_960x540_1600_v4_.jpg?smart=true&auth=4d8004460643eef4bc173c798d13ab1c41710222990b6dcf9dac1572f02cbc77&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Sheila analisa próximos passos no jogo em conversa com aliados | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-analisa-proximos-passos-no-jogo-em-conversa-com-aliados-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_562fcf6f9e6845ccae3f306dfc5eac65_name_file_960x540_1600_v4_.jpg?smart=true&auth=0d49e9c9862dc27fca6975a416a8c4b52f2c999aaff3fccbbd11131854a1bccd&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Jackson se mostra preocupado com atitudes de JP: 'A gente abriu todo o jogo' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-se-mostra-preocupado-com-atitudes-de-jp-a-gente-abriu-todo-o-jogo-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_7bcf203a70a246a98653e430cc3c4d90_name_file_960x540_1600_v4_.jpg?smart=true&auth=0a3422a328f3de7a3d1f29d0664215ebe6735756c4d073131115e4e350ce8ad2&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 20,
-    "video": 62,
+    "noticia": 21,
+    "video": 61,
     "foto": 18
   }
 }
