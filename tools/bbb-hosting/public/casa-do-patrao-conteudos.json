@@ -1,12 +1,18 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-12T15:23:28.003Z",
+  "fetchedAt": "2026-05-12T17:32:29.632Z",
   "lastAddedCount": 2,
   "items": [
     {
-      "title": "Luiza vence a prova Tô Fora e escapa do perrengue em Casa do Patrão; João Victor vai para o Trampo e assume função",
+      "title": "Quem está no alvo dos rivais para a terceira formação do Tá na Reta desta terça (12)?",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/quem-esta-no-alvo-dos-rivais-para-a-terceira-formacao-do-ta-na-reta-desta-terca-12-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/B3ZPEXAXNRGSDFOUCPJRETACJE.png?smart=true&auth=0039043c9d214a13f100f4b7d27de6fcc4e315c631b3fa6781f64c4bde72c806&width=1185&height=666",
+      "type": "noticia"
+    },
+    {
+      "title": "Luiza vence a prova Tô Fora e escapa do perrengue em Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/luiza-vence-a-prova-to-fora-e-escapa-do-perrengue-em-casa-do-patrao-12052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/APE3KURUIZANDH5XXK75KVLSUE.png?auth=706aa639ff44203ce67dddedabacad46ba7c4c71d394887acbe6d263418386e8&smart=true&width=696&height=346",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/APE3KURUIZANDH5XXK75KVLSUE.png?auth=706aa639ff44203ce67dddedabacad46ba7c4c71d394887acbe6d263418386e8&smart=true&width=208&height=330",
       "type": "noticia"
     },
     {
@@ -51,13 +57,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_484fe7be5eb7452694b23c157ce4c837_name_file_960x540_1600_v4_.jpg?smart=true&auth=4e15f37389cd93116d152322d33d4e7f672d84af9e62b7b177239d39de1530f8&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 3 HORAS"
-    },
-    {
-      "title": "Tretas, votos e lágrimas! Confira 7 rivalidades declaradas em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/tretas-votos-e-lagrimas-confira-7-rivalidades-declaradas-em-casa-do-patrao-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/3LI4DQY3URBQ7CTZQYWG4346QE.jpg?smart=true&auth=c5fc5dae3087b79f1e7728fa19ca4632facb4beb7d24db7d4afbd7e1e6140a09&width=770&height=433",
-      "type": "foto"
+      "time": "HÁ 5 HORAS"
     },
     {
       "title": "Time do coração: descubra para quem os moradores de Casa do Patrão torcem no Brasileirão",
@@ -90,6 +90,14 @@
       "type": "noticia"
     },
     {
+      "title": "'Estou de saco cheio de todo mundo', desabafa Vini | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/estou-de-saco-cheio-de-todo-mundo-desabafa-vini-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_2f176ef2f28d4f3bb85a8b614999b756_name_file_960x540_1600_v4_.jpg?smart=true&auth=c3ea02f5daf37633ae90ecef84258d1a6f11b9533343931bbe012630ec1f013c&width=960&height=540",
+      "type": "video",
+      "category": "HORAS",
+      "time": "HÁ 1 HORA"
+    },
+    {
       "title": "Mari dispara contra João Victor: 'Eu achei você mimado’ | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/mari-dispara-contra-joao-victor-eu-achei-voce-mimado-casa-do-patrao-12052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_6e78766c0e7d47cf92f99c40eb5605eb_name_file_960x540_1600_v4_.jpg?smart=true&auth=cd01512895e0d20e6fc7bfb938253647fb149199ede6886f5b9eef0d3f58d9b0&width=960&height=540",
@@ -107,7 +115,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_ec64a5fab9474592b55236b7e6c8b63c_name_file_960x540_1600_v4_.jpg?smart=true&auth=4beeca6ec617b7bce9fdcb994c48c6863f7da65561456a9a92ee3fb38fe41aa3&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 7 HORAS"
+      "time": "HÁ 9 HORAS"
     },
     {
       "title": "Rachou de vez! Magoada com atitude de Jackson, Nataly declara fim de aliança | Casa do Patrão",
@@ -158,18 +166,6 @@
       "type": "video"
     },
     {
-      "title": "Romance no ar? Nikita e João Victor protagonizam primeiro beijo da edição | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/romance-no-ar-nikita-e-joao-victor-protagonizam-primeiro-beijo-da-edicao-casa-do-patrao-12052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_c79bf355645f4dc392eefeef210b4c0f_name_file_960x540_1600_v4_.jpg?smart=true&auth=e734ee9ed7da6c5af07e5c4312f0fb2688bae4eafa7a1093c586736cddfbf236&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Confira os melhores momentos do show de Felipe Araújo na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/confira-os-melhores-momentos-do-show-de-felipe-araujo-na-casa-do-patrao-12052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_162a95f6bc9045dfa8f8ed1f3b087faa_name_file_960x540_1600_v4_.jpg?smart=true&auth=4a9f033148a8092cdecf6a959302fff4b5366493029f9b3bf1356a2bd31a45df&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Fofoca e preocupação: grupão desconfia que integrante está agindo como leva e traz",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fofoca-e-preocupacao-grupao-desconfia-que-integrante-esta-agindo-como-leva-e-traz-11052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WEGEI465IBA2FBCAYLKJNXZWXM.png?smart=true&auth=779e945d02f27e877e8f92385aaba77fb5cb71d28245f6cb403f016fd5020db5&width=770&height=433",
@@ -202,15 +198,15 @@
       "type": "noticia"
     },
     {
-      "title": "Morena ‘sabonetou’ na opinião do público de Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/morena-sabonetou-na-opiniao-do-publico-de-casa-do-patrao-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/M73AJILMTVCARO5DSF5RR2YBKU.png?smart=true&auth=6b03036ed2717ae84c05fd6201bfd33c64fff6e4cf963781f916a524e642140a&width=770&height=433",
-      "type": "noticia"
-    },
-    {
       "title": "Chororô e climão! Competidores vetam colegas de assistir mensagens de suas mães",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/chororo-e-climao-competidores-vetam-colegas-de-assistir-mensagens-de-suas-maes-11052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/P57GDDLGVVBXFBHUEHU4U7NBWI.png?smart=true&auth=59bf0425b30cc2ea7afccc1311d7400eaffdd8f90d82f3d7e98563fa97adcb9d&width=770&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "Tretas, votos e lágrimas! Confira 7 rivalidades declaradas em Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/tretas-votos-e-lagrimas-confira-7-rivalidades-declaradas-em-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/3LI4DQY3URBQ7CTZQYWG4346QE.jpg?smart=true&auth=c5fc5dae3087b79f1e7728fa19ca4632facb4beb7d24db7d4afbd7e1e6140a09&width=770&height=433",
       "type": "foto"
     },
     {
@@ -266,6 +262,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/quem-vem-ai-publico-repercute-o-anuncio-de-gente-nova-entrando-na-casa-do-patrao-06052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IF3NKUV3BJB5NOI47UZIYADHWQ.png?smart=true&auth=c9bae4a88552be97b167a9f813443830d194a97a28341fef4c625a8c660b2b46&width=1444&height=812",
       "type": "foto"
+    },
+    {
+      "title": "Romance no ar? Nikita e João Victor protagonizam primeiro beijo da edição | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/romance-no-ar-nikita-e-joao-victor-protagonizam-primeiro-beijo-da-edicao-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_c79bf355645f4dc392eefeef210b4c0f_name_file_960x540_1600_v4_.jpg?smart=true&auth=e734ee9ed7da6c5af07e5c4312f0fb2688bae4eafa7a1093c586736cddfbf236&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Confira os melhores momentos do show de Felipe Araújo na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/confira-os-melhores-momentos-do-show-de-felipe-araujo-na-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_162a95f6bc9045dfa8f8ed1f3b087faa_name_file_960x540_1600_v4_.jpg?smart=true&auth=4a9f033148a8092cdecf6a959302fff4b5366493029f9b3bf1356a2bd31a45df&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Morena ‘sabonetou’ na opinião do público de Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/morena-sabonetou-na-opiniao-do-publico-de-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/M73AJILMTVCARO5DSF5RR2YBKU.png?smart=true&auth=6b03036ed2717ae84c05fd6201bfd33c64fff6e4cf963781f916a524e642140a&width=770&height=433",
+      "type": "noticia"
     },
     {
       "title": "Vivão reclama que Nataly não limpa o banheiro e ela rebate: 'Chatinho' | Casa do Patrão",
@@ -598,23 +612,11 @@
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/andressa-nikita-e-vivao-criticam-aproximacao-de-jp-com-grupo-rival-casa-do-patrao-10052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_26c9bd1285e84ec5ae9fb0dafef060a7_name_file_960x540_1600_v4_.jpg?smart=true&auth=71c003157c8d127edb5b960e0bbb2785d6ceb452768ad989c40ddeba7b524217&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Público avalia comando de Morena como Patroa da semana: ‘Sabonetou’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/publico-avalia-comando-de-morena-como-patroa-da-semana-sabonetou-casa-do-patrao-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-10-2026%2Ft_166ed66138174651bd2cc928f0474f51_name_file_960x540_1600_v4_.jpg?smart=true&auth=a5ca5feaa1db0741ee1f92510d21e703448aba06f6abf85567555141c4ecf8bc&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Bianca sobre Nataly: ‘Eu respeito sua opinião, mas eu fico com a minha’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-sobre-nataly-eu-respeito-sua-opiniao-mas-eu-fico-com-a-minha-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_093714048f2a45e998fe449677c3ec0b_name_file_960x540_1600_v4_.jpg?smart=true&auth=b134639d1a124cb7dcb87a80fc9ad03b40774c7d41d5708af017aa0cf3d41f2a&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 21,
-    "video": 61,
+    "noticia": 22,
+    "video": 60,
     "foto": 18
   }
 }
