@@ -1,19 +1,25 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-12T01:26:46.461Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-05-12T05:03:12.710Z",
+  "lastAddedCount": 11,
   "items": [
+    {
+      "title": "Luiza vence a prova Tô Fora e escapa do perrengue em Casa do Patrão; João Victor vai para o Trampo e assume função",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/luiza-vence-a-prova-to-fora-e-escapa-do-perrengue-em-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/APE3KURUIZANDH5XXK75KVLSUE.png?auth=706aa639ff44203ce67dddedabacad46ba7c4c71d394887acbe6d263418386e8&smart=true&width=696&height=346",
+      "type": "noticia"
+    },
+    {
+      "title": "João Victor e Nikita dão o primeiro beijo de Casa do Patrão e colegas vibram com a cena",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/joao-victor-e-nikita-dao-o-primeiro-beijo-de-casa-do-patrao-e-colegas-vibram-com-a-cena-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ILLPWSXWQVFXJKDXNWTWFDFIVM.png?smart=true&auth=093eecd02f2a438a3ce118330146b69af2aec23535cd8a45f874280f4ff7deb3&width=770&height=433",
+      "type": "noticia"
+    },
     {
       "title": "Provocações, acerto de contas e DR na madrugada: Casa do Patrão tem semana agitada",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/provocacoes-acerto-de-contas-e-dr-na-madrugada-casa-do-patrao-tem-semana-agitada-11052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JSSWYORRHBDNRFWUTFHVWLF7YU.png?smart=true&auth=3f2337783e063bfd2b747336111b8500b6baf800c7da08268aca8e13a6dbe487&width=1542&height=867",
       "type": "foto"
-    },
-    {
-      "title": "O Patrão enlouqueceu! Dinâmica valendo R$ 20 mil resulta em tretas e xingamentos",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/o-patrao-enlouqueceu-dinamica-valendo-r-20-mil-resulta-em-tretas-e-xingamentos-11052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WBECJX6LC5DXZF5RRN5NOL66LA.png?smart=true&auth=86de8b49d7d4a48571d695f4a78a56cbfc75c4d6a9386b00cace5ca476344d6b&width=1439&height=809",
-      "type": "noticia"
     },
     {
       "title": "Estratégia de milhões? Nataly quer usar fator surpresa contra oponentes; leia!",
@@ -22,24 +28,10 @@
       "type": "noticia"
     },
     {
-      "title": "“Somos antagonistas”, diz Nikita ao comentar divisão de grupos na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/somos-antagonistas-diz-nikita-ao-comentar-divisao-de-grupos-na-casa-do-patrao-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/OLCEPBSMSVECBE6XACLZAMNPIU.png?smart=true&auth=22f17bada25d316208ea8d29c38e4ab70dd8cd28eeb8ef092bf6f78c07960b08&width=770&height=433",
-      "type": "noticia",
-      "category": "NOVIDADES",
-      "time": "10/05/2026"
-    },
-    {
-      "title": "Luis Fellipe vence Prova do Patrão e conquista o posto pela segunda vez",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/luis-fellipe-vence-prova-do-patrao-e-conquista-o-posto-pela-segunda-vez-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NUKU62WXRJCD3IOYWTNXEYILW4.jpg?smart=true&auth=ee2b1afccdda29bfe350d44f2113659ad297866e849ad24356ce0e1ffd7c6ce5&width=770&height=433",
-      "type": "foto"
-    },
-    {
-      "title": "Tretas, votos e lágrimas! Confira 7 rivalidades declaradas em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/tretas-votos-e-lagrimas-confira-7-rivalidades-declaradas-em-casa-do-patrao-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/3LI4DQY3URBQ7CTZQYWG4346QE.jpg?smart=true&auth=c5fc5dae3087b79f1e7728fa19ca4632facb4beb7d24db7d4afbd7e1e6140a09&width=770&height=433",
-      "type": "foto"
+      "title": "O Patrão enlouqueceu! Dinâmica valendo R$ 20 mil resulta em tretas e xingamentos",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/o-patrao-enlouqueceu-dinamica-valendo-r-20-mil-resulta-em-tretas-e-xingamentos-11052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WBECJX6LC5DXZF5RRN5NOL66LA.png?smart=true&auth=86de8b49d7d4a48571d695f4a78a56cbfc75c4d6a9386b00cace5ca476344d6b&width=1439&height=809",
+      "type": "noticia"
     },
     {
       "title": "Chororô e climão! Competidores vetam colegas de assistir mensagens de suas mães",
@@ -66,10 +58,10 @@
       "type": "noticia"
     },
     {
-      "title": "JP ofende Nataly após ser questionado por se movimentar entre os grupos | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jp-ofende-nataly-apos-ser-questionado-por-se-movimentar-entre-os-grupos-casa-do-patrao-11052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_bff169ae19b544f28098cbeef337d983_name_file_960x540_1600_v4_.jpg?smart=true&auth=dff38c7d1d0fed57d2dd66845d38a1422d4d38fd04cc930c817d493ddf2b03b3&width=960&height=540",
-      "type": "video"
+      "title": "Tretas, votos e lágrimas! Confira 7 rivalidades declaradas em Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/tretas-votos-e-lagrimas-confira-7-rivalidades-declaradas-em-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/3LI4DQY3URBQ7CTZQYWG4346QE.jpg?smart=true&auth=c5fc5dae3087b79f1e7728fa19ca4632facb4beb7d24db7d4afbd7e1e6140a09&width=770&height=433",
+      "type": "foto"
     },
     {
       "title": "Time do coração: descubra para quem os moradores de Casa do Patrão torcem no Brasileirão",
@@ -100,6 +92,60 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/assine-a-newsletter-da-casa-do-patrao-e-receba-informacoes-quentinhas-do-reality-01052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/XYF7KIFTD5HPRP22MOJXNXNEGY.jpg?auth=09e5f30c0d29479ae433cf83d9e10365ebf2bd49bf0bd7c262f5cc6a692ae3ed&smart=true&width=696&height=379",
       "type": "noticia"
+    },
+    {
+      "title": "Luiza vence Prova Tô Fora e coloca João Victor na Casa do Trampo | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/luiza-vence-prova-to-fora-e-coloca-joao-victor-na-casa-do-trampo-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_6680b4840d884d11a9cb1ded0b73c6fa_name_file_960x540_1600_v4_.jpg?smart=true&auth=43ce31e1b0c3c8a6c84cc79d336de048c0884f0623d3bb2f7eed7cbf3adc4ed2&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Acusado de ser leva e traz, Jackson escolhe Matheus e Sheila como aliados | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/acusado-de-ser-leva-e-traz-jackson-escolhe-matheus-e-sheila-como-aliados-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_51e185175ddb46e3914b8f00dc93872c_name_file_960x540_1600_v4_.jpg?smart=true&auth=34e4cc840c393eeec90542e0f9c9e89b3177568b3116795c825027c94775dd9b&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Moradores da Casa do Trampo participam da Prova Tô Fora | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/moradores-da-casa-do-trampo-participam-da-prova-to-fora-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_b27d41fedf95468fa3fd30adf6abb72e_name_file_960x540_1600_v4_.jpg?smart=true&auth=3141147c51f8f4ff991f56c0d2d60d632d4c08d9022e8a667652f3e6b714a75e&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Morena sugere Jackson como leva e traz do grupo rival | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/morena-sugere-jackson-como-leva-e-traz-do-grupo-rival-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_db5f20ecf3024a0ca68e5ce45b31565a_name_file_960x540_1600_v4_.jpg?smart=true&auth=c77d306269b81b99a379a45be29e86e4b6ec7f83f567e4d4a85946284483b31e&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "João Victor e Mari lavam roupa suja ao vivo após dinâmica | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/joao-victor-e-mari-lavam-roupa-suja-ao-vivo-apos-dinamica-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_cbe16ca829644b9f8872741ebb215beb_name_file_960x540_1600_v4_.jpg?smart=true&auth=e2456f679f845e59b3cc6dc759a624e85e014a38c01e388f21ca60d8a2a62f34&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Falou na cara! JP diz que Nataly está 'sabonetando' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/falou-na-cara-jp-diz-que-nataly-esta-sabonetando-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_fa4071b4c8e74b1d90fbd59422424fe8_name_file_960x540_1600_v4_.jpg?smart=true&auth=67771dcaaad619d113734136b17582f609b63c252c897b323cb7e7825ffb4e64&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Comentário de Mari sobre beijo de Nikita e João Victor gera climão na festa | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/comentario-de-mari-sobre-beijo-de-nikita-e-joao-victor-gera-climao-na-festa-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_a237ad9a78d14a68afb33e7e8184016e_name_file_960x540_1600_v4_.jpg?smart=true&auth=5fdbd4b40aa9414376e5a6524d9f60397f5c5de831f3110102b1dd08f53d0e60&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Romance no ar? Nikita e João Victor protagonizam primeiro beijo da edição | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/romance-no-ar-nikita-e-joao-victor-protagonizam-primeiro-beijo-da-edicao-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_c79bf355645f4dc392eefeef210b4c0f_name_file_960x540_1600_v4_.jpg?smart=true&auth=e734ee9ed7da6c5af07e5c4312f0fb2688bae4eafa7a1093c586736cddfbf236&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Confira os melhores momentos do show de Felipe Araújo na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/confira-os-melhores-momentos-do-show-de-felipe-araujo-na-casa-do-patrao-12052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_162a95f6bc9045dfa8f8ed1f3b087faa_name_file_960x540_1600_v4_.jpg?smart=true&auth=4a9f033148a8092cdecf6a959302fff4b5366493029f9b3bf1356a2bd31a45df&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Vivão reclama que Nataly não limpa o banheiro e ela rebate: 'Chatinho' | Casa do Patrão",
@@ -135,6 +181,86 @@
       "title": "Puxadinho da Keila: Assista à íntegra com Nizam Hayek e Gis de Oliveira | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/puxadinho-da-keila/video/puxadinho-da-keila-assista-a-integra-com-nizam-hayek-e-gis-de-oliveira-casa-do-patrao-11052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_e108177eb1f84ae1adec8d4fad6a8b1b_name_file_960x540_1600_v4_.jpg?smart=true&auth=7bda4b98ab028209de13ab6a688f03229506d9614e9843067b9e58c512335581&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "“Somos antagonistas”, diz Nikita ao comentar divisão de grupos na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/somos-antagonistas-diz-nikita-ao-comentar-divisao-de-grupos-na-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/OLCEPBSMSVECBE6XACLZAMNPIU.png?smart=true&auth=22f17bada25d316208ea8d29c38e4ab70dd8cd28eeb8ef092bf6f78c07960b08&width=770&height=433",
+      "type": "noticia",
+      "category": "NOVIDADES",
+      "time": "10/05/2026"
+    },
+    {
+      "title": "Show exclusivo de Felipe Araújo embala a noite dos moradores na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/felipe-araujo-vai-agitar-a-festa-na-casa-do-patrao-deste-domingo-10-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VHEZBRTUTNH4DC74LS4XJS42MA.png?smart=true&auth=a2834a7b8170302592839239eb50f6f48aa30dcff77b7d9837a0603abf2a44bd&width=770&height=433",
+      "type": "noticia"
+    },
+    {
+      "title": "Morena ‘sabonetou’ na opinião do público de Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/morena-sabonetou-na-opiniao-do-publico-de-casa-do-patrao-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/M73AJILMTVCARO5DSF5RR2YBKU.png?smart=true&auth=6b03036ed2717ae84c05fd6201bfd33c64fff6e4cf963781f916a524e642140a&width=770&height=433",
+      "type": "noticia"
+    },
+    {
+      "title": "Luis Fellipe vence Prova do Patrão e conquista o posto pela segunda vez",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/luis-fellipe-vence-prova-do-patrao-e-conquista-o-posto-pela-segunda-vez-10052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NUKU62WXRJCD3IOYWTNXEYILW4.jpg?smart=true&auth=ee2b1afccdda29bfe350d44f2113659ad297866e849ad24356ce0e1ffd7c6ce5&width=770&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "Patrão carrasco ou amigão? Relembre como foram as gestões de Luis Fellipe e Morena",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/patrao-carrasco-ou-amigao-relembre-como-foram-as-gestoes-de-luis-fellipe-e-morena-09052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/3OEWZDTCYJGOXOGDNDORMHWNZM.png?smart=true&auth=a2f91f308bd539e7d724f0926057c895fc3f86d56838030ac633625e6bb28736&width=770&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "Naturalismo, esconde-esconde e mais! VAR da Casa do Patrão ataca novamente e não perdoa nem Hassum",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/naturalismo-esconde-esconde-e-mais-var-da-casa-do-patrao-ataca-novamente-e-nao-perdoa-nem-hassum-09052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EGEJKXI5EBCPLO2HMB3EMJB2QA.png?smart=true&auth=347bd934ce6601ecf09c774dfaff10086f5869614dbc9384aca67e704ad7a89e&width=771&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "Perigosos? Dinâmica coloca fogo na Casa do Patrão e joga verdades na roda",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/perigosos-dinamica-coloca-fogo-na-casa-do-patrao-e-joga-verdades-na-roda-08052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/C5PQRO6CLVEYXLW4N4X74BWNDY.png?smart=true&auth=f66e304b2d1a24c0c4042fd81e4476481b18616020ac0784c02cf5377e6b2cc4&width=771&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "Choque, encarada e mergulho da vitória! Veja como os moradores reagiram à eliminação de Thiago",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/choque-encarada-e-mergulho-da-vitoria-veja-como-os-moradores-reagiram-a-eliminacao-de-thiago-08052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/V6SMHYTJGNDOBEY534RNLS6D2Y.png?smart=true&auth=d2ae736c364c6baac1727fcd078a0b525842a8a9311208065432fb745fef30a1&width=771&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "Elétrico e jogador! Relembre a trajetória de Thiago em Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/eletrico-e-jogador-relembre-a-trajetoria-de-thiago-em-casa-do-patrao-08052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JVQNEDUTEFHEVB6DYKVRAVOUKA.png?smart=true&auth=d4b4493d3c89c65a575d82ff34b3f9a5173ea48deeb5450b0fc475ec949a66e1&width=771&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "Circo armado! Balada tem romance, promessa de embate e confissões na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/circo-armado-balada-tem-romance-promessa-de-embate-e-confissoes-na-casa-do-patrao-07052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WKD7Z5MPLFGYHNQLXYFOWMW7PA.png?smart=true&auth=c2cb4fc26186d8621fd95fdaa00015f6e2611382e034ba4fdf6e9d4aa8ea0a8d&width=771&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "Pérolas da Casa do Patrão! Confira momentos divertidos dos jogadores no reality",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/perolas-da-casa-do-patrao-confira-momentos-divertidos-dos-jogadores-no-reality-07052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/XFG7BGNAPRHEHMDQVFDNTMCOKE.jpg?smart=true&auth=0e9359c9b9dbcfb784e19dbc3aef076e904984589e1b6170c315284f854dea1f&width=771&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "Quem vem aí? Público repercute o anúncio de 'gente nova' entrando na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/quem-vem-ai-publico-repercute-o-anuncio-de-gente-nova-entrando-na-casa-do-patrao-06052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IF3NKUV3BJB5NOI47UZIYADHWQ.png?smart=true&auth=c9bae4a88552be97b167a9f813443830d194a97a28341fef4c625a8c660b2b46&width=1444&height=812",
+      "type": "foto"
+    },
+    {
+      "title": "JP ofende Nataly após ser questionado por se movimentar entre os grupos | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jp-ofende-nataly-apos-ser-questionado-por-se-movimentar-entre-os-grupos-casa-do-patrao-11052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_bff169ae19b544f28098cbeef337d983_name_file_960x540_1600_v4_.jpg?smart=true&auth=dff38c7d1d0fed57d2dd66845d38a1422d4d38fd04cc930c817d493ddf2b03b3&width=960&height=540",
       "type": "video"
     },
     {
@@ -186,18 +312,6 @@
       "type": "video"
     },
     {
-      "title": "Show exclusivo de Felipe Araújo embala a noite dos moradores na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/felipe-araujo-vai-agitar-a-festa-na-casa-do-patrao-deste-domingo-10-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VHEZBRTUTNH4DC74LS4XJS42MA.png?smart=true&auth=a2834a7b8170302592839239eb50f6f48aa30dcff77b7d9837a0603abf2a44bd&width=770&height=433",
-      "type": "noticia"
-    },
-    {
-      "title": "Morena ‘sabonetou’ na opinião do público de Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/morena-sabonetou-na-opiniao-do-publico-de-casa-do-patrao-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/M73AJILMTVCARO5DSF5RR2YBKU.png?smart=true&auth=6b03036ed2717ae84c05fd6201bfd33c64fff6e4cf963781f916a524e642140a&width=770&height=433",
-      "type": "noticia"
-    },
-    {
       "title": "Agente do caos? JP monta plano para desestabilizar adversários em Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/agente-do-caos-jp-monta-plano-para-desestabilizar-adversarios-em-casa-do-patrao-08052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/67Z54RCDHVGSHNUGI7OOXOXGYM.png?smart=true&auth=bb994032031a480b15f830ba4d3e70b3716bed4ee767a23ae9e1cba103e397e3&width=677&height=380",
@@ -208,54 +322,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/moradores-curtem-show-de-felipe-araujo-na-festa-deste-domingo-10-08052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/CDUW5ANZIFDGFI7XI3IGJAWCZQ.png?smart=true&auth=5d5c6f50f89113e9ec6d5e97a3f782ae9f479f62864448903536932a5caabe11&width=677&height=380",
       "type": "noticia"
-    },
-    {
-      "title": "Patrão carrasco ou amigão? Relembre como foram as gestões de Luis Fellipe e Morena",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/patrao-carrasco-ou-amigao-relembre-como-foram-as-gestoes-de-luis-fellipe-e-morena-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/3OEWZDTCYJGOXOGDNDORMHWNZM.png?smart=true&auth=a2f91f308bd539e7d724f0926057c895fc3f86d56838030ac633625e6bb28736&width=770&height=433",
-      "type": "foto"
-    },
-    {
-      "title": "Naturalismo, esconde-esconde e mais! VAR da Casa do Patrão ataca novamente e não perdoa nem Hassum",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/naturalismo-esconde-esconde-e-mais-var-da-casa-do-patrao-ataca-novamente-e-nao-perdoa-nem-hassum-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EGEJKXI5EBCPLO2HMB3EMJB2QA.png?smart=true&auth=347bd934ce6601ecf09c774dfaff10086f5869614dbc9384aca67e704ad7a89e&width=771&height=433",
-      "type": "foto"
-    },
-    {
-      "title": "Perigosos? Dinâmica coloca fogo na Casa do Patrão e joga verdades na roda",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/perigosos-dinamica-coloca-fogo-na-casa-do-patrao-e-joga-verdades-na-roda-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/C5PQRO6CLVEYXLW4N4X74BWNDY.png?smart=true&auth=f66e304b2d1a24c0c4042fd81e4476481b18616020ac0784c02cf5377e6b2cc4&width=771&height=433",
-      "type": "foto"
-    },
-    {
-      "title": "Choque, encarada e mergulho da vitória! Veja como os moradores reagiram à eliminação de Thiago",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/choque-encarada-e-mergulho-da-vitoria-veja-como-os-moradores-reagiram-a-eliminacao-de-thiago-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/V6SMHYTJGNDOBEY534RNLS6D2Y.png?smart=true&auth=d2ae736c364c6baac1727fcd078a0b525842a8a9311208065432fb745fef30a1&width=771&height=433",
-      "type": "foto"
-    },
-    {
-      "title": "Elétrico e jogador! Relembre a trajetória de Thiago em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/eletrico-e-jogador-relembre-a-trajetoria-de-thiago-em-casa-do-patrao-08052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JVQNEDUTEFHEVB6DYKVRAVOUKA.png?smart=true&auth=d4b4493d3c89c65a575d82ff34b3f9a5173ea48deeb5450b0fc475ec949a66e1&width=771&height=433",
-      "type": "foto"
-    },
-    {
-      "title": "Circo armado! Balada tem romance, promessa de embate e confissões na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/circo-armado-balada-tem-romance-promessa-de-embate-e-confissoes-na-casa-do-patrao-07052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WKD7Z5MPLFGYHNQLXYFOWMW7PA.png?smart=true&auth=c2cb4fc26186d8621fd95fdaa00015f6e2611382e034ba4fdf6e9d4aa8ea0a8d&width=771&height=433",
-      "type": "foto"
-    },
-    {
-      "title": "Pérolas da Casa do Patrão! Confira momentos divertidos dos jogadores no reality",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/perolas-da-casa-do-patrao-confira-momentos-divertidos-dos-jogadores-no-reality-07052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/XFG7BGNAPRHEHMDQVFDNTMCOKE.jpg?smart=true&auth=0e9359c9b9dbcfb784e19dbc3aef076e904984589e1b6170c315284f854dea1f&width=771&height=433",
-      "type": "foto"
-    },
-    {
-      "title": "Quem vem aí? Público repercute o anúncio de 'gente nova' entrando na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/quem-vem-ai-publico-repercute-o-anuncio-de-gente-nova-entrando-na-casa-do-patrao-06052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IF3NKUV3BJB5NOI47UZIYADHWQ.png?smart=true&auth=c9bae4a88552be97b167a9f813443830d194a97a28341fef4c625a8c660b2b46&width=1444&height=812",
-      "type": "foto"
     },
     {
       "title": "Nikita e Nataly detonam Sheila e criticam posicionamento de rivais | Casa do Patrão",
@@ -540,79 +606,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nikita-e-joao-victor-trocam-farpas-pela-manha-e-advogada-avisa-nao-me-irrita-casa-do-patrao-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_b7a0e15a643948629d4f97641952c011_name_file_960x540_1600_v4_.jpg?smart=true&auth=c1b751d1424b7407fc2f31f8804492780693b02531efeca4ea086be0620ec78e&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Marina avalia como 'regular' mandato de Morena e alfineta Vini na faxina | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/marina-avalia-como-regular-mandato-de-morena-e-alfineta-vini-na-faxina-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_17acf7032d9843ff87c43ce9d972b3c5_name_file_960x540_1600_v4_.jpg?smart=true&auth=cf7e6cf775eb77c0400c9d73feeea8641c8f75bfa2f7c6f91b4ff7999650bc5b&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Montanha-russa de emoções! Veja os destaques da primeira semana de Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/montanha-russa-de-emocoes-veja-os-destaques-da-primeira-semana-de-casa-do-patrao-04052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BC47U2SS3NH6RIKEJALE7KDXZE.png?smart=true&auth=28e8b085bed881cdf07ad99baf77582418e799f7bdc8bee88d0dc0e43123f073&width=771&height=433",
-      "type": "foto"
-    },
-    {
-      "title": "JP chega na Casa do Patrão gerando desconfianças, interesse amoroso e especulações: ‘Você é um perigo, né?’",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/jp-chega-na-casa-do-patrao-gerando-desconfiancas-interesse-amoroso-e-especulacoes-voce-e-um-perigo-ne-07052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/Q7WWCXIDQZB5TI65TYZLIOMFJU.png?smart=true&auth=58149638a39568456ef59a8ae296ab513e33a6aba6cb84f36aea1e23363757d9&width=1354&height=761",
-      "type": "noticia"
-    },
-    {
-      "title": "'Não quero ser a barraqueira da edição', confessa Nataly | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nao-quero-ser-a-barraqueira-da-edicao-confessa-nataly-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_ed35fa2dccde4592907333ebb6ded111_name_file_960x540_1600_v4_.jpg?smart=true&auth=cb29b50535546cfc76ae2cd25a432d45597cd4009489b4e142b02ebcc621e597&width=960&height=540",
-      "type": "video",
-      "category": "HORAS",
-      "time": "09/05/2026"
-    },
-    {
-      "title": "Vivão, Andressa e Nikita conversam sobre estratégias de jogo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-andressa-e-nikita-conversam-sobre-estrategias-de-jogo-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_1585617285d3473d9c30a156d168d245_name_file_960x540_1600_v4_.jpg?smart=true&auth=444a70cdd26e27478d8e811d8f8d00f791c0bd7710d63eb2e823a5f7feb902cd&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "VAR revela ‘sumiço’ de Sheila | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/var-revela-sumico-de-sheila-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_3bb36425fc4c4c3fbcaccac118081d18_name_file_960x540_1600_v4_.jpg?smart=true&auth=c115554eb576822af83247037c119fa7554e8cc3dc1c79504f48294dd3f40be2&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Ranking da verdade movimenta o reality: ‘Quem é o mais perigoso e por quê?’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/ranking-da-verdade-movimenta-o-reality-quem-e-o-mais-perigoso-e-por-que-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_1a3a2130d93342bbb8af429afa71cb9e_name_file_960x540_1600_v4_.jpg?smart=true&auth=1ee6c10f8392c5d0c7a1cd3a6b53a1193ca63283a84e36fa0569cef62cab0de5&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Morena avalia desempenho da galera do Trampo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/morena-avalia-desempenho-da-galera-do-trampo-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_a80c2f95033b4714870d662193c26e95_name_file_960x540_1600_v4_.jpg?smart=true&auth=20a754b946ab1798cab8bd3d5089a30f03302e8d7cce1b959f55fa2f07f16a4a&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Hassum diverte o público ao comentar ‘direito de resposta’ do Disney+ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/hassum-diverte-o-publico-ao-comentar-direito-de-resposta-do-disney-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_5054aaf214df4f7a86128f7285a57e27_name_file_960x540_1600_v4_.jpg?smart=true&auth=3c3b9aa267ba289e88fea9a1d7f1f6686ae6bdadc0870beddfdde8198fba4ddf&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Conheça João Pedro, o mais novo morador de Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/conheca-joao-pedro-o-mais-novo-morador-de-casa-do-patrao-07052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4K6XQHTOFVE4VDYYPGFPGEGLF4.png?smart=true&auth=b88fe766a507c4c6b931175d0acb825d8e6e061e1002b74f8a5fde0814e5cbea&width=677&height=380",
-      "type": "noticia"
-    },
-    {
-      "title": "Confira a reação da casa após a saída de Thiago | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/confira-a-reacao-da-casa-apos-a-saida-de-thiago-casa-do-patrao-09052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-09-2026%2Ft_122d6aeaaefc4d6f863a8f3e00098861_name_file_960x540_1600_v4_.jpg?smart=true&auth=598b0cab367febf2356107fc3df224dfc704dee0a4035d9a0afbc87604984013&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
     "noticia": 20,
-    "video": 61,
-    "foto": 19
+    "video": 62,
+    "foto": 18
   }
 }
