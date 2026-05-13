@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-13T10:46:07.801Z",
+  "fetchedAt": "2026-05-13T13:04:53.713Z",
   "lastAddedCount": 1,
   "items": [
     {
@@ -100,6 +100,12 @@
       "type": "noticia"
     },
     {
+      "title": "Nikita aconselha aliadas a darem jogo como perdido caso seja eliminada | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nikita-aconselha-aliadas-a-darem-jogo-como-perdido-caso-seja-eliminada-casa-do-patrao-13052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-13-2026%2Ft_de2af8a2255243ba995ab05c01bba999_name_file_960x540_1600_v4_.jpg?smart=true&auth=14af84e7a84354f8ab58d41662ec5b32aff1e5514b994f95cc19a6e74c52c805&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Susto e trote: Bianca, Matheus e Vini atormentam Casa do Trampo às 4h da manhã | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/susto-e-trote-bianca-matheus-e-vini-atormentam-casa-do-trampo-as-4h-da-manha-casa-do-patrao-13052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-13-2026%2Ft_13530008578c4692b13c3c9a63b01323_name_file_960x540_1600_v4_.jpg?smart=true&auth=a847d5aa7d4473922d63d0b53fd69c26200d4f9ce2797bae3f7ae9e766328de9&width=960&height=540",
@@ -141,7 +147,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-13-2026%2Ft_58506a452f1448bbade09558c9e692b1_name_file_960x540_1600_v4_.jpg?smart=true&auth=3540057044065c8d42ffa3fc31b9754dbcc15aab076dd7f58d09f32a4c8c811a&width=960&height=540",
       "type": "video",
       "category": "NA TV",
-      "time": "HÁ 6 HORAS"
+      "time": "HÁ 9 HORAS"
     },
     {
       "title": "Vencedora da Prova Tô Fora, Luiza manda Morena ao Tá na Reta | Casa do Patrão",
@@ -179,18 +185,12 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-13-2026%2Ft_012e886fa0f349e69c1610d54be3027a_name_file_960x540_1600_v4_.jpg?smart=true&auth=bf947a43e80f3c4c36fb105eea9d46ce5cda01a443ff97d4437d1917fd26c1f6&width=960&height=540",
       "type": "video",
       "category": "NA TV",
-      "time": "HÁ 7 HORAS"
+      "time": "HÁ 9 HORAS"
     },
     {
       "title": "Matheus conquista a imunidade na votação do Tá na Reta no leilão do PicPay | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/matheus-conquista-a-imunidade-na-votacao-do-ta-na-reta-no-leilao-do-picpay-casa-do-patrao-13052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-13-2026%2Ft_6a72935f85cd48d5986586a2a059be3f_name_file_960x540_1600_v4_.jpg?smart=true&auth=faf8876bd992e966bddb21cd39581a53a548ba722fde7376e5174f6292bbfb91&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Mari e João Victor lavam roupa suja após desentendimento em festa | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/mari-e-joao-victor-lavam-roupa-suja-apos-desentendimento-em-festa-casa-do-patrao-13052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-13-2026%2Ft_7ec4c80d99ad48518b9af9dea43c858c_name_file_960x540_1600_v4_.jpg?smart=true&auth=5f844d337dfe3796dd88758a460526dcd63ec6277ca98df4ecabee3a98cad759&width=960&height=540",
       "type": "video"
     },
     {
@@ -282,6 +282,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/circo-armado-balada-tem-romance-promessa-de-embate-e-confissoes-na-casa-do-patrao-07052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WKD7Z5MPLFGYHNQLXYFOWMW7PA.png?smart=true&auth=c2cb4fc26186d8621fd95fdaa00015f6e2611382e034ba4fdf6e9d4aa8ea0a8d&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Mari e João Victor lavam roupa suja após desentendimento em festa | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/mari-e-joao-victor-lavam-roupa-suja-apos-desentendimento-em-festa-casa-do-patrao-13052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-13-2026%2Ft_7ec4c80d99ad48518b9af9dea43c858c_name_file_960x540_1600_v4_.jpg?smart=true&auth=5f844d337dfe3796dd88758a460526dcd63ec6277ca98df4ecabee3a98cad759&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Moradores comentam falta de posicionamento de Jackson no game | Casa do Patrão",
@@ -611,12 +617,6 @@
       "title": "Sheila e Jackson sugerem voto em Morena no próximo Tá na Reta | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-e-jackson-sugerem-voto-em-morena-no-proximo-ta-na-reta-casa-do-patrao-11052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_ad70e2d934994fb0ab22cf00104b2ffe_name_file_960x540_1600_v4_.jpg?smart=true&auth=e70013e2b6f92ef5c8b0ea0147d6fa3a63eac9ff746c715c1cb21b6d62593c85&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Nikita e João Victor alfinetam jogo de Jackson: ‘Maior planta do grupo de lá’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nikita-e-joao-victor-alfinetam-jogo-de-jackson-maior-planta-do-grupo-de-la-casa-do-patrao-11052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-11-2026%2Ft_fa0c44cea2ee4ac6b09dbb1456a51def_name_file_960x540_1600_v4_.jpg?smart=true&auth=caeb63ad32cdc06b24aa94d79ce807d2d033e604f6d785eeaae4687b6b8f5aad&width=960&height=540",
       "type": "video"
     }
   ],
