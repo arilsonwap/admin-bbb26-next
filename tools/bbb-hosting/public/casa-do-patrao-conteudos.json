@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-14T08:14:54.930Z",
+  "fetchedAt": "2026-05-14T10:36:44.221Z",
   "lastAddedCount": 1,
   "items": [
     {
@@ -100,6 +100,12 @@
       "type": "noticia"
     },
     {
+      "title": "João Victor, Nikita, Luis Fellipe e Morena protagonizam beijaço na Festa do Pijama | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-nikita-luis-fellipe-e-morena-protagonizam-beijaco-na-festa-do-pijama-casa-do-patrao-14052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_56f7e1fbe7e74cebb5c49bb2c2938966_name_file_960x540_1600_v4_.jpg?smart=true&auth=77f3c82a150b8b2b2bceb9eceea1355ab85f66a673ab881abce01b90fa3e1e28&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Luis e João Victor apontam que JP deve sair no Tá na Reta | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luis-e-joao-victor-apontam-que-jp-deve-sair-no-ta-na-reta-casa-do-patrao-14052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_1edf68ddbfc540ebb1dbbce97748fd11_name_file_960x540_1600_v4_.jpg?smart=true&auth=1c41fe2bb3317f821c53f5b5dc0f95416034aab46a6658b7a0e2ad1f0f790fd3&width=960&height=540",
@@ -181,12 +187,6 @@
       "title": "Vivão aproveita que está amarrado com Vini e ensina o parceiro a cozinhar | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-aproveita-que-esta-amarrado-com-vini-e-ensina-o-parceiro-a-cozinhar-casa-do-patrao-13052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-13-2026%2Ft_7396a17b580e48009c675ef9617b5169_name_file_960x540_1600_v4_.jpg?smart=true&auth=9bf6843dff7ceb3ec3e7411b81462ce7a88cbafe54a61a8aac0d3fb540088270&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Luiza afirma que se for Patroa coloca Luis direto no Tá na Reta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luiza-afirma-que-se-for-patroa-coloca-luis-direto-no-ta-na-reta-casa-do-patrao-13052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-13-2026%2Ft_cc2c189189fc491f9252e4a976743e2c_name_file_960x540_1600_v4_.jpg?smart=true&auth=eb82d70e96f2118519f57977bb7cd1dc6e6ed1101419c2da5ad214b1d5c7bfaa&width=960&height=540",
       "type": "video"
     },
     {
@@ -290,6 +290,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/circo-armado-balada-tem-romance-promessa-de-embate-e-confissoes-na-casa-do-patrao-07052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WKD7Z5MPLFGYHNQLXYFOWMW7PA.png?smart=true&auth=c2cb4fc26186d8621fd95fdaa00015f6e2611382e034ba4fdf6e9d4aa8ea0a8d&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Luiza afirma que se for Patroa coloca Luis direto no Tá na Reta | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luiza-afirma-que-se-for-patroa-coloca-luis-direto-no-ta-na-reta-casa-do-patrao-13052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-13-2026%2Ft_cc2c189189fc491f9252e4a976743e2c_name_file_960x540_1600_v4_.jpg?smart=true&auth=eb82d70e96f2118519f57977bb7cd1dc6e6ed1101419c2da5ad214b1d5c7bfaa&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Andressa ataca rivais e diz que eles são um bando de pessoas sem empatia | Casa do Patrão",
@@ -612,12 +618,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/quem-vem-ai-publico-repercute-o-anuncio-de-gente-nova-entrando-na-casa-do-patrao-06052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IF3NKUV3BJB5NOI47UZIYADHWQ.png?smart=true&auth=c9bae4a88552be97b167a9f813443830d194a97a28341fef4c625a8c660b2b46&width=1444&height=812",
       "type": "foto"
-    },
-    {
-      "title": "Moradores da Casa do Trampo participam da Prova Tô Fora | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/moradores-da-casa-do-trampo-participam-da-prova-to-fora-casa-do-patrao-12052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_b27d41fedf95468fa3fd30adf6abb72e_name_file_960x540_1600_v4_.jpg?smart=true&auth=3141147c51f8f4ff991f56c0d2d60d632d4c08d9022e8a667652f3e6b714a75e&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
