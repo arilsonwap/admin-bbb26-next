@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-14T16:53:47.934Z",
+  "fetchedAt": "2026-05-14T18:53:33.872Z",
   "lastAddedCount": 2,
   "items": [
     {
@@ -100,6 +100,18 @@
       "type": "noticia"
     },
     {
+      "title": "Sheila critica Nataly por lavar o banheiro todos os dias | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-critica-nataly-por-lavar-o-banheiro-todos-os-dias-casa-do-patrao-14052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_3f7af21ac4ba4f1190615b5c89b18a8c_name_file_960x540_1600_v4_.jpg?smart=true&auth=c8911e8ac621c25c1b7442a8643c89f462497f82ffde10af1ab36430a21490ba&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Jackson analisa efeitos pós-festa nos concorrentes: ‘Deram uma passada do ponto’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-analisa-efeitos-pos-festa-nos-concorrentes-deram-uma-passada-do-ponto-casa-do-patrao-14052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_bd88c7d2974c41bc80def5cbfc730fdf_name_file_960x540_1600_v4_.jpg?smart=true&auth=45c0025977082f78f5ec0b5ad145b306e9090c3ae179bc895a55363def5a6d26&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Que soninho! Moradores dormem após Festa do Pijama | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/que-soninho-moradores-dormem-apos-festa-do-pijama-casa-do-patrao-14052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_2c0b71fbab1e43b78e764c97bb440a13_name_file_960x540_1600_v4_.jpg?smart=true&auth=fad509e99cddc5db1b9b64622db118bb588da17f7dde796ff096a0cc3b8a80d9&width=960&height=540",
@@ -163,18 +175,6 @@
       "title": "Nikita, Luiza, Morena e JP analisam indicações ao Tá na Reta | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/nikita-luiza-morena-e-jp-analisam-indicacoes-ao-ta-na-reta-casa-do-patrao-14052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_3c4987c1d7fa477d9f85908c32e168d3_name_file_960x540_1600_v4_.jpg?smart=true&auth=ff54b5dbb67d84bf94bed2349953600f4d8ccbc40896130e00130bb93cd8b3b9&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Lurena? Leandro Hassum repercute beijo de Luis e Morena | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/lurena-leandro-hassum-repercute-beijo-de-luis-e-morena-casa-do-patrao-14052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_480ba81434224267beed8cebf46cd6f6_name_file_960x540_1600_v4_.jpg?smart=true&auth=fd4e744b7075ff3fff83c53c061cd66b6f39fdf1abef025c1df8f76ee5abdb79&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Unidos por uma corda, Vini e Vivão são obrigados a fazer tarefas juntos | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/unidos-por-uma-corda-vini-e-vivao-sao-obrigados-a-fazer-tarefas-juntos-casa-do-patrao-14052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_7ca2d468904b4c77a13ba67d4790a524_name_file_960x540_1600_v4_.jpg?smart=true&auth=a82bb39ebb7b25ac0b1fd62c1efe1f64dca22594ed3a6ca8aab2479d0d1f384a&width=960&height=540",
       "type": "video"
     },
     {
@@ -278,6 +278,18 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/eletrico-e-jogador-relembre-a-trajetoria-de-thiago-em-casa-do-patrao-08052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JVQNEDUTEFHEVB6DYKVRAVOUKA.png?smart=true&auth=d4b4493d3c89c65a575d82ff34b3f9a5173ea48deeb5450b0fc475ec949a66e1&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Lurena? Leandro Hassum repercute beijo de Luis e Morena | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/lurena-leandro-hassum-repercute-beijo-de-luis-e-morena-casa-do-patrao-14052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_480ba81434224267beed8cebf46cd6f6_name_file_960x540_1600_v4_.jpg?smart=true&auth=fd4e744b7075ff3fff83c53c061cd66b6f39fdf1abef025c1df8f76ee5abdb79&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Unidos por uma corda, Vini e Vivão são obrigados a fazer tarefas juntos | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/unidos-por-uma-corda-vini-e-vivao-sao-obrigados-a-fazer-tarefas-juntos-casa-do-patrao-14052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_7ca2d468904b4c77a13ba67d4790a524_name_file_960x540_1600_v4_.jpg?smart=true&auth=a82bb39ebb7b25ac0b1fd62c1efe1f64dca22594ed3a6ca8aab2479d0d1f384a&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Venenosa na área! Fabíola Reipert invade a Casa do Patrão e coloca fogo no reality | Casa do Patrão",
@@ -599,20 +611,6 @@
       "title": "Disputa pelo Poder do Voto promete movimentar o jogo | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/disputa-pelo-poder-do-voto-promete-movimentar-o-jogo-casa-do-patrao-12052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_a49815e8386c45db88646f9d36fa17fe_name_file_960x540_1600_v4_.jpg?smart=true&auth=2e4cf0ba26f19915bd8b6755e7f5cba9f892b20d21b4b1cecd693ac1a56ba7e1&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "'Furto de comida'? Matheus e Bianca temem VAR após ataque ao doce de leite | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/furto-de-comida-matheus-e-bianca-temem-var-apos-ataque-ao-doce-de-leite-casa-do-patrao-12052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_484fe7be5eb7452694b23c157ce4c837_name_file_960x540_1600_v4_.jpg?smart=true&auth=4e15f37389cd93116d152322d33d4e7f672d84af9e62b7b177239d39de1530f8&width=960&height=540",
-      "type": "video",
-      "category": "HORAS",
-      "time": "12/05/2026"
-    },
-    {
-      "title": "Moradores detonam aparência de João Victor e especulam: '20 mil reais só em dente' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-detonam-aparencia-de-joao-victor-e-especulam-20-mil-reais-so-em-dente-casa-do-patrao-12052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_916d2af90bab49ec995206fcb6deec11_name_file_960x540_1600_v4_.jpg?smart=true&auth=c6286c458fd0f386c2fce322545b0e2828d8a4db10860c3ef74d7f2eb2a7d894&width=960&height=540",
       "type": "video"
     }
   ],
