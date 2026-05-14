@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-14T22:44:30.021Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-05-14T23:40:42.863Z",
+  "lastAddedCount": 3,
   "items": [
     {
       "title": "Beijos, desabafo e estratégia: Festa do Pijama desperta moradores da Casa do Patrão",
@@ -57,7 +57,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_2a5004376e5c4d599bf92718f741d5b6_name_file_960x540_1600_v4_.jpg?smart=true&auth=2104484ed35b3a7c2f29085df7a3d9d9494664efe0330826642de17353f0b226&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 3 HORAS"
+      "time": "HÁ 4 HORAS"
     },
     {
       "title": "Saiba quem votou em quem na formação do terceiro Tá na Reta",
@@ -100,6 +100,18 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/assine-a-newsletter-da-casa-do-patrao-e-receba-informacoes-quentinhas-do-reality-01052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/XYF7KIFTD5HPRP22MOJXNXNEGY.jpg?auth=09e5f30c0d29479ae433cf83d9e10365ebf2bd49bf0bd7c262f5cc6a692ae3ed&smart=true&width=696&height=379",
       "type": "noticia"
+    },
+    {
+      "title": "João Victor e Andressa alfinetam JP antes do resultado da eliminação | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-e-andressa-alfinetam-jp-antes-do-resultado-da-eliminacao-casa-do-patrao-14052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_596156b1fdf74a50bf9c1aa7f46195cd_name_file_960x540_1600_v4_.jpg?smart=true&auth=7d980b3d59ad401d4115442b029ac403a009397b35f4dbc973517a276303a98c&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "João Victor e Jackson detonam JP e dizem que não querem ser amigos do rival | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-e-jackson-detonam-jp-e-dizem-que-nao-querem-ser-amigos-do-rival-casa-do-patrao-14052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_4813cfd5e19b4fee94f33451d030d802_name_file_960x540_1600_v4_.jpg?smart=true&auth=2fa951e51d66000c2f6ea8468b385df0be947fca93ef61641c257adbf02c08fb&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Matheus debocha de Morena e diz que ela não faz nada para movimentar o jogo | Casa do Patrão",
@@ -156,16 +168,10 @@
       "type": "video"
     },
     {
-      "title": "João Victor, Nikita, Luis Fellipe e Morena protagonizam beijaço na Festa do Pijama | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-nikita-luis-fellipe-e-morena-protagonizam-beijaco-na-festa-do-pijama-casa-do-patrao-14052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_56f7e1fbe7e74cebb5c49bb2c2938966_name_file_960x540_1600_v4_.jpg?smart=true&auth=77f3c82a150b8b2b2bceb9eceea1355ab85f66a673ab881abce01b90fa3e1e28&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Luis e João Victor apontam que JP deve sair no Tá na Reta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luis-e-joao-victor-apontam-que-jp-deve-sair-no-ta-na-reta-casa-do-patrao-14052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_1edf68ddbfc540ebb1dbbce97748fd11_name_file_960x540_1600_v4_.jpg?smart=true&auth=1c41fe2bb3317f821c53f5b5dc0f95416034aab46a6658b7a0e2ad1f0f790fd3&width=960&height=540",
-      "type": "video"
+      "title": "Hassum divulga bastidores de Casa do Patrão e agita web",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/hassum-divulga-bastidores-de-casa-do-patrao-e-agita-web-14052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EDHPVIEXBVA43HQ3NTJSTDYWBU.png?smart=true&auth=20da385cdfffe4ec7931873fdeac9d81ff1c99ef163b3fc8653ec9de1418abf0&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Nada inocente! Boninho dá spoiler sobre festa e atiça seguidores: ‘Sugere aí o nome da planta’",
@@ -207,12 +213,6 @@
       "title": "Juntos e misturados! Produção libera acesso entre Casa do Patrão e do Trampo",
       "href": "https://record.r7.com/casa-do-patrao/novidades/juntos-e-misturados-producao-libera-acesso-entre-casa-do-patrao-e-do-trampo-13052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/DAKCX6Q335DFROJPDWAPIKOFYM.png?smart=true&auth=8dcddd3a10af00447ffd53cc13165882be65e0900309e6ca801d099c32b8e7fb&width=677&height=380",
-      "type": "noticia"
-    },
-    {
-      "title": "Contragolpe e dinâmica da discórdia: público cria teorias após post misterioso de Boninho",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/contragolpe-e-dinamica-da-discordia-publico-cria-teorias-apos-post-misterioso-de-boninho-13052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/OSOB344KCNFO7FJ37PE4X6QD6A.png?smart=true&auth=6abaeaee76eaf6a89429bc10435c33194530ad18c13c5f24902ba6647a62a613&width=770&height=433",
       "type": "noticia"
     },
     {
@@ -274,6 +274,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/eletrico-e-jogador-relembre-a-trajetoria-de-thiago-em-casa-do-patrao-08052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JVQNEDUTEFHEVB6DYKVRAVOUKA.png?smart=true&auth=d4b4493d3c89c65a575d82ff34b3f9a5173ea48deeb5450b0fc475ec949a66e1&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "João Victor, Nikita, Luis Fellipe e Morena protagonizam beijaço na Festa do Pijama | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-nikita-luis-fellipe-e-morena-protagonizam-beijaco-na-festa-do-pijama-casa-do-patrao-14052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_56f7e1fbe7e74cebb5c49bb2c2938966_name_file_960x540_1600_v4_.jpg?smart=true&auth=77f3c82a150b8b2b2bceb9eceea1355ab85f66a673ab881abce01b90fa3e1e28&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Luis e João Victor apontam que JP deve sair no Tá na Reta | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luis-e-joao-victor-apontam-que-jp-deve-sair-no-ta-na-reta-casa-do-patrao-14052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_1edf68ddbfc540ebb1dbbce97748fd11_name_file_960x540_1600_v4_.jpg?smart=true&auth=1c41fe2bb3317f821c53f5b5dc0f95416034aab46a6658b7a0e2ad1f0f790fd3&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Contragolpe e dinâmica da discórdia: público cria teorias após post misterioso de Boninho",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/contragolpe-e-dinamica-da-discordia-publico-cria-teorias-apos-post-misterioso-de-boninho-13052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/OSOB344KCNFO7FJ37PE4X6QD6A.png?smart=true&auth=6abaeaee76eaf6a89429bc10435c33194530ad18c13c5f24902ba6647a62a613&width=770&height=433",
+      "type": "noticia"
     },
     {
       "title": "Nikita e João Victor trocam beijos e definem estratégias durante a Festa do Pijama | Casa do Patrão",
@@ -594,29 +612,11 @@
       "type": "video",
       "category": "HORAS",
       "time": "12/05/2026"
-    },
-    {
-      "title": "Mari e Marina conversam sobre estratégias de jogo do grupo rival | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/mari-e-marina-conversam-sobre-estrategias-de-jogo-do-grupo-rival-casa-do-patrao-12052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_77720dca8c6f4c15be8a971af845dff3_name_file_960x540_1600_v4_.jpg?smart=true&auth=40fcd2cadcc8042da04323f2b92844211323d134898432385c760122e45c722b&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Vini critica Sheila e diz que ela se sente ‘grandona' no jogo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vini-critica-sheila-e-diz-que-ela-se-sente-grandona-no-jogo-casa-do-patrao-12052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_a6b33606bfa5442dabef020d9c9e4b80_name_file_960x540_1600_v4_.jpg?smart=true&auth=7a4557f9f69d48de99959a201a969ad1baeb5109e0c23fda79172f8e8df88af7&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Jackson revela para Nikita que pode ter se perdido no jogo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-revela-para-nikita-que-pode-ter-se-perdido-no-jogo-casa-do-patrao-12052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-12-2026%2Ft_bd6ad296c10a451db9dad09055af3911_name_file_960x540_1600_v4_.jpg?smart=true&auth=6c1b76f416c6a5f790a1ed3159a8dd46155412af76c1a506d59446a2663e45f8&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 24,
-    "video": 60,
+    "noticia": 25,
+    "video": 59,
     "foto": 16
   }
 }
