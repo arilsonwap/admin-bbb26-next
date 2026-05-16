@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-16T12:42:47.949Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-05-16T14:12:38.283Z",
+  "lastAddedCount": 2,
   "items": [
     {
       "title": "VAR coloca fim ao mistério e revela o que aconteceu com o cigarro de Vivão; veja como o estilista reagiu ao flagrante!",
@@ -112,6 +112,18 @@
       "type": "noticia"
     },
     {
+      "title": "Após saída de Nikita, Morena diz que não vê verdade em Marina | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/apos-saida-de-nikita-morena-diz-que-nao-ve-verdade-em-marina-casa-do-patrao-16052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-16-2026%2Ft_b41010fede5f4f16ab8fca851d090f73_name_file_960x540_1600_v4_.jpg?smart=true&auth=240eee6b9a1f790bd91a3a1b5f00d5627317789ac0b301fd338bd55e06655492&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Sheila faz desabafo logo após acordar: ‘Esse povo não raciocina’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-faz-desabafo-logo-apos-acordar-esse-povo-nao-raciocina-casa-do-patrao-16052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-16-2026%2Ft_32eca11f66464109a2e9511570e705aa_name_file_960x540_1600_v4_.jpg?smart=true&auth=f32d9991c6bc809ffb9d3a689fee442db695bd9cb6cf85fb7d5de7571aa6bbbf&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Soberba ou certeza? Vini alerta Sheila sobre posicionamento dela no jogo | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/soberba-ou-certeza-vini-alerta-sheila-sobre-posicionamento-dela-no-jogo-casa-do-patrao-16052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-16-2026%2Ft_b2b674be60a449ecab982f48697d0400_name_file_960x540_1600_v4_.jpg?smart=true&auth=dcec940e46014e4a7a9d5b7ff7ef6ee9b6fe6d032d3e87dac846ac0ff1d7abe1&width=960&height=540",
@@ -187,12 +199,6 @@
       "title": "Marina se irrita com postura de Matheus: 'Assuma seus erros' | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/marina-se-irrita-com-postura-de-matheus-assuma-seus-erros-casa-do-patrao-15052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-15-2026%2Ft_af5529ddbfba47e084db868e5079209a_name_file_960x540_1600_v4_.jpg?smart=true&auth=8c71772397722843027ecc1ed51f433bbf6952d45e7a6f3090df505433236439&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Vini e JP discutem por falta de comida na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vini-e-jp-discutem-por-falta-de-comida-na-casa-do-patrao-15052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-15-2026%2Ft_d0abfec541044637a58ed0d3eb3684f1_name_file_960x540_1600_v4_.jpg?smart=true&auth=6d602fba836e276a22c6b2849ecb51ad8aec11dabfd370048791263407c4bea8&width=960&height=540",
       "type": "video"
     },
     {
@@ -278,6 +284,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/luis-fellipe-vence-prova-do-patrao-e-conquista-o-posto-pela-segunda-vez-10052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NUKU62WXRJCD3IOYWTNXEYILW4.jpg?smart=true&auth=ee2b1afccdda29bfe350d44f2113659ad297866e849ad24356ce0e1ffd7c6ce5&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Vini e JP discutem por falta de comida na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vini-e-jp-discutem-por-falta-de-comida-na-casa-do-patrao-15052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-15-2026%2Ft_d0abfec541044637a58ed0d3eb3684f1_name_file_960x540_1600_v4_.jpg?smart=true&auth=6d602fba836e276a22c6b2849ecb51ad8aec11dabfd370048791263407c4bea8&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Tá na Rua: Assista à íntegra da live com Nikita Salvador | Casa do Patrão",
@@ -593,18 +605,6 @@
       "title": "Matheus debocha de Morena e diz que ela não faz nada para movimentar o jogo | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-debocha-de-morena-e-diz-que-ela-nao-faz-nada-para-movimentar-o-jogo-casa-do-patrao-14052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_44d8c22086444397a0583e377912b716_name_file_960x540_1600_v4_.jpg?smart=true&auth=0aa1e4f00c1f801c06d9b304673274bb4bc90615b1b0cdb7a049da9a968f9288&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila diz que vai colocar Jackson na berlinda quando for Patroa | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-diz-que-vai-colocar-jackson-na-berlinda-quando-for-patroa-casa-do-patrao-14052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_55380fe5680e4ec4ae732e38eae3ceb9_name_file_960x540_1600_v4_.jpg?smart=true&auth=6b9a3a7c97bbef75fba0bd17f8f9362463879def00f386280884d4cfd6e1eeb1&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Jackson analisa efeitos pós-festa nos concorrentes: ‘Deram uma passada do ponto’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-analisa-efeitos-pos-festa-nos-concorrentes-deram-uma-passada-do-ponto-casa-do-patrao-14052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_bd88c7d2974c41bc80def5cbfc730fdf_name_file_960x540_1600_v4_.jpg?smart=true&auth=45c0025977082f78f5ec0b5ad145b306e9090c3ae179bc895a55363def5a6d26&width=960&height=540",
       "type": "video"
     }
   ],
