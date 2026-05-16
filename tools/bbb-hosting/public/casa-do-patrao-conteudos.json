@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-15T23:33:45.906Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-05-16T01:21:48.920Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Vivão entra em greve na cozinha, e Sheila dá aviso: ‘Ou faz para todos ou não vai fazer para ninguém’; acompanhe",
@@ -124,6 +124,12 @@
       "type": "noticia"
     },
     {
+      "title": "Vivão se recusa a cozinhar para integrantes do grupo rival | Casa do Trampo",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-se-recusa-a-cozinhar-para-integrantes-do-grupo-rival-casa-do-trampo-16052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-16-2026%2Ft_5cb260b76c634b9abcc472d82754e3d5_name_file_960x540_1600_v4_.jpg?smart=true&auth=ee9a20f12183b15924ecc6d7b6861c6194faea06a8f12e9c13a772db0b217834&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Vini critica brincadeira de Sheila com Vivão e diz que ela prejudicou moradores | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vini-critica-brincadeira-de-sheila-com-vivao-e-diz-que-ela-prejudicou-moradores-casa-do-patrao-15052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-15-2026%2Ft_e0df7219f4af4a72b7366660a2e67c44_name_file_960x540_1600_v4_.jpg?smart=true&auth=b307a1c33c0753ca68bf1cf3f630a411bca1ae069b2a1775f2ec3f60db9ee9c6&width=960&height=540",
@@ -177,7 +183,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-15-2026%2Ft_ad10bf684b824e1f86ebe382d5ca13b1_name_file_960x540_1600_v4_.jpg?smart=true&auth=17d53e1ed9d832c31fecb6d51556e08c1a53bd10875ed7683b8ef8adabd8215b&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 7 HORAS"
+      "time": "15/05/2026"
     },
     {
       "title": "Nataly desafia Matheus caso forem ao Tá na Reta juntos | Casa do Patrão",
@@ -195,12 +201,6 @@
       "title": "Sheila compara Nikita a Ana Paula Renault: 'Uniu um Juliano e Milena em torno dela' | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-compara-nikita-a-ana-paula-renault-uniu-um-juliano-e-milena-em-torno-dela-casa-do-patrao-15052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-15-2026%2Ft_4d326f71aa6640c6bf41725bbbb8c178_name_file_960x540_1600_v4_.jpg?smart=true&auth=f6013e126732f9ac1bf012fa46aaef1df1748103d4103688c94d4b540e769e8c&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Luís acorda pensativo e toma café da manhã sozinho | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luis-acorda-pensativo-e-toma-cafe-da-manha-sozinho-casa-do-patrao-15052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-15-2026%2Ft_5778572694a0449c9b54b16c044ff677_name_file_960x540_1600_v4_.jpg?smart=true&auth=1e4439ef5d707655d7353df47973e712ae66b940b1981ab1c4200de70a9f7ace&width=960&height=540",
       "type": "video"
     },
     {
@@ -286,6 +286,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/naturalismo-esconde-esconde-e-mais-var-da-casa-do-patrao-ataca-novamente-e-nao-perdoa-nem-hassum-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EGEJKXI5EBCPLO2HMB3EMJB2QA.png?smart=true&auth=347bd934ce6601ecf09c774dfaff10086f5869614dbc9384aca67e704ad7a89e&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Luís acorda pensativo e toma café da manhã sozinho | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luis-acorda-pensativo-e-toma-cafe-da-manha-sozinho-casa-do-patrao-15052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-15-2026%2Ft_5778572694a0449c9b54b16c044ff677_name_file_960x540_1600_v4_.jpg?smart=true&auth=1e4439ef5d707655d7353df47973e712ae66b940b1981ab1c4200de70a9f7ace&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "VAR promete movimentar a noite desta sexta-feira (15) na Casa do Patrão",
@@ -599,12 +605,6 @@
       "title": "João Victor, Nikita, Luis Fellipe e Morena protagonizam beijaço na Festa do Pijama | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-nikita-luis-fellipe-e-morena-protagonizam-beijaco-na-festa-do-pijama-casa-do-patrao-14052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_56f7e1fbe7e74cebb5c49bb2c2938966_name_file_960x540_1600_v4_.jpg?smart=true&auth=77f3c82a150b8b2b2bceb9eceea1355ab85f66a673ab881abce01b90fa3e1e28&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Luis e João Victor apontam que JP deve sair no Tá na Reta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luis-e-joao-victor-apontam-que-jp-deve-sair-no-ta-na-reta-casa-do-patrao-14052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-14-2026%2Ft_1edf68ddbfc540ebb1dbbce97748fd11_name_file_960x540_1600_v4_.jpg?smart=true&auth=1c41fe2bb3317f821c53f5b5dc0f95416034aab46a6658b7a0e2ad1f0f790fd3&width=960&height=540",
       "type": "video"
     }
   ],
