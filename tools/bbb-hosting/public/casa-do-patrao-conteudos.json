@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-17T14:55:14.693Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-05-17T15:58:10.006Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Matheus vence Prova do Patrão e assume comando do reality",
@@ -126,6 +126,12 @@
       "type": "noticia"
     },
     {
+      "title": "Bianca escolhe Luíza para as compras do mercado desta semana | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-escolhe-luiza-para-as-compras-do-mercado-desta-semana-casa-do-patrao-17052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-17-2026%2Ft_71fa0cfcdecd4258af0ffe912cdf2ff4_name_file_960x540_1600_v4_.jpg?smart=true&auth=a89931f4a97830fcaf4e1406b4cfa9309eee8a5efd6828c1a74fe5b4860ff478&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "João Victor revela plano contra Matheus: ‘Vou pedir pra ir na piscina de madrugada’ | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-revela-plano-contra-matheus-vou-pedir-pra-ir-na-piscina-de-madrugada-casa-do-patrao-17052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-17-2026%2Ft_3f6ab265a54e40f4b194b69ace1d091e_name_file_960x540_1600_v4_.jpg?smart=true&auth=1e0b481d6ddc4dfc988161c8d953349d9a83bd1cf39bcd53b4272287f4fec843&width=960&height=540",
@@ -209,13 +215,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-17-2026%2Ft_1292ae318f09454e9eeb992d54407c4e_name_file_960x540_1600_v4_.jpg?smart=true&auth=5ead73d3f82218a65e936d40dd8e9f02b34345e46da4d16dc012f3e348c49341&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 14 HORAS"
-    },
-    {
-      "title": "Marina explica o que é 'Rock Doido' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/marina-explica-o-que-e-rock-doido-casa-do-patrao-17052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-17-2026%2Ft_9ff1447e994f4af6b739edc915cb0716_name_file_960x540_1600_v4_.jpg?smart=true&auth=411afed3a484e613836f8532f6e5a7d2eeb7ae1bdeee2172ced164f7a7d88459&width=960&height=540",
-      "type": "video"
+      "time": "HÁ 15 HORAS"
     },
     {
       "title": "Circuito de obstáculos! Confira o spoiler da Prova do Patrão deste sábado (16)",
@@ -288,6 +288,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/provocacoes-acerto-de-contas-e-dr-na-madrugada-casa-do-patrao-tem-semana-agitada-11052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JSSWYORRHBDNRFWUTFHVWLF7YU.png?smart=true&auth=3f2337783e063bfd2b747336111b8500b6baf800c7da08268aca8e13a6dbe487&width=1542&height=867",
       "type": "foto"
+    },
+    {
+      "title": "Marina explica o que é 'Rock Doido' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/marina-explica-o-que-e-rock-doido-casa-do-patrao-17052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-17-2026%2Ft_9ff1447e994f4af6b739edc915cb0716_name_file_960x540_1600_v4_.jpg?smart=true&auth=411afed3a484e613836f8532f6e5a7d2eeb7ae1bdeee2172ced164f7a7d88459&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Nataly acusa Sheila de imitar Dudu Camargo | Casa do Patrão",
@@ -602,17 +608,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-provoca-matheus-e-dupla-inicia-guerra-de-travesseiro-na-madrugada-casa-do-patrao-15052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-15-2026%2Ft_ea89740f7ff7414787bbe70082d8d916_name_file_960x540_1600_v4_.jpg?smart=true&auth=fc21f35647a7e067f820beadc8e4c418e561cf43c862640d569359ad547eabce&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Festa do Pijama promete transformar a Casa do Patrão em um grande quarto lúdico",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/festa-do-pijama-promete-transformar-a-casa-do-patrao-em-um-grande-quarto-ludico-13052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/QTEFWMAQJRA4XCTQH22INTT5TE.png?smart=true&auth=f153d010ca425f1520ce4a91c70ea3dbd692e3cf250c8b8db69c9e890acae6ab&width=677&height=380",
-      "type": "noticia"
     }
   ],
   "counts": {
-    "noticia": 20,
-    "video": 57,
+    "noticia": 19,
+    "video": 58,
     "foto": 23
   }
 }
