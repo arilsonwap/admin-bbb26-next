@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-17T09:25:17.657Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-05-17T10:50:40.012Z",
+  "lastAddedCount": 2,
   "items": [
     {
       "title": "Matheus vence Prova do Patrão e assume comando do reality",
@@ -126,6 +126,12 @@
       "type": "noticia"
     },
     {
+      "title": "Matheus defende Sheila em conversa com Marina: 'Ela quer causar, e não machucar' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-defende-sheila-em-conversa-com-marina-ela-quer-causar-e-nao-machucar-casa-do-patrao-17052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-17-2026%2Ft_fc0bbc1f69a24410bc7489996a3c6784_name_file_960x540_1600_v4_.jpg?smart=true&auth=c2404ee034bdc61bced36c63a2299993fdeaeb1362a8da12f1dc72cbadb8452c&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Mantendo os inimigos por perto? Matheus manda Sheila e mais aliados para o Trampo | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/mantendo-os-inimigos-por-perto-matheus-manda-sheila-e-mais-aliados-para-o-trampo-casa-do-patrao-17052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-17-2026%2Ft_1ea4525e241742129424de3ec19242e6_name_file_960x540_1600_v4_.jpg?smart=true&auth=f764395656e8b9124b2b4eee72ff62c117f2305d383665c4d86e3c6abba9a7e1&width=960&height=540",
@@ -179,7 +185,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-17-2026%2Ft_1292ae318f09454e9eeb992d54407c4e_name_file_960x540_1600_v4_.jpg?smart=true&auth=5ead73d3f82218a65e936d40dd8e9f02b34345e46da4d16dc012f3e348c49341&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 8 HORAS"
+      "time": "HÁ 9 HORAS"
     },
     {
       "title": "Marina explica o que é 'Rock Doido' | Casa do Patrão",
@@ -209,12 +215,6 @@
       "title": "Jackson abre o jogo e sela a paz com JP | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-abre-o-jogo-e-sela-a-paz-com-jp-casa-do-patrao-16052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-16-2026%2Ft_485a18c8b00f44cc9b32ea3d56880a0a_name_file_960x540_1600_v4_.jpg?smart=true&auth=6b4af704ada2c9d0f2cddc3162478f39273860c1ce1f7c13cdfa4506c5d70c2a&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Diário de um Quase Confinado: Hassum se diverte com gafes no programa | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/video/diario-de-um-quase-confinado-hassum-se-diverte-com-gafes-no-programa-casa-do-patrao-16052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-16-2026%2Ft_76c7cef8ac9a4323a27c0da87537df54_name_file_960x540_1600_v4_.jpg?smart=true&auth=5dd7b0fa69884feae2503eb752329c06adeeab83d38b278e57b877b169ddf5cf&width=960&height=540",
       "type": "video"
     },
     {
@@ -260,6 +260,12 @@
       "type": "noticia"
     },
     {
+      "title": "Identidade secreta! Veja os apelidos criados pelos jogadores da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/identidade-secreta-veja-os-apelidos-criados-pelos-jogadores-da-casa-do-patrao-17052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/THASMDK25VFL7EDNHBWWPP4NIE.jpg?smart=true&auth=6e403cb2058f2677f59d6d7d655f45807a6e9c91c130944cb6a8f52834f9f6b3&width=771&height=433",
+      "type": "foto"
+    },
+    {
       "title": "Polêmica e romântica! Relembre a trajetória de Nikita em Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/polemica-e-romantica-relembre-a-trajetoria-de-nikita-em-casa-do-patrao-15052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/DB4N3OFWZZHR5E6IMC4MKFPL3I.png?smart=true&auth=37c107f0aa015c5cf43d4c2006b46dcaeae7ed89d8a846d98549e055a0f75c4f&width=1638&height=921",
@@ -282,6 +288,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/provocacoes-acerto-de-contas-e-dr-na-madrugada-casa-do-patrao-tem-semana-agitada-11052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JSSWYORRHBDNRFWUTFHVWLF7YU.png?smart=true&auth=3f2337783e063bfd2b747336111b8500b6baf800c7da08268aca8e13a6dbe487&width=1542&height=867",
       "type": "foto"
+    },
+    {
+      "title": "Diário de um Quase Confinado: Hassum se diverte com gafes no programa | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/video/diario-de-um-quase-confinado-hassum-se-diverte-com-gafes-no-programa-casa-do-patrao-16052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-16-2026%2Ft_76c7cef8ac9a4323a27c0da87537df54_name_file_960x540_1600_v4_.jpg?smart=true&auth=5dd7b0fa69884feae2503eb752329c06adeeab83d38b278e57b877b169ddf5cf&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Chororô e climão! Competidores vetam colegas de assistir mensagens de suas mães",
@@ -596,23 +608,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/aliados-de-sheila-e-matheus-reprovam-brincadeira-envolvendo-vivao-casa-do-patrao-15052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-15-2026%2Ft_01bfebf270b142fb9a99a824bd841618_name_file_960x540_1600_v4_.jpg?smart=true&auth=94fd5dc3e6f3517cc60d8b14976f696d8dcca5d0e70686a8d000258c8591555c&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Matheus se omite e não responde Luis sobre treta com Vivão | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/video/matheus-se-omite-e-nao-responde-luis-sobre-treta-com-vivao-casa-do-patrao-15052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-15-2026%2Ft_2d12d779b52b42789cc898b571d8528c_name_file_960x540_1600_v4_.jpg?smart=true&auth=6ce12bf80c0d151c3261e2ae8479ca3b82b71ce81488c178fe7b11f9e0de91c4&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Vivão expõe Matheus e exige autonomia do lutador | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-expoe-matheus-e-exige-autonomia-do-lutador-casa-do-patrao-15052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-15-2026%2Ft_156583e5df0c427685bd5f9265dfd577_name_file_960x540_1600_v4_.jpg?smart=true&auth=c91931ab155c66bf95c0afbd84610512a1e105b9e1a7ddc3f93df8b537af748f&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
     "noticia": 20,
-    "video": 58,
-    "foto": 22
+    "video": 57,
+    "foto": 23
   }
 }
