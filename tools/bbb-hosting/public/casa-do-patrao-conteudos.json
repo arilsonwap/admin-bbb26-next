@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-18T20:12:22.685Z",
+  "fetchedAt": "2026-05-18T21:41:01.314Z",
   "lastAddedCount": 2,
   "items": [
     {
@@ -16,9 +16,9 @@
       "type": "noticia"
     },
     {
-      "title": "Apontamento caro! Sheila conquista R$ 100 mil em dinâmica de Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/apontamento-caro-sheila-conquista-r-100-mil-em-dinamica-de-casa-do-patrao-18052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ZABEKFI5FVARPB4K5YWTVZFIYM.png?auth=283037c7c65e4ad64a0e2e61d046d7887b3a2ea790f05881a34c3de60195ec1b&smart=true&width=542&height=330",
+      "title": "Novidade da Prova Tô Fora promete agitar a Casa do Patrão nesta segunda (18)",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/novidade-da-prova-to-fora-promete-agitar-a-casa-do-patrao-nesta-segunda-18-18052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/E5XYGXGSZJHLTBNDUAKIT6YYVY.png?auth=79cce89205cae7d3e488b8a7ffe03d1f4eb4ed177fc363f1ed6a37eab271e954&smart=true&width=542&height=330",
       "type": "noticia"
     },
     {
@@ -34,6 +34,12 @@
       "type": "noticia"
     },
     {
+      "title": "Apontamento caro! Sheila conquista R$ 100 mil em dinâmica de Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/apontamento-caro-sheila-conquista-r-100-mil-em-dinamica-de-casa-do-patrao-18052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ZABEKFI5FVARPB4K5YWTVZFIYM.png?auth=283037c7c65e4ad64a0e2e61d046d7887b3a2ea790f05881a34c3de60195ec1b&smart=true&width=696&height=348",
+      "type": "noticia"
+    },
+    {
       "title": "Identidade secreta! Veja os apelidos criados pelos jogadores da Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/identidade-secreta-veja-os-apelidos-criados-pelos-jogadores-da-casa-do-patrao-17052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/THASMDK25VFL7EDNHBWWPP4NIE.jpg?smart=true&auth=6e403cb2058f2677f59d6d7d655f45807a6e9c91c130944cb6a8f52834f9f6b3&width=771&height=433",
@@ -45,19 +51,13 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-18-2026%2Ft_4f69bd98e02a4644b730f25623f4b98f_name_file_960x540_1600_v4_.jpg?smart=true&auth=c84f837269b2285a9bc6a47427177d8f3ab5b3451bac5bb4f42c13b7c3d26abf&width=960&height=540",
       "type": "video",
       "category": "PUXADINHO DA KEILA",
-      "time": "HÁ 3 HORAS"
+      "time": "HÁ 4 HORAS"
     },
     {
       "title": "Deu ruim! Confira as broncas que já rolaram na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/deu-ruim-confira-as-broncas-que-ja-rolaram-na-casa-do-patrao-15052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/Y4SAGE5MORG6RHLM2EOZ43M6FI.jpg?smart=true&auth=2c2849b658d43f6e495acb0f57bfb376664afa28f14990d851f0671667f0ccb1&width=771&height=433",
       "type": "foto"
-    },
-    {
-      "title": "Público avalia mandato do Patrão Luis Fellipe como ‘sabonetou’",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/publico-avalia-mandato-do-patrao-luis-fellipe-como-sabonetou-17052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/QGMHW5EXWNHFFNTLV7QMYYRXSM.png?smart=true&auth=7b21330c2e979fb73038c64ff0191c241a84e023de9eaeef307f078f0c110fe4&width=770&height=433",
-      "type": "noticia"
     },
     {
       "title": "Pitico do caos em ação! Veja como foi a passagem relâmpago de Dudu Camargo em Casa do Patrão",
@@ -77,7 +77,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-18-2026%2Ft_db88b9e592da494eb1003fe179705770_name_file_960x540_1600_v4_.jpg?smart=true&auth=d52a1a2b1949ce078cc69886d01d390824e611786af61cadcbc6ba63011ecc3d&width=960&height=540",
       "type": "video",
       "category": "PUXADINHO DA KEILA",
-      "time": "HÁ 2 HORAS"
+      "time": "HÁ 3 HORAS"
     },
     {
       "title": "Matheus vence Prova do Patrão e assume comando do reality",
@@ -126,6 +126,14 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/assine-a-newsletter-da-casa-do-patrao-e-receba-informacoes-quentinhas-do-reality-01052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/XYF7KIFTD5HPRP22MOJXNXNEGY.jpg?auth=09e5f30c0d29479ae433cf83d9e10365ebf2bd49bf0bd7c262f5cc6a692ae3ed&smart=true&width=696&height=379",
       "type": "noticia"
+    },
+    {
+      "title": "'Quero carne, sonso': Luis Fellipe planeja escrever recado no espelho para Matheus | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/quero-carne-sonso-luis-fellipe-planeja-escrever-recado-no-espelho-para-matheus-casa-do-patrao-18052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-18-2026%2Ft_2976ef41734c43c4ba9ea65269b2c1e5_name_file_960x540_1600_v4_.jpg?smart=true&auth=8bc2361bfb9e38c7e78b1fee5b7cb0d8920b9245c59c706ed3221a105bcbde04&width=960&height=540",
+      "type": "video",
+      "category": "HORAS",
+      "time": "HÁ 1 HORA"
     },
     {
       "title": "Puxadinho da Keila: Veja a íntegra com Bruno Tálamo, Caio Barbosa e Gustavo Coruja | Casa do Patrão",
@@ -188,16 +196,10 @@
       "type": "video"
     },
     {
-      "title": "Sheila vence dinâmica e fatura R$ 100 mil | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/sheila-vence-dinamica-e-fatura-r-100-mil-casa-do-patrao-18052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-18-2026%2Ft_be851b27a5fd433cb9267e9b4c5977c1_name_file_960x540_1600_v4_.jpg?smart=true&auth=ca8ee47886ff50cb20b3203b8fe3185efab378262e73b997c2c4594ffa907e95&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Almoço especial somente para seis moradores movimenta o confinamento | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/almoco-especial-somente-para-seis-moradores-movimenta-o-confinamento-casa-do-patrao-18052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-18-2026%2Ft_e8a2b4af4e9a490dae3d8f33f015c7ae_name_file_960x540_1600_v4_.jpg?smart=true&auth=e1bfc70357230c221a78f4e9581a8c6d1327faaed311be5f9ee4f04726455ec5&width=960&height=540",
-      "type": "video"
+      "title": "Público avalia mandato do Patrão Luis Fellipe como ‘sabonetou’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/publico-avalia-mandato-do-patrao-luis-fellipe-como-sabonetou-17052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/QGMHW5EXWNHFFNTLV7QMYYRXSM.png?smart=true&auth=7b21330c2e979fb73038c64ff0191c241a84e023de9eaeef307f078f0c110fe4&width=770&height=433",
+      "type": "noticia"
     },
     {
       "title": "Circuito de obstáculos! Confira o spoiler da Prova do Patrão deste sábado (16)",
@@ -230,12 +232,6 @@
       "type": "noticia",
       "category": "NOVIDADES",
       "time": "15/05/2026"
-    },
-    {
-      "title": "Live Tá na Rua: Nikita repercute detalhes da passagem pela Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/live-ta-na-rua-nikita-repercute-detalhes-da-passagem-pela-casa-do-patrao-15052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/HREJZS6V5NHPJFFDXT24BR2GG4.png?smart=true&auth=74a3a6eb74012c63854684950118a7f32474ef06bda37ef319f51d8a52d1ccd1&width=677&height=380",
-      "type": "noticia"
     },
     {
       "title": "VAR coloca fim ao mistério e revela o que aconteceu com o cigarro de Vivão",
@@ -278,6 +274,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/isso-a-record-mostra-confira-tudo-o-que-rola-nos-bastidores-da-casa-do-patrao-12052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/J56DKLUVCBELNFBGKZRM7TFBU4.png?smart=true&auth=d863944a8a7cfdef1211cbd29acca7a083bf69fe223079065d767c5a22cd9a62&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Sheila vence dinâmica e fatura R$ 100 mil | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/sheila-vence-dinamica-e-fatura-r-100-mil-casa-do-patrao-18052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-18-2026%2Ft_be851b27a5fd433cb9267e9b4c5977c1_name_file_960x540_1600_v4_.jpg?smart=true&auth=ca8ee47886ff50cb20b3203b8fe3185efab378262e73b997c2c4594ffa907e95&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Almoço especial somente para seis moradores movimenta o confinamento | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/almoco-especial-somente-para-seis-moradores-movimenta-o-confinamento-casa-do-patrao-18052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-18-2026%2Ft_e8a2b4af4e9a490dae3d8f33f015c7ae_name_file_960x540_1600_v4_.jpg?smart=true&auth=e1bfc70357230c221a78f4e9581a8c6d1327faaed311be5f9ee4f04726455ec5&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Live Tá na Rua: Nikita repercute detalhes da passagem pela Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/live-ta-na-rua-nikita-repercute-detalhes-da-passagem-pela-casa-do-patrao-15052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/HREJZS6V5NHPJFFDXT24BR2GG4.png?smart=true&auth=74a3a6eb74012c63854684950118a7f32474ef06bda37ef319f51d8a52d1ccd1&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Pérolas! Confira momentos divertidos dos jogadores",
@@ -598,23 +612,11 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/hassum-divulga-bastidores-de-casa-do-patrao-e-agita-web-14052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EDHPVIEXBVA43HQ3NTJSTDYWBU.png?smart=true&auth=20da385cdfffe4ec7931873fdeac9d81ff1c99ef163b3fc8653ec9de1418abf0&width=677&height=380",
       "type": "noticia"
-    },
-    {
-      "title": "Existe amor em Itapecerica! Boninho surfa no clima de romance da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/existe-amor-em-itapecerica-boninho-surfa-no-clima-de-romance-da-casa-do-patrao-14052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/KYGPLYFNIFGCJGN7SYMRF7RVBI.png?smart=true&auth=315a2aefab3799ce833a7cc9c560fcb5711e454cd6df5904ecc2b69b34afd130&width=1269&height=713",
-      "type": "noticia"
-    },
-    {
-      "title": "Tretas, votos e lágrimas! Confira 7 rivalidades declaradas em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/tretas-votos-e-lagrimas-confira-7-rivalidades-declaradas-em-casa-do-patrao-10052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/3LI4DQY3URBQ7CTZQYWG4346QE.jpg?smart=true&auth=c5fc5dae3087b79f1e7728fa19ca4632facb4beb7d24db7d4afbd7e1e6140a09&width=770&height=433",
-      "type": "foto"
     }
   ],
   "counts": {
     "noticia": 20,
-    "video": 59,
-    "foto": 21
+    "video": 60,
+    "foto": 20
   }
 }
