@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-19T06:07:25.039Z",
-  "lastAddedCount": 14,
+  "fetchedAt": "2026-05-19T10:05:42.129Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Bianca vence a prova Tô Fora e coloca fogo na Casa do Patrão",
@@ -126,6 +126,12 @@
       "type": "noticia"
     },
     {
+      "title": "Revoltado com sequência de derrotas, Vini reúne aliados e exige reação | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/revoltado-com-sequencia-de-derrotas-vini-reune-aliados-e-exige-reacao-casa-do-patrao-19052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-19-2026%2Ft_77a67b56579b4e9ba0cc7c4558ff4693_name_file_960x540_1600_v4_.jpg?smart=true&auth=7aaba9b65e43cca761d43d343d262e40c0322a74b492813869eb4679ff2d24a6&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Aliados criticam proximidade de Marina com Vivão: ‘Ela não é nossa colega’ | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/aliados-criticam-proximidade-de-marina-com-vivao-ela-nao-e-nossa-colega-casa-do-patrao-19052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-19-2026%2Ft_cbc4f1e7f7a2422c8c53e076e812a2f2_name_file_960x540_1600_v4_.jpg?smart=true&auth=ec782cf8358395c18823deded271c7e2b18465e7b3cf56649f707b26480e35e8&width=960&height=540",
@@ -197,7 +203,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-19-2026%2Ft_dfc6d462653a4818949e92d96757605c_name_file_960x540_1600_v4_.jpg?smart=true&auth=1be6cefd4d7d785c248bd59953597f9f26a82c99045eb84453a15aee04f16782&width=960&height=540",
       "type": "video",
       "category": "NA TV",
-      "time": "HÁ 3 HORAS"
+      "time": "HÁ 7 HORAS"
     },
     {
       "title": "Matheus e aliados especulam formação do Tá na Reta | Casa do Patrão",
@@ -210,14 +216,6 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-e-nataly-simulam-briga-e-confundem-adversarios-casa-do-patrao-19052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-18-2026%2Ft_b21cd4879ef94722a2edf835f8643d6d_name_file_960x540_1600_v4_.jpg?smart=true&auth=80aef60dd5cff0f7cb4d7215b07b5c5a85b0cdb0a9b924ba38100d164696537b&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "'Ninguém me manipula', dispara Nataly para Sheila | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/ninguem-me-manipula-dispara-nataly-para-sheila-casa-do-patrao-18052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-18-2026%2Ft_671c7ddd0cb84f12b7ea3e81ee887784_name_file_960x540_1600_v4_.jpg?smart=true&auth=afed8cc11e59f951624bb429eb7ac4fd3409b7a76ed1c8845d91ab6b351f4dc8&width=960&height=540",
-      "type": "video",
-      "category": "HORAS",
-      "time": "18/05/2026"
     },
     {
       "title": "Novidade da Prova Tô Fora promete agitar a Casa do Patrão nesta segunda (18)",
@@ -296,6 +294,14 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/isso-a-record-mostra-confira-tudo-o-que-rola-nos-bastidores-da-casa-do-patrao-12052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/J56DKLUVCBELNFBGKZRM7TFBU4.png?smart=true&auth=d863944a8a7cfdef1211cbd29acca7a083bf69fe223079065d767c5a22cd9a62&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "'Ninguém me manipula', dispara Nataly para Sheila | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/ninguem-me-manipula-dispara-nataly-para-sheila-casa-do-patrao-18052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-18-2026%2Ft_671c7ddd0cb84f12b7ea3e81ee887784_name_file_960x540_1600_v4_.jpg?smart=true&auth=afed8cc11e59f951624bb429eb7ac4fd3409b7a76ed1c8845d91ab6b351f4dc8&width=960&height=540",
+      "type": "video",
+      "category": "HORAS",
+      "time": "18/05/2026"
     },
     {
       "title": "Treta! Sheila chama Nataly de 'barata tonta' | Casa do Patrão",
@@ -608,12 +614,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/entenda-o-desabafo-de-vivao-em-casa-do-patrao-joguinho-sujo-15052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/OUMEUDTVMFCYHE43RKGEPO3XZ4.png?smart=true&auth=c9fe779ef7be3ce8440628e2b833e241c860640dad78ef3d5a90230610f6b97e&width=677&height=380",
       "type": "noticia"
-    },
-    {
-      "title": "Quarta Prova do Patrão testa noção de tempo dos moradores | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/quarta-prova-do-patrao-testa-nocao-de-tempo-dos-moradores-casa-do-patrao-17052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-17-2026%2Ft_b674afebd6064818b2b2c561dd758104_name_file_960x540_1600_v4_.jpg?smart=true&auth=3b27b763ed812ddd9861506307dbf874eea57efd2777a56a2e9f9a9b36df4819&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
