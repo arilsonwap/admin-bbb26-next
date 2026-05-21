@@ -1,24 +1,30 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-21T14:28:55.643Z",
-  "lastAddedCount": 3,
+  "fetchedAt": "2026-05-21T17:16:57.409Z",
+  "lastAddedCount": 4,
   "items": [
     {
-      "title": "Desabafos, estratégia secreta e brinde especial! Confira os destaques da festa Jardim Botânico da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/desabafos-estrategia-secreta-e-brinde-especial-confira-os-destaques-da-festa-jardim-botanico-da-casa-do-patrao-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RX3RI4JH7NGXZPL7WF4HV2DTYM.png?auth=5b782f8dece98f9aa38fc779a9ab7c8a772fc40625864f2af86319964c36959d&smart=true&width=696&height=379",
-      "type": "foto"
+      "title": "Sem maquiagem! Boninho recolhe cosméticos das participantes após descumprimento de regras no reality",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/sem-maquiagem-boninho-recolhe-cosmeticos-das-participantes-apos-descumprimento-de-regras-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WZNDNDBXPVBGXGB62NC6AMR4TM.png?auth=f8f6e0946c4ecaa03edad25cf65694649fb4a8081f7b40aee5275074991d02ea&smart=true&width=696&height=379",
+      "type": "noticia"
     },
     {
-      "title": "Fogo no condomínio! Márcia Fu encontra bicho morto, calcinha suja e absorvente na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/fogo-no-condominio-marcia-fu-encontra-bicho-morto-calcinha-suja-e-absorvente-na-casa-do-patrao-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/L5I5IM376JC5HLOEYMHTROME5Y.png?smart=true&auth=a564798ddfa12b9f34305ba4c40c56c21675e15ab0f2ee7632b6f2a183461df1&width=1735&height=975",
-      "type": "foto"
+      "title": "João Victor, Luis Fellipe ou Vini, quem você quer manter em Casa do Patrão?",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/joao-victor-luis-fellipe-ou-vini-quem-voce-quer-manter-em-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YVQK76PD45AVZH37BVUFWNZ73E.png?smart=true&auth=0e1f2960b18c0ab6270a2669741e2f367a40c2a2d0880f53050885f2a7fb9809&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "PodPatrão: confira quem já participou do programa que agita o confinamento",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/podpatrao-confira-quem-ja-participou-do-programa-que-agita-o-confinamento-21052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/S4O63GZ6HJHPTKU5QEP2K6NGMY.jpg?auth=50c9cc70c85a7b4b47b801ea591ec9f0dd18995f9d37c5f6d7a81d2c34137b20&smart=true&width=542&height=330",
+      "type": "foto"
+    },
+    {
+      "title": "Desabafos, estratégia secreta e brinde especial! Confira os destaques da festa Jardim Botânico da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/desabafos-estrategia-secreta-e-brinde-especial-confira-os-destaques-da-festa-jardim-botanico-da-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RX3RI4JH7NGXZPL7WF4HV2DTYM.png?smart=true&auth=5b782f8dece98f9aa38fc779a9ab7c8a772fc40625864f2af86319964c36959d&width=771&height=433",
       "type": "foto"
     },
     {
@@ -52,10 +58,10 @@
       "type": "video"
     },
     {
-      "title": "João Victor, Luis Fellipe e Vini estão no quarto Tá na Reta de Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/joao-victor-luis-fellipe-e-vini-estao-no-quarto-ta-na-reta-de-casa-do-patrao-20052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/QRFV3UPO55D4HP37QYDISOJSJM.png?smart=true&auth=1537ba245411ec2b881c70a2cbb6ac09050cd8b49a425c561c95eb77a53c586d&width=677&height=380",
-      "type": "noticia"
+      "title": "Fogo no condomínio! Márcia Fu encontra bicho morto, calcinha suja e absorvente na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/fogo-no-condominio-marcia-fu-encontra-bicho-morto-calcinha-suja-e-absorvente-na-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/L5I5IM376JC5HLOEYMHTROME5Y.png?smart=true&auth=a564798ddfa12b9f34305ba4c40c56c21675e15ab0f2ee7632b6f2a183461df1&width=1735&height=975",
+      "type": "foto"
     },
     {
       "title": "Bolsa de valores: confira o saldo de cada participante na Casa do Patrão",
@@ -74,14 +80,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/barraco-pesado-luis-fellipe-e-matheus-iniciam-treta-generalizada-voce-vai-morrer-se-comer-ovo-frouxo-20052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IMAGL2MOKZHIFLNXHN2G7EHRCY.png?smart=true&auth=119a9bd767b05f8eb558c1fe09401c04a89b5fdb3b58876d6cd6d667c01a65fb&width=1349&height=758",
       "type": "noticia"
-    },
-    {
-      "title": "'Erro Gostoso': Bianca e Matheus vibram com sucesso de Simone Mendes | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/erro-gostoso-bianca-e-matheus-vibram-com-sucesso-de-simone-mendes-casa-do-patrao-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_e187d4469b6b4e6c953da2400f8677d3_name_file_960x540_1600_v4_.jpg?smart=true&auth=48639bc6887e02f663ccad60de1b6851a4a4c0b9cc647a88b88fb3ec4e645292&width=960&height=540",
-      "type": "video",
-      "category": "HORAS",
-      "time": "HÁ 5 HORAS"
     },
     {
       "title": "Dicionário do Patrão: primeira edição conta com termos exclusivos e criatividade de sobra",
@@ -132,6 +130,18 @@
       "type": "foto"
     },
     {
+      "title": "Matheus e Bianca acordam juntos e chamam Luiza para tarefa na lavanderia | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-e-bianca-acordam-juntos-e-chamam-luiza-para-tarefa-na-lavanderia-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_54f188cb64df43c989f519e5038d24e9_name_file_960x540_1600_v4_.jpg?smart=true&auth=a1a1f8cdacb90123627a79cfccb00ae6244973fbb926620e8247cbfe448e4328&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Bianca e Matheus dormem após Festa Jardim Botânico | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-e-matheus-dormem-apos-festa-jardim-botanico-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_3d7a89d9295847e09fa1ba14953c1986_name_file_960x540_1600_v4_.jpg?smart=true&auth=c235ce7d66631b0d5162fc970e9434bef08b085ecedfd50669f4c24760d3d915&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Na berlinda, Luis Fellipe é um dos primeiros a levantar nesta quinta (21) | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/na-berlinda-luis-fellipe-e-um-dos-primeiros-a-levantar-nesta-quinta-21-casa-do-patrao-21052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_2c9f3b54dcc649d291e2475829cf2f93_name_file_960x540_1600_v4_.jpg?smart=true&auth=9eb09217bbb1b4b2563469370c0970b44df5ee020f0707b072e313033de0344b&width=960&height=540",
@@ -142,6 +152,14 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/inimigos-do-fim-jp-e-mari-lancam-passinho-e-vini-agita-com-danca-solo-na-festa-casa-do-patrao-21052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_8006e49c4199463e8ecd240230b85937_name_file_960x540_1600_v4_.jpg?smart=true&auth=eb9777dc9dd5e4a0c858a60437a85ed251360d66b5cbfde6159fe0c79fe7f107&width=960&height=540",
       "type": "video"
+    },
+    {
+      "title": "'Erro Gostoso': Bianca e Matheus vibram com sucesso de Simone Mendes | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/erro-gostoso-bianca-e-matheus-vibram-com-sucesso-de-simone-mendes-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_e187d4469b6b4e6c953da2400f8677d3_name_file_960x540_1600_v4_.jpg?smart=true&auth=48639bc6887e02f663ccad60de1b6851a4a4c0b9cc647a88b88fb3ec4e645292&width=960&height=540",
+      "type": "video",
+      "category": "HORAS",
+      "time": "HÁ 8 HORAS"
     },
     {
       "title": "João Victor detona estratégia de colocá-lo no Tá na Reta para tirar Luis | Casa do Patrão",
@@ -192,18 +210,6 @@
       "type": "video"
     },
     {
-      "title": "João Victor classifica voto de Matheus como 'incoerente' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/joao-victor-classifica-voto-de-matheus-como-incoerente-casa-do-patrao-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_3a2517ec8e9745c187fe8e57b0483a93_name_file_960x540_1600_v4_.jpg?smart=true&auth=a70c96e023724a3b36dd27f0ebffce8d44cfac39e6fe5c858d427e9263bf1462&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Andressa explica para Nataly o motivo do voto em João Victor no Tá na Reta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/andressa-explica-para-nataly-o-motivo-do-voto-em-joao-victor-no-ta-na-reta-casa-do-patrao-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_4e2c10772f324349a62aeb0bf6409841_name_file_960x540_1600_v4_.jpg?smart=true&auth=b5f5c9625b9aa4d8be448688d293623dbecf2328492f5adb2f6f155d5cbffa7d&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Com temática ‘plantas’, Casa do Patrão entra no clima do Jardim Botânico e promete noite intensa, diversão e intrigas",
       "href": "https://record.r7.com/casa-do-patrao/novidades/com-tematica-plantas-casa-do-patrao-entra-no-clima-do-jardim-botanico-e-promete-noite-intensa-diversao-e-intrigas-20052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YEVHJO2QGJGMVAXZ3TV2TT5WNE.png?smart=true&auth=31dce18c8a27c27c7a86176169aa69cbe07b4c773484a167b0a4535571c73664&width=1735&height=975",
@@ -230,6 +236,12 @@
       "type": "noticia"
     },
     {
+      "title": "João Victor, Luis Fellipe e Vini estão no quarto Tá na Reta de Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/joao-victor-luis-fellipe-e-vini-estao-no-quarto-ta-na-reta-de-casa-do-patrao-20052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/QRFV3UPO55D4HP37QYDISOJSJM.png?smart=true&auth=1537ba245411ec2b881c70a2cbb6ac09050cd8b49a425c561c95eb77a53c586d&width=677&height=380",
+      "type": "noticia"
+    },
+    {
       "title": "JP vence a Prova Poder do Voto e garante carta na manga em Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/jp-vence-a-prova-poder-do-voto-e-garante-carta-na-manga-em-casa-do-patrao-20052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/SNUIERLKWVGZZCOZP5ZIAMXUTI.png?smart=true&auth=e985f486508d0483342a3fb9d4d2b0e2956883945bdb02e70b76d09a6fcf421d&width=677&height=380",
@@ -239,18 +251,6 @@
       "title": "Dudu Camargo, torta na cara e bolsa online: Boninho curte ideias do público para a Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/dudu-camargo-torta-na-cara-e-bolsa-online-boninho-curte-ideias-do-publico-para-a-casa-do-patrao-19052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VYNWJIOTGBFIHD3XEWSDXQKHIQ.png?smart=true&auth=0f1fc0e77641601b3bcdb1acd7329a7f2769bdbee993f6c97d454ad8cef774ab&width=1185&height=666",
-      "type": "noticia"
-    },
-    {
-      "title": "Quem está no alvo dos rivais para a quarta formação do Tá na Reta?",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/quem-esta-no-alvo-dos-rivais-para-a-quarta-formacao-do-ta-na-reta-19052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/DC6PXE3VIRBBPNNWTBM4N652DA.png?smart=true&auth=c3b5a941137682fe95f9e5818e34b6c92663a399a7149ee714f24dd505480636&width=1269&height=713",
-      "type": "noticia"
-    },
-    {
-      "title": "Sheila domina o leilão PicPay com lance de R$ 32 mil e alfineta Luis Fellipe: ‘Vou recuperar na aposta do eliminado!’",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/sheila-domina-o-leilao-picpay-com-lance-de-r-32-mil-e-alfineta-luis-fellipe-vou-recuperar-na-aposta-do-eliminado-19052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/XOC542Q7ANH4PPRTNJS6XHNHIY.png?smart=true&auth=fdabfffdf59ad3727e94312762447663706b0eb16cfdfe2810a37cd5ae9ba596&width=1269&height=713",
       "type": "noticia"
     },
     {
@@ -294,6 +294,30 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/lingua-afiada-fabiola-reipert-nao-perdoa-e-revela-fofocas-bombasticas-da-casa-do-patrao-15052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EOXYTZK6F5HHZDHIM36NKEJAZU.png?smart=true&auth=5a6b2b5a92ffc277a0165345093ebbd77e4f5060245ff74dc97ff01f29b1a458&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "João Victor classifica voto de Matheus como 'incoerente' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/joao-victor-classifica-voto-de-matheus-como-incoerente-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_3a2517ec8e9745c187fe8e57b0483a93_name_file_960x540_1600_v4_.jpg?smart=true&auth=a70c96e023724a3b36dd27f0ebffce8d44cfac39e6fe5c858d427e9263bf1462&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Andressa explica para Nataly o motivo do voto em João Victor no Tá na Reta | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/andressa-explica-para-nataly-o-motivo-do-voto-em-joao-victor-no-ta-na-reta-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_4e2c10772f324349a62aeb0bf6409841_name_file_960x540_1600_v4_.jpg?smart=true&auth=b5f5c9625b9aa4d8be448688d293623dbecf2328492f5adb2f6f155d5cbffa7d&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Quem está no alvo dos rivais para a quarta formação do Tá na Reta?",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/quem-esta-no-alvo-dos-rivais-para-a-quarta-formacao-do-ta-na-reta-19052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/DC6PXE3VIRBBPNNWTBM4N652DA.png?smart=true&auth=c3b5a941137682fe95f9e5818e34b6c92663a399a7149ee714f24dd505480636&width=1269&height=713",
+      "type": "noticia"
+    },
+    {
+      "title": "Sheila domina o leilão PicPay com lance de R$ 32 mil e alfineta Luis Fellipe: ‘Vou recuperar na aposta do eliminado!’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/sheila-domina-o-leilao-picpay-com-lance-de-r-32-mil-e-alfineta-luis-fellipe-vou-recuperar-na-aposta-do-eliminado-19052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/XOC542Q7ANH4PPRTNJS6XHNHIY.png?smart=true&auth=fdabfffdf59ad3727e94312762447663706b0eb16cfdfe2810a37cd5ae9ba596&width=1269&height=713",
+      "type": "noticia"
     },
     {
       "title": "Mapa do jogo! Entenda a divisão de grupos que rola no reality",
@@ -584,35 +608,11 @@
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/matheus-e-luiza-recebem-dicas-financeiras-em-acao-do-picpay-casa-do-patrao-20052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-20-2026%2Ft_d668348ab46941ecbb2919ebcd200be0_name_file_960x540_1600_v4_.jpg?smart=true&auth=477e2a0ebd1bea3a01fe99853174c11cfc0ea91d71ef6b2849771e38d999d6da&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Marina e JP disputam primeira rodada da Prova Poder do Voto | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/marina-e-jp-disputam-primeira-rodada-da-prova-poder-do-voto-casa-do-patrao-20052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-20-2026%2Ft_7df89e1c99cd47ee9ffc60a618b9785e_name_file_960x540_1600_v4_.jpg?smart=true&auth=728b91179cbeaff1637c7f980c9e93079fbdc5f22ab01cb953911a9f28b1c184&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Falta de limpeza é a pauta da vez! Luis Fellipe reclama de Sheila para Matheus | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/falta-de-limpeza-e-a-pauta-da-vez-luis-fellipe-reclama-de-sheila-para-matheus-casa-do-patrao-20052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-20-2026%2Ft_3c21f6de962a48ca88045ad53d3ead35_name_file_960x540_1600_v4_.jpg?smart=true&auth=49337132373cf17380ca5690806e06b7881e9a7cbdca514874bb3928406a1a7b&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Vivão cobra articulação do grupo: ‘Precisamos ser mais inteligentes’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/vivao-cobra-articulacao-do-grupo-precisamos-ser-mais-inteligentes-casa-do-patrao-20052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-20-2026%2Ft_be1a7d8f7beb4892aabb033f9dfd5e10_name_file_960x540_1600_v4_.jpg?smart=true&auth=e1db0576f682f9ee40a911798bd9689638a422a08dcb88225a31194a8b80eee6&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Bianca veta João Victor da Prova Poder do Voto | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/bianca-veta-joao-victor-da-prova-poder-do-voto-casa-do-patrao-20052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-20-2026%2Ft_86a3a1f179714bf0a6e677f3fce7543b_name_file_960x540_1600_v4_.jpg?smart=true&auth=ecbce0cde77c3de801027df1c393a97ec17b4834fa7ab56fc5b9748327b8c6db&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 24,
-    "video": 56,
+    "noticia": 26,
+    "video": 54,
     "foto": 20
   }
 }
