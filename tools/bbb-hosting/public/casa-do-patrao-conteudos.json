@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-21T17:16:57.409Z",
+  "fetchedAt": "2026-05-21T19:21:07.818Z",
   "lastAddedCount": 4,
   "items": [
     {
@@ -16,16 +16,28 @@
       "type": "noticia"
     },
     {
-      "title": "PodPatrão: confira quem já participou do programa que agita o confinamento",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/podpatrao-confira-quem-ja-participou-do-programa-que-agita-o-confinamento-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/S4O63GZ6HJHPTKU5QEP2K6NGMY.jpg?auth=50c9cc70c85a7b4b47b801ea591ec9f0dd18995f9d37c5f6d7a81d2c34137b20&smart=true&width=542&height=330",
-      "type": "foto"
+      "title": "Matheus vira chacota após assumir que escreveu bilhete para Luis Fellipe",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/matheus-vira-chacota-apos-assumir-que-escreveu-bilhete-para-luis-fellipe-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/762VBI4FUVHXLF63DUNDMFEO24.png?auth=c7ce6c548aa50a573710f2c428ce8d9bc293c94ae008c8de1ef96000950f2aee&smart=true&width=542&height=330",
+      "type": "noticia"
     },
     {
       "title": "Desabafos, estratégia secreta e brinde especial! Confira os destaques da festa Jardim Botânico da Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/desabafos-estrategia-secreta-e-brinde-especial-confira-os-destaques-da-festa-jardim-botanico-da-casa-do-patrao-21052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RX3RI4JH7NGXZPL7WF4HV2DTYM.png?smart=true&auth=5b782f8dece98f9aa38fc779a9ab7c8a772fc40625864f2af86319964c36959d&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "PodPatrão: confira quem já participou do programa que agita o confinamento",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/podpatrao-confira-quem-ja-participou-do-programa-que-agita-o-confinamento-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/S4O63GZ6HJHPTKU5QEP2K6NGMY.jpg?auth=50c9cc70c85a7b4b47b801ea591ec9f0dd18995f9d37c5f6d7a81d2c34137b20&smart=true&width=696&height=379",
+      "type": "foto"
+    },
+    {
+      "title": "João Liberato vai ao Calçadão de Osasco conversar com fãs da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/joao-liberato-vai-ao-calcadao-de-osasco-conversar-com-fas-da-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/5RVPJAPZWVAQZIZEKFLHDWAFHQ.png?auth=0a2a2bca83881993a4c9092b7e010bde8525a065449ec936600abc374e1b4238&smart=true&width=696&height=379",
+      "type": "noticia"
     },
     {
       "title": "Patrão FC! Moradores especulam convocação do Brasil para a Copa do Mundo e acertam dez nomes",
@@ -62,18 +74,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/fogo-no-condominio-marcia-fu-encontra-bicho-morto-calcinha-suja-e-absorvente-na-casa-do-patrao-21052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/L5I5IM376JC5HLOEYMHTROME5Y.png?smart=true&auth=a564798ddfa12b9f34305ba4c40c56c21675e15ab0f2ee7632b6f2a183461df1&width=1735&height=975",
       "type": "foto"
-    },
-    {
-      "title": "Bolsa de valores: confira o saldo de cada participante na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/bolsa-de-valores-confira-o-saldo-de-cada-participante-na-casa-do-patrao-19052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RWAWSZUHKJGMZAAJTGDSYHWJJU.png?smart=true&auth=09fc4e70076d2dc657a89c12a4e35c86e94f71a07f166e274da6d90435292a32&width=1185&height=666",
-      "type": "noticia"
-    },
-    {
-      "title": "Real ou fake? Nataly joga água em Vivão, que reage exaltado: 'Isso dá expulsão' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/real-ou-fake-nataly-joga-agua-em-vivao-que-reage-exaltado-isso-da-expulsao-casa-do-patrao-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_72bc6376661149618c7365435f6adf9b_name_file_960x540_1600_v4_.jpg?smart=true&auth=a2e3487ce650f7673d020cd5b9b7d52b19f553649e11dd6326f098d854eed17e&width=960&height=540",
-      "type": "video"
     },
     {
       "title": "Barraco pesado! Luis Fellipe e Matheus iniciam treta generalizada: ‘Você vai morrer se comer ovo? Frouxo!’",
@@ -130,6 +130,18 @@
       "type": "foto"
     },
     {
+      "title": "Batom de colorau? Moradoras avaliam ideias para substituir maquiagens confiscadas | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/batom-de-colorau-moradoras-avaliam-ideias-para-substituir-maquiagens-confiscadas-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_d295907579fa4b39bbf011e9caa53dec_name_file_960x540_1600_v4_.jpg?smart=true&auth=287b1d73817708d08da32fc1fc12a464010e993a042e45c3341c8a3449fc6a94&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Boninho confisca maquiagens de moradores após mensagens provocativas | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/boninho-confisca-maquiagens-de-moradores-apos-mensagens-provocativas-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_d250583b008649c6a6e7c5ded81d6560_name_file_960x540_1600_v4_.jpg?smart=true&auth=838bd078f8bedd809b85e8007aa59780f2f6dc33ab3f5a05022387938046b8e1&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Matheus e Bianca acordam juntos e chamam Luiza para tarefa na lavanderia | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-e-bianca-acordam-juntos-e-chamam-luiza-para-tarefa-na-lavanderia-casa-do-patrao-21052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_54f188cb64df43c989f519e5038d24e9_name_file_960x540_1600_v4_.jpg?smart=true&auth=a1a1f8cdacb90123627a79cfccb00ae6244973fbb926620e8247cbfe448e4328&width=960&height=540",
@@ -154,12 +166,18 @@
       "type": "video"
     },
     {
+      "title": "Real ou fake? Nataly joga água em Vivão, que reage exaltado: 'Isso dá expulsão' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/real-ou-fake-nataly-joga-agua-em-vivao-que-reage-exaltado-isso-da-expulsao-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_72bc6376661149618c7365435f6adf9b_name_file_960x540_1600_v4_.jpg?smart=true&auth=a2e3487ce650f7673d020cd5b9b7d52b19f553649e11dd6326f098d854eed17e&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "'Erro Gostoso': Bianca e Matheus vibram com sucesso de Simone Mendes | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/erro-gostoso-bianca-e-matheus-vibram-com-sucesso-de-simone-mendes-casa-do-patrao-21052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_e187d4469b6b4e6c953da2400f8677d3_name_file_960x540_1600_v4_.jpg?smart=true&auth=48639bc6887e02f663ccad60de1b6851a4a4c0b9cc647a88b88fb3ec4e645292&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 8 HORAS"
+      "time": "HÁ 10 HORAS"
     },
     {
       "title": "João Victor detona estratégia de colocá-lo no Tá na Reta para tirar Luis | Casa do Patrão",
@@ -198,18 +216,6 @@
       "type": "video"
     },
     {
-      "title": "Luis cobra café da manhã da Casa do Trampo e incomoda alguns moradores | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/luis-cobra-cafe-da-manha-da-casa-do-trampo-e-incomoda-alguns-moradores-casa-do-patrao-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_b79aad050c1440bda3981a4a87cb78ef_name_file_960x540_1600_v4_.jpg?smart=true&auth=ad1b35df204244f79303ce8032388cb8269ed6214f5ca12d99a965117d9eca40&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Quebra-pau! Matheus e Luis protagonizam barraco na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/quebra-pau-matheus-e-luis-protagonizam-barraco-na-casa-do-patrao-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_95a23ae3e0944ce7b11d040048a51491_name_file_960x540_1600_v4_.jpg?smart=true&auth=ca771490199fb81e1fdd88dabc29bbe4359fa5be03a4be25ecb0ed8dd22e0736&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Com temática ‘plantas’, Casa do Patrão entra no clima do Jardim Botânico e promete noite intensa, diversão e intrigas",
       "href": "https://record.r7.com/casa-do-patrao/novidades/com-tematica-plantas-casa-do-patrao-entra-no-clima-do-jardim-botanico-e-promete-noite-intensa-diversao-e-intrigas-20052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YEVHJO2QGJGMVAXZ3TV2TT5WNE.png?smart=true&auth=31dce18c8a27c27c7a86176169aa69cbe07b4c773484a167b0a4535571c73664&width=1735&height=975",
@@ -245,12 +251,6 @@
       "title": "JP vence a Prova Poder do Voto e garante carta na manga em Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/jp-vence-a-prova-poder-do-voto-e-garante-carta-na-manga-em-casa-do-patrao-20052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/SNUIERLKWVGZZCOZP5ZIAMXUTI.png?smart=true&auth=e985f486508d0483342a3fb9d4d2b0e2956883945bdb02e70b76d09a6fcf421d&width=677&height=380",
-      "type": "noticia"
-    },
-    {
-      "title": "Dudu Camargo, torta na cara e bolsa online: Boninho curte ideias do público para a Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/dudu-camargo-torta-na-cara-e-bolsa-online-boninho-curte-ideias-do-publico-para-a-casa-do-patrao-19052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VYNWJIOTGBFIHD3XEWSDXQKHIQ.png?smart=true&auth=0f1fc0e77641601b3bcdb1acd7329a7f2769bdbee993f6c97d454ad8cef774ab&width=1185&height=666",
       "type": "noticia"
     },
     {
@@ -294,6 +294,30 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/lingua-afiada-fabiola-reipert-nao-perdoa-e-revela-fofocas-bombasticas-da-casa-do-patrao-15052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EOXYTZK6F5HHZDHIM36NKEJAZU.png?smart=true&auth=5a6b2b5a92ffc277a0165345093ebbd77e4f5060245ff74dc97ff01f29b1a458&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Bolsa de valores: confira o saldo de cada participante na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/bolsa-de-valores-confira-o-saldo-de-cada-participante-na-casa-do-patrao-19052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RWAWSZUHKJGMZAAJTGDSYHWJJU.png?smart=true&auth=09fc4e70076d2dc657a89c12a4e35c86e94f71a07f166e274da6d90435292a32&width=1185&height=666",
+      "type": "noticia"
+    },
+    {
+      "title": "Luis cobra café da manhã da Casa do Trampo e incomoda alguns moradores | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/luis-cobra-cafe-da-manha-da-casa-do-trampo-e-incomoda-alguns-moradores-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_b79aad050c1440bda3981a4a87cb78ef_name_file_960x540_1600_v4_.jpg?smart=true&auth=ad1b35df204244f79303ce8032388cb8269ed6214f5ca12d99a965117d9eca40&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Quebra-pau! Matheus e Luis protagonizam barraco na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/quebra-pau-matheus-e-luis-protagonizam-barraco-na-casa-do-patrao-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_95a23ae3e0944ce7b11d040048a51491_name_file_960x540_1600_v4_.jpg?smart=true&auth=ca771490199fb81e1fdd88dabc29bbe4359fa5be03a4be25ecb0ed8dd22e0736&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Dudu Camargo, torta na cara e bolsa online: Boninho curte ideias do público para a Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/dudu-camargo-torta-na-cara-e-bolsa-online-boninho-curte-ideias-do-publico-para-a-casa-do-patrao-19052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VYNWJIOTGBFIHD3XEWSDXQKHIQ.png?smart=true&auth=0f1fc0e77641601b3bcdb1acd7329a7f2769bdbee993f6c97d454ad8cef774ab&width=1185&height=666",
+      "type": "noticia"
     },
     {
       "title": "João Victor classifica voto de Matheus como 'incoerente' | Casa do Patrão",
@@ -584,35 +608,11 @@
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/jp-vence-prova-do-poder-do-voto-e-pode-indicar-um-morador-ao-ta-na-reta-casa-do-patrao-20052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-20-2026%2Ft_5bb070126ba14e259a1e9aea4c049413_name_file_960x540_1600_v4_.jpg?smart=true&auth=1589abeb67b067632177cee5a64bd1db8b902539339752faf43d2d9896a20aa1&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Luiza é desclassificada da Prova Poder do Voto | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/luiza-e-desclassificada-da-prova-poder-do-voto-casa-do-patrao-20052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-20-2026%2Ft_edb657913fdc4721a47c83deda6428a9_name_file_960x540_1600_v4_.jpg?smart=true&auth=dbe4650a83993eee351356bd7e32d2290297ce960efba9ccdda26f0e38e6004f&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila vence leilão do PicPay e conquista vaga na próxima Prova do Patrão | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/sheila-vence-leilao-do-picpay-e-conquista-vaga-na-proxima-prova-do-patrao-casa-do-patrao-20052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-20-2026%2Ft_d55928e339654de5bb51c19ec268e8b4_name_file_960x540_1600_v4_.jpg?smart=true&auth=5027bf789bacd2307bba70251a3981b7d05ce36ffe6417241729c3f3546c2604&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Mari e Nataly duelam por vaga na final da Prova Poder do Voto | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/mari-e-nataly-duelam-por-vaga-na-final-da-prova-poder-do-voto-casa-do-patrao-20052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-20-2026%2Ft_baf2a222773549dba0d557d461f4e5b6_name_file_960x540_1600_v4_.jpg?smart=true&auth=c806f7a93d6687625d5d3b54520047e8b033bc16ecbd64010b6f2bac6e452e3b&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Matheus e Luiza recebem dicas financeiras em ação do PicPay | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/matheus-e-luiza-recebem-dicas-financeiras-em-acao-do-picpay-casa-do-patrao-20052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-20-2026%2Ft_d668348ab46941ecbb2919ebcd200be0_name_file_960x540_1600_v4_.jpg?smart=true&auth=477e2a0ebd1bea3a01fe99853174c11cfc0ea91d71ef6b2849771e38d999d6da&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 26,
-    "video": 54,
+    "noticia": 28,
+    "video": 52,
     "foto": 20
   }
 }
