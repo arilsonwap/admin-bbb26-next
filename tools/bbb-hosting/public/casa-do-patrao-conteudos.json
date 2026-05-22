@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-22T17:22:30.906Z",
-  "lastAddedCount": 6,
+  "fetchedAt": "2026-05-22T19:12:33.353Z",
+  "lastAddedCount": 5,
   "items": [
     {
       "title": "Deu a louca no Boninho! Showrunner garante ‘reset’ no reality e agita a web; fique por dentro de todas as notivdades!",
@@ -22,15 +22,23 @@
       "type": "foto"
     },
     {
+      "title": "Adriane Galisteu na Casa do Patrão? Moradores especulam visita da apresentadora de A Fazenda",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/adriane-galisteu-na-casa-do-patrao-moradores-especulam-visita-da-apresentadora-de-a-fazenda-22052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/3BRRQ4QPH5EC3OG53X7NDT7ML4.png?smart=true&auth=4df7d45fbcee52b9b1d41f41bc363d2a76886fc20bc5a9ba038ea0eaaeba84f0&width=677&height=380",
+      "type": "noticia"
+    },
+    {
+      "title": "‘Espero que ele passe fome’, dispara Luis Fellipe sobre Matheus após eliminação de Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/espero-que-ele-passe-fome-dispara-luis-fellipe-sobre-matheus-apos-eliminacao-de-casa-do-patrao-22052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RLY3Y2MH5ZBCXK32OOHGGMJ3C4.png?smart=true&auth=7b518b54eb1c60efc2a531db1ca30fbd5e078140579d9eaae979c2e160446acc&width=677&height=380",
+      "type": "noticia",
+      "category": "NOVIDADES",
+      "time": "HÁ 21 MINUTOS"
+    },
+    {
       "title": "Entenda tudo sobre a guerra da maquiagem que fez a Casa do Patrão pegar fogo",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/entenda-tudo-sobre-a-guerra-da-maquiagem-que-fez-a-casa-do-patrao-pegar-fogo-21052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/PETQJCDWMVHNTAKIBBKLO4IZNY.png?smart=true&auth=c6bbac9ad28b6b739747f2a509e1f38c3d24d0e5818b95570b68b4cdef50908c&width=771&height=433",
-      "type": "foto"
-    },
-    {
-      "title": "Estrategista e bom de prova: reveja a trajetória de Luis Fellipe na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/estrategista-e-bom-de-prova-reveja-a-trajetoria-de-luis-fellipe-na-casa-do-patrao-22052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EHXHYLTCSZHPXLFORA6KA3CPSI.png?smart=true&auth=8ce070669c6ae4d71afc2a72ff9135ec19251df06ed823904df4b23c589bc63e&width=770&height=433",
       "type": "foto"
     },
     {
@@ -40,22 +48,16 @@
       "type": "noticia"
     },
     {
-      "title": "Sem maquiagem! Boninho recolhe cosméticos das participantes após descumprimento de regras",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/sem-maquiagem-boninho-recolhe-cosmeticos-das-participantes-apos-descumprimento-de-regras-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WZNDNDBXPVBGXGB62NC6AMR4TM.png?smart=true&auth=f8f6e0946c4ecaa03edad25cf65694649fb4a8081f7b40aee5275074991d02ea&width=1100&height=618",
-      "type": "noticia"
-    },
-    {
       "title": "PodPatrão: confira quem já participou do programa que agita o confinamento",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/podpatrao-confira-quem-ja-participou-do-programa-que-agita-o-confinamento-21052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/S4O63GZ6HJHPTKU5QEP2K6NGMY.jpg?smart=true&auth=50c9cc70c85a7b4b47b801ea591ec9f0dd18995f9d37c5f6d7a81d2c34137b20&width=771&height=433",
       "type": "foto"
     },
     {
-      "title": "Luis Fellipe é eliminado de Casa do Patrão, com 22,65% dos votos",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/luis-fellipe-e-eliminado-de-casa-do-patrao-com-2265-dos-votos-22052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/46GFQ46Y4RB23N4ZJSXQACKIYQ.png?smart=true&auth=b2dda6c7c3d38c00439bbc59b3d99679fa2f4619a33f575237ca2e5c81e42d84&width=770&height=433",
-      "type": "noticia"
+      "title": "Estrategista e bom de prova: reveja a trajetória de Luis Fellipe na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/estrategista-e-bom-de-prova-reveja-a-trajetoria-de-luis-fellipe-na-casa-do-patrao-22052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EHXHYLTCSZHPXLFORA6KA3CPSI.png?smart=true&auth=8ce070669c6ae4d71afc2a72ff9135ec19251df06ed823904df4b23c589bc63e&width=770&height=433",
+      "type": "foto"
     },
     {
       "title": "Sobe o som ou desliga de vez? Confira as cantorias que já rolaram na Casa do Patrão",
@@ -130,6 +132,26 @@
       "type": "foto"
     },
     {
+      "title": "Luis Fellipe diz que mexeria na comida de Matheus se fosse Patrão pela terceira vez | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/luis-fellipe-diz-que-mexeria-na-comida-de-matheus-se-fosse-patrao-pela-terceira-vez-live-ta-na-rua-22052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-22-2026%2Ft_b63b85017cda49739cb41b949ffe95e5_name_file_960x540_1600_v4_.jpg?smart=true&auth=d19a479c89c79131debd92fe6b749453253385d471044c3016c71be16de63b85&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "‘Inteligente!': Luis Fellipe diz que estratégias de Sheila estão dando certo | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/inteligente-luis-fellipe-diz-que-estrategias-de-sheila-estao-dando-certo-live-ta-na-rua-22052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-22-2026%2Ft_42f0df4c263246d182dcd4bffb36cee8_name_file_960x540_1600_v4_.jpg?smart=true&auth=c3df755ceeac2a447a069f90a62ceee9755333bea78b47fed638340293e4b8bd&width=960&height=540",
+      "type": "video",
+      "category": "LIVE TÁ NA RUA",
+      "time": "HÁ 1 HORA"
+    },
+    {
+      "title": "Luis Fellipe diz que decisão de indicar JP foi emocional: 'Passou do ponto' | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/luis-fellipe-diz-que-decisao-de-indicar-jp-foi-emocional-passou-do-ponto-live-ta-na-rua-22052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-22-2026%2Ft_804eb046613c4dec9433336839b23df6_name_file_960x540_1600_v4_.jpg?smart=true&auth=9c34a437648122a8a5055c8f39daf58dc1205bc5cbf8a334b42a6c646956f2c3&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Jackson improvisa café da manhã com doce feito de leite em pó e água | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-improvisa-cafe-da-manha-com-doce-feito-de-leite-em-po-e-agua-casa-do-patrao-22052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-22-2026%2Ft_06f0cf4faf0e49f4a8815f30de64eb99_name_file_960x540_1600_v4_.jpg?smart=true&auth=49cbd88ea3becf14bada1c6e999c35284c54c30456e4d9e3f6b8bc4d7cde8b8d&width=960&height=540",
@@ -165,7 +187,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-22-2026%2Ft_c5a0598028b24d68b128badfe262a474_name_file_960x540_1600_v4_.jpg?smart=true&auth=a54f71fa3e21a78d0e60e521069bc771b7cf753e84c2d9e8057d6f722826f6fe&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 6 HORAS"
+      "time": "HÁ 8 HORAS"
     },
     {
       "title": "JP reprova postura amigável de Bianca na saída de Luis Fellipe | Casa do Patrão",
@@ -204,27 +226,15 @@
       "type": "video"
     },
     {
-      "title": "Quinta de Aposta: Moradores acreditam na saída de Luis Fellipe | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/quinta-de-aposta-moradores-acreditam-na-saida-de-luis-fellipe-casa-do-patrao-22052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-22-2026%2Ft_523a8fde7abb473696554fc6d70cbbeb_name_file_960x540_1600_v4_.jpg?smart=true&auth=f6a0070c8d2950f4b565977ed756830f725f3a352bbc9d89ccc2c86b025b46b5&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Luis reage à provocação e joga 'lixo' no edredom de Matheus | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/luis-reage-a-provocacao-e-joga-lixo-no-edredom-de-matheus-casa-do-patrao-22052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-22-2026%2Ft_894e999e8f7b4e4690ec42cbfc2b6191_name_file_960x540_1600_v4_.jpg?smart=true&auth=eedb99ea209c4fc0a25d43690f4b213cf87e5273714a3ef3d0e8fdab7a7a27f7&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Matheus mostra bilhete escrito para Luis Fellipe: ‘Achei fofo’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/matheus-mostra-bilhete-escrito-para-luis-fellipe-achei-fofo-casa-do-patrao-22052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-22-2026%2Ft_5032e733371b4487b2104023046ab5d9_name_file_960x540_1600_v4_.jpg?smart=true&auth=1b942afc77704d2ab548cf2ef8fbadf69376573407165578659ff6018ceb30a5&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Grupo rachando? Matheus planeja vetar Marina da Prova do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/grupo-rachando-matheus-planeja-vetar-marina-da-prova-do-patrao-22052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/6OJSOYJI7VC3LBNQTZUDFA2T74.png?smart=true&auth=15fa9d8f39ee27965334e760823d29db57635dc667c6a4e9f0f5cdc1b6ac5669&width=770&height=433",
+      "type": "noticia"
+    },
+    {
+      "title": "Luis Fellipe é eliminado de Casa do Patrão, com 22,65% dos votos",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/luis-fellipe-e-eliminado-de-casa-do-patrao-com-2265-dos-votos-22052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/46GFQ46Y4RB23N4ZJSXQACKIYQ.png?smart=true&auth=b2dda6c7c3d38c00439bbc59b3d99679fa2f4619a33f575237ca2e5c81e42d84&width=770&height=433",
       "type": "noticia"
     },
     {
@@ -234,21 +244,15 @@
       "type": "noticia"
     },
     {
+      "title": "Sem maquiagem! Boninho recolhe cosméticos das participantes após descumprimento de regras",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/sem-maquiagem-boninho-recolhe-cosmeticos-das-participantes-apos-descumprimento-de-regras-21052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WZNDNDBXPVBGXGB62NC6AMR4TM.png?smart=true&auth=f8f6e0946c4ecaa03edad25cf65694649fb4a8081f7b40aee5275074991d02ea&width=1100&height=618",
+      "type": "noticia"
+    },
+    {
       "title": "João Victor, Luis Fellipe ou Vini, quem você quer manter em Casa do Patrão?",
       "href": "https://record.r7.com/casa-do-patrao/novidades/joao-victor-luis-fellipe-ou-vini-quem-voce-quer-manter-em-casa-do-patrao-21052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YVQK76PD45AVZH37BVUFWNZ73E.png?smart=true&auth=0e1f2960b18c0ab6270a2669741e2f367a40c2a2d0880f53050885f2a7fb9809&width=677&height=380",
-      "type": "noticia"
-    },
-    {
-      "title": "Com temática ‘plantas’, Casa do Patrão entra no clima do Jardim Botânico e promete noite intensa, diversão e intrigas",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/com-tematica-plantas-casa-do-patrao-entra-no-clima-do-jardim-botanico-e-promete-noite-intensa-diversao-e-intrigas-20052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YEVHJO2QGJGMVAXZ3TV2TT5WNE.png?smart=true&auth=31dce18c8a27c27c7a86176169aa69cbe07b4c773484a167b0a4535571c73664&width=1735&height=975",
-      "type": "noticia"
-    },
-    {
-      "title": "Despedida do macacão! Boninho revela upgrade no uniforme do Trampo: ‘A galera pediu e vou mudar’",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/despedida-do-macacao-boninho-revela-upgrade-no-uniforme-do-trampo-a-galera-pediu-e-vou-mudar-20052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IOFPZWFW3BG2RFVDWGPJ7IGJQA.png?smart=true&auth=b40ec443ad7eb661ce92aa96bc3951ccd21a07cef3ee8053bde9ed1c54e82ea2&width=1735&height=975",
       "type": "noticia"
     },
     {
@@ -292,6 +296,36 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/matheus-no-alvo-deboches-e-treta-de-ex-aliados-veja-o-que-rolou-na-dinamica-desta-sexta-15-15052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/QN5TKYCRFNAV7HQGIM3EK72WCM.png?smart=true&auth=2a603052297b3e3278e0468cb13cd2b83e3f34883be01adbe17a18e934ed902a&width=1446&height=813",
       "type": "foto"
+    },
+    {
+      "title": "Quinta de Aposta: Moradores acreditam na saída de Luis Fellipe | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/quinta-de-aposta-moradores-acreditam-na-saida-de-luis-fellipe-casa-do-patrao-22052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-22-2026%2Ft_523a8fde7abb473696554fc6d70cbbeb_name_file_960x540_1600_v4_.jpg?smart=true&auth=f6a0070c8d2950f4b565977ed756830f725f3a352bbc9d89ccc2c86b025b46b5&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Luis reage à provocação e joga 'lixo' no edredom de Matheus | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/luis-reage-a-provocacao-e-joga-lixo-no-edredom-de-matheus-casa-do-patrao-22052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-22-2026%2Ft_894e999e8f7b4e4690ec42cbfc2b6191_name_file_960x540_1600_v4_.jpg?smart=true&auth=eedb99ea209c4fc0a25d43690f4b213cf87e5273714a3ef3d0e8fdab7a7a27f7&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Matheus mostra bilhete escrito para Luis Fellipe: ‘Achei fofo’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/matheus-mostra-bilhete-escrito-para-luis-fellipe-achei-fofo-casa-do-patrao-22052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-22-2026%2Ft_5032e733371b4487b2104023046ab5d9_name_file_960x540_1600_v4_.jpg?smart=true&auth=1b942afc77704d2ab548cf2ef8fbadf69376573407165578659ff6018ceb30a5&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Com temática ‘plantas’, Casa do Patrão entra no clima do Jardim Botânico e promete noite intensa, diversão e intrigas",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/com-tematica-plantas-casa-do-patrao-entra-no-clima-do-jardim-botanico-e-promete-noite-intensa-diversao-e-intrigas-20052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YEVHJO2QGJGMVAXZ3TV2TT5WNE.png?smart=true&auth=31dce18c8a27c27c7a86176169aa69cbe07b4c773484a167b0a4535571c73664&width=1735&height=975",
+      "type": "noticia"
+    },
+    {
+      "title": "Despedida do macacão! Boninho revela upgrade no uniforme do Trampo: ‘A galera pediu e vou mudar’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/despedida-do-macacao-boninho-revela-upgrade-no-uniforme-do-trampo-a-galera-pediu-e-vou-mudar-20052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IOFPZWFW3BG2RFVDWGPJ7IGJQA.png?smart=true&auth=b40ec443ad7eb661ce92aa96bc3951ccd21a07cef3ee8053bde9ed1c54e82ea2&width=1735&height=975",
+      "type": "noticia"
     },
     {
       "title": "Morena, Bianca e Nataly repercutem maquiagens confiscadas por Boninho | Casa do Patrão",
@@ -582,41 +616,11 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/polemica-e-romantica-relembre-a-trajetoria-de-nikita-em-casa-do-patrao-15052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/DB4N3OFWZZHR5E6IMC4MKFPL3I.png?smart=true&auth=37c107f0aa015c5cf43d4c2006b46dcaeae7ed89d8a846d98549e055a0f75c4f&width=1638&height=921",
       "type": "foto"
-    },
-    {
-      "title": "Queen do caos! Márcia Fu invade a Casa do Patrão e coloca fogo no jogo",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/queen-do-caos-marcia-fu-invade-a-casa-do-patrao-e-coloca-fogo-no-jogo-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_f907844d93344086a80f4b0c83de0dcf_name_file_960x540_1600_v4_.jpg?smart=true&auth=e7e0166ff1e94612f63be0ff4507c822d519ee6437245db23ba5e6ba362f92ac&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Moradores pegam roupas para festa com tema 'Jardim Botânico' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-pegam-roupas-para-festa-com-tema-jardim-botanico-casa-do-patrao-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_b6763465f5114e648cc662cbc74e6b1b_name_file_960x540_1600_v4_.jpg?smart=true&auth=7ebeea6e52e89a9a7b8a49825a873f7eee00d1d31242b43af17ef1bee82c87c8&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Nataly dispara que JP só se garante com a turma dele | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nataly-dispara-que-jp-so-se-garante-com-a-turma-dele-casa-do-patrao-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_7d99c5d17a7746629639744322e8d85c_name_file_960x540_1600_v4_.jpg?smart=true&auth=3e12cf6e86537e79fd5534b043a848a8fca18d356a280ddfa34b34cec6f956a7&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Plano em ação: Sheila trama com JP para confundir Nataly | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/plano-em-acao-sheila-trama-com-jp-para-confundir-nataly-casa-do-patrao-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-20-2026%2Ft_eadf70b07700447dae451fc5cb598912_name_file_960x540_1600_v4_.jpg?smart=true&auth=60b545a741917013c0f6430faa33de9ea008364cb3de84431a6229d7297a4800&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Luis humilha Matheus em briga: 'Tá sendo bom Patrão pra quem?' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luis-humilha-matheus-em-briga-ta-sendo-bom-patrao-pra-quem-casa-do-patrao-20052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-20-2026%2Ft_5ce2e4a62d064b8b93cb307dc41d5ff1_name_file_960x540_1600_v4_.jpg?smart=true&auth=02404acff73b4111f80d52270e793f223f0eff67bd152889cdf2916e9ee1363c&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 25,
-    "video": 53,
+    "noticia": 27,
+    "video": 51,
     "foto": 22
   }
 }
