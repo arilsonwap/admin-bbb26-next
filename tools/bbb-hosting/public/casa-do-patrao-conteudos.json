@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-23T21:40:58.534Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-05-23T22:38:42.194Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Quem é mais chato na Casa do Patrão? Dudu Camargo causa supertreta e separação de grupo com perguntas simples",
@@ -69,7 +69,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-23-2026%2Ft_d91555df45ce4ae58930f5a1afeb9cc8_name_file_960x540_1600_v4_.jpg?smart=true&auth=f53d2b863d8753168033cdf33c0d3659dd7cc542ace7737dc9c893e83b4f5566&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 6 HORAS"
+      "time": "HÁ 7 HORAS"
     },
     {
       "title": "‘Espero que ele passe fome’, dispara Luis Fellipe sobre Matheus após eliminação de Casa do Patrão",
@@ -134,6 +134,12 @@
       "type": "foto"
     },
     {
+      "title": "Jackson nega parceria com João Victor e grupo: ‘Jogo sozinho’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-nega-parceria-com-joao-victor-e-grupo-jogo-sozinho-casa-do-patrao-23052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-23-2026%2Ft_c4f5cdda76b24f65be6520dfa5badf05_name_file_960x540_1600_v4_.jpg?smart=true&auth=416736b7d0673ba255a98d4add88fcfc5722886d9a398785db3f1f81ed06e27b&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "DR de amigas? Morena se irrita com Nataly após conselho sobre rivais | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/dr-de-amigas-morena-se-irrita-com-nataly-apos-conselho-sobre-rivais-casa-do-patrao-23052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-23-2026%2Ft_296335e82bb14103a73b8a91aa5e69f3_name_file_960x540_1600_v4_.jpg?smart=true&auth=84a5e53e8904f60c275b006bfda3ba16e45a34cfc43c1ffcfca93d96bf6adb14&width=960&height=540",
@@ -157,7 +163,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-23-2026%2Ft_0581ac8548494714aa5a301527f49784_name_file_960x540_1600_v4_.jpg?smart=true&auth=03dbb055372455a41e5cd8eecd9286d9b3f2cc057c525fdd861cc3e47795300f&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 6 HORAS"
+      "time": "HÁ 7 HORAS"
     },
     {
       "title": "Louça sem fim! João Victor acorda e encontra pia cheia de pratos e copos sujos | Casa do Patrão",
@@ -199,12 +205,6 @@
       "title": "Nataly diz que JP não tem 'força' sem grupo | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nataly-diz-que-jp-nao-tem-forca-sem-grupo-casa-do-patrao-23052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-23-2026%2Ft_773d7a92166d49e09376c28d43f82c4e_name_file_960x540_1600_v4_.jpg?smart=true&auth=24cc5e07956f205c6e6b5c180553d985f3f362581e39f25138248fa7d5fdb832&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Ranking da Verdade: Moradores revelam com quem querem dividir a final da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/ranking-da-verdade-moradores-revelam-com-quem-querem-dividir-a-final-da-casa-do-patrao-23052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-23-2026%2Ft_d65514788d784a73bc4de555a05ac360_name_file_960x540_1600_v4_.jpg?smart=true&auth=6967e8faa56c8b8a0bb79dddabff000924ad591096431dd61c10f02455f4cba1&width=960&height=540",
       "type": "video"
     },
     {
@@ -296,6 +296,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/romance-supertreta-e-reviravoltas-marcam-a-semana-de-casa-do-patrao-16052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/CVAEKP3CMVFJHF42XJAR6EAOKM.png?smart=true&auth=230300c1a20501dccef68ce0f49f4adfd24527210b2abdf680bb84ef838bb149&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Ranking da Verdade: Moradores revelam com quem querem dividir a final da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/ranking-da-verdade-moradores-revelam-com-quem-querem-dividir-a-final-da-casa-do-patrao-23052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-23-2026%2Ft_d65514788d784a73bc4de555a05ac360_name_file_960x540_1600_v4_.jpg?smart=true&auth=6967e8faa56c8b8a0bb79dddabff000924ad591096431dd61c10f02455f4cba1&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "No limite da cerca? Relação de Matheus e Bianca dá o que falar",
@@ -611,12 +617,6 @@
       "title": "Aliados criticam estratégia de Sheila e planejam reunião | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/aliados-criticam-estrategia-de-sheila-e-planejam-reuniao-casa-do-patrao-21052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_23bc49dea5e041ab9f07f30660aed105_name_file_960x540_1600_v4_.jpg?smart=true&auth=280b423a338a932099d7d269df7c3c66ad9f43ea3371f87ece8810a5cc19b500&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Nataly diz que não vai fazer o serviço se for colocada no Trampo de novo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nataly-diz-que-nao-vai-fazer-o-servico-se-for-colocada-no-trampo-de-novo-casa-do-patrao-21052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-21-2026%2Ft_661879d7518b4153a2eefac5c7ec54f6_name_file_960x540_1600_v4_.jpg?smart=true&auth=0f29dde4c89a3d3076112d3abc8e25554fa1c01a3bfcd30c8015e779a4cfd2a5&width=960&height=540",
       "type": "video"
     }
   ],
