@@ -1,14 +1,8 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-24T17:44:49.720Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-05-24T18:53:16.520Z",
+  "lastAddedCount": 0,
   "items": [
-    {
-      "title": "João Victor vence a Prova do Patrão e promete semana agitada no reality",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/joao-victor-vence-a-prova-do-patrao-e-promete-semana-agitada-no-reality-24052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IP6K6RJZBVEOBCG3N2XSX3AKCA.png?smart=true&auth=645a8960bcc93330c2b266e4470417ca2e4c12f07a7be533e256cac362093d63&width=1354&height=761",
-      "type": "noticia"
-    },
     {
       "title": "Público de Casa do Patrão define mandato de Matheus como ‘justo’",
       "href": "https://record.r7.com/casa-do-patrao/novidades/publico-de-casa-do-patrao-define-mandato-de-matheus-como-justo-24052026/",
@@ -28,9 +22,9 @@
       "type": "noticia"
     },
     {
-      "title": "Ranking da Verdade coloca Matheus, Morena e Nataly em situação difícil na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/ranking-da-verdade-coloca-matheus-morena-e-nataly-em-situacao-dificil-na-casa-do-patrao-23052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/LSIL6IYM3NHI7JXERZCEVXOJRE.png?smart=true&auth=33408a17c5b96b61935fc26f48415365cf352577c07f7bee56b327d7e2f73ce3&width=770&height=433",
+      "title": "João Victor vence a Prova do Patrão e promete semana agitada no reality",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/joao-victor-vence-a-prova-do-patrao-e-promete-semana-agitada-no-reality-24052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IP6K6RJZBVEOBCG3N2XSX3AKCA.png?auth=645a8960bcc93330c2b266e4470417ca2e4c12f07a7be533e256cac362093d63&smart=true&width=696&height=379",
       "type": "noticia"
     },
     {
@@ -40,24 +34,22 @@
       "type": "noticia"
     },
     {
+      "title": "Ranking da Verdade coloca Matheus, Morena e Nataly em situação difícil na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/ranking-da-verdade-coloca-matheus-morena-e-nataly-em-situacao-dificil-na-casa-do-patrao-23052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/LSIL6IYM3NHI7JXERZCEVXOJRE.png?smart=true&auth=33408a17c5b96b61935fc26f48415365cf352577c07f7bee56b327d7e2f73ce3&width=770&height=433",
+      "type": "noticia"
+    },
+    {
       "title": "VAR revela o que os moradores aprontaram na Casa do Patrão e Hassum brinca: 'Quinta série!'",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/var-revela-o-que-os-moradores-aprontaram-na-casa-do-patrao-e-hassum-brinca-quinta-serie-23052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/N7VUUT3GJJFGNEY7MXVRSTVMTY.png?smart=true&auth=514e693ef443f2d67cfdcaea31d4483fdf08ba054de9c848750b37baf5a32842&width=770&height=433",
       "type": "foto"
     },
     {
-      "title": "‘Sheila quer amedrontar as pessoas aqui’, afirma Vivão | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-quer-amedrontar-as-pessoas-aqui-afirma-vivao-casa-do-patrao-24052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-24-2026%2Ft_ecd8ec78ff074a22af5ff1022dd19a89_name_file_960x540_1600_v4_.jpg?smart=true&auth=7b023cc788aac77f65060fe2036652c10631f50dfe36b42035470a797726eb8f&width=960&height=540",
-      "type": "video",
-      "category": "HORAS",
-      "time": "HÁ 16 HORAS"
-    },
-    {
-      "title": "Adriane Galisteu na Casa do Patrão? Moradores especulam visita da apresentadora de A Fazenda",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/adriane-galisteu-na-casa-do-patrao-moradores-especulam-visita-da-apresentadora-de-a-fazenda-22052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/3BRRQ4QPH5EC3OG53X7NDT7ML4.png?smart=true&auth=4df7d45fbcee52b9b1d41f41bc363d2a76886fc20bc5a9ba038ea0eaaeba84f0&width=677&height=380",
-      "type": "noticia"
+      "title": "Vivão escolhe Andressa para as compras no mercado desta semana | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-escolhe-andressa-para-as-compras-no-mercado-desta-semana-casa-do-patrao-24052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-24-2026%2Ft_0888b2e62c2b4e13b2d48ded989d724f_name_file_960x540_1600_v4_.jpg?smart=true&auth=031ce8fa3b41580fdb649bd1d3c9f681585ea682dfa4d79e820d541082e973c9&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "PodPatrão: confira quem já participou do programa que agita o confinamento",
@@ -66,12 +58,10 @@
       "type": "foto"
     },
     {
-      "title": "‘Jackson acha que está em um resort’, dispara Mari | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-acha-que-esta-em-um-resort-dispara-mari-casa-do-patrao-23052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-23-2026%2Ft_12785c6c011744d3ae552e4f8136c2ca_name_file_960x540_1600_v4_.jpg?smart=true&auth=61ad70cfd38c6accf251a015dd731fe369c182999eeab1f2112183d0da3989f8&width=960&height=540",
-      "type": "video",
-      "category": "HORAS",
-      "time": "23/05/2026"
+      "title": "Sheila acorda aliados com estratégia para tirar Andressa: 'Minar o inimigo' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-acorda-aliados-com-estrategia-para-tirar-andressa-minar-o-inimigo-casa-do-patrao-24052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-24-2026%2Ft_d29d51471e524c008128b53636b16466_name_file_960x540_1600_v4_.jpg?smart=true&auth=905a06440102693bc675436be8ae77a488ec9c9bf524766ea4f1167f32d8e117&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "‘Espero que ele passe fome’, dispara Luis Fellipe sobre Matheus após eliminação de Casa do Patrão",
@@ -134,18 +124,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/time-do-coracao-descubra-para-quem-os-moradores-de-casa-do-patrao-torcem-no-brasileirao-09052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WQHQ5BWDIFDORDO4VAPK3BLS7M.jpg?auth=122334a34fbe380a5bc2b583e73d517ca71d4752b99ab4745842357aba3ae4ab&smart=true&width=696&height=390",
       "type": "foto"
-    },
-    {
-      "title": "Vivão escolhe Andressa para as compras no mercado desta semana | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-escolhe-andressa-para-as-compras-no-mercado-desta-semana-casa-do-patrao-24052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-24-2026%2Ft_0888b2e62c2b4e13b2d48ded989d724f_name_file_960x540_1600_v4_.jpg?smart=true&auth=031ce8fa3b41580fdb649bd1d3c9f681585ea682dfa4d79e820d541082e973c9&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila acorda aliados com estratégia para tirar Andressa: 'Minar o inimigo' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-acorda-aliados-com-estrategia-para-tirar-andressa-minar-o-inimigo-casa-do-patrao-24052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-24-2026%2Ft_d29d51471e524c008128b53636b16466_name_file_960x540_1600_v4_.jpg?smart=true&auth=905a06440102693bc675436be8ae77a488ec9c9bf524766ea4f1167f32d8e117&width=960&height=540",
-      "type": "video"
     },
     {
       "title": "Quer sair? Jackson implora para cair no Tá na Reta: 'Faz o favor' | Casa do Patrão",
@@ -214,6 +192,22 @@
       "type": "video"
     },
     {
+      "title": "‘Sheila quer amedrontar as pessoas aqui’, afirma Vivão | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-quer-amedrontar-as-pessoas-aqui-afirma-vivao-casa-do-patrao-24052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-24-2026%2Ft_ecd8ec78ff074a22af5ff1022dd19a89_name_file_960x540_1600_v4_.jpg?smart=true&auth=7b023cc788aac77f65060fe2036652c10631f50dfe36b42035470a797726eb8f&width=960&height=540",
+      "type": "video",
+      "category": "HORAS",
+      "time": "HÁ 17 HORAS"
+    },
+    {
+      "title": "‘Jackson acha que está em um resort’, dispara Mari | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-acha-que-esta-em-um-resort-dispara-mari-casa-do-patrao-23052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-23-2026%2Ft_12785c6c011744d3ae552e4f8136c2ca_name_file_960x540_1600_v4_.jpg?smart=true&auth=61ad70cfd38c6accf251a015dd731fe369c182999eeab1f2112183d0da3989f8&width=960&height=540",
+      "type": "video",
+      "category": "HORAS",
+      "time": "23/05/2026"
+    },
+    {
       "title": "Dudu Camargo vai colocar fogo na Casa do Patrão neste sábado (23)",
       "href": "https://record.r7.com/casa-do-patrao/novidades/dudu-camargo-vai-colocar-fogo-na-casa-do-patrao-neste-sabado-23-23052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BEBKC6C4DNBGJCOR7E4CUKRFNQ.png?smart=true&auth=b2a77a88e7eb2d586791e0f151754f78531a048ffa803096f8645af088f98783&width=770&height=433",
@@ -223,6 +217,12 @@
       "title": "Qual avaliação Matheus merece como Patrão?",
       "href": "https://record.r7.com/casa-do-patrao/novidades/qual-avaliacao-matheus-merece-como-patrao-23052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YTRTWPBWXFBSXCHJ6KXPAPI6H4.png?smart=true&auth=4146a8e9499c02f57e95a7a9c7db48b2432062966b4dbb5807427f68c635c130&width=770&height=433",
+      "type": "noticia"
+    },
+    {
+      "title": "Adriane Galisteu na Casa do Patrão? Moradores especulam visita da apresentadora de A Fazenda",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/adriane-galisteu-na-casa-do-patrao-moradores-especulam-visita-da-apresentadora-de-a-fazenda-22052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/3BRRQ4QPH5EC3OG53X7NDT7ML4.png?smart=true&auth=4df7d45fbcee52b9b1d41f41bc363d2a76886fc20bc5a9ba038ea0eaaeba84f0&width=677&height=380",
       "type": "noticia"
     },
     {
