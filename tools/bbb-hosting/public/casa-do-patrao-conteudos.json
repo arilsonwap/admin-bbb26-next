@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-25T18:59:52.949Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-05-25T20:25:51.614Z",
+  "lastAddedCount": 3,
   "items": [
     {
       "title": "Encarada, visita ilustre e guerra de makes agitam a semana de Casa do Patrão",
@@ -26,6 +26,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/teoria-x-pratica-descubra-o-que-os-moradores-prometeram-nas-inscricoes-25052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RFEBB6QEXZDK7OFILTS2HB52OE.png?auth=f49d6345b0259a3ff5ad4a475a89bf6c4ad50eb8af7a90833fd0d29cf8d9c7ca&smart=true&width=696&height=379",
       "type": "foto"
+    },
+    {
+      "title": "Participantes são surpreendidos por ‘novas moradoras’ da Casa do Patrão: ‘Brittany e Tiffany’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/participantes-sao-surpreendidos-por-novas-moradoras-da-casa-do-patrao-brittany-e-tiffany-25052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/6BLUB6K3T5FXTFBDEPC4EK6NNY.png?smart=true&auth=9052450eccbabc9b0674d9840c5d63eb8d167de645c17b4040b6bbfbc1fd1f77&width=1354&height=761",
+      "type": "noticia"
     },
     {
       "title": "Multa nos desobedientes e missão de festa! Confira todas as novas regras da Casa do Patrão",
@@ -62,12 +68,6 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/marina-dispara-para-luiza-que-o-tempo-de-jackson-agir-no-jogo-ja-passou-casa-do-patrao-25052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-25-2026%2Ft_64e9b0aaf59c4ad895bf3fc79266e9db_name_file_960x540_1600_v4_.jpg?smart=true&auth=8428ea0c150bd1cee5c85889293e6fde42de8b36280c86aceaf8344ca71c7b95&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "VAR revela o que os moradores aprontaram na Casa do Patrão e Hassum brinca: 'Quinta série!'",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/var-revela-o-que-os-moradores-aprontaram-na-casa-do-patrao-e-hassum-brinca-quinta-serie-23052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/N7VUUT3GJJFGNEY7MXVRSTVMTY.png?smart=true&auth=514e693ef443f2d67cfdcaea31d4483fdf08ba054de9c848750b37baf5a32842&width=770&height=433",
-      "type": "foto"
     },
     {
       "title": "Dicionário do Patrão: primeira edição conta com termos exclusivos e criatividade de sobra",
@@ -118,6 +118,18 @@
       "type": "foto"
     },
     {
+      "title": "Vini e João Victor especulam próximo Tá na Reta e apostam em eliminação de Jackson | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vini-e-joao-victor-especulam-proximo-ta-na-reta-e-apostam-em-eliminacao-de-jackson-casa-do-patrao-25052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-25-2026%2Ft_cf94ab03e9094aa5b58b8a7dc17db6c7_name_file_960x540_1600_v4_.jpg?smart=true&auth=c652b6030789c5079a9289ae0b9acc235935ec7acc7bb8e4aa004dd45f54ead2&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Puxadinho da Keila: Assista à íntegra com Rafa Bahls, Nikita e Bruno Cardoso | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/puxadinho-da-keila/video/puxadinho-da-keila-assista-a-integra-com-rafa-bahls-nikita-e-bruno-cardoso-casa-do-patrao-25052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-25-2026%2Ft_99978569778543c6b3f45b15eb444aef_name_file_960x540_1600_v4_.jpg?smart=true&auth=ffa426fe73f8500fd016ac08a2a9983ac181926ac27514669a9e614a49a5c70e&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Jovan e Nikita fazem as pazes no Puxadinho da Keila",
       "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/puxadinho-da-keila/video/jovan-e-nikita-fazem-as-pazes-no-puxadinho-da-keila-25052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-25-2026%2Ft_607e0f676b3244a1b40cae9f1bf70551_name_file_960x540_1600_v4_.jpg?smart=true&auth=74d8ead54e71e820d2ae0bfd9c4d95e9deef240c20abf74dd5710fefa3763543&width=960&height=540",
@@ -159,7 +171,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-25-2026%2Ft_9db62ac319734a0cb8980530d47c91a5_name_file_960x540_1600_v4_.jpg?smart=true&auth=dc07adc7bd542e2c8dc2547e40a4341eeab83f9688facedab85eddf711cebaa0&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 12 HORAS"
+      "time": "HÁ 14 HORAS"
     },
     {
       "title": "Jackson mostra confiança para o Tá na Reta em conversa com Sheila | Casa do Patrão",
@@ -183,18 +195,6 @@
       "title": "Relembre promessas de Vivão, Morena, Mariana, JP e Matheus antes do início da Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/relembre-promessas-de-vivao-morena-mariana-jp-e-matheus-antes-do-inicio-da-casa-do-patrao-25052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-25-2026%2Ft_6bff0d3c3d7d4ee591ccd5f4c50b5a78_name_file_960x540_1600_v4_.jpg?smart=true&auth=c8e692df3287a71d9272b54417c1f234da2e0e2373d7751209e7f310d06807d6&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Moradores pedalam por seis horas seguidas para liberar a festa do domingo (24) | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/moradores-pedalam-por-seis-horas-seguidas-para-liberar-a-festa-do-domingo-24-casa-do-patrao-25052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-25-2026%2Ft_a27419b034034923a8bf19a30b405d06_name_file_960x540_1600_v4_.jpg?smart=true&auth=172aaea9c60dd72c204d6ec183dbb02c3374486e61412e1e4035eb8a99b2d8f5&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Moradores vão às compras no Assaí Atacadista | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/moradores-vao-as-compras-no-assai-atacadista-casa-do-patrao-25052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-25-2026%2Ft_a264f198b8c0479696201bdb5cff5e39_name_file_960x540_1600_v4_.jpg?smart=true&auth=ed5f321c4633dbc14e8d649f7b99da62e74aa5df73a1f24c791d2b653fb5a06d&width=960&height=540",
       "type": "video"
     },
     {
@@ -242,15 +242,15 @@
       "type": "noticia"
     },
     {
-      "title": "Luis Fellipe analisa jogo de Sheila e fala sobre romance com Morena fora do confinamento: ‘Vamos conversar’",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/luis-fellipe-analisa-jogo-de-sheila-e-fala-sobre-romance-com-morena-fora-do-confinamento-vamos-conversar-22052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YHUOL2DZ4FDI5GW7PGJPI4IGGY.png?smart=true&auth=e20a12528b1b00b1afe852df5f1d44c1b119855bdb725dfbcabaa5eaa8474fb0&width=677&height=380",
-      "type": "noticia"
-    },
-    {
       "title": "Confira 7 vezes em que Leandro Hassum fez piada da própria situação na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/confira-7-vezes-em-que-leandro-hassum-fez-piada-da-propria-situacao-na-casa-do-patrao-23052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/KQQWI7UQXVBDZB3Y5HCT7XBZXQ.jpg?smart=true&auth=2b90f73503af5630148d8aaf0643b157990df1aeb12972f47bb3e64c80bce70d&width=771&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "VAR revela o que os moradores aprontaram na Casa do Patrão e Hassum brinca: 'Quinta série!'",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/var-revela-o-que-os-moradores-aprontaram-na-casa-do-patrao-e-hassum-brinca-quinta-serie-23052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/N7VUUT3GJJFGNEY7MXVRSTVMTY.png?smart=true&auth=514e693ef443f2d67cfdcaea31d4483fdf08ba054de9c848750b37baf5a32842&width=770&height=433",
       "type": "foto"
     },
     {
@@ -288,6 +288,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/sobe-o-som-ou-desliga-de-vez-confira-as-cantorias-que-ja-rolaram-na-casa-do-patrao-20052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/N6T6KCHECVEAHHW2U3XNHL4H24.png?smart=true&auth=37df289f2358c81e6a2b61b95259c24795e91aec3dc2fe7326ccd9c936ae908a&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Moradores pedalam por seis horas seguidas para liberar a festa do domingo (24) | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/moradores-pedalam-por-seis-horas-seguidas-para-liberar-a-festa-do-domingo-24-casa-do-patrao-25052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-25-2026%2Ft_a27419b034034923a8bf19a30b405d06_name_file_960x540_1600_v4_.jpg?smart=true&auth=172aaea9c60dd72c204d6ec183dbb02c3374486e61412e1e4035eb8a99b2d8f5&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Moradores vão às compras no Assaí Atacadista | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/moradores-vao-as-compras-no-assai-atacadista-casa-do-patrao-25052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-25-2026%2Ft_a264f198b8c0479696201bdb5cff5e39_name_file_960x540_1600_v4_.jpg?smart=true&auth=ed5f321c4633dbc14e8d649f7b99da62e74aa5df73a1f24c791d2b653fb5a06d&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Luis Fellipe analisa jogo de Sheila e fala sobre romance com Morena fora do confinamento: ‘Vamos conversar’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/luis-fellipe-analisa-jogo-de-sheila-e-fala-sobre-romance-com-morena-fora-do-confinamento-vamos-conversar-22052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YHUOL2DZ4FDI5GW7PGJPI4IGGY.png?smart=true&auth=e20a12528b1b00b1afe852df5f1d44c1b119855bdb725dfbcabaa5eaa8474fb0&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Time do coração: descubra para quem os moradores torcem",
@@ -596,29 +614,11 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/matheus-vira-chacota-apos-assumir-que-escreveu-bilhete-para-luis-fellipe-21052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/HYIKFC5S7ZCH5GCMKIY23H346Q.png?smart=true&auth=6d70fe50d157b64c354fe3fd9b01edf9e1b676a82a1b354b87d9c310f422d3cb&width=1185&height=666",
       "type": "noticia"
-    },
-    {
-      "title": "Sheila e Nataly apostam no deboche em treta acalorada | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-e-nataly-apostam-no-deboche-em-treta-acalorada-casa-do-patrao-23052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-23-2026%2Ft_29d860e6fd6c419981500789575d9319_name_file_960x540_1600_v4_.jpg?smart=true&auth=0e9c48b6b4e2bfd72f4278e45c87eec4592da8f692a160c899cc317f219d04af&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Nataly dispara que Sheila manda nos seus aliados e não nela | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nataly-dispara-que-sheila-manda-nos-seus-aliados-e-nao-nela-casa-do-patrao-23052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-23-2026%2Ft_7fac0afc7dd54eab98ed39cd3aeb7a43_name_file_960x540_1600_v4_.jpg?smart=true&auth=d27756eb0c73dc991944be95862106b83b28c56298bbb6b57aafc51a715b4f0f&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Nataly diz que JP não tem 'força' sem grupo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nataly-diz-que-jp-nao-tem-forca-sem-grupo-casa-do-patrao-23052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-23-2026%2Ft_773d7a92166d49e09376c28d43f82c4e_name_file_960x540_1600_v4_.jpg?smart=true&auth=24cc5e07956f205c6e6b5c180553d985f3f362581e39f25138248fa7d5fdb832&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 20,
-    "video": 58,
+    "noticia": 21,
+    "video": 57,
     "foto": 22
   }
 }
