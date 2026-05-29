@@ -1,14 +1,8 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-29T14:27:18.837Z",
+  "fetchedAt": "2026-05-29T17:50:44.199Z",
   "lastAddedCount": 5,
   "items": [
-    {
-      "title": "Vini é eliminado da Casa do Patrão, com 9,54% dos votos; Jackson e Matheus seguem na disputa pelo prêmio",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/vini-e-eliminado-da-casa-do-patrao-com-954-dos-votos-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/5VZ4TX2F4NENHBZ322LC7LMJU4.png?auth=1410ac6c51eae212c3b4a71327a2ff38829015c2ff83a06e5cf633764a1e8bb8&smart=true&width=696&height=390",
-      "type": "noticia"
-    },
     {
       "title": "Como você avalia o mandato de João Victor na Casa do Patrão?",
       "href": "https://record.r7.com/casa-do-patrao/novidades/como-voce-avalia-o-mandato-de-joao-victor-na-casa-do-patrao-29052026/",
@@ -46,10 +40,10 @@
       "type": "noticia"
     },
     {
-      "title": "Irritada, Bianca lava a louça e João Victor ordena: 'Lava direitinho' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/irritada-bianca-lava-a-louca-e-joao-victor-ordena-lava-direitinho-casa-do-patrao-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_51841494eab14fbaa28c3016005aa265_name_file_960x540_1600_v4_.jpg?smart=true&auth=a8dbd9d60aabd4b51625c17005b017820a57f426a6fb9565a9aaed4f34ea7e2d&width=960&height=540",
-      "type": "video"
+      "title": "Vini é eliminado da Casa do Patrão, com 9,54% dos votos",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/vini-e-eliminado-da-casa-do-patrao-com-954-dos-votos-29052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/5VZ4TX2F4NENHBZ322LC7LMJU4.png?auth=1410ac6c51eae212c3b4a71327a2ff38829015c2ff83a06e5cf633764a1e8bb8&smart=true&width=696&height=390",
+      "type": "noticia"
     },
     {
       "title": "Ex-moradores! Relembre a porcentagem dos eliminados da Casa do Patrão",
@@ -130,9 +124,41 @@
       "type": "foto"
     },
     {
+      "title": "Vini reage às reclamações sobre olhares desconfortáveis: 'Criaram uma narrativa' | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/vini-reage-as-reclamacoes-sobre-olhares-desconfortaveis-criaram-uma-narrativa-live-ta-na-rua-29052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_bc127d3551524798a351cf9c11ab955d_name_file_960x540_1600_v4_.jpg?smart=true&auth=628031fe975209a9cc419763faf381ff889617a7273e37894e7eb22469627893&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "'A Sheila tem medo do Vivão e da Nataly', dispara Vini ao analisar ex-adversária | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/a-sheila-tem-medo-do-vivao-e-da-nataly-dispara-vini-ao-analisar-ex-adversaria-live-ta-na-rua-29052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_63b0faa8032e468eb12fadbaeb3f9908_name_file_960x540_1600_v4_.jpg?smart=true&auth=fa29484615cc0bc88fdc227b5ebe1fa0b5430b9e9d482c9bec2d1e0def839c26&width=960&height=540",
+      "type": "video",
+      "category": "LIVE TÁ NA RUA",
+      "time": "HÁ 21 MINUTOS"
+    },
+    {
+      "title": "Vini diz que embate com Sheila foi decisivo para a sua eliminação | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/vini-diz-que-embate-com-sheila-foi-decisivo-para-a-sua-eliminacao-live-ta-na-rua-29052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_9682647c17cc4068afa0ddedeb955c75_name_file_960x540_1600_v4_.jpg?smart=true&auth=ec4d1067e50621bfe1555e877cd87319312ab5e7eec521e53318fe38d6a7076a&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Jackson acorda motivado e mantém rotina de skincare após voltar do Tá na Reta | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-acorda-motivado-e-mantem-rotina-de-skincare-apos-voltar-do-ta-na-reta-casa-do-patrao-29052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_77eab81a4839476f9f6cc0d34b1e3d18_name_file_960x540_1600_v4_.jpg?smart=true&auth=579c2f5fa28ef11bfefe0bbe1f42ed23fe1728c2c63d2f8765f56ea00b6a23c9&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Após eliminação de Vini, Prova do Patrão movimenta a noite desta sexta (29) | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/video/apos-eliminacao-de-vini-prova-do-patrao-movimenta-a-noite-desta-sexta-29-casa-do-patrao-29052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_720e49f45eb34b44bea1953e974a649d_name_file_960x540_1600_v4_.jpg?smart=true&auth=db40d87882c2999b20e734f462738bc759d8af6be79aa091c730b78fab7e6e86&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Irritada, Bianca lava a louça e João Victor ordena: 'Lava direitinho' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/irritada-bianca-lava-a-louca-e-joao-victor-ordena-lava-direitinho-casa-do-patrao-29052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_51841494eab14fbaa28c3016005aa265_name_file_960x540_1600_v4_.jpg?smart=true&auth=a8dbd9d60aabd4b51625c17005b017820a57f426a6fb9565a9aaed4f34ea7e2d&width=960&height=540",
       "type": "video"
     },
     {
@@ -184,28 +210,10 @@
       "type": "video"
     },
     {
-      "title": "Biscoiteiro! Moradores acreditam na saída de Vini na Quinta de Aposta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/biscoiteiro-moradores-acreditam-na-saida-de-vini-na-quinta-de-aposta-casa-do-patrao-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_2fdd0e364a8442a7b4968f3cb4ea4429_name_file_960x540_1600_v4_.jpg?smart=true&auth=0efc6242067db67f4fa3b4a921df365334657c99c76f75c34d52a98e06f5938b&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Vini, Jackson e Matheus destacam as emoções antes do resultado do Tá na Reta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/vini-jackson-e-matheus-destacam-as-emocoes-antes-do-resultado-do-ta-na-reta-casa-do-patrao-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_e7e56571a1174d88b07bc0bd726ab2c6_name_file_960x540_1600_v4_.jpg?smart=true&auth=c878aad3be050fe50361c437383115fe6681a31cbd68d672b9888c526c3078b9&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Dono das pistas de dança! Vini se impõe com postura marrenta e animação | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/dono-das-pistas-de-danca-vini-se-impoe-com-postura-marrenta-e-animacao-casa-do-patrao-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_5ef4d423c3b94196b901e49284fb12f4_name_file_960x540_1600_v4_.jpg?smart=true&auth=f4b584dfeda63ca3c54f789b66b68594c991165b89fb4c13fadb789a5a1b28ca&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "João Victor avalia desempenho dos moradores do Trampo e detona postura de Bianca | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/joao-victor-avalia-desempenho-dos-moradores-do-trampo-e-detona-postura-de-bianca-casa-do-patrao-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_08c193d393234c948046260c57d1e1a1_name_file_960x540_1600_v4_.jpg?smart=true&auth=7217434cea127ba377e7d2666b0ff2d7c02bb5824d967b5f3bb9073bfd832ff9&width=960&height=540",
-      "type": "video"
+      "title": "Live Tá na Rua: Vini analisa trajetória em Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/live-ta-na-rua-vini-analisa-trajetoria-em-casa-do-patrao-29052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EYQWVQG55RA2HNJG7LD6ES3TBA.jpg?smart=true&auth=b0668bf3fb8c7f59c34d410e36e52db3e57cf9cdab0326e46f1785e8f7412abf&width=348&height=195",
+      "type": "noticia"
     },
     {
       "title": "Jackson, Matheus ou Vini, quem você quer que permaneça na Casa do Patrão?",
@@ -235,18 +243,6 @@
       "title": "Jackson, Matheus e Vini estão no quinto Tá na Reta de Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/jackson-matheus-e-vini-estao-no-quinto-ta-na-reta-de-casa-do-patrao-27052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JZ7A6GPN3NHAVLKGKCM3UTKW3Y.png?smart=true&auth=9cc4a088838cad8772aad26e354cf25215da759a477d91aa4ff44e8aab5993c8&width=677&height=380",
-      "type": "noticia"
-    },
-    {
-      "title": "Vini vence a Prova Poder do Voto e promete causar em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/vini-vence-a-prova-poder-do-voto-e-promete-causar-em-casa-do-patrao-27052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/QVXYWWI2LFHXLGGHDYPUBPYCZU.png?smart=true&auth=23663b82c09b4ccebdff62e2dbc2124a2fe8e9e0299ce6ba9fee44a9626316f6&width=677&height=380",
-      "type": "noticia"
-    },
-    {
-      "title": "Hassum manda recado carinhoso para Tadeu Schmidt: ‘Força, irmão’",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/hassum-manda-recado-carinhoso-para-tadeu-schmidt-forca-irmao-27052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/6BPTX24P6FHCNIKCJJOWXX7S4U.png?smart=true&auth=82b1129ebf34023feb28dbf1b61e33cb95bb3e843beb2cd36a1503a1a236df90&width=677&height=380",
       "type": "noticia"
     },
     {
@@ -302,6 +298,42 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/encarada-visita-ilustre-e-guerra-de-makes-agitam-a-semana-de-casa-do-patrao-25052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NAAYD6QHLZGAPCEEVBPCL7ZNSM.png?smart=true&auth=7bd5a06e14ac6daa1fd4f2148c4ab8dbad33406d41181fe853029243396ccdc0&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Biscoiteiro! Moradores acreditam na saída de Vini na Quinta de Aposta | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/biscoiteiro-moradores-acreditam-na-saida-de-vini-na-quinta-de-aposta-casa-do-patrao-29052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_2fdd0e364a8442a7b4968f3cb4ea4429_name_file_960x540_1600_v4_.jpg?smart=true&auth=0efc6242067db67f4fa3b4a921df365334657c99c76f75c34d52a98e06f5938b&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Vini, Jackson e Matheus destacam as emoções antes do resultado do Tá na Reta | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/vini-jackson-e-matheus-destacam-as-emocoes-antes-do-resultado-do-ta-na-reta-casa-do-patrao-29052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_e7e56571a1174d88b07bc0bd726ab2c6_name_file_960x540_1600_v4_.jpg?smart=true&auth=c878aad3be050fe50361c437383115fe6681a31cbd68d672b9888c526c3078b9&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Dono das pistas de dança! Vini se impõe com postura marrenta e animação | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/dono-das-pistas-de-danca-vini-se-impoe-com-postura-marrenta-e-animacao-casa-do-patrao-29052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_5ef4d423c3b94196b901e49284fb12f4_name_file_960x540_1600_v4_.jpg?smart=true&auth=f4b584dfeda63ca3c54f789b66b68594c991165b89fb4c13fadb789a5a1b28ca&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "João Victor avalia desempenho dos moradores do Trampo e detona postura de Bianca | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/joao-victor-avalia-desempenho-dos-moradores-do-trampo-e-detona-postura-de-bianca-casa-do-patrao-29052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_08c193d393234c948046260c57d1e1a1_name_file_960x540_1600_v4_.jpg?smart=true&auth=7217434cea127ba377e7d2666b0ff2d7c02bb5824d967b5f3bb9073bfd832ff9&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Vini vence a Prova Poder do Voto e promete causar em Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/vini-vence-a-prova-poder-do-voto-e-promete-causar-em-casa-do-patrao-27052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/QVXYWWI2LFHXLGGHDYPUBPYCZU.png?smart=true&auth=23663b82c09b4ccebdff62e2dbc2124a2fe8e9e0299ce6ba9fee44a9626316f6&width=677&height=380",
+      "type": "noticia"
+    },
+    {
+      "title": "Hassum manda recado carinhoso para Tadeu Schmidt: ‘Força, irmão’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/hassum-manda-recado-carinhoso-para-tadeu-schmidt-forca-irmao-27052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/6BPTX24P6FHCNIKCJJOWXX7S4U.png?smart=true&auth=82b1129ebf34023feb28dbf1b61e33cb95bb3e843beb2cd36a1503a1a236df90&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Fabíola Reipert relembra as fofocas da semana; confira",
@@ -576,41 +608,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-pegam-roupas-para-festa-com-tema-gala-casa-do-patrao-28052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-28-2026%2Ft_c80c3c3ccf0445d29602c703c2798759_name_file_960x540_1600_v4_.jpg?smart=true&auth=b503aa6a3e39021ca2cf9290b958ffb751c60ac587b2faab1071e6f5f4138051&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Sheila diz que vai 'apostar errado' na Quinta de Aposta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-diz-que-vai-apostar-errado-na-quinta-de-aposta-casa-do-patrao-27052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-27-2026%2Ft_704d2d6dc65e426aaa5471f87e363f51_name_file_960x540_1600_v4_.jpg?smart=true&auth=7fc7688ee1e8bcde831c803606a0e51bd8965f8ca488df0aec4296ed23e39554&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "JP e Matheus debocham de plano do Patrão João Victor | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jp-e-matheus-debocham-de-plano-do-patrao-joao-victor-casa-do-patrao-27052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-27-2026%2Ft_15d46f1da4284948bfa7aab3e89c85c5_name_file_960x540_1600_v4_.jpg?smart=true&auth=3f90dbae923d4ce9937c28a175af4dd7fbc3456d74599dcbada90d6d7edc181e&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Vini fala para aliados que Sheila já 'definiu' o resultado do Tá na Reta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vini-fala-para-aliados-que-sheila-ja-definiu-o-resultado-do-ta-na-reta-casa-do-patrao-27052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-27-2026%2Ft_b012a30bcf374e678d60339e4bee63b7_name_file_960x540_1600_v4_.jpg?smart=true&auth=893b1e34774944480a56818185fb26e1f91a48c6f75ab5d68c66a61946470720&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Jackson aponta Sheila como campeã: ‘Pode assinar o cheque e entregar para ela’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-aponta-sheila-como-campea-pode-assinar-o-cheque-e-entregar-para-ela-casa-do-patrao-27052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-27-2026%2Ft_274703f9480e44e4be77104354a20ae4_name_file_960x540_1600_v4_.jpg?smart=true&auth=8fb3380197c06f540647e7dbd1f57df49d3ebf8db3d77b7b57f4c2bb6eb62e66&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Jackson elege moradores mais frágeis no grupo de Sheila | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-elege-moradores-mais-frageis-no-grupo-de-sheila-casa-do-patrao-27052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-27-2026%2Ft_36499f7b99484096867760a602fed8d7_name_file_960x540_1600_v4_.jpg?smart=true&auth=2c106a0c7340d0de570d68120fa2e2b094f3153a0bd21c1cecd2bf1b52ebcbf3&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 23,
-    "video": 56,
+    "noticia": 24,
+    "video": 55,
     "foto": 21
   }
 }
