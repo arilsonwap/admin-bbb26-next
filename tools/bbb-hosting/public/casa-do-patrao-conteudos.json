@@ -1,10 +1,10 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-30T18:52:38.848Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-05-30T20:08:09.299Z",
+  "lastAddedCount": 1,
   "items": [
     {
-      "title": "Dudu Camargo agita Casa do Patrão e moradores elegem quem é farinha do mesmo saco com direito a treta e pedido de VAR",
+      "title": "Dudu Camargo agita Casa do Patrão e moradores elegem quem é farinha do mesmo saco, com direito a treta e pedido de VAR",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/dudu-camargo-agita-casa-do-patrao-e-moradores-elegem-quem-e-farinha-do-mesmo-saco-com-direito-a-treta-e-pedido-de-var-30052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/PMJWLNRVWVF4NLDFNAFY5BTKRQ.png?smart=true&auth=7ca0f27f0c0dec9542c7db696969736e7561234ea2759efd40b3970ec478fb74&width=770&height=433",
       "type": "foto"
@@ -124,6 +124,12 @@
       "type": "foto"
     },
     {
+      "title": "Vivão e Andressa acusam JP de se aliar ao grupo da Sheila por estratégia | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-e-andressa-acusam-jp-de-se-aliar-ao-grupo-da-sheila-por-estrategia-casa-do-patrao-30052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_2a9e749c33d14a7095ee225fc854c57d_name_file_960x540_1600_v4_.jpg?smart=true&auth=d17f6b8cf96fde4c5a4cbb176341119b3139859435e3036e0ead5e6736d89e4b&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Matheus e Sheila chamam Morena de ‘mole’ e ‘indiferente’ | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-e-sheila-chamam-morena-de-mole-e-indiferente-casa-do-patrao-30052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_0fdbe10075ed4027b7a5d095e1a85ed1_name_file_960x540_1600_v4_.jpg?smart=true&auth=70001fb178fcc4e2e49cb8ff1348281cae90f2b302880ac00f45492211d5beb7&width=960&height=540",
@@ -135,7 +141,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_932655c6871e44429fc4028f0ec7bdc3_name_file_960x540_1600_v4_.jpg?smart=true&auth=5ad34c921a5b1e8f3aed8cf80239867638570ad65aed4bd6bcdfbe97d65c0cb2&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 1 HORA"
+      "time": "HÁ 3 HORAS"
     },
     {
       "title": "Andressa escolhe Vivão para as compras no mercado desta semana | Casa do Patrão",
@@ -189,12 +195,6 @@
       "title": "Morena seleciona seis moradores para as tarefas da Casa do Trampo | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/morena-seleciona-seis-moradores-para-as-tarefas-da-casa-do-trampo-casa-do-patrao-30052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_aea052a75b614cbd9f697687e48d73c1_name_file_960x540_1600_v4_.jpg?smart=true&auth=bbee5590cc6c4df80242609949980d8b6843dee7fab397113606c1ea12a046d7&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Morena supera concorrentes e vence Prova do Patrão | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/morena-supera-concorrentes-e-vence-prova-do-patrao-casa-do-patrao-30052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_dad5178945f74d1893cd2c582cef6d52_name_file_960x540_1600_v4_.jpg?smart=true&auth=ae488a058676c26856588fb7a334d808638b151bb342e143c78ae39a805de6b0&width=960&height=540",
       "type": "video"
     },
     {
@@ -304,6 +304,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/teoria-x-pratica-descubra-o-que-os-moradores-prometeram-nas-inscricoes-25052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RFEBB6QEXZDK7OFILTS2HB52OE.png?smart=true&auth=f49d6345b0259a3ff5ad4a475a89bf6c4ad50eb8af7a90833fd0d29cf8d9c7ca&width=1446&height=813",
       "type": "foto"
+    },
+    {
+      "title": "Morena supera concorrentes e vence Prova do Patrão | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/morena-supera-concorrentes-e-vence-prova-do-patrao-casa-do-patrao-30052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_dad5178945f74d1893cd2c582cef6d52_name_file_960x540_1600_v4_.jpg?smart=true&auth=ae488a058676c26856588fb7a334d808638b151bb342e143c78ae39a805de6b0&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Público avalia que João Victor 'sabonetou' como Patrão | Casa do Patrão",
@@ -599,12 +605,6 @@
       "title": "Sheila espalha cascas de banana na mesa para irritar João Victor | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/sheila-espalha-cascas-de-banana-na-mesa-para-irritar-joao-victor-casa-do-patrao-29052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_0e89b7a2c32b494382a72167ecbbcff4_name_file_960x540_1600_v4_.jpg?smart=true&auth=429f21caf5fbe6ce204774b9eee211fffa63ff6094cb072b2a807c1b3b0eeb25&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Nataly e João Victor analisam influência do grupo em Bianca | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/nataly-e-joao-victor-analisam-influencia-do-grupo-em-bianca-casa-do-patrao-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_92093281ac8f4e9ab4b6cd3104d26e3c_name_file_960x540_1600_v4_.jpg?smart=true&auth=ac3ea1cfd5d1719d7f022cfed802d75377aef4ac693d887e0ed51c52190a4ae7&width=960&height=540",
       "type": "video"
     }
   ],
