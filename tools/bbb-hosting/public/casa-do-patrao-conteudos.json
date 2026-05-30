@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-30T21:13:58.600Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-05-30T22:15:43.001Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Dudu Camargo agita Casa do Patrão e moradores elegem quem é farinha do mesmo saco, com direito a treta e pedido de VAR",
@@ -124,6 +124,12 @@
       "type": "foto"
     },
     {
+      "title": "Marina abre o jogo e rejeita ter alianças apenas para somar votos | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/marina-abre-o-jogo-e-rejeita-ter-aliancas-apenas-para-somar-votos-casa-do-patrao-30052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_3185e43d5f314f208ca6b9755193f5a8_name_file_960x540_1600_v4_.jpg?smart=true&auth=74c67e86bcf9bcc0bef7a7fd214fc7f9be0d0dc37070afc6c144df0d323c59aa&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Nataly se revolta com acusações de flerte com João Victor | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nataly-se-revolta-com-acusacoes-de-flerte-com-joao-victor-casa-do-patrao-30052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_bf0f1327002e44f0a2009606d9703aaf_name_file_960x540_1600_v4_.jpg?smart=true&auth=de52bac26ab05462be6062965d194ae3e753559d7a2cf8556bed0315eefa44bd&width=960&height=540",
@@ -153,7 +159,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_932655c6871e44429fc4028f0ec7bdc3_name_file_960x540_1600_v4_.jpg?smart=true&auth=5ad34c921a5b1e8f3aed8cf80239867638570ad65aed4bd6bcdfbe97d65c0cb2&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 4 HORAS"
+      "time": "HÁ 5 HORAS"
     },
     {
       "title": "Andressa escolhe Vivão para as compras no mercado desta semana | Casa do Patrão",
@@ -189,12 +195,6 @@
       "title": "João Victor faz teorias sobre avaliação do público como saboneteiro | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-faz-teorias-sobre-avaliacao-do-publico-como-saboneteiro-casa-do-patrao-30052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_8c68c60ee7e4446ca8d0db40c9fba520_name_file_960x540_1600_v4_.jpg?smart=true&auth=50fa92e873a7792ac86a7648b259cfcbe0629d0236f33cbe064bc4acc1669e41&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "João Victor e Jackson planejam próximo Tá na Reta e indicam voto em Sheila | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-e-jackson-planejam-proximo-ta-na-reta-e-indicam-voto-em-sheila-casa-do-patrao-30052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_659ecf5361b34300be68b446aa8fd7f8_name_file_960x540_1600_v4_.jpg?smart=true&auth=65d03169bd394fe6b2cdacfb537dc2cb5276799561a4a3d097c97ff8f5c7a272&width=960&height=540",
       "type": "video"
     },
     {
@@ -304,6 +304,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/teoria-x-pratica-descubra-o-que-os-moradores-prometeram-nas-inscricoes-25052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RFEBB6QEXZDK7OFILTS2HB52OE.png?smart=true&auth=f49d6345b0259a3ff5ad4a475a89bf6c4ad50eb8af7a90833fd0d29cf8d9c7ca&width=1446&height=813",
       "type": "foto"
+    },
+    {
+      "title": "João Victor e Jackson planejam próximo Tá na Reta e indicam voto em Sheila | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-e-jackson-planejam-proximo-ta-na-reta-e-indicam-voto-em-sheila-casa-do-patrao-30052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_659ecf5361b34300be68b446aa8fd7f8_name_file_960x540_1600_v4_.jpg?smart=true&auth=65d03169bd394fe6b2cdacfb537dc2cb5276799561a4a3d097c97ff8f5c7a272&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Doce de leite duvidoso? Colher ‘cuspida’ volta a repercutir entre Nataly e Jackson | Casa do Patrão",
@@ -599,12 +605,6 @@
       "title": "Fabíola Reipert relembra as fofocas da semana; confira",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/na-reta-com-a-venenosa-fabiola-reipert-relembra-as-maiores-fofocas-da-semana-da-casa-do-patrao-29052026/",
       "imageUrl": "https://d22yf0mxeu0gma.cloudfront.net/05-29-2026/t_afe0093d10a84a6baa7edc0a9815b430_name_file_960x540_1600_v4_.jpg",
-      "type": "video"
-    },
-    {
-      "title": "Estratégia sem medo? Matheus não foge de embates e mantém estilo raiz | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/estrategia-sem-medo-matheus-nao-foge-de-embates-e-mantem-estilo-raiz-casa-do-patrao-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_e5e67a71f3ac465a801401421609de6e_name_file_960x540_1600_v4_.jpg?smart=true&auth=8c8dd4bac24ce597dced7966a0019a1aa8f699162eb99ec09027dcd6e2103c93&width=960&height=540",
       "type": "video"
     }
   ],
