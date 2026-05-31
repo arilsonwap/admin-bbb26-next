@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-31T21:14:19.879Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-05-31T22:16:45.301Z",
+  "lastAddedCount": 2,
   "items": [
     {
       "title": "‘Fake news’ revelada e gestão arrogante: moradores elegem a maior decepção de Casa do Patrão; veja quem foi escolhido",
@@ -124,6 +124,18 @@
       "type": "foto"
     },
     {
+      "title": "JP critica Morena como Patroa: ‘Não tem pulso firme’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jp-critica-morena-como-patroa-nao-tem-pulso-firme-casa-do-patrao-31052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_eeefbce7396b4ec5983d979c0958ad97_name_file_960x540_1600_v4_.jpg?smart=true&auth=ab602ed193575d98a7e44c0fdbf2f0502486ec57bc36f66b408bdf2dba3a23b8&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Sheila aconselha Bianca sobre provocações com a Patroa Morena | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-aconselha-bianca-sobre-provocacoes-com-a-patroa-morena-casa-do-patrao-31052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_dfa24444e91944489cc25fd8a607330d_name_file_960x540_1600_v4_.jpg?smart=true&auth=6b46e47ad5376a6c81ef2009a01f1aef7db7046e15b2bb3f4eae545fc7d4dac0&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Marina e Luiza conversam sobre diferentes sotaques no Brasil | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/marina-e-luiza-conversam-sobre-diferentes-sotaques-no-brasil-casa-do-patrao-31052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_856cae24489f4a4cb52889f22493762d_name_file_960x540_1600_v4_.jpg?smart=true&auth=41b052e414744bbeb3f4a3817b66dca2eafdb749de647722b12b8f0cfe0a2ec8&width=960&height=540",
@@ -190,18 +202,6 @@
       "type": "video"
     },
     {
-      "title": "Com mãos de ferro, Morena dá início ao segundo patronato e irrita Bianca | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/com-maos-de-ferro-morena-da-inicio-ao-segundo-patronato-e-irrita-bianca-casa-do-patrao-31052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_e42550b675b4483aa725b3c86df4904e_name_file_960x540_1600_v4_.jpg?smart=true&auth=07ed162c0195e6254253893849c397b8c1a1b984b66f9e6b89fa0bdf739553b1&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Moradores planejam dar ultimato à Marina para que ela vote em João Victor | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/moradores-planejam-dar-ultimato-a-marina-para-que-ela-vote-em-joao-victor-casa-do-patrao-31052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_1861eb4a6e6a483e911b4cd0466523ad_name_file_960x540_1600_v4_.jpg?smart=true&auth=f4fd839176cb5b99846ff8ea0b4675063325940786aaab1276e15444f56f8ff2&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Público de Casa do Patrão define mandato de João Victor como ‘sabonetou’",
       "href": "https://record.r7.com/casa-do-patrao/novidades/publico-de-casa-do-patrao-define-mandato-de-joao-victor-como-sabonetou-30052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ZLZMWELU3JG7ZGVD46YRY3S6XE.png?smart=true&auth=46f6a3297e3d7d6c91f2a161a1d009de0ca30118e771239f67d663763ff4ede6&width=770&height=433",
@@ -241,12 +241,6 @@
       "title": "Morena é confortada por Hassum após crise de choro em Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/morena-e-confortada-por-hassum-apos-crise-de-choro-em-casa-do-patrao-29052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JMJG4W5WTBHYPPYEDGVFL4ILCI.png?smart=true&auth=fe526a3163fc6f633650cc54fc779a6754d4f4e04616c1fc52aedc2b66ef2780&width=770&height=433",
-      "type": "noticia"
-    },
-    {
-      "title": "Vini é eliminado da Casa do Patrão, com 9,54% dos votos",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/vini-e-eliminado-da-casa-do-patrao-com-954-dos-votos-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/5VZ4TX2F4NENHBZ322LC7LMJU4.png?smart=true&auth=1410ac6c51eae212c3b4a71327a2ff38829015c2ff83a06e5cf633764a1e8bb8&width=770&height=433",
       "type": "noticia"
     },
     {
@@ -302,6 +296,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/teoria-x-pratica-descubra-o-que-os-moradores-prometeram-nas-inscricoes-25052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RFEBB6QEXZDK7OFILTS2HB52OE.png?smart=true&auth=f49d6345b0259a3ff5ad4a475a89bf6c4ad50eb8af7a90833fd0d29cf8d9c7ca&width=1446&height=813",
       "type": "foto"
+    },
+    {
+      "title": "Com mãos de ferro, Morena dá início ao segundo patronato e irrita Bianca | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/com-maos-de-ferro-morena-da-inicio-ao-segundo-patronato-e-irrita-bianca-casa-do-patrao-31052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_e42550b675b4483aa725b3c86df4904e_name_file_960x540_1600_v4_.jpg?smart=true&auth=07ed162c0195e6254253893849c397b8c1a1b984b66f9e6b89fa0bdf739553b1&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Moradores planejam dar ultimato à Marina para que ela vote em João Victor | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/moradores-planejam-dar-ultimato-a-marina-para-que-ela-vote-em-joao-victor-casa-do-patrao-31052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_1861eb4a6e6a483e911b4cd0466523ad_name_file_960x540_1600_v4_.jpg?smart=true&auth=f4fd839176cb5b99846ff8ea0b4675063325940786aaab1276e15444f56f8ff2&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Vini é eliminado da Casa do Patrão, com 9,54% dos votos",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/vini-e-eliminado-da-casa-do-patrao-com-954-dos-votos-29052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/5VZ4TX2F4NENHBZ322LC7LMJU4.png?smart=true&auth=1410ac6c51eae212c3b4a71327a2ff38829015c2ff83a06e5cf633764a1e8bb8&width=770&height=433",
+      "type": "noticia"
     },
     {
       "title": "Hassum é surpreendido por 'novo morador' ao fazer contato com a Casa de Convivência | Casa do Patrão",
@@ -593,18 +605,6 @@
       "title": "Vini diz que embate com Sheila foi decisivo para a sua eliminação | Live Tá na Rua",
       "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/vini-diz-que-embate-com-sheila-foi-decisivo-para-a-sua-eliminacao-live-ta-na-rua-29052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_9682647c17cc4068afa0ddedeb955c75_name_file_960x540_1600_v4_.jpg?smart=true&auth=ec4d1067e50621bfe1555e877cd87319312ab5e7eec521e53318fe38d6a7076a&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Jackson acorda motivado e mantém rotina de skincare após voltar do Tá na Reta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-acorda-motivado-e-mantem-rotina-de-skincare-apos-voltar-do-ta-na-reta-casa-do-patrao-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_77eab81a4839476f9f6cc0d34b1e3d18_name_file_960x540_1600_v4_.jpg?smart=true&auth=579c2f5fa28ef11bfefe0bbe1f42ed23fe1728c2c63d2f8765f56ea00b6a23c9&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Após eliminação de Vini, Prova do Patrão movimenta a noite desta sexta (29) | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/video/apos-eliminacao-de-vini-prova-do-patrao-movimenta-a-noite-desta-sexta-29-casa-do-patrao-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_720e49f45eb34b44bea1953e974a649d_name_file_960x540_1600_v4_.jpg?smart=true&auth=db40d87882c2999b20e734f462738bc759d8af6be79aa091c730b78fab7e6e86&width=960&height=540",
       "type": "video"
     }
   ],
