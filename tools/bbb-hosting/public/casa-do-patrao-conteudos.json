@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-05-31T20:08:10.216Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-05-31T21:14:19.879Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "‘Fake news’ revelada e gestão arrogante: moradores elegem a maior decepção de Casa do Patrão; veja quem foi escolhido",
@@ -124,6 +124,12 @@
       "type": "foto"
     },
     {
+      "title": "Marina e Luiza conversam sobre diferentes sotaques no Brasil | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/marina-e-luiza-conversam-sobre-diferentes-sotaques-no-brasil-casa-do-patrao-31052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_856cae24489f4a4cb52889f22493762d_name_file_960x540_1600_v4_.jpg?smart=true&auth=41b052e414744bbeb3f4a3817b66dca2eafdb749de647722b12b8f0cfe0a2ec8&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Sheila planeja fazer desfile de Carnaval para irritar Nataly | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-planeja-fazer-desfile-de-carnaval-para-irritar-nataly-casa-do-patrao-31052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_a18511eb6b3e4f90a21463ac60f15884_name_file_960x540_1600_v4_.jpg?smart=true&auth=77d5c11cd18414dfc6e4fc2aa51dfe7f2f45cbc683483cb98d50ccb704232398&width=960&height=540",
@@ -193,12 +199,6 @@
       "title": "Moradores planejam dar ultimato à Marina para que ela vote em João Victor | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/moradores-planejam-dar-ultimato-a-marina-para-que-ela-vote-em-joao-victor-casa-do-patrao-31052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_1861eb4a6e6a483e911b4cd0466523ad_name_file_960x540_1600_v4_.jpg?smart=true&auth=f4fd839176cb5b99846ff8ea0b4675063325940786aaab1276e15444f56f8ff2&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Hassum é surpreendido por 'novo morador' ao fazer contato com a Casa de Convivência | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/hassum-e-surpreendido-por-novo-morador-ao-fazer-contato-com-a-casa-de-convivencia-casa-do-patrao-31052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_ce4383aa5d704ff483e3ebdba7364d40_name_file_960x540_1600_v4_.jpg?smart=true&auth=40cf05eee3815f9a78943b0f64557ea59a8e103547b68bb66f90c311c619ae6e&width=960&height=540",
       "type": "video"
     },
     {
@@ -302,6 +302,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/teoria-x-pratica-descubra-o-que-os-moradores-prometeram-nas-inscricoes-25052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RFEBB6QEXZDK7OFILTS2HB52OE.png?smart=true&auth=f49d6345b0259a3ff5ad4a475a89bf6c4ad50eb8af7a90833fd0d29cf8d9c7ca&width=1446&height=813",
       "type": "foto"
+    },
+    {
+      "title": "Hassum é surpreendido por 'novo morador' ao fazer contato com a Casa de Convivência | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/hassum-e-surpreendido-por-novo-morador-ao-fazer-contato-com-a-casa-de-convivencia-casa-do-patrao-31052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_ce4383aa5d704ff483e3ebdba7364d40_name_file_960x540_1600_v4_.jpg?smart=true&auth=40cf05eee3815f9a78943b0f64557ea59a8e103547b68bb66f90c311c619ae6e&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Hora da luta? JP e João Victor se encaram em clima tenso; assista",
@@ -600,17 +606,11 @@
       "href": "https://record.r7.com/casa-do-patrao/video/apos-eliminacao-de-vini-prova-do-patrao-movimenta-a-noite-desta-sexta-29-casa-do-patrao-29052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_720e49f45eb34b44bea1953e974a649d_name_file_960x540_1600_v4_.jpg?smart=true&auth=db40d87882c2999b20e734f462738bc759d8af6be79aa091c730b78fab7e6e86&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Hassum abre o coração e faz desabafo emocionante em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/hassum-abre-o-coracao-e-faz-desabafo-emocionante-em-casa-do-patrao-28052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YCX4YTW3DNCRBBLMELRBYJY54A.png?smart=true&auth=bb28a33ad3ceb04fc0eb623e58fe8ffd2a76803ff43dd99699d5292e76f41304&width=770&height=433",
-      "type": "noticia"
     }
   ],
   "counts": {
-    "noticia": 20,
-    "video": 60,
+    "noticia": 19,
+    "video": 61,
     "foto": 20
   }
 }
