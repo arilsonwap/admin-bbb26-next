@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-01T07:02:50.973Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-06-01T12:48:07.888Z",
+  "lastAddedCount": 5,
   "items": [
     {
       "title": "‘Fake news’ revelada e gestão arrogante: moradores elegem a maior decepção de Casa do Patrão; veja quem foi escolhido",
@@ -40,9 +40,9 @@
       "type": "foto"
     },
     {
-      "title": "Nataly chama Vivão de ‘medroso’ e moradores se estranham | Casa do Patrão",
+      "title": "Nataly chama Vivão de ‘medroso’ e clima pesa",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nataly-chama-vivao-de-medroso-e-moradores-se-estranham-casa-do-patrao-31052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_d86d9be1f3884b179b5db6be8e0c19dc_name_file_960x540_1600_v4_.jpg?smart=true&auth=e12e641f3081702dc8fdff79ae1988a3441769e977bea45d6daa8ae06cd30323&width=960&height=540",
+      "imageUrl": "https://d22yf0mxeu0gma.cloudfront.net/05-31-2026/t_d86d9be1f3884b179b5db6be8e0c19dc_name_file_960x540_1600_v4_.jpg",
       "type": "video"
     },
     {
@@ -124,6 +124,36 @@
       "type": "foto"
     },
     {
+      "title": "Matheus faz carinho em Bianca durante conversa em grupo | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-faz-carinho-em-bianca-durante-conversa-em-grupo-casa-do-patrao-01062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-01-2026%2Ft_74d55bfe2a854b57b9c01e78e2454dbd_name_file_960x540_1600_v4_.jpg?smart=true&auth=99372c4012501f95c634774ee50d35efe03111d53d0a66552082ecbbe9f3a980&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Sheila revela intriga com Vivão e o chama de ‘mentiroso’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-revela-intriga-com-vivao-e-o-chama-de-mentiroso-casa-do-patrao-01062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-01-2026%2Ft_719406dd3d804a97a9ddbcfdb45c57c5_name_file_960x540_1600_v4_.jpg?smart=true&auth=af8cd2b017478852ec718a35da96da490a225a1f8d311cef481307105f93b96f&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Vai voltar grandão? João Victor torce para vencer adversários no próximo Tá na Reta | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vai-voltar-grandao-joao-victor-torce-para-vencer-adversarios-no-proximo-ta-na-reta-casa-do-patrao-01062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-01-2026%2Ft_063021d0f7c74465ab9e67596e32f376_name_file_960x540_1600_v4_.jpg?smart=true&auth=de169ce424f3616bb6ee7a6fd571322b7983235886eec6aa2cd8282eca0c97c8&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Bianca e Matheus ignoram críticas e cantam e dançam juntos na Festa Ano-Novo | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-e-matheus-ignoram-criticas-e-cantam-e-dancam-juntos-na-festa-ano-novo-casa-do-patrao-01062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-01-2026%2Ft_79606e74f3054ccab6067a6eff7f9365_name_file_960x540_1600_v4_.jpg?smart=true&auth=c59d5ef10252a0b4eef88f996282aeddc6f1631fbf4ef25717d59533d623f49e&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Nataly sai da festa discretamente e confere se Sheila encontrou perucas escondidas | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nataly-sai-da-festa-discretamente-e-confere-se-sheila-encontrou-perucas-escondidas-casa-do-patrao-01062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-01-2026%2Ft_1e5c880657a14f459e1dacb88d02b7e0_name_file_960x540_1600_v4_.jpg?smart=true&auth=f5f814b2d160c0303c84290691edb40981840e6bf4b7735dedfe4653ca472683&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Fabinho embala Réveillon fora de época na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/fabinho-embala-reveillon-fora-de-epoca-na-casa-do-patrao-01062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-01-2026%2Ft_55121a5e2279468d98e0aafaddb17134_name_file_960x540_1600_v4_.jpg?smart=true&auth=51932a95cfc92a1f0683e40edc0d00e6b5e68099ef85618e39ebeab4f6f34f0c&width=960&height=540",
@@ -175,30 +205,6 @@
       "title": "Sheila planeja fazer desfile de Carnaval para irritar Nataly | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-planeja-fazer-desfile-de-carnaval-para-irritar-nataly-casa-do-patrao-31052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_a18511eb6b3e4f90a21463ac60f15884_name_file_960x540_1600_v4_.jpg?smart=true&auth=77d5c11cd18414dfc6e4fc2aa51dfe7f2f45cbc683483cb98d50ccb704232398&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Moradores iniciam prova para liberação da festa | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-iniciam-prova-para-liberacao-da-festa-casa-do-patrao-31052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_74cb8c4cba2f4964bce6c1ddf6258ac6_name_file_960x540_1600_v4_.jpg?smart=true&auth=ef549f13487bb32f0beb0b9f52f64818b4c58f1b16532dc10d8a19cad7e91ce4&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Novo morador? Vivão 'revela' mais um participante da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/novo-morador-vivao-revela-mais-um-participante-da-casa-do-patrao-31052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_8d9f34af7578443eaf4c204da56de1bf_name_file_960x540_1600_v4_.jpg?smart=true&auth=cae717758fb5411a779b0625ce0d7bcd445d50f28bc88915e083cf0c102d693c&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila chama Nataly de ‘amarga’ e desabafa com Luiza | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-chama-nataly-de-amarga-e-desabafa-com-luiza-casa-do-patrao-31052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_2e097d309c3d42a8865c229de884e073_name_file_960x540_1600_v4_.jpg?smart=true&auth=fc62f5bb88d3caea686013a00f9178f1f031f0c14cd6e0ef85be2adffc1c6bf5&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Morena questiona JP sobre suposto comentário de que ele 'dá em cima' das aliadas | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/morena-questiona-jp-sobre-suposto-comentario-de-que-ele-da-em-cima-das-aliadas-casa-do-patrao-31052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_62f980f096ec41afacadbb31258c5a10_name_file_960x540_1600_v4_.jpg?smart=true&auth=2e2e85f7efe1e0895bcf19b72b135310683da44a20c05c8fd6bbecc52c533f21&width=960&height=540",
       "type": "video"
     },
     {
@@ -284,6 +290,30 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/teoria-x-pratica-descubra-o-que-os-moradores-prometeram-nas-inscricoes-25052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RFEBB6QEXZDK7OFILTS2HB52OE.png?smart=true&auth=f49d6345b0259a3ff5ad4a475a89bf6c4ad50eb8af7a90833fd0d29cf8d9c7ca&width=1446&height=813",
       "type": "foto"
+    },
+    {
+      "title": "Moradores iniciam prova para liberação da festa | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-iniciam-prova-para-liberacao-da-festa-casa-do-patrao-31052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_74cb8c4cba2f4964bce6c1ddf6258ac6_name_file_960x540_1600_v4_.jpg?smart=true&auth=ef549f13487bb32f0beb0b9f52f64818b4c58f1b16532dc10d8a19cad7e91ce4&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Novo morador? Vivão 'revela' mais um participante da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/novo-morador-vivao-revela-mais-um-participante-da-casa-do-patrao-31052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_8d9f34af7578443eaf4c204da56de1bf_name_file_960x540_1600_v4_.jpg?smart=true&auth=cae717758fb5411a779b0625ce0d7bcd445d50f28bc88915e083cf0c102d693c&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Sheila chama Nataly de ‘amarga’ e desabafa com Luiza | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-chama-nataly-de-amarga-e-desabafa-com-luiza-casa-do-patrao-31052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_2e097d309c3d42a8865c229de884e073_name_file_960x540_1600_v4_.jpg?smart=true&auth=fc62f5bb88d3caea686013a00f9178f1f031f0c14cd6e0ef85be2adffc1c6bf5&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Morena questiona JP sobre suposto comentário de que ele 'dá em cima' das aliadas | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/morena-questiona-jp-sobre-suposto-comentario-de-que-ele-da-em-cima-das-aliadas-casa-do-patrao-31052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-31-2026%2Ft_62f980f096ec41afacadbb31258c5a10_name_file_960x540_1600_v4_.jpg?smart=true&auth=2e2e85f7efe1e0895bcf19b72b135310683da44a20c05c8fd6bbecc52c533f21&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Sheila acusa Morena e Nataly de serem as moradoras 'mais maldosas' da Casa do Patrão",
@@ -573,36 +603,6 @@
       "title": "João Victor e Morena detonam Bianca após confusão com louça: ‘Sonsa e preguiçosa’ | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-e-morena-detonam-bianca-apos-confusao-com-louca-sonsa-e-preguicosa-casa-do-patrao-30052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_f8ec690efaee4b4b8bcc620a8bd8cf46_name_file_960x540_1600_v4_.jpg?smart=true&auth=558a5e3e8d2ec947aa906218e13a8354fc2fd2be84a56b36b88d852e7e4ce405&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "João Victor e Bianca voltam a brigar por causa da louça: ‘Songo-mongo’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-e-bianca-voltam-a-brigar-por-causa-da-louca-songo-mongo-casa-do-patrao-30052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-30-2026%2Ft_0e71c01ee352404eb5d4b2f235703bb3_name_file_960x540_1600_v4_.jpg?smart=true&auth=8585cfca8965b1c63822d650beb26eb9e3ec2effdc6a2c58a2e015c6e5c46f7c&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila diz que quer 'passar por todas as funções' do Trampo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-diz-que-quer-passar-por-todas-as-funcoes-do-trampo-casa-do-patrao-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_37fc41622a8f4391a410cd3d8d1e8bf1_name_file_960x540_1600_v4_.jpg?smart=true&auth=e19b15e38b34a5993fdc941b943905cf2216f2a240090fb7ebd0fd88b66f9ed3&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila detona grupo rival: 'Dali só se salvam Vivão e Nataly' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-detona-grupo-rival-dali-so-se-salvam-vivao-e-nataly-casa-do-patrao-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_1f32384802af4510be1345729f60d76a_name_file_960x540_1600_v4_.jpg?smart=true&auth=fb7feee0e5605707fc835b400f6b240168658e185440376d87d844156317f9b1&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Moradores tentam adivinhar como será a divisão de tarefas após a Prova do Patrão | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-tentam-adivinhar-como-sera-a-divisao-de-tarefas-apos-a-prova-do-patrao-casa-do-patrao-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_39d790fbe9cc414e8dbbf67878c4ce21_name_file_960x540_1600_v4_.jpg?smart=true&auth=af4bd4e8416d12a864ff297b5ec963387bc3b7a9edfc50dd2ab0621d5d24dbdc&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Tá na Rua: Assista à íntegra da live com Vini | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/ta-na-rua-assista-a-integra-da-live-com-vini-casa-do-patrao-29052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F05-29-2026%2Ft_4cb2fef8e2b14c69a332e585b6ef4c84_name_file_960x540_1600_v4_.jpg?smart=true&auth=ffbb69e78d1489b1ca8e8bec0c8b80cef76270e167cfd6907910d698c445506b&width=960&height=540",
       "type": "video"
     }
   ],
