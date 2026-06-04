@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-04T15:48:34.027Z",
-  "lastAddedCount": 6,
+  "fetchedAt": "2026-06-04T18:03:45.943Z",
+  "lastAddedCount": 2,
   "items": [
     {
       "title": "Brinde aos 'estranhos', homenagem a ex-morador e participação especial: veja como foi a Festa Cyberpunk da Casa do Patrão",
@@ -10,16 +10,10 @@
       "type": "foto"
     },
     {
-      "title": "João Victor, JP ou Sheila? Vote em quem você quer manter na Casa do Patrão?",
+      "title": "João Victor, JP ou Sheila? Vote em quem você quer manter na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/joao-victor-jp-ou-sheila-vote-em-quem-voce-quer-manter-na-casa-do-patrao-04062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IV5RRCHXWZB2HJMBWNX4ASOSSA.png?smart=true&auth=c8bece2586c799721e5e63ce6c197bfd210c0e585e918077ed75d2c706de1c1c&width=677&height=380",
       "type": "noticia"
-    },
-    {
-      "title": "Participações especiais! Relembre os famosos que já invadiram o confinamento de Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/participacoes-especiais-relembre-os-famosos-que-ja-invadiram-o-confinamento-de-casa-do-patrao-03062026-2/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/HSDOHHBDNRCS7J7GUNSHEJUYHE.jpg?smart=true&auth=f2a3f2ac86fecd7792bee41449895eae9cd4f1e702fecc126a0a51d885c0ea58&width=771&height=433",
-      "type": "foto"
     },
     {
       "title": "Sheila ensina Marina e Bianca a desfilar: ‘Peito de pombo e olhar de águia’ | Casa do Patrão",
@@ -34,9 +28,15 @@
       "type": "noticia"
     },
     {
+      "title": "Participações especiais! Relembre os famosos que já invadiram o confinamento de Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/participacoes-especiais-relembre-os-famosos-que-ja-invadiram-o-confinamento-de-casa-do-patrao-03062026-2/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BXSUSBIMWZHKTGZA2REDBMMGOY.jpg?smart=true&auth=bfa04d963f2353f67f6a39dea30efcd4dd13d0b9379bd7ede7cc1db9ad67bb46&width=771&height=433",
+      "type": "foto"
+    },
+    {
       "title": "Como um náufrago! Conheça Wilson, novo morador de Casa de Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/como-um-naufrago-conheca-wilson-novo-morador-de-casa-de-patrao-02062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ECAEDH566FCCVGPQ7LYPBG6TBE.gif?auth=3c3d9353e54ba7e98e65e5800b505cba8902f03ac2432709642f2e727d88d6ef&smart=true&width=696&height=391",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/D6LS6TKZZNBO7JFB7TRP6RIKDA.png?smart=true&auth=f24c3d847ab3cc995704a02e0d109c9bf685edcf582c3e6494d3d21fcffd3573&width=770&height=433",
       "type": "foto"
     },
     {
@@ -61,12 +61,6 @@
       "title": "Café, jujuba e perrengue polêmico! Hassum revela histórias curiosas de camarim",
       "href": "https://record.r7.com/casa-do-patrao/novidades/cafe-jujuba-e-perrengue-polemico-hassum-revela-historias-curiosas-de-camarim-04062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NEXNW26AZREIBFGV55T4H6AAXA.png?smart=true&auth=624a54707894be8fcbd1078e73475cb382f6b1013c71f0c2a218eb12d0e5b287&width=1269&height=713",
-      "type": "noticia"
-    },
-    {
-      "title": "Paz selada! Sheila perdoa Nataly após furto de perucas: ‘Volte para o jogo, é só isso que me interessa’",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/paz-selada-sheila-perdoa-nataly-apos-furto-de-perucas-volte-para-o-jogo-e-so-isso-que-me-interessa-03062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VQGJPRFCZZBBRC4C4N275D3R4E.png?smart=true&auth=c176de2c3df4b35cc6659f51b7b393bb69be8699e3ca76ac62734f9d35cafe33&width=677&height=380",
       "type": "noticia"
     },
     {
@@ -130,6 +124,18 @@
       "type": "foto"
     },
     {
+      "title": "Novo casal? Mari e Sheila suspeitam romance entre Jackson e Andressa | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/novo-casal-mari-e-sheila-suspeitam-romance-entre-jackson-e-andressa-casa-do-patrao-04062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-04-2026%2Ft_2c7b94ca2da449278a1529ab1b35276b_name_file_960x540_1600_v4_.jpg?smart=true&auth=4f469ff1e30132f9f16872173e14fd8eabbf8ba51bb5185ae55ede46626e9260&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Sexta eliminação movimenta noite desta quinta-feira (04) na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/video/sexta-eliminacao-movimenta-noite-desta-quinta-feira-04-na-casa-do-patrao-04062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-04-2026%2Ft_d5417570ce604a09afa92c9a9d2cf693_name_file_960x540_1600_v4_.jpg?smart=true&auth=075073ba941e38fc65e21c5ee89ef4214a91d75eb50a79ae82cbc964946d4823&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Sheila está confiante sobre Tá na Reta: 'Ainda tenho muito o que fazer aqui' | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-esta-confiante-sobre-ta-na-reta-ainda-tenho-muito-o-que-fazer-aqui-casa-do-patrao-04062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-04-2026%2Ft_fac584bd6bf24dc5941fe205a13f69dc_name_file_960x540_1600_v4_.jpg?smart=true&auth=eb5e3a7ecefa80949fccf52b63e90e4f4578aaed1943b13f86d225bd382d53c2&width=960&height=540",
@@ -183,7 +189,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-04-2026%2Ft_89f4282217e44cfe88832c66a3b3ae4d_name_file_960x540_1600_v4_.jpg?smart=true&auth=74a2b963234e484808248a2b4bad90d7fde40b84b2b6b68aee6388642e53c103&width=960&height=540",
       "type": "video",
       "category": "NA TV",
-      "time": "HÁ 12 HORAS"
+      "time": "HÁ 14 HORAS"
     },
     {
       "title": "Jackson e Marina opinam que Sheila não será eliminada no Tá na Reta | Casa do Patrão",
@@ -198,16 +204,10 @@
       "type": "video"
     },
     {
-      "title": "Vivão improvisa locução ao vivo para Hassum | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/vivao-improvisa-locucao-ao-vivo-para-hassum-casa-do-patrao-04062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-04-2026%2Ft_d6652bac92304eb58533add16c518f1c_name_file_960x540_1600_v4_.jpg?smart=true&auth=0b25effec022feb30f4896fb19b30e64315e2dd8a182fef8120302f37766eb69&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Arrependida? Nataly chora após ter escondido perucas de Sheila | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/arrependida-nataly-chora-apos-ter-escondido-perucas-de-sheila-casa-do-patrao-04062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-04-2026%2Ft_a7dbf0ee301549098244d1e4af93a806_name_file_960x540_1600_v4_.jpg?smart=true&auth=d5ea8a04ebeadd4cecd7e976d8eb7ca52c84ed60e63e87c4f0b07250fc68c73a&width=960&height=540",
-      "type": "video"
+      "title": "Paz selada! Sheila perdoa Nataly após furto de perucas: ‘Volte para o jogo, é só isso que me interessa’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/paz-selada-sheila-perdoa-nataly-apos-furto-de-perucas-volte-para-o-jogo-e-so-isso-que-me-interessa-03062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VQGJPRFCZZBBRC4C4N275D3R4E.png?smart=true&auth=c176de2c3df4b35cc6659f51b7b393bb69be8699e3ca76ac62734f9d35cafe33&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Bianca tem cólica intensa após Prova do Poder do Voto e assusta colegas",
@@ -249,12 +249,6 @@
       "title": "Quem está no alvo dos rivais para a formação do sexto Tá na Reta?",
       "href": "https://record.r7.com/casa-do-patrao/novidades/quem-esta-no-alvo-dos-rivais-para-a-formacao-do-sexto-ta-na-reta-02062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/CVHCFBNLMZGHLFSI4UVVNZBJ5A.png?smart=true&auth=8667b720b736a283041938187fb1aba31757e5201c2fe36bd8ec281a10e2bc3a&width=1269&height=713",
-      "type": "noticia"
-    },
-    {
-      "title": "Sheila se emociona ao vencer o leilão PicPay e poderá excluir duas pessoas da Prova Poder do Voto",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/sheila-se-emociona-ao-vencer-o-leilao-picpay-e-podera-excluir-duas-pessoas-da-prova-poder-do-voto-02062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/HWUTJZICLNHT5BNCDEHR3HX6ZI.png?smart=true&auth=beca1fde17a27b0bdfe45d5d9c0673a3588a3482a6e29b4f5ebb0ce120da64d8&width=1269&height=713",
       "type": "noticia"
     },
     {
@@ -310,6 +304,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/sonia-abrao-leva-internautas-a-loucura-com-dinamica-na-casa-do-patrao-28052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/6IB5RJYNZRARDFC3JSOGTWSG2Q.png?smart=true&auth=f4ef28a20818796e72484a21d758a404499378c87d7633f517b58da2dff2ae1a&width=1444&height=812",
       "type": "foto"
+    },
+    {
+      "title": "Vivão improvisa locução ao vivo para Hassum | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/vivao-improvisa-locucao-ao-vivo-para-hassum-casa-do-patrao-04062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-04-2026%2Ft_d6652bac92304eb58533add16c518f1c_name_file_960x540_1600_v4_.jpg?smart=true&auth=0b25effec022feb30f4896fb19b30e64315e2dd8a182fef8120302f37766eb69&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Arrependida? Nataly chora após ter escondido perucas de Sheila | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/arrependida-nataly-chora-apos-ter-escondido-perucas-de-sheila-casa-do-patrao-04062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-04-2026%2Ft_a7dbf0ee301549098244d1e4af93a806_name_file_960x540_1600_v4_.jpg?smart=true&auth=d5ea8a04ebeadd4cecd7e976d8eb7ca52c84ed60e63e87c4f0b07250fc68c73a&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Sheila se emociona ao vencer o leilão PicPay e poderá excluir duas pessoas da Prova Poder do Voto",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/sheila-se-emociona-ao-vencer-o-leilao-picpay-e-podera-excluir-duas-pessoas-da-prova-poder-do-voto-02062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/HWUTJZICLNHT5BNCDEHR3HX6ZI.png?smart=true&auth=beca1fde17a27b0bdfe45d5d9c0673a3588a3482a6e29b4f5ebb0ce120da64d8&width=1269&height=713",
+      "type": "noticia"
     },
     {
       "title": "Nataly discute com Jackson e diz que ele poderia 'salvar' João Victor da berlinda | Casa do Patrão",
@@ -603,18 +615,6 @@
       "title": "Sheila analisa cenário do Tá na Reta e mira voto em Nataly | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-analisa-cenario-do-ta-na-reta-e-mira-voto-em-nataly-casa-do-patrao-02062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-02-2026%2Ft_4ece33698de449969f53e30e22ec7185_name_file_960x540_1600_v4_.jpg?smart=true&auth=106104099fa83c6a5a77efd7fc2c3ddf7f7c6b38f6944857f231a69221a860ff&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Jackson opina que Sheila vai para o Tá na Reta 'de qualquer jeito' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-opina-que-sheila-vai-para-o-ta-na-reta-de-qualquer-jeito-casa-do-patrao-02062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-02-2026%2Ft_a4126505c3c94049aae32400b3819198_name_file_960x540_1600_v4_.jpg?smart=true&auth=68f585affc1fb4544bf2276eac8c6be73053a8041a362ceae680295eec6910ed&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Jackson e Andressa refletem sobre desafios do confinamento | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-e-andressa-refletem-sobre-desafios-do-confinamento-casa-do-patrao-02062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-02-2026%2Ft_0a771fc8455c40f88b1a599203a2359d_name_file_960x540_1600_v4_.jpg?smart=true&auth=8511015dec5e900614bfe72e1740edce59d618d3fa43344e7b19bb1297e2231b&width=960&height=540",
       "type": "video"
     }
   ],
