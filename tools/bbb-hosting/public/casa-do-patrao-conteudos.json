@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-06T20:47:30.494Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-06-06T21:47:21.858Z",
+  "lastAddedCount": 3,
   "items": [
     {
       "title": "Mandato de Morena é classificado como ‘sabonetou’ pelo público de Casa do Patrão",
@@ -110,6 +110,18 @@
       "type": "foto"
     },
     {
+      "title": "Diário de um Quase Confinado: Leandro Hassum vai às alturas e testa prova da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/diario-de-um-quase-confinado/video/diario-de-um-quase-confinado-leandro-hassum-vai-as-alturas-e-testa-prova-da-casa-do-patrao-06062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-06-2026%2Ft_9b63e38b5d394ec1ac87ec95c8841028_name_file_960x540_1600_v4_.jpg?smart=true&auth=3f88b38857b8367d91931e57aab9d4d2c34d0a3cc5a9f66887757ef19a0e853b&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Após mercado, Morena organiza compras da semana com supervisão de Vivão | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/apos-mercado-morena-organiza-compras-da-semana-com-supervisao-de-vivao-casa-do-patrao-06062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-06-2026%2Ft_1f2fdb0d80d8487b92fb441757a2faa5_name_file_960x540_1600_v4_.jpg?smart=true&auth=f367bfffcc7a4721995d3266744c7e1353ed191ea69a2bb0cf84798df519ba06&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Sheila dá bronca em JP após aliado acompanhar Vivão no mercado | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-da-bronca-em-jp-apos-aliado-acompanhar-vivao-no-mercado-casa-do-patrao-06062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-06-2026%2Ft_7877615e9a1d4f4cba93c54bebd37bbe_name_file_960x540_1600_v4_.jpg?smart=true&auth=2aae351df106768618ccc96fb1524bae18c4508f1f36b1e3c5c2371e615bf136&width=960&height=540",
@@ -127,7 +139,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-06-2026%2Ft_4d8ba392bb054c16bf9f9180463ac5f8_name_file_960x540_1600_v4_.jpg?smart=true&auth=d016d1cbeab3e33765e4a8dfbba7bbcc78cfb0a3c927a0392947f68f65180b11&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 2 HORAS"
+      "time": "HÁ 3 HORAS"
     },
     {
       "title": "Em cima do muro? Jackson diz quem quer fora do jogo e explica postura reservada | Casa do Patrão",
@@ -184,16 +196,10 @@
       "type": "video"
     },
     {
-      "title": "Vivão participa da última rodada da Prova do Patrão | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/vivao-participa-da-ultima-rodada-da-prova-do-patrao-casa-do-patrao-06062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-06-2026%2Ft_2291b866d0b94d78a7350217ff56e26b_name_file_960x540_1600_v4_.jpg?smart=true&auth=df3c79b50dc5486a2cbc61edf5b20158069e5822d31a03ec50b4930d9b7a3da6&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Morena tenta proximidade com Jackson para fortalecer grupo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/morena-tenta-proximidade-com-jackson-para-fortalecer-grupo-casa-do-patrao-06062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-06-2026%2Ft_301829ca6f9d47f6b8e94092015fb580_name_file_960x540_1600_v4_.jpg?smart=true&auth=3e85b692d76666e70fe875a7bfb64a687da8c1a934f4864e75f97f2e7e6d0f18&width=960&height=540",
-      "type": "video"
+      "title": "Nataly bate de frente com Vivão sobre decisões do Patrão: ‘Eu não sou só brincalhona e explosiva, também penso’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/nataly-bate-de-frente-com-vivao-sobre-decisoes-do-patrao-eu-nao-sou-so-brincalhona-e-explosiva-tambem-penso-06062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NK62ZGGOGJDGLEZIBVBMGNYZPE.png?smart=true&auth=82312d9c318860a98d28f47c298e8ce134d7c63752021073ee20bedc471f888a&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Prova do Patrão desta sexta (5) desafia participantes em disputa nas alturas",
@@ -272,6 +278,18 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/muito-alem-do-tchibum-veja-7-finalidades-que-os-moradores-deram-para-a-piscina-da-casa-do-patrao-29052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/PA7YMC4UMRFPDFDKFTILIAZ5LE.png?smart=true&auth=49ac4d7eb8e924bd376226728c25d14cab0d14e0547439f28821b58023b9a5db&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Vivão participa da última rodada da Prova do Patrão | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/vivao-participa-da-ultima-rodada-da-prova-do-patrao-casa-do-patrao-06062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-06-2026%2Ft_2291b866d0b94d78a7350217ff56e26b_name_file_960x540_1600_v4_.jpg?smart=true&auth=df3c79b50dc5486a2cbc61edf5b20158069e5822d31a03ec50b4930d9b7a3da6&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Morena tenta proximidade com Jackson para fortalecer grupo | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/morena-tenta-proximidade-com-jackson-para-fortalecer-grupo-casa-do-patrao-06062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-06-2026%2Ft_301829ca6f9d47f6b8e94092015fb580_name_file_960x540_1600_v4_.jpg?smart=true&auth=3e85b692d76666e70fe875a7bfb64a687da8c1a934f4864e75f97f2e7e6d0f18&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Sheila é a quinta participante a fazer a Prova do Patrão | Casa do Patrão",
@@ -594,29 +612,11 @@
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/na-reta-com-a-venenosa-fabiola-reipert-resume-tudo-o-que-rolou-na-semana-na-casa-do-patrao-05062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-05-2026%2Ft_0925d6c0cf5b4309be3dc1ee1f80fd45_name_file_960x540_1600_v4_.jpg?smart=true&auth=e36fb69234a6659e96db437ea381e4a9df9ea722109cc178855c227d7c1b81f2&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Momento salão de beleza! Bianca apara bigode de Matheus e morador aprova resultado | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/momento-salao-de-beleza-bianca-apara-bigode-de-matheus-e-morador-aprova-resultado-casa-do-patrao-05062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-05-2026%2Ft_d9d0b701da2e43c381880b21526f15a6_name_file_960x540_1600_v4_.jpg?smart=true&auth=29443c6ec1ba6ed7b36460d6cb4925ebaf4ef82980456c521367ab7459c1d677&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila ensina Marina e Bianca a desfilar: ‘Peito de pombo e olhar de águia’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-ensina-marina-e-bianca-a-desfilar-peito-de-pombo-e-olhar-de-aguia-casa-do-patrao-04062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-04-2026%2Ft_3cc3ff1e8630407789aa84ec7d7f60cc_name_file_960x540_1600_v4_.jpg?smart=true&auth=ae9a59147392d5381e6cee0e0c667b1fbeacbca5e06c828e3798d6fa9ae29223&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "João Victor fica 'perplexo' ao saber quanto Mari vai apostar na eliminação dele | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/joao-victor-fica-perplexo-ao-saber-quanto-mari-vai-apostar-na-eliminacao-dele-casa-do-patrao-04062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-04-2026%2Ft_e3c4b406b2614407917a7c62d8234203_name_file_960x540_1600_v4_.jpg?smart=true&auth=7e2c90ef1c2bb892c02e16a7089a8e55ecea970af6f2a0da5a49146e39c16c75&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 18,
-    "video": 59,
+    "noticia": 19,
+    "video": 58,
     "foto": 23
   }
 }
