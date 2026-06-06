@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-06T16:51:23.941Z",
-  "lastAddedCount": 3,
+  "fetchedAt": "2026-06-06T18:04:19.174Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Mandato de Morena é classificado como ‘sabonetou’ pelo público de Casa do Patrão",
@@ -63,7 +63,7 @@
     },
     {
       "title": "Relembre a porcentagem dos eliminados da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/ex-moradores-relembre-a-porcentagem-dos-eliminados-da-casa-do-patrao-27052026-2/",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/ex-moradores-relembre-a-porcentagem-dos-eliminados-da-casa-do-patrao-27052026-4/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/TKTE7NQIRZBWZES7Y6PJC27QRE.jpg?auth=4ca43ea26600f3c9d9c1bcf46fc61f0e6482c2897df9388e12599acfc274f30a&smart=true&width=696&height=379",
       "type": "foto"
     },
@@ -269,6 +269,12 @@
       "title": "Muito além do tchibum! Veja 7 finalidades que os moradores deram para a piscina da Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/muito-alem-do-tchibum-veja-7-finalidades-que-os-moradores-deram-para-a-piscina-da-casa-do-patrao-29052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/PA7YMC4UMRFPDFDKFTILIAZ5LE.png?smart=true&auth=49ac4d7eb8e924bd376226728c25d14cab0d14e0547439f28821b58023b9a5db&width=770&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "Relembre a porcentagem dos eliminados da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/ex-moradores-relembre-a-porcentagem-dos-eliminados-da-casa-do-patrao-27052026-2/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/TKTE7NQIRZBWZES7Y6PJC27QRE.jpg?auth=4ca43ea26600f3c9d9c1bcf46fc61f0e6482c2897df9388e12599acfc274f30a&smart=true&width=696&height=379",
       "type": "foto"
     },
     {
@@ -604,17 +610,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/marina-liga-para-a-casa-do-trampo-e-nao-e-atendida-casa-do-patrao-04062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-04-2026%2Ft_ebf01a11675d445b96838ee9e2cb59a2_name_file_960x540_1600_v4_.jpg?smart=true&auth=fd59970172b98906e3b2902e49ccd8b1ac7e7d25c5a704f6f4bf3998145793af&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Matheus brinca com JP: 'Se você voltar e não for Patrão, vou te zoar' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-brinca-com-jp-se-voce-voltar-e-nao-for-patrao-vou-te-zoar-casa-do-patrao-04062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-04-2026%2Ft_a82407d09d3c408891a17b717a29266c_name_file_960x540_1600_v4_.jpg?smart=true&auth=f73824919205eae0c4cab0531f62059b88ca27285ffd7e75e8f55266af1aa94b&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
     "noticia": 18,
-    "video": 60,
-    "foto": 22
+    "video": 59,
+    "foto": 23
   }
 }
