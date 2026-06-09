@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-09T19:02:05.051Z",
+  "fetchedAt": "2026-06-09T21:05:53.584Z",
   "lastAddedCount": 3,
   "items": [
     {
@@ -10,9 +10,9 @@
       "type": "noticia"
     },
     {
-      "title": "Andressa vence Prova Tô Fora e transforma divisão da semana na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/andressa-vence-prova-to-fora-e-transforma-divisao-da-semana-na-casa-do-patrao-09062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/A22EJKSUAVDZ5JSQZYPDA6QP3M.png?smart=true&auth=3178b8a54f0ea57cdcfb7a11d65c9b8afdbe7c945e552fdebbed2bf2d8abe957&width=677&height=380",
+      "title": "JP recebe carta da família na Casa do Patrão e fica aliviado: ‘Tô casado ainda!’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/jp-recebe-carta-da-familia-na-casa-do-patrao-e-fica-aliviado-to-casado-ainda-09062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/A6AKPYOP7VGV3BE5NMCDCYVOUM.png?auth=4b4be0caca0ffd97b5d4fade395016e76e7d7c2618c04d2312c18adc42797c26&smart=true&width=208&height=330",
       "type": "noticia"
     },
     {
@@ -34,6 +34,12 @@
       "type": "noticia"
     },
     {
+      "title": "Andressa vence Prova Tô Fora e transforma divisão da semana na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/andressa-vence-prova-to-fora-e-transforma-divisao-da-semana-na-casa-do-patrao-09062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/A22EJKSUAVDZ5JSQZYPDA6QP3M.png?auth=3178b8a54f0ea57cdcfb7a11d65c9b8afdbe7c945e552fdebbed2bf2d8abe957&smart=true&width=696&height=348",
+      "type": "noticia"
+    },
+    {
       "title": "Faxina pesada e privada desentupida! Veja quem já limpou de verdade a Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/faxina-pesada-e-privada-desentupida-veja-quem-ja-limpou-de-verdade-a-casa-do-patrao-08062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WDQVQNVN3FAENOU6X7ERFNLOQA.png?smart=true&auth=354ee630a58dc62d994ccb6f048ca2e602de067eb95febee409380516da40df2&width=770&height=433",
@@ -46,16 +52,16 @@
       "type": "noticia"
     },
     {
-      "title": "Bicampeonato, rivalidades e inspeção de Russomanno: veja o resumão da semana em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/bicampeonato-rivalidades-e-inspecao-de-russomanno-veja-o-resumao-da-semana-em-casa-do-patrao-07062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/THNQQMJHKBGEJFDICQS5WF62TY.png?smart=true&auth=22178c5c705bd029b6bff2df18f3c2368c37db5acf3a42b0273548d4b4fbaa3e&width=771&height=433",
-      "type": "foto"
-    },
-    {
       "title": "JP ganha direito a uma carta da família e R$ 20 mil em dinâmica da Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/jp-ganha-direito-a-uma-carta-da-familia-e-r-20-mil-em-dinamica-da-casa-do-patrao-09062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/SSIZC2VZ55ETTJPDDNH3YTUOBQ.png?smart=true&auth=aae6ee550fb9b27a237a0bae62f6434e74b0a87925d047aec8020afa4f9bd64f&width=677&height=380",
       "type": "noticia"
+    },
+    {
+      "title": "Bicampeonato, rivalidades e inspeção de Russomanno: veja o resumão da semana em Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/bicampeonato-rivalidades-e-inspecao-de-russomanno-veja-o-resumao-da-semana-em-casa-do-patrao-07062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/THNQQMJHKBGEJFDICQS5WF62TY.png?smart=true&auth=22178c5c705bd029b6bff2df18f3c2368c37db5acf3a42b0273548d4b4fbaa3e&width=771&height=433",
+      "type": "foto"
     },
     {
       "title": "Entenda o panelaço que incendiou a Casa do Patrão",
@@ -74,12 +80,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/momento-cobaia-hassum-testa-prova-do-patrao-nas-alturas-e-garante-e-muito-legal-06062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/TGY7DWTEJFFUHGABY3VUDEASIE.png?auth=84b2b8f64c0aa5830c5d29a8642f547fb3340bffffa8d0847973b1532c222012&smart=true&width=696&height=348",
       "type": "noticia"
-    },
-    {
-      "title": "Dudu Camargo propõe Tá na Reta imaginário na Casa do Patrão e agita moradores",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/dudu-camargo-propoe-ta-na-reta-imaginario-na-casa-do-patrao-e-agita-moradores-06062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JRWR2OZU6JBZHAJOIMI5UE53OE.png?smart=true&auth=5b2ff97150a517920ae16feb69de7286dc3929c69e58fc029cb84d96c6013158&width=771&height=433",
-      "type": "foto"
     },
     {
       "title": "Relembre a porcentagem dos eliminados da Casa do Patrão",
@@ -128,6 +128,18 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/tretas-e-mais-tretas-moradores-usam-a-criatividade-para-xingar-rivais-na-casa-do-patrao-25052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/6IKXXXB4ERC3LC7RWKR5N7JJAU.jpg?auth=21c35420e2a3a0b469b22a165d9ecbcbef57ca4f74718c6ccda29b09aed293d4&smart=true&width=696&height=379",
       "type": "foto"
+    },
+    {
+      "title": "Nataly diz que Jackson está 'transitando nos dois grupos' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nataly-diz-que-jackson-esta-transitando-nos-dois-grupos-casa-do-patrao-09062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-09-2026%2Ft_6dd0e6ebb9744b3999a7975da1c1483d_name_file_960x540_1600_v4_.jpg?smart=true&auth=22d65d1f787ce061fded0438bb98a62fb555ac17abbba88452e7ec287815e157&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Sheila e aliados defendem uma 'Reta inédita' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-e-aliados-defendem-uma-reta-inedita-casa-do-patrao-09062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-09-2026%2Ft_9f5deb2b5367482797245b0240ea366e_name_file_960x540_1600_v4_.jpg?smart=true&auth=47d55cf550a56139b32fc0a500e019c75e6c7e94cd086e791f3bb6631167f7ce&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Sheila e Mari projetam quem Marina indicaria se vencer a Prova do Poder do Voto | Casa do Patrão",
@@ -189,7 +201,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-09-2026%2Ft_671342e971b7465f9ab5536fa34bfcc0_name_file_960x540_1600_v4_.jpg?smart=true&auth=a6029b4212e89c608bf015fc35f3b2565a46428544ccd4872a1472cf87bc665c&width=960&height=540",
       "type": "video",
       "category": "NA TV",
-      "time": "HÁ 15 HORAS"
+      "time": "HÁ 17 HORAS"
     },
     {
       "title": "Bicampeã! Andressa supera adversários e conquista Prova Tô Fora mais uma vez | Casa do Patrão",
@@ -203,30 +215,12 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-09-2026%2Ft_9c704f841d0649c6b7cdef64fd621648_name_file_960x540_1600_v4_.jpg?smart=true&auth=da55ea04f32591474b19a0b3125cd4d0f031515d69135f1ed9f276c3bb25727a&width=960&height=540",
       "type": "video",
       "category": "NA TV",
-      "time": "HÁ 15 HORAS"
-    },
-    {
-      "title": "Vivão detona comportamento de Matheus no jogo: 'Incoerente, cínico e mentiroso’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/vivao-detona-comportamento-de-matheus-no-jogo-incoerente-cinico-e-mentiroso-casa-do-patrao-09062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-09-2026%2Ft_cf546b6d21894822885c78387f0b652b_name_file_960x540_1600_v4_.jpg?smart=true&auth=56fe545203cba58f1c23db8d03c073e1ba173a24518475f8748ee829b66a64e1&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Morena provoca Bianca em dinâmica e ironiza: ‘Miss porca e suja’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/morena-provoca-bianca-em-dinamica-e-ironiza-miss-porca-e-suja-casa-do-patrao-09062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-09-2026%2Ft_172c060926244eedb5b7f94ff194f370_name_file_960x540_1600_v4_.jpg?smart=true&auth=1b9c08f5778fbbbc5d77a1cc11018744acd4f3fe14a1b2ba7cc83eff756745b4&width=960&height=540",
-      "type": "video"
+      "time": "HÁ 17 HORAS"
     },
     {
       "title": "Participantes encaram prova de suspense e sorte valendo o Tô Fora",
       "href": "https://record.r7.com/casa-do-patrao/novidades/participantes-encaram-prova-de-suspense-e-sorte-valendo-o-to-fora-08062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/OUBZTEZOZBGMNPKRXIKP6XSUFQ.png?smart=true&auth=4f8284e47a6fba06e0fcba5aeaa204b46759618f1a884c6456b7bd66540af3cf&width=1269&height=713",
-      "type": "noticia"
-    },
-    {
-      "title": "Acende a fogueira! Moradores desbloqueiam Festa Arraial na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/acende-a-fogueira-moradores-desbloqueiam-festa-arraial-na-casa-do-patrao-07062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4VWC7CPV6ZDDBJ5HAM5F6QKJRY.png?smart=true&auth=b44492294094367e22daf4a5271fd4324d64b158ee066b5bdcd12ac477bfaff7&width=677&height=380",
       "type": "noticia"
     },
     {
@@ -245,6 +239,12 @@
       "title": "VAR da Casa do Patrão surpreende moradores com falta de higiene, confissão e mais!",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/var-da-casa-do-patrao-surpreende-moradores-com-falta-de-higiene-confissao-e-mais-07062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RFJ4E3466FHQFHYKYOJVXN26VE.png?smart=true&auth=6650286e6f606b7b3e5be71b5945cbbca720a353bc5120d7f938a28959091ff1&width=771&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "Dudu Camargo propõe Tá na Reta imaginário na Casa do Patrão e agita moradores",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/dudu-camargo-propoe-ta-na-reta-imaginario-na-casa-do-patrao-e-agita-moradores-06062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JRWR2OZU6JBZHAJOIMI5UE53OE.png?smart=true&auth=5b2ff97150a517920ae16feb69de7286dc3929c69e58fc029cb84d96c6013158&width=771&height=433",
       "type": "foto"
     },
     {
@@ -294,6 +294,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/agente-do-caos-para-celebrar-o-aniversario-de-dudu-camargo-relembre-sete-vezes-em-que-o-apresentador-colocou-fogo-na-casa-do-patrao-01062026-2/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/FX42ZLUT2BHW3BCHFN53TZT53Q.jpeg?smart=true&auth=80c6d98a9aea959ad67f3e27edce729fd24582bb64c93665a0b1f4fab4ce98cc&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Vivão detona comportamento de Matheus no jogo: 'Incoerente, cínico e mentiroso’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/vivao-detona-comportamento-de-matheus-no-jogo-incoerente-cinico-e-mentiroso-casa-do-patrao-09062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-09-2026%2Ft_cf546b6d21894822885c78387f0b652b_name_file_960x540_1600_v4_.jpg?smart=true&auth=56fe545203cba58f1c23db8d03c073e1ba173a24518475f8748ee829b66a64e1&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Morena provoca Bianca em dinâmica e ironiza: ‘Miss porca e suja’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/morena-provoca-bianca-em-dinamica-e-ironiza-miss-porca-e-suja-casa-do-patrao-09062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-09-2026%2Ft_172c060926244eedb5b7f94ff194f370_name_file_960x540_1600_v4_.jpg?smart=true&auth=1b9c08f5778fbbbc5d77a1cc11018744acd4f3fe14a1b2ba7cc83eff756745b4&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Acende a fogueira! Moradores desbloqueiam Festa Arraial na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/acende-a-fogueira-moradores-desbloqueiam-festa-arraial-na-casa-do-patrao-07062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4VWC7CPV6ZDDBJ5HAM5F6QKJRY.png?smart=true&auth=b44492294094367e22daf4a5271fd4324d64b158ee066b5bdcd12ac477bfaff7&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Sheila e Marina batem boca durante dinâmica mata-mata: ‘Vtzeira e advogada’ | Casa do Patrão",
@@ -602,29 +620,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/apos-panelaco-vivao-decide-conversar-mas-sheila-interrompe-seja-breve-casa-do-patrao-07062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-07-2026%2Ft_2105caf78d684fd6b4f2a5c77730e62b_name_file_960x540_1600_v4_.jpg?smart=true&auth=720341a117b486e9e93c32442696bcb072b2140175419117db84387667a11de3&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Dudu Camargo agita Casa do Patrão e moradores elegem quem é farinha do mesmo saco, com direito a treta e pedido de VAR",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/dudu-camargo-agita-casa-do-patrao-e-moradores-elegem-quem-e-farinha-do-mesmo-saco-com-direito-a-treta-e-pedido-de-var-30052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/PMJWLNRVWVF4NLDFNAFY5BTKRQ.png?smart=true&auth=7ca0f27f0c0dec9542c7db696969736e7561234ea2759efd40b3970ec478fb74&width=770&height=433",
-      "type": "foto"
-    },
-    {
-      "title": "Gritaria e panelaço! Vivão toca o terror logo cedo para provocar rivais | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/gritaria-e-panelaco-vivao-toca-o-terror-logo-cedo-para-provocar-rivais-casa-do-patrao-07062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-07-2026%2Ft_1ecdf714ae9642d0b25e34715e22fbf5_name_file_960x540_1600_v4_.jpg?smart=true&auth=0ac6cf0b54de8660c39350e9aee0e69a2cdb0712471321b41b5bb2c86346ac17&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Bianca esconde garrafa de Matheus, mas oponente descobre: 'Não sabe disfarçar' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-esconde-garrafa-de-matheus-mas-oponente-descobre-nao-sabe-disfarcar-casa-do-patrao-07062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-07-2026%2Ft_785488b0af664fba8d2836d6df5acb5e_name_file_960x540_1600_v4_.jpg?smart=true&auth=8238ced334183aef864322b29b56bf057587e59fc2c805cd3912624fa41669d7&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 21,
+    "noticia": 22,
     "video": 58,
-    "foto": 21
+    "foto": 20
   }
 }
