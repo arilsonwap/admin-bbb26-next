@@ -1,18 +1,36 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-12T16:43:36.142Z",
-  "lastAddedCount": 7,
+  "fetchedAt": "2026-06-12T18:32:34.944Z",
+  "lastAddedCount": 6,
   "items": [
     {
-      "title": "Silêncio ensurdecedor, abraços e mergulho da vitória: veja as reações após a eliminação de Andressa de Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/silencio-ensurdecedor-abracos-e-mergulho-da-vitoria-veja-as-reacoes-apos-a-eliminacao-de-andressa-12062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4QSRURZOWJHRFGDZ6UID4DI42M.png?auth=34c86c706d1edc8985c54def139062dcef0eb0ca1f1f71c8bf8d6d0955f4d8de&smart=true&width=696&height=379",
-      "type": "foto"
+      "title": "Andressa desce a lenha em Sheila após deixar Casa do Patrão: ‘Ela vitimiza tudo lá dentro’; veja os detalhes da Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/andressa-desce-a-lenha-em-sheila-apos-deixar-casa-do-patrao-ela-vitimiza-tudo-la-dentro-12062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RBSEQJTWDRHJXFOXAF3E7APV6A.png?auth=52417a82066d80bd6f1f488f9dace1df0c59b2fe95fc1f086a7cd9bd8cc7b02f&smart=true&width=696&height=348",
+      "type": "noticia"
+    },
+    {
+      "title": "Prova de resistência na esteira vai definir o novo Patrão da semana no reality",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/prova-de-resistencia-na-esteira-vai-definir-o-novo-patrao-da-semana-no-reality-12062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IUSUC4O7BVC5ZIB2A2NLSEA25Y.png?smart=true&auth=a80073c89ff74ccd867b39368bf395e2ae6cc0846a67169693bbcea74db1fb29&width=677&height=380",
+      "type": "noticia"
+    },
+    {
+      "title": "Após deixar a Casa do Patrão, Andressa chama Bianca de ‘manipulada’ e JP de ‘encostado’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/apos-deixar-a-casa-do-patrao-andressa-chama-bianca-de-manipulada-e-jp-de-encostado-12062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VBFIJARSJZF7JB4YNOJ7NB7VB4.png?smart=true&auth=92c95ad776827b2b9d7aa3b4e8f7c983b56adee1b303211a145903528322cbee&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Loucura de amor! Reveja os momentos mais românticos que já rolaram em Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/loucura-de-amor-reveja-os-momentos-mais-romanticos-que-ja-rolaram-em-casa-do-patrao-12062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/PHCUEMOXHZA5JHCORKH6F6O5GY.jpg?smart=true&auth=a524302630b32f7e15608325642438cf5c85bf6b26ed46ece46550d2b4951754&width=771&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "Silêncio ensurdecedor, abraços e mergulho da vitória: veja as reações após a eliminação de Andressa",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/silencio-ensurdecedor-abracos-e-mergulho-da-vitoria-veja-as-reacoes-apos-a-eliminacao-de-andressa-12062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4QSRURZOWJHRFGDZ6UID4DI42M.png?smart=true&auth=34c86c706d1edc8985c54def139062dcef0eb0ca1f1f71c8bf8d6d0955f4d8de&width=771&height=433",
       "type": "foto"
     },
     {
@@ -34,12 +52,6 @@
       "type": "foto"
     },
     {
-      "title": "Ana Hickmann quebra a internet após invadir a Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/ana-hickmann-quebra-a-internet-apos-invadir-a-casa-do-patrao-10062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/S7YWAD3XXBENRB6W5GIVZ7XNPM.png?smart=true&auth=1f4a04fc381cc7361fd391415837ee73ee6b93594ec88f9bd98897e9e4bf2f02&width=770&height=433",
-      "type": "foto"
-    },
-    {
       "title": "Grupo de Sheila coloca plano em prática e engana Vivão ao ‘encontrar’ fio de cabelo na comida: ‘Jogo sujo!’",
       "href": "https://record.r7.com/casa-do-patrao/novidades/grupo-de-sheila-coloca-plano-em-pratica-e-engana-vivao-ao-encontrar-fio-de-cabelo-na-comida-jogo-sujo-11062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/I4MX4R4FJNBZPKDUJSZMZT7TOI.png?smart=true&auth=d3a99ad4f3a36b857b244dcb5c9500a52848ad7f689df27707854d1980027a64&width=1446&height=813",
@@ -52,21 +64,15 @@
       "type": "foto"
     },
     {
-      "title": "Ana fica horrorizada com bagunça em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/ana-hickmann-fica-horrorizada-com-bagunca-em-casa-do-patrao-o-que-aconteceu-aqui-10062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/GZT3JLOLLNGITPFUEXKJVLYUFI.png?auth=9e54ece57ec6ef494f5fcbf5389636bbd88c11fae172e1a6e3fd694ffd2c5db9&smart=true&width=696&height=379",
-      "type": "noticia"
-    },
-    {
-      "title": "Infiltrado? Leandro Hassum entra disfarçado de Estagiário dançarino na festa",
+      "title": "Hassum entra disfarçado de Estagiário dançarino na festa",
       "href": "https://record.r7.com/casa-do-patrao/novidades/infiltrado-leandro-hassum-entra-disfarcado-de-estagiario-dancarino-na-festa-11062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BY6JX573DFGWRCVTJFBRH3JYEU.png?smart=true&auth=c262c59b8278566f38250ec791f42016f38e529a799ed53835c3d78c5ec36022&width=1185&height=666",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BY6JX573DFGWRCVTJFBRH3JYEU.png?auth=c262c59b8278566f38250ec791f42016f38e529a799ed53835c3d78c5ec36022&smart=true&width=696&height=379",
       "type": "noticia"
     },
     {
-      "title": "Verdadeiro faz-tudo! Veja as vezes que o estagiário trabalhou duro na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/verdadeiro-faz-tudo-veja-as-vezes-que-o-estagiario-trabalhou-duro-na-casa-do-patrao-10062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/XWOVCL2NDZFXDDWMDGUH6WDOIM.jpg?smart=true&auth=159cb3bade045bede570391fdb6bb0bb1af2b3f21272c8329619ffb18ce3f3de&width=771&height=433",
+      "title": "Ana Hickmann quebra a internet após invadir a Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/ana-hickmann-quebra-a-internet-apos-invadir-a-casa-do-patrao-10062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/S7YWAD3XXBENRB6W5GIVZ7XNPM.png?smart=true&auth=1f4a04fc381cc7361fd391415837ee73ee6b93594ec88f9bd98897e9e4bf2f02&width=770&height=433",
       "type": "foto"
     },
     {
@@ -116,6 +122,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/tretas-e-mais-tretas-moradores-usam-a-criatividade-para-xingar-rivais-na-casa-do-patrao-25052026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/6IKXXXB4ERC3LC7RWKR5N7JJAU.jpg?auth=21c35420e2a3a0b469b22a165d9ecbcbef57ca4f74718c6ccda29b09aed293d4&smart=true&width=696&height=379",
       "type": "foto"
+    },
+    {
+      "title": "Andressa crava eliminação de Vivão e diz que Sheila está 'minando' o estilista | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/andressa-crava-eliminacao-de-vivao-e-diz-que-sheila-esta-minando-o-estilista-live-ta-na-rua-12062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-12-2026%2Ft_ed72427cae3c45819d05720f2e6fcca7_name_file_960x540_1600_v4_.jpg?smart=true&auth=39663c9a08211dccb068a65eb932c26635273660abc659cffbb2780a1d80cb4f&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Andressa diz que correu risco de ser eliminada para provocar rivais | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/andressa-diz-que-correu-risco-de-ser-eliminada-para-provocar-rivais-live-ta-na-rua-12062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-12-2026%2Ft_3026f63e47d84cd09f4cf3b15688a28b_name_file_960x540_1600_v4_.jpg?smart=true&auth=85aa23e31bbfa2d63b11d80e6c8b9c0a3c5ad8bd9129b5f673136bd415c4d0e2&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Invisível? Andressa rebate falta de destaque no jogo: 'Não estava sendo figurante' | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/invisivel-andressa-rebate-falta-de-destaque-no-jogo-nao-estava-sendo-figurante-live-ta-na-rua-12062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-12-2026%2Ft_4a72d919504a4ddaad52f8e36e7d6cbb_name_file_960x540_1600_v4_.jpg?smart=true&auth=6f4d451b283e16961179f519a6fde62284c33c8938afc5d23b59f05b7d7f878b&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Morena se classifica como ‘planta’ no ímã da geladeira do Trampo | Casa do Patrão",
@@ -190,24 +214,6 @@
       "type": "video"
     },
     {
-      "title": "Jackson e Sheila criticam Vivão e afirmam que estilista se perdeu no Patronato | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-e-sheila-criticam-vivao-e-afirmam-que-estilista-se-perdeu-no-patronato-casa-do-patrao-12062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-12-2026%2Ft_951ffb2ec578446ea55e462b3d97aa23_name_file_960x540_1600_v4_.jpg?smart=true&auth=67d11568ac140b5cc95c9b0ca08673db0d597840489fd45bf4ec05b76706bffc&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Andressa escolhe Jackson e Marina para a Prova do Patrão | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/andressa-escolhe-jackson-e-marina-para-a-prova-do-patrao-casa-do-patrao-12062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-12-2026%2Ft_d639e773761448f9bfc9feb20b66746e_name_file_960x540_1600_v4_.jpg?smart=true&auth=3c77490e0f736b63ce1a041c0b4e8449c337d9acd1c4de9fd555a8b770e5eb9c&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Andressa é a sétima eliminada da Casa do Patrão com 16,37% dos votos",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/andressa-e-a-setima-eliminada-da-casa-do-patrao-com-1637-dos-votos-12062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-12-2026%2Ft_e66724f3eb164b21a3eb90e6829d8f78_name_file_960x540_1600_v4_.jpg?smart=true&auth=2fc1cf25f64a6e76371eed94ca71e0a865c361799e367918485a6b1908c06876&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Live Tá na Rua: Andressa avalia participação na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/live-ta-na-rua-andressa-avalia-participacao-na-casa-do-patrao-12062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EYQWVQG55RA2HNJG7LD6ES3TBA.jpg?smart=true&auth=b0668bf3fb8c7f59c34d410e36e52db3e57cf9cdab0326e46f1785e8f7412abf&width=348&height=195",
@@ -223,6 +229,12 @@
       "title": "Discoteca, Estagiário na pista e teoria da conspiração: veja como foi a Festa Anos 80 Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/discoteca-estagiario-na-pista-e-teoria-da-conspiracao-veja-como-foi-a-festa-anos-80-casa-do-patrao-11062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VKGFJCC4VFG7XLNYP5RBAUJYXE.png?smart=true&auth=faeac2d83006483478d972f022104b85b5de7c5abff159fec5591f2591800b90&width=771&height=433",
+      "type": "foto"
+    },
+    {
+      "title": "Verdadeiro faz-tudo! Veja as vezes que o estagiário trabalhou duro na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/verdadeiro-faz-tudo-veja-as-vezes-que-o-estagiario-trabalhou-duro-na-casa-do-patrao-10062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/XWOVCL2NDZFXDDWMDGUH6WDOIM.jpg?smart=true&auth=159cb3bade045bede570391fdb6bb0bb1af2b3f21272c8329619ffb18ce3f3de&width=771&height=433",
       "type": "foto"
     },
     {
@@ -266,6 +278,30 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/lavando-a-louca-suja-relembre-as-grandes-tretas-envolvendo-a-tarefa-na-casa-do-patrao-06062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4DBSMXZHHFBBHDOBXXULBUIUNI.png?smart=true&auth=853fb14f95018fdecaeba52dcb8246e09c9584a74bb365957ab2a0c8f3454209&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Ana fica horrorizada com bagunça em Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/ana-hickmann-fica-horrorizada-com-bagunca-em-casa-do-patrao-o-que-aconteceu-aqui-10062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/GZT3JLOLLNGITPFUEXKJVLYUFI.png?auth=9e54ece57ec6ef494f5fcbf5389636bbd88c11fae172e1a6e3fd694ffd2c5db9&smart=true&width=696&height=379",
+      "type": "noticia"
+    },
+    {
+      "title": "Jackson e Sheila criticam Vivão e afirmam que estilista se perdeu no Patronato | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-e-sheila-criticam-vivao-e-afirmam-que-estilista-se-perdeu-no-patronato-casa-do-patrao-12062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-12-2026%2Ft_951ffb2ec578446ea55e462b3d97aa23_name_file_960x540_1600_v4_.jpg?smart=true&auth=67d11568ac140b5cc95c9b0ca08673db0d597840489fd45bf4ec05b76706bffc&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Andressa escolhe Jackson e Marina para a Prova do Patrão | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/andressa-escolhe-jackson-e-marina-para-a-prova-do-patrao-casa-do-patrao-12062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-12-2026%2Ft_d639e773761448f9bfc9feb20b66746e_name_file_960x540_1600_v4_.jpg?smart=true&auth=3c77490e0f736b63ce1a041c0b4e8449c337d9acd1c4de9fd555a8b770e5eb9c&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Andressa é a sétima eliminada da Casa do Patrão com 16,37% dos votos",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/andressa-e-a-setima-eliminada-da-casa-do-patrao-com-1637-dos-votos-12062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-12-2026%2Ft_e66724f3eb164b21a3eb90e6829d8f78_name_file_960x540_1600_v4_.jpg?smart=true&auth=2fc1cf25f64a6e76371eed94ca71e0a865c361799e367918485a6b1908c06876&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Relembre a porcentagem dos eliminados da Casa do Patrão",
@@ -570,47 +606,11 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/veja-quem-votou-em-quem-no-setimo-ta-na-reta-de-casa-do-patrao-10062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BTBOWOSUPFAETGEZFEA3F6PGRM.jpg?smart=true&auth=72eac93d9249291315b2cf2888efa4221312b066f969b8577bee7aec7a3180a1&width=660&height=371",
       "type": "noticia"
-    },
-    {
-      "title": "Visitante ilustre! Ana Hickmann vai invadir a Casa do Patrão nesta quarta (10)",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/visitante-ilustre-ana-hickmann-vai-invadir-a-casa-do-patrao-nesta-quarta-10-10062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ZPTFKDT75ZB6FFD7X3UO52SEWA.png?smart=true&auth=428c78e91c91b755abb7a709ce2e102eef039c8c1c901f9ff2ec061639ae7108&width=770&height=433",
-      "type": "noticia"
-    },
-    {
-      "title": "Humorista no confinamento! Confira sete vezes em que Hassum fez os moradores gargalharem em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/humorista-no-confinamento-confira-sete-vezes-em-que-hassum-fez-os-moradores-gargalharem-em-casa-do-patrao-03062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IYUXJHD4LJC6VDNBUTJ4OFIGGQ.jpg?smart=true&auth=60723f4a69f9dbaa9fa070fff4cb5763867617e09824843a54b241239ee021f5&width=771&height=433",
-      "type": "foto"
-    },
-    {
-      "title": "Sheila explica seu jogo e é chamada de insignificante por Andressa | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-explica-seu-jogo-e-e-chamada-de-insignificante-por-andressa-casa-do-patrao-10062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-10-2026%2Ft_256b86d29c8b42a1a4efdd2bf4e27a8d_name_file_960x540_1600_v4_.jpg?smart=true&auth=75a2fc04bcedf25714b9c8f685d1ca5d80db448683e3f3286d1b26ce0fb79769&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Mari brinca com foto de Nataly e Matheus na geladeira do Trampo: 'Reta dos sonhos' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/mari-brinca-com-foto-de-nataly-e-matheus-na-geladeira-do-trampo-reta-dos-sonhos-casa-do-patrao-10062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-10-2026%2Ft_5bce3143d12f4a85a337edc366ede604_name_file_960x540_1600_v4_.jpg?smart=true&auth=11f196ecc0ecf467d8937f9aa0e0556ffe3059858865142e508f2fd5cb841e04&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Pegou fogo! Vivão solta o verbo após considerar comentário de Bianca inapropriado | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/pegou-fogo-vivao-solta-o-verbo-apos-considerar-comentario-de-bianca-inapropriado-casa-do-patrao-10062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-10-2026%2Ft_5a009cca1d3c4ce9992d77c326648660_name_file_960x540_1600_v4_.jpg?smart=true&auth=ba6b3d5242978e3175384c5ade7b677df932a3b54d3c3f0f39abc8c3e8c4eac4&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Jackson diz que Vivão está passando dos limites como Patrão | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-diz-que-vivao-esta-passando-dos-limites-como-patrao-casa-do-patrao-10062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-10-2026%2Ft_57b59f2cb99d43dfa34fa36972eaa8fc_name_file_960x540_1600_v4_.jpg?smart=true&auth=6f1d187df1add53b31ac491635fb8f433148a48675a475f2bac5e558a7596581&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 19,
-    "video": 56,
-    "foto": 25
+    "noticia": 21,
+    "video": 55,
+    "foto": 24
   }
 }
