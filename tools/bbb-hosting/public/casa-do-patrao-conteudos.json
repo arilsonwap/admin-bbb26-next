@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-14T16:48:29.227Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-06-14T18:04:28.817Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Da Reta ao poder! Mari é a nova Patroa do reality após vencer prova de resistência",
@@ -130,8 +130,8 @@
       "type": "foto"
     },
     {
-      "title": "Morena e Marina projetam seus últimos dias no programa | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/morena-e-marina-projetam-seus-ultimos-dias-no-programa-casa-do-patrao-14062026/",
+      "title": "Morena e Marina suspeitam que serão eliminadas e projetam os últimos dias na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/morena-e-marina-suspeitam-que-serao-eliminadas-e-projetam-os-ultimos-dias-na-casa-do-patrao-14062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-14-2026%2Ft_fa72755cf3ed4987ace5921dd75b13c6_name_file_960x540_1600_v4_.jpg?smart=true&auth=eb32f5e35f602ebc252eff99cadc6a841bbc6594051e972a662efe9891a4f02c&width=960&height=540",
       "type": "video"
     },
@@ -290,6 +290,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/var-da-casa-do-patrao-surpreende-moradores-com-falta-de-higiene-confissao-e-mais-07062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RFJ4E3466FHQFHYKYOJVXN26VE.png?smart=true&auth=6650286e6f606b7b3e5be71b5945cbbca720a353bc5120d7f938a28959091ff1&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Morena e Marina projetam seus últimos dias no programa | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/morena-e-marina-projetam-seus-ultimos-dias-no-programa-casa-do-patrao-14062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-14-2026%2Ft_fa72755cf3ed4987ace5921dd75b13c6_name_file_960x540_1600_v4_.jpg?smart=true&auth=eb32f5e35f602ebc252eff99cadc6a841bbc6594051e972a662efe9891a4f02c&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Morena chora e indica que quer sair da competição | Casa do Patrão",
@@ -601,12 +607,6 @@
       "title": "Nataly prevê que Sheila não hesitará em atacar aliados para agradar ao público | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nataly-preve-que-sheila-nao-hesitara-em-atacar-aliados-para-agradar-ao-publico-casa-do-patrao-12062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-12-2026%2Ft_7be5673135ad42b19677d4e9bb2f2702_name_file_960x540_1600_v4_.jpg?smart=true&auth=bab345de19dac4ae62b2649be8bba7af122f799bea913aa44faa720cc99da4af&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Matheus vê Morena abalada após eliminação de Andressa e provoca: 'Desiste, não' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-ve-morena-abalada-apos-eliminacao-de-andressa-e-provoca-desiste-nao-casa-do-patrao-12062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-12-2026%2Ft_c3eb1decc1da476da1c9063cfbfaaeb2_name_file_960x540_1600_v4_.jpg?smart=true&auth=b6c8bd9aeae97903faeca7ddd14d10bb65a0460c042e94c8d529c0546e645c02&width=960&height=540",
       "type": "video"
     }
   ],
