@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-20T04:39:40.489Z",
-  "lastAddedCount": 6,
+  "fetchedAt": "2026-06-20T08:06:33.076Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Qual avaliação Mari merece como Patroa?",
@@ -130,6 +130,14 @@
       "type": "foto"
     },
     {
+      "title": "‘Eu nem precisava ser campeão, só queria tirar ela’, dispara Jackson sobre Sheila | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/eu-nem-precisava-ser-campeao-so-queria-tirar-ela-dispara-jackson-sobre-sheila-casa-do-patrao-20062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-20-2026%2Ft_5dd548e82d6d40dcbd8a5d7e7acd704b_name_file_960x540_1600_v4_.jpg?smart=true&auth=ad6758e26b20f939c333339af8342886f342d43dd4e6185f9fa330c5468abeae&width=960&height=540",
+      "type": "video",
+      "category": "HORAS",
+      "time": "HÁ 2 HORAS"
+    },
+    {
       "title": "Brincadeira? Morena especula indicar Sheila ao Tá na Reta | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/brincadeira-morena-especula-indicar-sheila-ao-ta-na-reta-casa-do-patrao-20062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-20-2026%2Ft_5f884b28be824d638d9cca86ad952190_name_file_960x540_1600_v4_.jpg?smart=true&auth=ce835590843bb98779c39e33d4cd4438e27f694186435253088f611b2b77669f&width=960&height=540",
@@ -199,12 +207,6 @@
       "title": "Saiu para 'plantas'? Marina repercute eliminação e refuta 'Sheilonismo' | Live Tá na Rua",
       "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/saiu-para-plantas-marina-repercute-eliminacao-e-refuta-sheilonismo-live-ta-na-rua-19062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-19-2026%2Ft_1ba19fc7ed4a407da2a6013305c61717_name_file_960x540_1600_v4_.jpg?smart=true&auth=6b04c7df01dc4fa065ef5902065f96a6ffd57a033f3075f7cd9f30f4a98a9d6a&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Vivão detona Luiza: ‘Cafona, sem personalidade’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-detona-luiza-cafona-sem-personalidade-casa-do-patrao-19062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-19-2026%2Ft_7b72250bd6bb40dab88cb680ea8f0016_name_file_960x540_1600_v4_.jpg?smart=true&auth=de1020616886242407b7a3dff194c130a1c7da1ce25a28b868341f48aeaff677&width=960&height=540",
       "type": "video"
     },
     {
@@ -296,6 +298,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/observadora-e-boa-de-prova-reveja-a-passagem-de-andressa-por-casa-do-patrao-12062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/TWZJFDXH5RH3XJZ4OGF3I66YVA.png?smart=true&auth=1074d044c1e4345fe407b30c67fbac007cda6f570512768bb0343f955d46f887&width=1369&height=770",
       "type": "foto"
+    },
+    {
+      "title": "Vivão detona Luiza: ‘Cafona, sem personalidade’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-detona-luiza-cafona-sem-personalidade-casa-do-patrao-19062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-19-2026%2Ft_7b72250bd6bb40dab88cb680ea8f0016_name_file_960x540_1600_v4_.jpg?smart=true&auth=de1020616886242407b7a3dff194c130a1c7da1ce25a28b868341f48aeaff677&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Vivão e Luiza protagonizam discussão acalorada pela manhã | Casa do Patrão",
@@ -600,12 +608,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/sheila-conquista-imunidade-no-leilao-picpay-e-lanca-jingle-voce-que-nao-entrou-chega-de-chororo-16062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/LLQBXRZN5VGPZFC52YQROQ6LPY.png?auth=3a7c7fda36b2be2b6e7cab976644151ff951cef97fab2d3f557b35d8dc2ab252&smart=true&width=696&height=379",
       "type": "noticia"
-    },
-    {
-      "title": "Alerta! Hassum adverte moradores sobre limites das brincadeiras no jogo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/alerta-hassum-adverte-moradores-sobre-limites-das-brincadeiras-no-jogo-casa-do-patrao-18062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-18-2026%2Ft_f334f596c6da478f92323386aac0adcb_name_file_960x540_1600_v4_.jpg?smart=true&auth=2e50fc2672eb2525bb43e9167e7994c573f0aaf88a85b6f531887ca69cc5718c&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
