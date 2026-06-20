@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-20T20:39:00.762Z",
-  "lastAddedCount": 3,
+  "fetchedAt": "2026-06-20T21:52:15.193Z",
+  "lastAddedCount": 2,
   "items": [
     {
       "title": "Qual avaliação Mari merece como Patroa?",
@@ -70,10 +70,12 @@
       "type": "foto"
     },
     {
-      "title": "Querendo distância! Nataly dispensa abraço de Luiza e Sheila | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/querendo-distancia-nataly-dispensa-abraco-de-luiza-e-sheila-casa-do-patrao-20062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-20-2026%2Ft_cc78f8f6c0ef498c9cafda214a76f97a_name_file_960x540_1600_v4_.jpg?smart=true&auth=310a35272ddcb4691f37629c442257e583bceaa4adff8ab0be0fd2c0acf69218&width=960&height=540",
-      "type": "video"
+      "title": "‘Jackson não é nada planta, ele é articulado', afirma Nataly | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-nao-e-nada-planta-ele-e-articulado-afirma-nataly-casa-do-patrao-20062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-20-2026%2Ft_2b29125d40cd4c5bb9e14ffb6236e095_name_file_960x540_1600_v4_.jpg?smart=true&auth=94d5ec289b854d263842e241269568d94fa25791c158c9698409c14972377f72&width=960&height=540",
+      "type": "video",
+      "category": "HORAS",
+      "time": "HÁ 2 HORAS"
     },
     {
       "title": "Manda quem pode e obedece quem tem juízo! Veja sete momentos em que o poder subiu à cabeça na Casa do Patrão",
@@ -83,7 +85,7 @@
     },
     {
       "title": "Relembre a porcentagem dos eliminados da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/ex-moradores-relembre-a-porcentagem-dos-eliminados-da-casa-do-patrao-27052026-5/",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/ex-moradores-relembre-a-porcentagem-dos-eliminados-da-casa-do-patrao-27052026-6/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/TKTE7NQIRZBWZES7Y6PJC27QRE.jpg?auth=4ca43ea26600f3c9d9c1bcf46fc61f0e6482c2897df9388e12599acfc274f30a&smart=true&width=696&height=379",
       "type": "foto"
     },
@@ -130,18 +132,16 @@
       "type": "foto"
     },
     {
+      "title": "Professora? Sheila dá aula de química aos aliados | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/professora-sheila-da-aula-de-quimica-aos-aliados-casa-do-patrao-20062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-20-2026%2Ft_b5f552c7d8d046dead768aaa8a26b9d1_name_file_960x540_1600_v4_.jpg?smart=true&auth=ad12aadf103b12ea99b2e269fa8a2da884c8b8b71da893224be63d88a9cef904&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Novo adversário? Matheus trava batalha com lençol para arrumar quarto do Patrão | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/novo-adversario-matheus-trava-batalha-com-lencol-para-arrumar-quarto-do-patrao-casa-do-patrao-20062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-20-2026%2Ft_ba561b4c9b4848db9dec76579effec35_name_file_960x540_1600_v4_.jpg?smart=true&auth=9314a9a2f810a850b913704745d05d79e3e9afb5630633d07bd0ae4e6586f4ad&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "‘Jackson não é nada planta, ele é articulado', afirma Nataly | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-nao-e-nada-planta-ele-e-articulado-afirma-nataly-casa-do-patrao-20062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-20-2026%2Ft_2b29125d40cd4c5bb9e14ffb6236e095_name_file_960x540_1600_v4_.jpg?smart=true&auth=94d5ec289b854d263842e241269568d94fa25791c158c9698409c14972377f72&width=960&height=540",
-      "type": "video",
-      "category": "HORAS",
-      "time": "HÁ 58 MINUTOS"
     },
     {
       "title": "Sheila chora, diz que pensou em desistir e confessa mágoa: 'Estou sentindo' | Casa do Patrão",
@@ -191,12 +191,18 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-20-2026%2Ft_5dd548e82d6d40dcbd8a5d7e7acd704b_name_file_960x540_1600_v4_.jpg?smart=true&auth=ad6758e26b20f939c333339af8342886f342d43dd4e6185f9fa330c5468abeae&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 15 HORAS"
+      "time": "HÁ 16 HORAS"
     },
     {
       "title": "Brincadeira? Morena especula indicar Sheila ao Tá na Reta | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/brincadeira-morena-especula-indicar-sheila-ao-ta-na-reta-casa-do-patrao-20062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-20-2026%2Ft_5f884b28be824d638d9cca86ad952190_name_file_960x540_1600_v4_.jpg?smart=true&auth=ce835590843bb98779c39e33d4cd4438e27f694186435253088f611b2b77669f&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Querendo distância! Nataly dispensa abraço de Luiza e Sheila | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/querendo-distancia-nataly-dispensa-abraco-de-luiza-e-sheila-casa-do-patrao-20062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-20-2026%2Ft_cc78f8f6c0ef498c9cafda214a76f97a_name_file_960x540_1600_v4_.jpg?smart=true&auth=310a35272ddcb4691f37629c442257e583bceaa4adff8ab0be0fd2c0acf69218&width=960&height=540",
       "type": "video"
     },
     {
@@ -209,12 +215,6 @@
       "title": "Clima de paz! Moradores ganham comes e bebes e celebram o Top 10 juntos | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/clima-de-paz-moradores-ganham-comes-e-bebes-e-celebram-o-top-10-juntos-casa-do-patrao-20062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-20-2026%2Ft_1125ac3f61684de5aa29db3ed440d580_name_file_960x540_1600_v4_.jpg?smart=true&auth=8b3faafaf55789bf699d4845f12be6c665841b1bb5380dcb8845219cb6f7d6af&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Bianca e Luiza querem Vivão e Nataly no próximo Tá na Reta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-e-luiza-querem-vivao-e-nataly-no-proximo-ta-na-reta-casa-do-patrao-20062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-20-2026%2Ft_8adadfe9cff3443fa0f14e7bd5f51660_name_file_960x540_1600_v4_.jpg?smart=true&auth=3144c8a68b1be3f6c1b7c3d2240d8474fcd1d4751df78f0ecc1bc8534b66af93&width=960&height=540",
       "type": "video"
     },
     {
@@ -300,6 +300,18 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/silencio-ensurdecedor-abracos-e-mergulho-da-vitoria-veja-as-reacoes-apos-a-eliminacao-de-andressa-12062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4QSRURZOWJHRFGDZ6UID4DI42M.png?smart=true&auth=34c86c706d1edc8985c54def139062dcef0eb0ca1f1f71c8bf8d6d0955f4d8de&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Relembre a porcentagem dos eliminados da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/ex-moradores-relembre-a-porcentagem-dos-eliminados-da-casa-do-patrao-27052026-5/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/TKTE7NQIRZBWZES7Y6PJC27QRE.jpg?auth=4ca43ea26600f3c9d9c1bcf46fc61f0e6482c2897df9388e12599acfc274f30a&smart=true&width=696&height=379",
+      "type": "foto"
+    },
+    {
+      "title": "Bianca e Luiza querem Vivão e Nataly no próximo Tá na Reta | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-e-luiza-querem-vivao-e-nataly-no-proximo-ta-na-reta-casa-do-patrao-20062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-20-2026%2Ft_8adadfe9cff3443fa0f14e7bd5f51660_name_file_960x540_1600_v4_.jpg?smart=true&auth=3144c8a68b1be3f6c1b7c3d2240d8474fcd1d4751df78f0ecc1bc8534b66af93&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Grupo rachado? JP critica proximidade de Sheila e Vivão e se estressa com aliada | Casa do Patrão",
@@ -598,18 +610,6 @@
       "href": "https://record.r7.com/casa-do-patrao/video/oitava-eliminacao-da-temporada-agita-a-noite-desta-quinta-feira-18-em-casa-do-patrao-18062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-18-2026%2Ft_83018e8f9779453ca464f857fbd55ee1_name_file_960x540_1600_v4_.jpg?smart=true&auth=19daa5b5c630cdb8fb3b7342259ac16018ecabca4eba45edf8370b0e934ae155&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Inimigos? Figurinha de Bianca some e Mari a encontra em lugar inusitado | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/inimigos-figurinha-de-bianca-some-e-mari-a-encontra-em-lugar-inusitado-casa-do-patrao-18062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-18-2026%2Ft_df0932a315b542fea1970d929f68eeb8_name_file_960x540_1600_v4_.jpg?smart=true&auth=2b3055f626413230c41e5087c49b4ce25ec31691e4349f09e1a90af923706d61&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Ana Hickmann quebra a internet após invadir a Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/ana-hickmann-quebra-a-internet-apos-invadir-a-casa-do-patrao-10062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/S7YWAD3XXBENRB6W5GIVZ7XNPM.png?smart=true&auth=1f4a04fc381cc7361fd391415837ee73ee6b93594ec88f9bd98897e9e4bf2f02&width=770&height=433",
-      "type": "foto"
     }
   ],
   "counts": {
