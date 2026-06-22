@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-06-22T11:21:18.306Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-06-22T16:13:19.879Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Jade Picon exibe shape com biquíni de fita em praia da Barra da Tijuca",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/dentro-da-casa/noticia/jade-picon-se-refresca-de-biquini-em-praia-da-barra-da-tijuca.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/gdKrhGaChzoh47B6uRsYczjwnGI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/X/R/pZTOjHSSWBrdYJCt11WQ/jade-picon.png"
+    },
     {
       "title": "Cartola BBB celebra marca especial e disponibiliza raio-x de cada usuário na temporada",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-celebra-marca-especial-e-disponibiliza-raio-x-de-cada-usuario-na-temporada.ghtml",
@@ -247,11 +252,6 @@
       "title": "Ana Paula Renault encontra Grazi Massafera nos bastidores da TV Globo",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/ana-paula-renault-encontra-grazi-massafera-nos-bastidores-da-tv-globo.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/y2o0waNuNmLHPccbLlfbkPnqtUI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/S/A/HmdTvPSxuIPIt7e0WAhA/grazi-massafera-e-ana-paula-renault-posam-juntas.jpg"
-    },
-    {
-      "title": "Juliano Floss compartilha momento com Ana Paula Renault e Milena: 'Reencontro dos Eternos'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/juliano-floss-compartilha-encontro-com-ana-paula-renault-e-milena-reencontro-dos-eternos.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/tWZ70JNHKUOBcYrXQNM8gOR7J7M=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/M/L/HEiHXaSOeHBoO8sxQIPw/juliano-ana-paula-milena.jpeg"
     }
   ]
 }
