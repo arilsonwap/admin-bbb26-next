@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-23T16:13:39.293Z",
-  "lastAddedCount": 6,
+  "fetchedAt": "2026-06-23T18:16:28.436Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Quem está na mira para a nona formação do Tá na Reta?",
@@ -51,7 +51,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-23-2026%2Ft_b3729e853e1447e48e4b99589b83ddbd_name_file_960x540_1600_v4_.jpg?smart=true&auth=25435ee20affa44b3951583acc875572d826d2d63c80f731af6e909540b32f93&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 1 HORA"
+      "time": "HÁ 3 HORAS"
     },
     {
       "title": "Matheus embolsa R$ 20 mil e Nataly ganha foto da família após corações rasgados na Casa do Patrão",
@@ -132,6 +132,12 @@
       "type": "foto"
     },
     {
+      "title": "Sheila define estratégia para Prova do Poder do Voto: ‘Vocês jogam e eu atrapalho’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-define-estrategia-para-prova-do-poder-do-voto-voces-jogam-e-eu-atrapalho-casa-do-patrao-23062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-23-2026%2Ft_343ebb61c9c542469258acb1eed3b3b5_name_file_960x540_1600_v4_.jpg?smart=true&auth=4936b8b36cb87fa325237552dd1e74c1f703cc09b529244b46c1b87ccb01ab4b&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Hora do Leilão! Moradores fazem apostas durante dinâmica PicPay | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/hora-do-leilao-moradores-fazem-apostas-durante-dinamica-picpay-casa-do-patrao-23062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-23-2026%2Ft_9c19fad18a6e42cea10f21b886a9f83d_name_file_960x540_1600_v4_.jpg?smart=true&auth=75bcb02e604dc22cc89d5b67325b81fc3377a9a93f76debd84507448a0709847&width=960&height=540",
@@ -201,12 +207,6 @@
       "title": "Luiza e Mari duelam na primeira rodada da Prova Tô Fora | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/luiza-e-mari-duelam-na-primeira-rodada-da-prova-to-fora-casa-do-patrao-23062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-23-2026%2Ft_e79e7dc01f1947c5ac08b411fee6a0ee_name_file_960x540_1600_v4_.jpg?smart=true&auth=7bcbe40aa8b63f6c05d4beb17068b026a6a2bb1f75a46a740caa130e269e4b96&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Em conversa com Matheus, JP diz que Sheila é 'completamente maluca' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/em-conversa-com-matheus-jp-diz-que-sheila-e-completamente-maluca-casa-do-patrao-23062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-23-2026%2Ft_9f1943d5fc1c4c489beb8362bb49377a_name_file_960x540_1600_v4_.jpg?smart=true&auth=8875ed7451b2931b64676759969ee5225a72c4edbf9967890303d39c79ed060b&width=960&height=540",
       "type": "video"
     },
     {
@@ -292,6 +292,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/barba-cabelo-e-bigode-veja-as-transformacoes-no-visual-que-rolaram-em-casa-do-patrao-14062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/5OMAK7F6JFFD5FLP2WVEGBJA7Y.jpg?smart=true&auth=5fc14e297eb23e5f3a3fd9f79ad014ec3e6eea9133278327018f3efe6ff27f27&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Em conversa com Matheus, JP diz que Sheila é 'completamente maluca' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/em-conversa-com-matheus-jp-diz-que-sheila-e-completamente-maluca-casa-do-patrao-23062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-23-2026%2Ft_9f1943d5fc1c4c489beb8362bb49377a_name_file_960x540_1600_v4_.jpg?smart=true&auth=8875ed7451b2931b64676759969ee5225a72c4edbf9967890303d39c79ed060b&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Vivão fala sobre a Casa do Trampo: 'Lugar que eu me sinto bem' | Casa do Patrão",
@@ -607,12 +613,6 @@
       "title": "Matheus explica estratégia sobre Sheila para aliados | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-explica-estrategia-sobre-sheila-para-aliados-casa-do-patrao-21062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-21-2026%2Ft_d78fea067e7e436081440b36d565ba6a_name_file_960x540_1600_v4_.jpg?smart=true&auth=c4d4b3905573781f30096d6206d64bad72a98a28481c6edd80e33f707da6dd79&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Fim de uma era? Sheila discorda de decisão e discute com Matheus | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/fim-de-uma-era-sheila-discorda-de-decisao-e-discute-com-matheus-casa-do-patrao-21062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-21-2026%2Ft_fb1d002995dc4482b23ade360c5c4c3f_name_file_960x540_1600_v4_.jpg?smart=true&auth=3a818d6a7271d02e13545d303782798782c557a27a475b37494f33ec92d0baba&width=960&height=540",
       "type": "video"
     }
   ],
