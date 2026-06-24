@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-24T21:22:50.504Z",
+  "fetchedAt": "2026-06-24T22:46:40.149Z",
   "lastAddedCount": 1,
   "items": [
     {
@@ -160,6 +160,12 @@
       "type": "foto"
     },
     {
+      "title": "Sheila pede que aliados confiem nela 'ainda mais nesta reta final' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-pede-que-aliados-confiem-nela-ainda-mais-nesta-reta-final-casa-do-patrao-24062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-24-2026%2Ft_3595f896cf2f46c49975c9442c7789ea_name_file_960x540_1600_v4_.jpg?smart=true&auth=138a96c5992b803d83513d04407609c0f93011be9a73a27c29fe46b2626883be&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Bianca pede ajuda de Matheus para fazer macarrão | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-pede-ajuda-de-matheus-para-fazer-macarrao-casa-do-patrao-24062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-24-2026%2Ft_86507eac93bc496c8cd71937609d844b_name_file_960x540_1600_v4_.jpg?smart=true&auth=f6fdd366f429088c81dc5ea52b32b325fd162e193e1ac52a1db37fbf9867fb95&width=960&height=540",
@@ -207,7 +213,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-24-2026%2Ft_508d8185e804489db9a85fd9e9331aaf_name_file_960x540_1600_v4_.jpg?smart=true&auth=b1b2b6335a7c7b532fd327d11411358bcfc9d59f6bafde38a5004b48b5a669c3&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 10 HORAS"
+      "time": "HÁ 11 HORAS"
     },
     {
       "title": "Moradores fazem barreira de malas para impedir que Matheus entre e cobre serviço | Casa do Patrão",
@@ -231,12 +237,6 @@
       "title": "Vou para o ‘spa’! Sheila dispara deboche caso Jackson volte do Tá na Reta | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vou-para-o-spa-sheila-dispara-deboche-caso-jackson-volte-do-ta-na-reta-casa-do-patrao-24062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-24-2026%2Ft_8cf86456b4ed45498082e570afe2f41c_name_file_960x540_1600_v4_.jpg?smart=true&auth=7a265e501927d2e024e66a54a01d9db805296e6631ba78025f9e2bcb375ff335&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Jackson, Nataly e Vivão defendem permanência no jogo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/jackson-nataly-e-vivao-defendem-permanencia-no-jogo-casa-do-patrao-24062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-24-2026%2Ft_e3f6bfb149114d3b9d602ba77b2fa401_name_file_960x540_1600_v4_.jpg?smart=true&auth=1f912e1201af2398fe7aeefba98b9dd96001918a1a82bf0b1f7611eb7350efe8&width=960&height=540",
       "type": "video"
     },
     {
@@ -292,6 +292,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/pizza-e-fofoca-moradores-preparam-pratos-com-o-chef-ravioli-enquanto-malham-a-lingua-15062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/TNX4TKS22VETXM7PAXGU5GLVOE.png?smart=true&auth=4c35b734cf9177fdf43a1a4267e22ddfc2e51ae0455f35d57a1a43fedeba4b0e&width=1542&height=867",
       "type": "foto"
+    },
+    {
+      "title": "Jackson, Nataly e Vivão defendem permanência no jogo | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/jackson-nataly-e-vivao-defendem-permanencia-no-jogo-casa-do-patrao-24062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-24-2026%2Ft_e3f6bfb149114d3b9d602ba77b2fa401_name_file_960x540_1600_v4_.jpg?smart=true&auth=1f912e1201af2398fe7aeefba98b9dd96001918a1a82bf0b1f7611eb7350efe8&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Jackson, Nataly e Vivão formam o nono Tá na Reta da Casa do Patrão",
@@ -601,12 +607,6 @@
       "title": "Sheila cobra Matheus após ficar fora do Trampo: ‘Pedi várias vezes’ | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-cobra-matheus-apos-ficar-fora-do-trampo-pedi-varias-vezes-casa-do-patrao-23062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-23-2026%2Ft_7d52b10a1aea48ca97aa41309ca432e4_name_file_960x540_1600_v4_.jpg?smart=true&auth=08bb2e1d6cb00c7f2b26adf5a39b7fc063198a6960ee54fc2b625e57b78d04f6&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Vivão e Sheila cantam juntos na piscina | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-e-sheila-cantam-juntos-na-piscina-casa-do-patrao-23062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-23-2026%2Ft_33485d1495d14233aa1bcd659f58af85_name_file_960x540_1600_v4_.jpg?smart=true&auth=67ceed0333728d1bed60b147e38e1a56e9c99a776ae7ee3f504f4950ccc5f6f7&width=960&height=540",
       "type": "video"
     }
   ],
