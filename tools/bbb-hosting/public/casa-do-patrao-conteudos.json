@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-25T21:14:13.675Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-06-25T22:50:02.140Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Acompanhe a transmissão de Casa do Patrão ao vivo e de graça no YouTube",
@@ -118,12 +118,6 @@
       "type": "noticia"
     },
     {
-      "title": "Hassum abre o coração e faz desabafo emocionante em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/hassum-abre-o-coracao-e-faz-desabafo-emocionante-em-casa-do-patrao-28052026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YCX4YTW3DNCRBBLMELRBYJY54A.png?auth=bb28a33ad3ceb04fc0eb623e58fe8ffd2a76803ff43dd99699d5292e76f41304&smart=true&width=696&height=390",
-      "type": "noticia"
-    },
-    {
       "title": "Veja as vezes em que o poder subiu à cabeça dos Patrões",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/manda-quem-pode-e-obedece-quem-tem-juizo-veja-sete-momentos-em-que-o-poder-subiu-a-cabeca-na-casa-do-patrao-15062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/SZ3LDD3ANVF5LAFB7RIPHDQUL4.jpg?auth=35c280617fbe8d8f24f91045139dff48cbf3afdebcd3554ad61cff9a75720ac6&smart=true&width=696&height=379",
@@ -172,6 +166,12 @@
       "type": "foto"
     },
     {
+      "title": "Morena diz que Nataly e Vivão movimentam o jogo e não deveriam ser eliminados | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/morena-diz-que-nataly-e-vivao-movimentam-o-jogo-e-nao-deveriam-ser-eliminados-casa-do-patrao-25062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-25-2026%2Ft_5c919049efe64a798283530127a73778_name_file_960x540_1600_v4_.jpg?smart=true&auth=4d75f10b923d23dcdc8c20136d6a27fdbcb411f8feac04293d41e733a8fbd6d2&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Bianca chora e pede desculpas para Nataly, Vivão e Morena | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-chora-e-pede-desculpas-para-nataly-vivao-e-morena-casa-do-patrao-25062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-25-2026%2Ft_ed9fe69a6f204d0fa22970844c2fb7d8_name_file_960x540_1600_v4_.jpg?smart=true&auth=658291b80633e5da91ee1d802faa13cc73479a921170b11947f76d3b3385f1e0&width=960&height=540",
@@ -213,7 +213,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-25-2026%2Ft_4d409c50fb6f4db882c34378c2cb867d_name_file_960x540_1600_v4_.jpg?smart=true&auth=f23a2f1c65523445472e18740c0e778470e810a7508ccd469b82a2744b067218&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 6 HORAS"
+      "time": "HÁ 8 HORAS"
     },
     {
       "title": "Bianca encontra quarto revirado, fica furiosa e tira satisfação com Vivão | Casa do Patrão",
@@ -249,12 +249,6 @@
       "title": "Risco de sair do jogo é tema central de conversa do trio do Tá na Reta | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/risco-de-sair-do-jogo-e-tema-central-de-conversa-do-trio-do-ta-na-reta-casa-do-patrao-25062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-25-2026%2Ft_487356e3f9e941b9be97343277437fa8_name_file_960x540_1600_v4_.jpg?smart=true&auth=e97e6c7c0c1847f2d2db19d6371eb3ed6f5edc78ff5f484c70605b59d84f2f87&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Casa do Patrão entra em nova fase com ‘Semana Elétrica’ e terá eliminação extra",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/casa-do-patrao-entra-em-nova-fase-com-semana-eletrica-e-tera-eliminacao-extra-25062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-25-2026%2Ft_4a37e660e40e49b5bcec97eea3760b7e_name_file_960x540_1600_v4_.jpg?smart=true&auth=2c48a3dd7dcfe7eeb5cc8c076e8ce5f91d264b566cea94fdbc524844c6dd0c9c&width=960&height=540",
       "type": "video"
     },
     {
@@ -316,6 +310,18 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/festa-luau-rende-passinhos-chamego-e-papo-cabeca-na-casa-do-patrao-18062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ERFIRYA2HZFD3KUMCYAYW2U6YU.png?smart=true&auth=3699afe57cc3cdbccaa3df4b89a847266ad92a67866c96a845c5b702d3e6697d&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Hassum abre o coração e faz desabafo emocionante em Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/hassum-abre-o-coracao-e-faz-desabafo-emocionante-em-casa-do-patrao-28052026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YCX4YTW3DNCRBBLMELRBYJY54A.png?auth=bb28a33ad3ceb04fc0eb623e58fe8ffd2a76803ff43dd99699d5292e76f41304&smart=true&width=696&height=390",
+      "type": "noticia"
+    },
+    {
+      "title": "Casa do Patrão entra em nova fase com ‘Semana Elétrica’ e terá eliminação extra",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/casa-do-patrao-entra-em-nova-fase-com-semana-eletrica-e-tera-eliminacao-extra-25062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-25-2026%2Ft_4a37e660e40e49b5bcec97eea3760b7e_name_file_960x540_1600_v4_.jpg?smart=true&auth=2c48a3dd7dcfe7eeb5cc8c076e8ce5f91d264b566cea94fdbc524844c6dd0c9c&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Bianca diz que não gosta de receber ordens no jogo | Casa do Patrão",
@@ -605,12 +611,6 @@
       "title": "‘Sheila surta se o Jackson voltar de mais uma Reta’, diz Luiza",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-surta-se-o-jackson-voltar-de-mais-uma-reta-diz-luiza-casa-do-patrao-24062026/",
       "imageUrl": "https://d22yf0mxeu0gma.cloudfront.net/06-24-2026/t_509c05e0359c4e638f47600971c0843b_name_file_960x540_1600_v4_.jpg",
-      "type": "video"
-    },
-    {
-      "title": "Miss Simpatia faz isso? Bianca propõe comida apimentada para irritar Vivão | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/miss-simpatia-faz-isso-bianca-propoe-comida-apimentada-para-irritar-vivao-casa-do-patrao-24062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-24-2026%2Ft_4400a4294a764cc9a8b5eaebdca2456e_name_file_960x540_1600_v4_.jpg?smart=true&auth=5ab5f0b59c7ff140684b459c907cfb4b70b919b6024560987255e41ad8aee3a1&width=960&height=540",
       "type": "video"
     }
   ],
