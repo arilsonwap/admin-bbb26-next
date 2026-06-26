@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-26T15:38:29.612Z",
-  "lastAddedCount": 5,
+  "fetchedAt": "2026-06-26T17:22:29.515Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Acompanhe a transmissão de Casa do Patrão ao vivo e de graça no YouTube",
@@ -12,12 +12,6 @@
     {
       "title": "Live Tá na Rua: Nataly solta o verbo e comenta polêmicas da Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/live-ta-na-rua-nataly-solta-o-verbo-e-comenta-polemicas-da-casa-do-patrao-26062026/",
-      "type": "noticia"
-    },
-    {
-      "title": "Nataly é eliminada de Casa do Patrão, com 24,95% dos votos",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/nataly-e-eliminada-de-casa-do-patrao-com-2495-dos-votos-26062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/QGNWXUJPSBFJPFYEAWSNYTV2ME.png?auth=73789438bd4b2b3dfbdeb37e4410236e3076c72e1f0fa11b24bf35c002adef85&smart=true&width=208&height=330",
       "type": "noticia"
     },
     {
@@ -69,9 +63,9 @@
       "type": "foto"
     },
     {
-      "title": "Em ‘família’! Veja como Matheus avaliou os aliados no Trampo",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/em-familia-veja-como-matheus-avaliou-os-aliados-no-trampo-26062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/A4GQR4PDLRECFKBRSL7FSXMJH4.png?auth=be548674c4f17a7c82f1f78f7b5d0a466e414bd4697c0a4618419e0b347a2ba7&smart=true&width=696&height=348",
+      "title": "Nataly é eliminada de Casa do Patrão, com 24,95% dos votos",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/nataly-e-eliminada-de-casa-do-patrao-com-2495-dos-votos-26062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/QGNWXUJPSBFJPFYEAWSNYTV2ME.png?auth=73789438bd4b2b3dfbdeb37e4410236e3076c72e1f0fa11b24bf35c002adef85&smart=true&width=696&height=390",
       "type": "noticia"
     },
     {
@@ -165,6 +159,12 @@
       "type": "foto"
     },
     {
+      "title": "Moradores do Trampo vão às compras nesta sexta-feira (26) | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-do-trampo-vao-as-compras-nesta-sexta-feira-26-casa-do-patrao-26062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-26-2026%2Ft_a37052025e6c46b0baf2bdb802ddcd5f_name_file_960x540_1600_v4_.jpg?smart=true&auth=4faf69b987b0de57eaaac71e2cf37829bdf4fb43709452d601c5ccc9c6df6bda&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "JP é o novo alvo? Jackson diz que o rival está sendo minado por aliados | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jp-e-o-novo-alvo-jackson-diz-que-o-rival-esta-sendo-minado-por-aliados-casa-do-patrao-26062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-26-2026%2Ft_6baa267ae56049919b8fb442dbb81b6e_name_file_960x540_1600_v4_.jpg?smart=true&auth=b9d6ac02e4c0878fdd6daed93be6de49ef3db9c4c7d816f2afacf181399af409&width=960&height=540",
@@ -243,10 +243,10 @@
       "type": "video"
     },
     {
-      "title": "Do Tá na Reta para o patronato! Jackson é o mais ágil e vence Prova do Patrão | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/do-ta-na-reta-para-o-patronato-jackson-e-o-mais-agil-e-vence-prova-do-patrao-casa-do-patrao-26062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-26-2026%2Ft_cb26a5066def4cb6929757af24bfafce_name_file_960x540_1600_v4_.jpg?smart=true&auth=5225d1dc66590c304dfe58f314faca31c893a4c0b4db121877dc595094f5d1c5&width=960&height=540",
-      "type": "video"
+      "title": "Em ‘família’! Veja como Matheus avaliou os aliados no Trampo",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/em-familia-veja-como-matheus-avaliou-os-aliados-no-trampo-26062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/A4GQR4PDLRECFKBRSL7FSXMJH4.png?smart=true&auth=be548674c4f17a7c82f1f78f7b5d0a466e414bd4697c0a4618419e0b347a2ba7&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Bianca chora e Luiza pede perdão aos adversários após acusações: ‘Falei coisas horríveis!’",
@@ -264,12 +264,6 @@
       "title": "Multa coletiva! Moradores perdem muito dinheiro após baderna da madrugada na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/multa-coletiva-moradores-perdem-muito-dinheiro-apos-baderna-da-madrugada-na-casa-do-patrao-25062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/6HRWF4CUXVAMLGQQMQ5OPBLRHE.png?smart=true&auth=9fce4b5e27ba28f8d38135fa8560e4a7ad7de385a51e8174d94cfd8cc35f2b81&width=1100&height=618",
-      "type": "noticia"
-    },
-    {
-      "title": "Jackson, Nataly ou Vivão, quem você quer salvar da eliminação?",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/jackson-nataly-ou-vivao-quem-voce-quer-salvar-da-eliminacao-25062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ZMLOCVSDRFDTJPW5KLISRBNCWU.png?smart=true&auth=ea48de3980ad933109ff1b36775f55a77e85c426a50c9c37599731a6bf2e11c1&width=677&height=380",
       "type": "noticia"
     },
     {
@@ -331,6 +325,18 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/festa-luau-rende-passinhos-chamego-e-papo-cabeca-na-casa-do-patrao-18062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ERFIRYA2HZFD3KUMCYAYW2U6YU.png?smart=true&auth=3699afe57cc3cdbccaa3df4b89a847266ad92a67866c96a845c5b702d3e6697d&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Do Tá na Reta para o patronato! Jackson é o mais ágil e vence Prova do Patrão | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/do-ta-na-reta-para-o-patronato-jackson-e-o-mais-agil-e-vence-prova-do-patrao-casa-do-patrao-26062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-26-2026%2Ft_cb26a5066def4cb6929757af24bfafce_name_file_960x540_1600_v4_.jpg?smart=true&auth=5225d1dc66590c304dfe58f314faca31c893a4c0b4db121877dc595094f5d1c5&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Jackson, Nataly ou Vivão, quem você quer salvar da eliminação?",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/jackson-nataly-ou-vivao-quem-voce-quer-salvar-da-eliminacao-25062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ZMLOCVSDRFDTJPW5KLISRBNCWU.png?smart=true&auth=ea48de3980ad933109ff1b36775f55a77e85c426a50c9c37599731a6bf2e11c1&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Fabíola Reipert resume tudo que rolou na semana no reality",
@@ -597,12 +603,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/amados-em-alto-e-bom-som-familiares-de-nataly-e-vivao-comemoram-chegada-da-dupla-ao-top-10-de-casa-do-patrao-23062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RXUKQUCJDNF2XHOADQQR644QTI.png?auth=08fc298c62e19cd79394d043aa09ae52bea4b7a477781194530c3450f3fd3d25&smart=true&width=696&height=390",
       "type": "noticia"
-    },
-    {
-      "title": "Curiosidades de Jackson e Bianca conduzem momento emotivo no jogo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/curiosidades-de-jackson-e-bianca-conduzem-momento-emotivo-no-jogo-casa-do-patrao-25062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-25-2026%2Ft_e1126b1b421842d2893527f0c86316ba_name_file_960x540_1600_v4_.jpg?smart=true&auth=92eef8c5127db4835cfddd6ba57529f29d90cdd096378eed56e11a61514f864f&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
