@@ -1,14 +1,8 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-27T18:48:51.586Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-06-27T20:01:10.125Z",
+  "lastAddedCount": 1,
   "items": [
-    {
-      "title": "Acompanhe a transmissão de Casa do Patrão ao vivo e de graça no YouTube",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/degustacao-assista-ao-sinal-24-horas-da-casa-do-patrao-no-youtube-23062026/",
-      "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/newr7/HH2WCITYEBDL7AAFUC6IOPQXXE.png",
-      "type": "noticia"
-    },
     {
       "title": "Bianca vence Prova Poder do Voto e garante vantagem na semana elétrica da Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/bianca-vence-prova-poder-do-voto-e-garante-vantagem-na-semana-eletrica-da-casa-do-patrao-27062026/",
@@ -156,12 +150,18 @@
       "type": "foto"
     },
     {
+      "title": "Sheila detona jogo de Jackson | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-detona-jogo-de-jackson-casa-do-patrao-27062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-27-2026%2Ft_7772ed2d2a9f4789a1eff80bb2c36032_name_file_960x540_1600_v4_.jpg?smart=true&auth=f62604bb612c28558ec3dd155517ae4773c154c7c5285df32e2391339b611713&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "'Quem é seu 2º lugar?’: Dudu Camargo 'invade' a Casa do Patrão!",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/quem-e-seu-2-lugar-dudu-camargo-invade-a-casa-do-patrao-27062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-27-2026%2Ft_14053ef685704613ac78dbbe3264622e_name_file_960x540_1600_v4_.jpg?smart=true&auth=5b06060ca4647a2903d5dd3888c4dc8afb3e6b5887788617f29e5dc842b45c43&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 1 HORA"
+      "time": "HÁ 3 HORAS"
     },
     {
       "title": "Vivão projeta eliminação e desabafa: ‘Se eu ficar ou sair, vou ficar muito feliz!’ | Casa do Patrão",
@@ -239,12 +239,6 @@
       "title": "Dia de compras! Jackson chama Luiza para o mercado dos Parças | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/dia-de-compras-jackson-chama-luiza-para-o-mercado-dos-parcas-casa-do-patrao-27062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-27-2026%2Ft_e7acfc70400244cd977f76b69cd317e8_name_file_960x540_1600_v4_.jpg?smart=true&auth=6c55b13bf604fcdfa6e81dadca65a58ea1e42996fe0f34baaa20edf0cbc502f8&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Hassum atualiza saldo de Matheus após saída de Nataly | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/hassum-atualiza-saldo-de-matheus-apos-saida-de-nataly-casa-do-patrao-27062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-27-2026%2Ft_a467fa96f0f84953acfe4af754943226_name_file_960x540_1600_v4_.jpg?smart=true&auth=3b4d5ca0941f021ea374c460b85a79e896db48e04fe3534e1f3c0f45734e72b7&width=960&height=540",
       "type": "video"
     },
     {
@@ -342,6 +336,18 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/pequena-notavel-relembre-a-passagem-de-marina-pela-casa-do-patrao-19062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/VACEWEVEF5AHFBBBCRL3VHRS3I.jpeg?smart=true&auth=84f663616bcb3b0dc34f6808de205e1c726787de3d43014240b1a403d6d48ff8&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Acompanhe a transmissão de Casa do Patrão ao vivo e de graça no YouTube",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/degustacao-assista-ao-sinal-24-horas-da-casa-do-patrao-no-youtube-23062026/",
+      "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/newr7/HH2WCITYEBDL7AAFUC6IOPQXXE.png",
+      "type": "noticia"
+    },
+    {
+      "title": "Hassum atualiza saldo de Matheus após saída de Nataly | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/hassum-atualiza-saldo-de-matheus-apos-saida-de-nataly-casa-do-patrao-27062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-27-2026%2Ft_a467fa96f0f84953acfe4af754943226_name_file_960x540_1600_v4_.jpg?smart=true&auth=3b4d5ca0941f021ea374c460b85a79e896db48e04fe3534e1f3c0f45734e72b7&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Moradores levam multa coletiva após Matheus pegar comida dos Parças | Casa do Patrão",
@@ -601,12 +607,6 @@
       "title": "Aliado faz isso? JP bagunça pertences de Bianca e comemora com Sheila | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/aliado-faz-isso-jp-bagunca-pertences-de-bianca-e-comemora-com-sheila-casa-do-patrao-26062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-26-2026%2Ft_93044d1f97314ba193cea644f6aadcab_name_file_960x540_1600_v4_.jpg?smart=true&auth=2dd57d1497b1e2ff54bfd2c5f636de320e9f108ff6277df5a9d1aab116543f44&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila aconselha Matheus sobre amizade com Bianca: ‘Você precisa acordar’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/sheila-aconselha-matheus-sobre-amizade-com-bianca-voce-precisa-acordar-casa-do-patrao-26062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-26-2026%2Ft_025ac6730df6462fa6797045ab52f7f5_name_file_960x540_1600_v4_.jpg?smart=true&auth=ac5484f55886a06416f8a399f4c566e389e778d4f2ffb6776c4306696ba30ac0&width=960&height=540",
       "type": "video"
     }
   ],
