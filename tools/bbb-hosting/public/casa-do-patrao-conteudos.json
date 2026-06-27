@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-27T21:17:40.144Z",
-  "lastAddedCount": 3,
+  "fetchedAt": "2026-06-27T22:32:20.780Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Acompanhe a transmissão de Casa do Patrão ao vivo e de graça no YouTube",
@@ -156,6 +156,12 @@
       "type": "foto"
     },
     {
+      "title": "Diário de um Quase Confinado: Hassum faz resumo da semana elétrica na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/diario-de-um-quase-confinado/video/diario-de-um-quase-confinado-hassum-faz-resumo-da-semana-eletrica-na-casa-do-patrao-27062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-27-2026%2Ft_f95381c9851245fe8fd93e43563b6f63_name_file_960x540_1600_v4_.jpg?smart=true&auth=f1e689fb957e00492762161fa9847fe31f731866e200f6f5e27f0a25264f79b3&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Bianca faz bolo de chocolate para os Parças | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-faz-bolo-de-chocolate-para-os-parcas-casa-do-patrao-27062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-27-2026%2Ft_db55fcde30f94033b20a3da52c40b488_name_file_960x540_1600_v4_.jpg?smart=true&auth=5378d45454752e331fc95b25513f1ba96003c24b3fa30e578e3244d925568b42&width=960&height=540",
@@ -179,7 +185,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-27-2026%2Ft_14053ef685704613ac78dbbe3264622e_name_file_960x540_1600_v4_.jpg?smart=true&auth=5b06060ca4647a2903d5dd3888c4dc8afb3e6b5887788617f29e5dc842b45c43&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 4 HORAS"
+      "time": "HÁ 5 HORAS"
     },
     {
       "title": "Vivão projeta eliminação e desabafa: ‘Se eu ficar ou sair, vou ficar muito feliz!’ | Casa do Patrão",
@@ -239,12 +245,6 @@
       "title": "Esposa e amigo de JP narram histórias engraçadas sobre o morador | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/esposa-e-amigo-de-jp-narram-historias-engracadas-sobre-o-morador-casa-do-patrao-27062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-27-2026%2Ft_a79402235cf24744858e5562ff7efea4_name_file_960x540_1600_v4_.jpg?smart=true&auth=496a3feaa70c06d7aa1cabc9e490e4610c2fba15e0b805162f3085a4fbe9e71f&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Bianca e Morena disputam primeiro mata-mata da Prova Poder do Voto | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/bianca-e-morena-disputam-primeiro-mata-mata-da-prova-poder-do-voto-casa-do-patrao-27062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-27-2026%2Ft_f59bdeb71b95402e88b5deef8ac72aa5_name_file_960x540_1600_v4_.jpg?smart=true&auth=1c1407492d9f96f8a2d040bd315a346ff5584577598701e0d09cedd929006d81&width=960&height=540",
       "type": "video"
     },
     {
@@ -342,6 +342,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/top-10-definido-veja-quais-moradores-estao-na-reta-final-da-casa-do-patrao-19062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/KLYVMBYBXNBNBC2Y3DW6JHYBQI.jpg?smart=true&auth=2975a32bb939bcb94f5887d2d41bae3af4c30d07d0eaeef1e877cd5b3b5dba8b&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Bianca e Morena disputam primeiro mata-mata da Prova Poder do Voto | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/bianca-e-morena-disputam-primeiro-mata-mata-da-prova-poder-do-voto-casa-do-patrao-27062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-27-2026%2Ft_f59bdeb71b95402e88b5deef8ac72aa5_name_file_960x540_1600_v4_.jpg?smart=true&auth=1c1407492d9f96f8a2d040bd315a346ff5584577598701e0d09cedd929006d81&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Sheila lamenta volta de Jackson do Tá na Reta e detona: 'Não faz nada no jogo' | Casa do Patrão",
@@ -601,12 +607,6 @@
       "title": "Vingança! Bianca fica irritada com bagunça e investiga o responsável pela desordem | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/vinganca-bianca-fica-irritada-com-bagunca-e-investiga-o-responsavel-pela-desordem-casa-do-patrao-26062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-26-2026%2Ft_b834630b93754fe4bbfd4b9e6178e3af_name_file_960x540_1600_v4_.jpg?smart=true&auth=0bc4579db058d5b961005ffcac949637aa4703cc4faf9c89f4dca8fb7085ff58&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Familiares e amigos de Matheus e Morena contam histórias especiais dos moradores | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/familiares-e-amigos-de-matheus-e-morena-contam-historias-especiais-dos-moradores-casa-do-patrao-26062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-26-2026%2Ft_1829190bdfcc46f3b4e89adc3f92a623_name_file_960x540_1600_v4_.jpg?smart=true&auth=ab6555374959ea5d8d813f68eb8f973ea821cd7c45bffa326f35c780038601ed&width=960&height=540",
       "type": "video"
     }
   ],
