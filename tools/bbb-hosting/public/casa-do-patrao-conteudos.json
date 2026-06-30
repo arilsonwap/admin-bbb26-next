@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-30T18:56:25.674Z",
+  "fetchedAt": "2026-06-30T20:56:53.312Z",
   "lastAddedCount": 3,
   "items": [
     {
@@ -21,7 +21,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/MY7YWZZHVZDHREN4V54TOSTBP4.png?smart=true&auth=ca22fb4da0f1faed51bb2b4e49182a9f38396e49f63c3e49b4d885906d271413&width=1269&height=713",
       "type": "noticia",
       "category": "NOVIDADES",
-      "time": "HÁ 32 MINUTOS"
+      "time": "HÁ 2 HORAS"
     },
     {
       "title": "Abraço coletivo, dancinha de despedida e roda na fogueira: veja como os moradores reagiram à eliminação de Morena",
@@ -42,10 +42,10 @@
       "type": "noticia"
     },
     {
-      "title": "Prova do Patrão definirá o novo mandachuva na noite desta terça (30) | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/video/prova-do-patrao-definira-o-novo-mandachuva-na-noite-desta-terca-30-casa-do-patrao-30062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_8b8f293c75854deeb0bcd2fd1db5bc8a_name_file_960x540_1600_v4_.jpg?smart=true&auth=10f431e95f6143f30b1d67f7f79eb61f6727477b8fa48e34c14213da583c83ac&width=960&height=540",
-      "type": "video"
+      "title": "Nesta terça (30), tem prova ao vivo valendo o cargo de Patrão do reality",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/nesta-terca-30-tem-prova-ao-vivo-valendo-o-cargo-de-patrao-do-reality-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/TCI6FWAG3ZAKZGB2N4LRSEBNXE.png?smart=true&auth=0a1452054405b7f48085e499ced632674b7c6de46a791473e11ea84e5ae36a3c&width=1269&height=713",
+      "type": "noticia"
     },
     {
       "title": "Amor, coragem e tretas: relembre a passagem de Morena pela Casa do Patrão",
@@ -72,9 +72,9 @@
       "type": "foto"
     },
     {
-      "title": "Jackson revela tranquilidade em saber que estará no próximo Tá na Reta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-revela-tranquilidade-em-saber-que-estara-no-proximo-ta-na-reta-casa-do-patrao-30062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_9a3d0a3817214e03a9c6cf748a378058_name_file_960x540_1600_v4_.jpg?smart=true&auth=e500bb994e4edab775911240a8599c7ca9d72add0cbf2938f6351cdd6059470e&width=960&height=540",
+      "title": "Tá na Rua: Assista à íntegra da live com Morena | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/ta-na-rua-assista-a-integra-da-live-com-morena-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_beae4e90f7b847da9734150303402efb_name_file_960x540_1600_v4_.jpg?smart=true&auth=dd385fae800e03aeaf5f449fde58a3f6088883ac3ed8ef30309fd067ba92a4d2&width=960&height=540",
       "type": "video"
     },
     {
@@ -150,6 +150,12 @@
       "type": "foto"
     },
     {
+      "title": "JP, Mari e Matheus especulam próximas fases do jogo | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jp-mari-e-matheus-especulam-proximas-fases-do-jogo-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_7f4b5fba12f441c39b5899fb79e62f1c_name_file_960x540_1600_v4_.jpg?smart=true&auth=bcc96621896eb73d690722e938d96bc866ad19e57fd83428bdf32d3243c89b46&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Foi estratégia? Morena fala sobre romance com Luis Fellipe: 'Vamos se ver' | Live Tá na Rua",
       "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/foi-estrategia-morena-fala-sobre-romance-com-luis-fellipe-vamos-se-ver-live-ta-na-rua-30062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_77754ab93d224fb7b78decde9e7111a5_name_file_960x540_1600_v4_.jpg?smart=true&auth=cf86b433c14d7d0334ba9324e9447c03e8df8196ac89aa4697ae813cbd988fa7&width=960&height=540",
@@ -168,6 +174,12 @@
       "type": "video"
     },
     {
+      "title": "Prova do Patrão definirá o novo mandachuva na noite desta terça (30) | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/video/prova-do-patrao-definira-o-novo-mandachuva-na-noite-desta-terca-30-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_8b8f293c75854deeb0bcd2fd1db5bc8a_name_file_960x540_1600_v4_.jpg?smart=true&auth=10f431e95f6143f30b1d67f7f79eb61f6727477b8fa48e34c14213da583c83ac&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Hora do Leilão! Moradores fazem apostas durante dinâmica do PicPay | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/hora-do-leilao-moradores-fazem-apostas-durante-dinamica-do-picpay-casa-do-patrao-30062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_81c4d848374344aab52209430dfa8400_name_file_960x540_1600_v4_.jpg?smart=true&auth=b26cfa052da07d5aa28998ecb75931351cef8b46af895e1fc88434aa202d1169&width=960&height=540",
@@ -177,6 +189,12 @@
       "title": "Sheila esconde pote de granola embaixo da mesa durante o café da manhã | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-esconde-pote-de-granola-embaixo-da-mesa-durante-o-cafe-da-manha-casa-do-patrao-30062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_5ec92cf8d43d4da9b3d502762909ce63_name_file_960x540_1600_v4_.jpg?smart=true&auth=4e4a66f950eae3d2250d4da131aead58e184093d49f2088f2a50576afac0f9cd&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Jackson revela tranquilidade em saber que estará no próximo Tá na Reta | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-revela-tranquilidade-em-saber-que-estara-no-proximo-ta-na-reta-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_9a3d0a3817214e03a9c6cf748a378058_name_file_960x540_1600_v4_.jpg?smart=true&auth=e500bb994e4edab775911240a8599c7ca9d72add0cbf2938f6351cdd6059470e&width=960&height=540",
       "type": "video"
     },
     {
@@ -191,7 +209,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_c4a4fba3aa1c4bd8b927c84c08e834a4_name_file_960x540_1600_v4_.jpg?smart=true&auth=eb97b7ee1b77e92a1616580083b05021721ac2b10054c4412e20a8c673b3e181&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 11 HORAS"
+      "time": "HÁ 13 HORAS"
     },
     {
       "title": "Vivão desabafa após escapar do Tá na Reta: 'Último representante do navio' | Casa do Patrão",
@@ -218,18 +236,6 @@
       "type": "video"
     },
     {
-      "title": "Leilão, votação e resistência: Confira o cronograma da semana elétrica na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/leilao-votacao-e-resistencia-confira-o-cronograma-da-semana-eletrica-na-casa-do-patrao-30062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_a728ae39df394ba88e74b42106c2731c_name_file_960x540_1600_v4_.jpg?smart=true&auth=31ebaa951a5404b8e2c5ff410f1e40fe53aa0f68a566e703f7f8356fb6869295&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Luiza tem crise de choro após cobrança de Sheila e recebe apoio de Bianca | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/luiza-tem-crise-de-choro-apos-cobranca-de-sheila-e-recebe-apoio-de-bianca-casa-do-patrao-30062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_7192d98260a5466590dd95fdf2f545f7_name_file_960x540_1600_v4_.jpg?smart=true&auth=85fc5ddf4208616c188c8d0515d532dbd4d5cf23add0edfff4e9aa477d27af8f&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Live Tá na Rua: Morena encara Keila Jimenez e repercute participação na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/live-ta-na-rua-morena-encara-keila-jimenez-e-repercute-participacao-na-casa-do-patrao-30062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EYQWVQG55RA2HNJG7LD6ES3TBA.jpg?smart=true&auth=b0668bf3fb8c7f59c34d410e36e52db3e57cf9cdab0326e46f1785e8f7412abf&width=348&height=195",
@@ -251,12 +257,6 @@
       "title": "Casa do Patrão terá eliminação nesta segunda-feira (29)",
       "href": "https://record.r7.com/casa-do-patrao/novidades/casa-do-patrao-tera-eliminacao-nesta-segunda-feira-29-29062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/V54VQYMCQVBPXACUCKPUCGEXOI.jpg?smart=true&auth=634810ad7e19fecb70b2958128526af11a57a9ef745d43923e136d651a3d97fc&width=677&height=380",
-      "type": "noticia"
-    },
-    {
-      "title": "Moradores cumprem desafio e garantem jantar mexicano em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/moradores-cumprem-desafio-e-garantem-jantar-mexicano-em-casa-do-patrao-28062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/LO64MLQPAFGYTCPSHPZK5Y2MUE.png?smart=true&auth=9c14e8f444cb54c5b15d9df425b04d9ab850089e9ac056568e2a50dbf2e0eda5&width=770&height=433",
       "type": "noticia"
     },
     {
@@ -330,6 +330,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/danca-e-joga-festa-infantil-expoe-racha-em-grupo-e-proximos-alvos-da-reta-22062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/PU6VYUPYQZANVFUU7XUXGFHSRY.png?smart=true&auth=af3f8d8d6fa50d5aa11b4d8cf71275c7b0ba315b6c8ace25ad0334b3e24f1f17&width=1446&height=813",
       "type": "foto"
+    },
+    {
+      "title": "Leilão, votação e resistência: Confira o cronograma da semana elétrica na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/leilao-votacao-e-resistencia-confira-o-cronograma-da-semana-eletrica-na-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_a728ae39df394ba88e74b42106c2731c_name_file_960x540_1600_v4_.jpg?smart=true&auth=31ebaa951a5404b8e2c5ff410f1e40fe53aa0f68a566e703f7f8356fb6869295&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Luiza tem crise de choro após cobrança de Sheila e recebe apoio de Bianca | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/luiza-tem-crise-de-choro-apos-cobranca-de-sheila-e-recebe-apoio-de-bianca-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_7192d98260a5466590dd95fdf2f545f7_name_file_960x540_1600_v4_.jpg?smart=true&auth=85fc5ddf4208616c188c8d0515d532dbd4d5cf23add0edfff4e9aa477d27af8f&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Moradores cumprem desafio e garantem jantar mexicano em Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/moradores-cumprem-desafio-e-garantem-jantar-mexicano-em-casa-do-patrao-28062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/LO64MLQPAFGYTCPSHPZK5Y2MUE.png?smart=true&auth=9c14e8f444cb54c5b15d9df425b04d9ab850089e9ac056568e2a50dbf2e0eda5&width=770&height=433",
+      "type": "noticia"
     },
     {
       "title": "Descanso merecido! Jackson e moradores do Trampo recebem massagem na Casa do Patrão",
@@ -596,29 +614,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-concluem-atividade-e-liberam-festa-mexicana-deste-domingo-28-casa-do-patrao-28062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-28-2026%2Ft_0ea6e2aa12d34522bc00a5899b6be82e_name_file_960x540_1600_v4_.jpg?smart=true&auth=7dd4a166cc9afe6fae8171f2cc516aa2b8699988fbb3d06d25f38a1b841b61a1&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Live Tá na Rua: Nataly solta o verbo e comenta polêmicas da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/live-ta-na-rua-nataly-solta-o-verbo-e-comenta-polemicas-da-casa-do-patrao-26062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EYQWVQG55RA2HNJG7LD6ES3TBA.jpg?smart=true&auth=b0668bf3fb8c7f59c34d410e36e52db3e57cf9cdab0326e46f1785e8f7412abf&width=348&height=195",
-      "type": "noticia"
-    },
-    {
-      "title": "Casa do Patrão terá semana elétrica; entenda o cronograma",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/casa-do-patrao-tera-semana-eletrica-a-partir-desta-quinta-feira-25-entenda-a-programacao-25062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/PB3KIDEZXNGVTCIU7LZVYMA5A4.jpeg?auth=069184e4fe26569fcbf4c1bce620dd96f7f14b0ed823c1af6cb9b62158c06078&smart=true&width=696&height=348",
-      "type": "noticia"
-    },
-    {
-      "title": "Moradores iniciam desafio para desbloquear Festa Mexicana | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-iniciam-desafio-para-desbloquear-festa-mexicana-casa-do-patrao-28062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-28-2026%2Ft_bcaaf28bede54cd5996de551ac546e0a_name_file_960x540_1600_v4_.jpg?smart=true&auth=0892c3c5a3c46b7d707146a3dfd08ac68e7b67d5c4be2861f1254fc083beab61&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 26,
-    "video": 47,
+    "noticia": 25,
+    "video": 48,
     "foto": 27
   }
 }
