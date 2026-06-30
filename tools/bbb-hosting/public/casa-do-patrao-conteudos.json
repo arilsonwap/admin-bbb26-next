@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-06-30T14:46:38.923Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-06-30T16:56:26.299Z",
+  "lastAddedCount": 5,
   "items": [
     {
       "title": "Acompanhe a transmissão de Casa do Patrão ao vivo e de graça no YouTube",
@@ -10,10 +10,21 @@
       "type": "noticia"
     },
     {
+      "title": "Live Tá na Rua: Morena encara Keila Jimenez e repercute participação na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/live-ta-na-rua-morena-encara-keila-jimenez-e-repercute-participacao-na-casa-do-patrao-30062026/",
+      "type": "noticia"
+    },
+    {
       "title": "Abraço coletivo, dancinha de despedida e roda na fogueira: veja como os moradores reagiram à eliminação de Morena",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/abraco-coletivo-dancinha-de-despedida-e-roda-na-fogueira-veja-como-os-moradores-reagiram-a-eliminacao-de-morena-30062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NFURUAKO3VFTDFALTHWSSDS4GE.png?auth=ed8355e90e263afca29650ad76c6d3dae1dd10c6292d75b4980faa002c8b9d0b&smart=true&width=696&height=379",
       "type": "foto"
+    },
+    {
+      "title": "Luiza vence o leilão PicPay e pode tirar um rival da Prova do Patrão desta terça (30)",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/luiza-vence-o-leilao-picpay-e-pode-tirar-um-rival-da-prova-do-patrao-desta-terca-30-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/662EJQI74BFUVDQVGDBF3SLRZE.png?smart=true&auth=8e0b4cf2301b8744e89b21bd025d745b839239970f6a27746adecbf63f24b8a3&width=1185&height=666",
+      "type": "noticia"
     },
     {
       "title": "Você realmente acompanhou as tretas que envolveram maquiagem em Casa do Patrão?",
@@ -28,23 +39,15 @@
       "type": "noticia"
     },
     {
-      "title": "'Quem foi a maior planta?': moradores fazem Perguntas e Respostas sobre a temporada | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/quem-foi-a-maior-planta-moradores-fazem-perguntas-e-respostas-sobre-a-temporada-casa-do-patrao-30062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_c4a4fba3aa1c4bd8b927c84c08e834a4_name_file_960x540_1600_v4_.jpg?smart=true&auth=eb97b7ee1b77e92a1616580083b05021721ac2b10054c4412e20a8c673b3e181&width=960&height=540",
-      "type": "video",
-      "category": "HORAS",
-      "time": "HÁ 6 HORAS"
+      "title": "Sheila esconde pote de granola embaixo da mesa durante o café da manhã | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-esconde-pote-de-granola-embaixo-da-mesa-durante-o-cafe-da-manha-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_5ec92cf8d43d4da9b3d502762909ce63_name_file_960x540_1600_v4_.jpg?smart=true&auth=4e4a66f950eae3d2250d4da131aead58e184093d49f2088f2a50576afac0f9cd&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Amor, coragem e tretas: relembre a passagem de Morena pela Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/amor-coragem-e-tretas-relembre-a-passagem-de-morena-pela-casa-do-patrao-30062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/5WBDBVUXFNDADDEYYO64HLLD6U.png?smart=true&auth=94e80651788c0ec1b93647859380820597e46847dfdabc91cc87d676b422b18e&width=1638&height=921",
-      "type": "foto"
-    },
-    {
-      "title": "Manda quem pode! Relembre todos os vencedores da Prova do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/manda-quem-pode-relembre-todos-os-vencedores-da-prova-do-patrao-29062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/7WAAJIUC6RFZVGIKX4FYJ5TBXA.jpeg?smart=true&auth=f2014951f5171611fd1f7559f12ff2d5f4b7539bd56c4c3826aa5987e56dce37&width=771&height=433",
       "type": "foto"
     },
     {
@@ -60,22 +63,22 @@
       "type": "noticia"
     },
     {
+      "title": "Manda quem pode! Relembre todos os vencedores da Prova do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/manda-quem-pode-relembre-todos-os-vencedores-da-prova-do-patrao-29062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/7WAAJIUC6RFZVGIKX4FYJ5TBXA.jpeg?smart=true&auth=f2014951f5171611fd1f7559f12ff2d5f4b7539bd56c4c3826aa5987e56dce37&width=771&height=433",
+      "type": "foto"
+    },
+    {
       "title": "Climão, passinhos e revelação! Veja tudo o que rolou no Jantar Mexicano da Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/climao-passinhos-e-revelacao-veja-tudo-o-que-rolou-no-jantar-mexicano-da-casa-do-patrao-29062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/X4GI74UEU5HINI27ON5WOCIBVM.png?smart=true&auth=567762468c85b5ec876c5511cd4b3da7fbc9dd00e7db60402172ceffb1f224f0&width=1349&height=758",
       "type": "foto"
     },
     {
-      "title": "Especialista em entretenimento! Confira as vezes em que Boninho se divertiu para valer na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/especialista-em-entretenimento-confira-as-vezes-em-que-boninho-se-divertiu-para-valer-na-casa-do-patrao-28062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/X35I3HQVG5A5LBNBECWJYKHLBA.jpg?smart=true&auth=926b621fa0d56b28178dec561e113da7377a08578616c06576feffccb51938fd&width=677&height=380",
-      "type": "foto"
-    },
-    {
-      "title": "Endrick, Vini Jr. e Neymar que se cuidem! Confira a seleção de Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/endrick-vini-jr-e-neymar-que-se-cuidem-confira-a-selecao-de-casa-do-patrao-24062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/TC6EPKFB2BAQTJ7RUBT5CLRQYQ.jpg?smart=true&auth=a9b473d991536495ed8bcd65f37070b460c2de324f788056d24e398b69d3fba4&width=771&height=433",
-      "type": "foto"
+      "title": "Jackson revela tranquilidade em saber que estará no próximo Tá na Reta | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-revela-tranquilidade-em-saber-que-estara-no-proximo-ta-na-reta-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_9a3d0a3817214e03a9c6cf748a378058_name_file_960x540_1600_v4_.jpg?smart=true&auth=e500bb994e4edab775911240a8599c7ca9d72add0cbf2938f6351cdd6059470e&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Relembre a porcentagem dos eliminados da Casa do Patrão",
@@ -150,15 +153,21 @@
       "type": "foto"
     },
     {
-      "title": "Sheila esconde pote de granola embaixo da mesa durante o café da manhã | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-esconde-pote-de-granola-embaixo-da-mesa-durante-o-cafe-da-manha-casa-do-patrao-30062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_5ec92cf8d43d4da9b3d502762909ce63_name_file_960x540_1600_v4_.jpg?smart=true&auth=4e4a66f950eae3d2250d4da131aead58e184093d49f2088f2a50576afac0f9cd&width=960&height=540",
+      "title": "Morena diz que Sheila não quer ser Patroa: 'Já está dominando um grupo' | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/morena-diz-que-sheila-nao-quer-ser-patroa-ja-esta-dominando-um-grupo-live-ta-na-rua-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_04d9bc7a2e7045e8ae118bc4708bb654_name_file_960x540_1600_v4_.jpg?smart=true&auth=0fced9fb1d542fa45134ca63919faa1f4add320e583066867c5e38431b8f9cea&width=960&height=540",
       "type": "video"
     },
     {
-      "title": "Jackson revela tranquilidade em saber que estará no próximo Tá na Reta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-revela-tranquilidade-em-saber-que-estara-no-proximo-ta-na-reta-casa-do-patrao-30062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_9a3d0a3817214e03a9c6cf748a378058_name_file_960x540_1600_v4_.jpg?smart=true&auth=e500bb994e4edab775911240a8599c7ca9d72add0cbf2938f6351cdd6059470e&width=960&height=540",
+      "title": "Prova do Patrão definirá o novo mandachuva na noite desta terça (30) | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/video/prova-do-patrao-definira-o-novo-mandachuva-na-noite-desta-terca-30-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_8b8f293c75854deeb0bcd2fd1db5bc8a_name_file_960x540_1600_v4_.jpg?smart=true&auth=10f431e95f6143f30b1d67f7f79eb61f6727477b8fa48e34c14213da583c83ac&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Hora do Leilão! Moradores fazem apostas durante dinâmica do PicPay | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/hora-do-leilao-moradores-fazem-apostas-durante-dinamica-do-picpay-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_81c4d848374344aab52209430dfa8400_name_file_960x540_1600_v4_.jpg?smart=true&auth=b26cfa052da07d5aa28998ecb75931351cef8b46af895e1fc88434aa202d1169&width=960&height=540",
       "type": "video"
     },
     {
@@ -166,6 +175,14 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/hora-de-acordar-galera-do-trampo-levanta-cedo-na-manha-desta-terca-30-casa-do-patrao-30062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_de63747e7f2d48e8b0f0e939bc2b4a5a_name_file_960x540_1600_v4_.jpg?smart=true&auth=f67be44d0777a745c0fd72a2145b6d8e330b98b2fa922d8de49b30ffdf53a1c4&width=960&height=540",
       "type": "video"
+    },
+    {
+      "title": "'Quem foi a maior planta?': moradores fazem Perguntas e Respostas sobre a temporada | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/quem-foi-a-maior-planta-moradores-fazem-perguntas-e-respostas-sobre-a-temporada-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_c4a4fba3aa1c4bd8b927c84c08e834a4_name_file_960x540_1600_v4_.jpg?smart=true&auth=eb97b7ee1b77e92a1616580083b05021721ac2b10054c4412e20a8c673b3e181&width=960&height=540",
+      "type": "video",
+      "category": "HORAS",
+      "time": "HÁ 9 HORAS"
     },
     {
       "title": "Vivão desabafa após escapar do Tá na Reta: 'Último representante do navio' | Casa do Patrão",
@@ -216,26 +233,6 @@
       "type": "video"
     },
     {
-      "title": "Jackson elogia trabalho dos moradores do Trampo e avalia todos como ‘ótimo’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/jackson-elogia-trabalho-dos-moradores-do-trampo-e-avalia-todos-como-otimo-casa-do-patrao-30062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_6a1f375c10854668b71899d68354a309_name_file_960x540_1600_v4_.jpg?smart=true&auth=e0bb29c72fbc2bc7a6f03dbf492312363368a94bbf14bfbcc11a3fb5d711d031&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Hassum conversa com trio do Tá na Reta antes da eliminação | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/hassum-conversa-com-trio-do-ta-na-reta-antes-da-eliminacao-casa-do-patrao-30062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_c23725392d1d4c9499d6010dbc9be5d8_name_file_960x540_1600_v4_.jpg?smart=true&auth=c48546d4f7c6b5540f275f7c6a892cea8417872ac970d52834b96744692c4a4b&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "'Eu não sei se é um personagem', desabafa Sheila sobre Jackson | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/eu-nao-sei-se-e-um-personagem-desabafa-sheila-sobre-jackson-casa-do-patrao-30062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_8ffd008e9e7044e184fa1ff9970f5667_name_file_960x540_1600_v4_.jpg?smart=true&auth=56040a0491abd8b050dfd93908dc034b59649028ddb4f3777204ce480989614b&width=960&height=540",
-      "type": "video",
-      "category": "NA TV",
-      "time": "HÁ 12 HORAS"
-    },
-    {
       "title": "Cardio em dia! Leandro Hassum surpreende internautas com treino intenso: ‘De volta em ação!’",
       "href": "https://record.r7.com/casa-do-patrao/novidades/cardio-em-dia-leandro-hassum-surpreende-internautas-com-treino-intenso-de-volta-em-acao-29062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/TS7PMWNMDNE3ZEIBP2U7V2JKW4.png?smart=true&auth=fb101dac42459fee428f7417b43ddc94ae31ebb5a3a0541818c611bb0edf2b1e&width=1349&height=758",
@@ -266,16 +263,10 @@
       "type": "noticia"
     },
     {
-      "title": "Bianca e JP se desentendem após VAR relevar atitude dele contra a modelo",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/bianca-e-jp-se-desentendem-apos-var-relevar-atitude-dele-contra-a-modelo-28062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/LMDANVGYIVCQ3NUZ6V6ZVGJOCM.png?smart=true&auth=575d9fcd3a0ea6e2411d54182c1610a884dd9815298038b3a3f14ab2166be486&width=770&height=433",
-      "type": "noticia"
-    },
-    {
-      "title": "JP, Morena e Vivão estão no décimo Tá na Reta de Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/jp-morena-e-vivao-estao-no-decimo-ta-na-reta-de-casa-do-patrao-28062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BIIEW7IR6REMTAHWRRJYLKCGJ4.png?smart=true&auth=53e6c048c1a7aba79accc98f559d8bcf0c9629ac945a3c05607bbc8e1940dcd4&width=770&height=433",
-      "type": "noticia"
+      "title": "Especialista em entretenimento! Confira as vezes em que Boninho se divertiu para valer na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/especialista-em-entretenimento-confira-as-vezes-em-que-boninho-se-divertiu-para-valer-na-casa-do-patrao-28062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/X35I3HQVG5A5LBNBECWJYKHLBA.jpg?smart=true&auth=926b621fa0d56b28178dec561e113da7377a08578616c06576feffccb51938fd&width=677&height=380",
+      "type": "foto"
     },
     {
       "title": "Dudu Camargo retorna à Casa do Patrão e coloca fogo no condomínio; entenda!",
@@ -314,6 +305,12 @@
       "type": "foto"
     },
     {
+      "title": "Endrick, Vini Jr. e Neymar que se cuidem! Confira a seleção de Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/endrick-vini-jr-e-neymar-que-se-cuidem-confira-a-selecao-de-casa-do-patrao-24062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/TC6EPKFB2BAQTJ7RUBT5CLRQYQ.jpg?smart=true&auth=a9b473d991536495ed8bcd65f37070b460c2de324f788056d24e398b69d3fba4&width=771&height=433",
+      "type": "foto"
+    },
+    {
       "title": "De olho no lance: relembre os vencedores do leilão PicPay na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/de-olho-no-lance-relembre-os-vencedores-do-leilao-picpay-na-casa-do-patrao-23062026-2/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/5STHEO7CSFBHDHTIRYRJLUNPS4.jpg?smart=true&auth=bbb1143feb30b15ea0f15e3b8ba748be4e083d1db769deaddd8b2d93e16f254e&width=771&height=433",
@@ -330,6 +327,38 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/danca-e-joga-festa-infantil-expoe-racha-em-grupo-e-proximos-alvos-da-reta-22062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/PU6VYUPYQZANVFUU7XUXGFHSRY.png?smart=true&auth=af3f8d8d6fa50d5aa11b4d8cf71275c7b0ba315b6c8ace25ad0334b3e24f1f17&width=1446&height=813",
       "type": "foto"
+    },
+    {
+      "title": "Jackson elogia trabalho dos moradores do Trampo e avalia todos como ‘ótimo’ | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/jackson-elogia-trabalho-dos-moradores-do-trampo-e-avalia-todos-como-otimo-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_6a1f375c10854668b71899d68354a309_name_file_960x540_1600_v4_.jpg?smart=true&auth=e0bb29c72fbc2bc7a6f03dbf492312363368a94bbf14bfbcc11a3fb5d711d031&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Hassum conversa com trio do Tá na Reta antes da eliminação | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/hassum-conversa-com-trio-do-ta-na-reta-antes-da-eliminacao-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_c23725392d1d4c9499d6010dbc9be5d8_name_file_960x540_1600_v4_.jpg?smart=true&auth=c48546d4f7c6b5540f275f7c6a892cea8417872ac970d52834b96744692c4a4b&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "'Eu não sei se é um personagem', desabafa Sheila sobre Jackson | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/eu-nao-sei-se-e-um-personagem-desabafa-sheila-sobre-jackson-casa-do-patrao-30062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_8ffd008e9e7044e184fa1ff9970f5667_name_file_960x540_1600_v4_.jpg?smart=true&auth=56040a0491abd8b050dfd93908dc034b59649028ddb4f3777204ce480989614b&width=960&height=540",
+      "type": "video",
+      "category": "NA TV",
+      "time": "HÁ 12 HORAS"
+    },
+    {
+      "title": "Bianca e JP se desentendem após VAR relevar atitude dele contra a modelo",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/bianca-e-jp-se-desentendem-apos-var-relevar-atitude-dele-contra-a-modelo-28062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/LMDANVGYIVCQ3NUZ6V6ZVGJOCM.png?smart=true&auth=575d9fcd3a0ea6e2411d54182c1610a884dd9815298038b3a3f14ab2166be486&width=770&height=433",
+      "type": "noticia"
+    },
+    {
+      "title": "JP, Morena e Vivão estão no décimo Tá na Reta de Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/jp-morena-e-vivao-estao-no-decimo-ta-na-reta-de-casa-do-patrao-28062026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BIIEW7IR6REMTAHWRRJYLKCGJ4.png?smart=true&auth=53e6c048c1a7aba79accc98f559d8bcf0c9629ac945a3c05607bbc8e1940dcd4&width=770&height=433",
+      "type": "noticia"
     },
     {
       "title": "Moradores conversam sobre estratégias de jogo no jantar mexicano | Casa do Patrão",
@@ -582,41 +611,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-desabafa-com-morena-e-vivao-estou-cansado-psicologicamente-casa-do-patrao-28062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-28-2026%2Ft_86b79c48fdab4f23a9a48e69a2a748fc_name_file_960x540_1600_v4_.jpg?smart=true&auth=88c312b697beb8b651af868d903a9835eadd97f39c0f04aae3b8c56aa4f49bfa&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Top 10, adrenalina e fofocas: veja como foi a semana intensa em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/top-10-adrenalina-e-fofocas-veja-como-foi-a-semana-intensa-em-casa-do-patrao-20062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/LKUKVMLLF5GMLIKG4H7FT2TAPM.png?smart=true&auth=ff7b1f31bf20dc96ddd50524ffef026e94678d72d91a9007bcba618a0b2759b9&width=771&height=433",
-      "type": "foto"
-    },
-    {
-      "title": "Jackson aproveita o sol e treina na academia da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jackson-aproveita-o-sol-e-treina-na-academia-da-casa-do-patrao-28062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-28-2026%2Ft_0f155a7b3e1843f2913d882f75da0f01_name_file_960x540_1600_v4_.jpg?smart=true&auth=f26d489ec9bbb724a2b3138dc2e0f0f9929c6426a42365c9abaaae334aac4ef6&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Festa mexicana promete movimentar a noite deste domingo (28) na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/video/festa-mexicana-promete-movimentar-a-noite-deste-domingo-28-na-casa-do-patrao-28062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-28-2026%2Ft_1d4b684f48094d3bb9113d1226d27401_name_file_960x540_1600_v4_.jpg?smart=true&auth=176cd6eb7470babcdbd76ef6b29a3204dc312a1413360283589d1f95204381bd&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Luiza estreita laços com Bianca e Matheus em papo sobre fase final da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luiza-estreita-lacos-com-bianca-e-matheus-em-papo-sobre-fase-final-da-casa-do-patrao-28062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-28-2026%2Ft_938d917d2c19491db06a22766b56826e_name_file_960x540_1600_v4_.jpg?smart=true&auth=6a7f71254779d0e5a24a5831a916fa65a6084757b833580beaae9c8f33f7d903&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Revoltada, Morena confronta Jackson após justificativa inesperada para indicá-la | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/revoltada-morena-confronta-jackson-apos-justificativa-inesperada-para-indica-la-casa-do-patrao-28062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-28-2026%2Ft_9bd36b6372194686b720399c9073fca5_name_file_960x540_1600_v4_.jpg?smart=true&auth=1e4a2f02d0ec2b66a99a5e4d1af1fdd4af19acd8cd0526bf5197b010adca22c4&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 23,
-    "video": 49,
-    "foto": 28
+    "noticia": 25,
+    "video": 48,
+    "foto": 27
   }
 }
