@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-01T15:58:58.263Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-07-01T18:04:48.564Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Acompanhe a transmissão de Casa do Patrão ao vivo e de graça no YouTube",
@@ -144,6 +144,12 @@
       "type": "foto"
     },
     {
+      "title": "Bianca e Matheus comandam show sertanejo na visita de Juliana Didone | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-e-matheus-comandam-show-sertanejo-na-visita-de-juliana-didone-casa-do-patrao-01072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-01-2026%2Ft_603219d5a8a14f68bdfaaaeefcff3834_name_file_960x540_1600_v4_.jpg?smart=true&auth=321527fc98d388eed02a2bc391acb0159289ee997e090ba24c35d8471c7756bf&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Juliana Didone faz visita misteriosa na Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/juliana-didone-faz-visita-misteriosa-na-casa-do-patrao-01072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-01-2026%2Ft_2bb21934cc834d8b8a2dcee57d6c6153_name_file_960x540_1600_v4_.jpg?smart=true&auth=f2cd4d9ca97670343298c382f60f7e0184c964790b761ad6fa0d9f2dfd6ba1ab&width=960&height=540",
@@ -219,12 +225,6 @@
       "title": "Público avalia que Jackson ‘sabonetou’ como Patrão | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/publico-avalia-que-jackson-sabonetou-como-patrao-casa-do-patrao-01072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-01-2026%2Ft_599e58f3aa844c169f6f6e71e858735b_name_file_960x540_1600_v4_.jpg?smart=true&auth=6af7fa124e93bb0a82ab9092a483b36014490a48752c05e70b9ac1a310611ebb&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Brincadeira? Sheila e Jackson sugerem novo grupo na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/brincadeira-sheila-e-jackson-sugerem-novo-grupo-na-casa-do-patrao-01072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-01-2026%2Ft_991bb5f126c44938bee13bc82ffe6d60_name_file_960x540_1600_v4_.jpg?smart=true&auth=30164788b050ac56874e7cba9fb223f3bd5e8214143e2d8dd86fb0129f1a4e05&width=960&height=540",
       "type": "video"
     },
     {
@@ -328,6 +328,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/justos-saboneteiros-ou-razoaveis-relembre-as-avaliacoes-que-os-patroes-da-temporada-receberam-do-publico-23062026-2/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YF26AXMW7BDZJO7I56ZZE5WYRI.jpg?smart=true&auth=c8a529e259caa95e72f305786a5dd592594ce23e348d4313b62946b09b20dafc&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Brincadeira? Sheila e Jackson sugerem novo grupo na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/brincadeira-sheila-e-jackson-sugerem-novo-grupo-na-casa-do-patrao-01072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-01-2026%2Ft_991bb5f126c44938bee13bc82ffe6d60_name_file_960x540_1600_v4_.jpg?smart=true&auth=30164788b050ac56874e7cba9fb223f3bd5e8214143e2d8dd86fb0129f1a4e05&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Aliadas fazem isso? Sheila e Mari apontam pontos negativos de Bianca | Casa do Patrão",
@@ -601,12 +607,6 @@
       "title": "Luiza se defende de acusações de Sheila | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luiza-se-defende-de-acusacoes-de-sheila-casa-do-patrao-29062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-29-2026%2Ft_d5eaf042dea541bf879820623f07758d_name_file_960x540_1600_v4_.jpg?smart=true&auth=0f22eac3f0a00913a05403d194641836e57af0641a428d285a06fe87447d8144&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "JP diz que Tá na Reta desta segunda (29) vai determinar futuro do jogo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jp-diz-que-ta-na-reta-desta-segunda-29-vai-determinar-futuro-do-jogo-casa-do-patrao-29062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-29-2026%2Ft_2e5b3f520d0c423a9441fb225bb62cae_name_file_960x540_1600_v4_.jpg?smart=true&auth=cf9f520feaa7ed1d2c31064ff97c4132892deef20b6aa72f93a28e9e1e6d22f3&width=960&height=540",
       "type": "video"
     }
   ],
