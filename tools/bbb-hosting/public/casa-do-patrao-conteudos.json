@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-02T04:18:20.900Z",
-  "lastAddedCount": 14,
+  "fetchedAt": "2026-07-02T07:47:36.918Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Acompanhe a transmissão de Casa do Patrão ao vivo e de graça no YouTube",
@@ -148,6 +148,12 @@
       "type": "foto"
     },
     {
+      "title": "Tá na Reta rendeu! JP dispara para Bianca que se sente o escudo do grupo | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/ta-na-reta-rendeu-jp-dispara-para-bianca-que-se-sente-o-escudo-do-grupo-casa-do-patrao-02072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-02-2026%2Ft_7f0cf43db93c4c30aba39a32545b1b4a_name_file_960x540_1600_v4_.jpg?smart=true&auth=4e5adcf16d70d63820f26f5b4b3b97f388893568b7c6890e797e18b5a3cdb50b&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Jackson, JP e Vivão defendem permanência no jogo | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/jackson-jp-e-vivao-defendem-permanencia-no-jogo-casa-do-patrao-02072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-02-2026%2Ft_fb1dc6a7819f4ff5a93e071686b97739_name_file_960x540_1600_v4_.jpg?smart=true&auth=c42c46a7747b23827c0e13dd7329c288fccccd63d8fcf9923af33cea1b746736&width=960&height=540",
@@ -229,12 +235,6 @@
       "title": "JP e Sheila teorizam sobre visita de Juliana Didone | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/jp-e-sheila-teorizam-sobre-visita-de-juliana-didone-casa-do-patrao-01072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-01-2026%2Ft_d1148c813a0e44fbaadfc57e56fc2e36_name_file_960x540_1600_v4_.jpg?smart=true&auth=255a690cc8bc6a80e33a643afdf530ad84afe6752970663ac838049c87b79fcb&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Juliana Didone lê livro misterioso e deixa moradores intrigados com mensagem | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/juliana-didone-le-livro-misterioso-e-deixa-moradores-intrigados-com-mensagem-casa-do-patrao-01072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-01-2026%2Ft_d3a07bf6d774460f976822deca05d0d9_name_file_960x540_1600_v4_.jpg?smart=true&auth=b3c88ae71320c860058cac258e2f281eff0b7b4a5e78fa9681757f90a8a294aa&width=960&height=540",
       "type": "video"
     },
     {
@@ -334,6 +334,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/de-olho-no-lance-relembre-os-vencedores-do-leilao-picpay-na-casa-do-patrao-23062026-2/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/5STHEO7CSFBHDHTIRYRJLUNPS4.jpg?smart=true&auth=bbb1143feb30b15ea0f15e3b8ba748be4e083d1db769deaddd8b2d93e16f254e&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Juliana Didone lê livro misterioso e deixa moradores intrigados com mensagem | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/juliana-didone-le-livro-misterioso-e-deixa-moradores-intrigados-com-mensagem-casa-do-patrao-01072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-01-2026%2Ft_d3a07bf6d774460f976822deca05d0d9_name_file_960x540_1600_v4_.jpg?smart=true&auth=b3c88ae71320c860058cac258e2f281eff0b7b4a5e78fa9681757f90a8a294aa&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Jackson define situação financeira da Galera do Trampo",
@@ -600,17 +606,11 @@
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/na-quinta-de-apostas-todos-os-moradores-especulam-saida-de-morena-casa-do-patrao-30062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F06-30-2026%2Ft_b26aad34ed1a48488f7d3034e86b4e75_name_file_960x540_1600_v4_.jpg?smart=true&auth=1d5f383a3e97733e56df6cefbadb4f4612a2f1e304d1d67117a70c3366020a8b&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Casa do Patrão terá eliminação nesta segunda-feira (29)",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/casa-do-patrao-tera-eliminacao-nesta-segunda-feira-29-29062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/V54VQYMCQVBPXACUCKPUCGEXOI.jpg?smart=true&auth=634810ad7e19fecb70b2958128526af11a57a9ef745d43923e136d651a3d97fc&width=677&height=380",
-      "type": "noticia"
     }
   ],
   "counts": {
-    "noticia": 23,
-    "video": 49,
+    "noticia": 22,
+    "video": 50,
     "foto": 28
   }
 }
