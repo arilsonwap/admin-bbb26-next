@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-04T15:34:52.617Z",
+  "fetchedAt": "2026-07-04T16:38:04.825Z",
   "lastAddedCount": 1,
   "items": [
     {
@@ -160,6 +160,12 @@
       "type": "foto"
     },
     {
+      "title": "Bianca e Matheus fazem as compras no mercado para a Casa do Trampo | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-e-matheus-fazem-as-compras-no-mercado-para-a-casa-do-trampo-casa-do-patrao-04072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-04-2026%2Ft_ae919376fcdf4be1bfab31af6ed6a577_name_file_960x540_1600_v4_.jpg?smart=true&auth=5710bae65acc7e36f4b2415e1ab49d111399792d0fc09d58ac6c1c9e88fb99bb&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Moradores falam sobre compras no mercado durante o café da manhã deste sábado (4) | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-falam-sobre-compras-no-mercado-durante-o-cafe-da-manha-deste-sabado-4-casa-do-patrao-04072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-04-2026%2Ft_0a9c634249374c23ab7e217df3ae4bb5_name_file_960x540_1600_v4_.jpg?smart=true&auth=e0b5183d8ad1497b0c2d8f93194cdacb047226304212056dba62479f36926c32&width=960&height=540",
@@ -241,12 +247,6 @@
       "title": "Luiza revela planos de colocar Vivão e Jackson no Trampo | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luiza-revela-planos-de-colocar-vivao-e-jackson-no-trampo-casa-do-patrao-04072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-04-2026%2Ft_8e36da7cd35d40ab9d9a85e5375f8ffb_name_file_960x540_1600_v4_.jpg?smart=true&auth=8edce1ccc79525117dc186129a02e5bd21134b9dc1f5a55e6b555492fbfa8b7b&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Vivão e Sheila relembram todos os Patronatos da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-e-sheila-relembram-todos-os-patronatos-da-casa-do-patrao-03072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-03-2026%2Ft_d854bbaaa4d74b6aa9f943c60100e4ce_name_file_960x540_1600_v4_.jpg?smart=true&auth=4ec7d97360addf27ac71f1fd1506958c378287c28570c4691b2bccd2ced65e24&width=960&height=540",
       "type": "video"
     },
     {
@@ -332,6 +332,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/choque-lagrimas-e-grupo-de-sheila-no-chao-veja-como-os-moradores-reagiram-a-eliminacao-de-nataly-26062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/B5KX3LOPYFGZPGLHMLSCGYAKIY.png?smart=true&auth=79bca4c3ee6606daf6a73ef639876714e54ce0ef16a8d6b4cbd96e0c096b5d16&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Vivão e Sheila relembram todos os Patronatos da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/vivao-e-sheila-relembram-todos-os-patronatos-da-casa-do-patrao-03072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-03-2026%2Ft_d854bbaaa4d74b6aa9f943c60100e4ce_name_file_960x540_1600_v4_.jpg?smart=true&auth=4ec7d97360addf27ac71f1fd1506958c378287c28570c4691b2bccd2ced65e24&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "‘Talvez Jackson te veja como adversário’, diz Sheila para Vivão | Casa do Patrão",
@@ -598,17 +604,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/mestre-cuca-matheus-conta-segredo-para-cozinhar-macarrao-casa-do-patrao-02072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-02-2026%2Ft_5dda7aa9b02d4398b1dd82a3aeee6373_name_file_960x540_1600_v4_.jpg?smart=true&auth=278647fce3c2c6123d9e4a0d8a5dcdaf5861799678f76ee2e6e255b0d41e334e&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Jackson, JP e Vivão estão no décimo primeiro Tá na Reta",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/jackson-jp-e-vivao-estao-no-decimo-primeiro-ta-na-reta-da-casa-do-patrao-02072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/2FEPH3X44JBODPIE27BWA65M5Q.png?auth=42c28af30e1bbe9efef59c3f7b9093da188d8f5a00f0b864343e7462dd79982a&smart=true&width=696&height=348",
-      "type": "noticia"
     }
   ],
   "counts": {
-    "noticia": 26,
-    "video": 45,
+    "noticia": 25,
+    "video": 46,
     "foto": 29
   }
 }
