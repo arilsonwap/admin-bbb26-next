@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-05T12:53:15.840Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-07-05T14:41:20.849Z",
+  "lastAddedCount": 2,
   "items": [
     {
       "title": "Jackson, Mari e Vivão estão no décimo segundo Tá na Reta de Casa do Patrão",
@@ -40,9 +40,9 @@
       "type": "noticia"
     },
     {
-      "title": "Sheila critica Luiza por não ter colocado Jackson no Trampo: ‘Não pensou’ | Casa do Patrão",
+      "title": "Sheila critica Luiza por não ter colocado Jackson no Trampo",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-critica-luiza-por-nao-ter-colocado-jackson-no-trampo-nao-pensou-casa-do-patrao-04072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-04-2026%2Ft_436df980092941cca13ee8efa5af2e6c_name_file_960x540_1600_v4_.jpg?smart=true&auth=af3a05c2d3b33fd0702edcd385ace8de2c433bbcf950c6d9d716823db1d08a0f&width=960&height=540",
+      "imageUrl": "https://d22yf0mxeu0gma.cloudfront.net/07-04-2026/t_436df980092941cca13ee8efa5af2e6c_name_file_960x540_1600_v4_.jpg",
       "type": "video"
     },
     {
@@ -154,6 +154,20 @@
       "type": "foto"
     },
     {
+      "title": "Sem ovos, Luiza e Bianca sugerem nova opção para o café da manhã dos Parças | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sem-ovos-luiza-e-bianca-sugerem-nova-opcao-para-o-cafe-da-manha-dos-parcas-casa-do-patrao-05072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-05-2026%2Ft_a49bb65429754c50a9984f7b5d134451_name_file_960x540_1600_v4_.jpg?smart=true&auth=bffafa3915019411faef4944439e50d0f62b3f51932c5ffe49010adad6a3f879&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "‘70 dias que não sei mais o que acontece no mundo’, reflete Matheus na reta final da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/70-dias-que-nao-sei-mais-o-que-acontece-no-mundo-reflete-matheus-na-reta-final-da-casa-do-patrao-05072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-05-2026%2Ft_7cfbff629e2441d88d15c924afdcdc78_name_file_960x540_1600_v4_.jpg?smart=true&auth=47b0743801ec40880dc6d81dff3a2835b274c9a7136c7198e2828317ceae988f&width=960&height=540",
+      "type": "video",
+      "category": "HORAS",
+      "time": "HÁ 1 HORA"
+    },
+    {
       "title": "Falou mesmo! Mari relata 'ranço' e torce por saída de Jackson | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/falou-mesmo-mari-relata-ranco-e-torce-por-saida-de-jackson-casa-do-patrao-05072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-05-2026%2Ft_e08f63719e9441f693606eef9fb52ee0_name_file_960x540_1600_v4_.jpg?smart=true&auth=1ca6b388a66d720bf6ec8699cbfbde1f320f66925becaaaacb36705c6f89c0a5&width=960&height=540",
@@ -223,12 +237,6 @@
       "title": "Sheila revela que se ‘sentiu desnorteada’ após a saída de Nataly: ‘Quis chorar’ | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-revela-que-se-sentiu-desnorteada-apos-a-saida-de-nataly-quis-chorar-casa-do-patrao-04072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-04-2026%2Ft_b712a4e5b29b47bbace660b55f9a67ab_name_file_960x540_1600_v4_.jpg?smart=true&auth=c9356b8901fcebec19610a329e08fd8e9c10f3858517ea3f9d1ead2ee8d8bb1b&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila diz que Jackson é o 'pior' entre todos os participantes do programa | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-diz-que-jackson-e-o-pior-entre-todos-os-participantes-do-programa-casa-do-patrao-04072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-04-2026%2Ft_f904654fb3474bac9a633fbd3fe20b45_name_file_960x540_1600_v4_.jpg?smart=true&auth=8377ee83862a964a633013b62fb5439747d130e3febf41f6f9bf43857366726e&width=960&height=540",
       "type": "video"
     },
     {
@@ -320,6 +328,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/clima-de-copa-do-mundo-e-eliminacao-chocante-confira-o-resumao-da-semana-na-casa-do-patrao-27062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/Z4MVZZAHFRCY7K5QEJKGO4ITSA.png?smart=true&auth=7ac4878ab956f150997000e5d3f68a947de5d2803aa5dfd024564021107ca619&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Sheila diz que Jackson é o 'pior' entre todos os participantes do programa | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-diz-que-jackson-e-o-pior-entre-todos-os-participantes-do-programa-casa-do-patrao-04072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-04-2026%2Ft_f904654fb3474bac9a633fbd3fe20b45_name_file_960x540_1600_v4_.jpg?smart=true&auth=8377ee83862a964a633013b62fb5439747d130e3febf41f6f9bf43857366726e&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Bianca e Matheus fazem as compras no mercado para a Casa do Trampo | Casa do Patrão",
@@ -592,23 +606,11 @@
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/falaram-mesmo-jp-e-mari-conversam-de-vivao-na-varanda-do-trampo-casa-do-patrao-03072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-03-2026%2Ft_668fa6b86fa9491ab79f04c1d40cc73d_name_file_960x540_1600_v4_.jpg?smart=true&auth=0c55bb44546032ed5c7b6eab03351ac5f785416f8781d791a3176d41682b5283&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Reveja as avaliações do público para os Patrões da temporada",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/justos-saboneteiros-ou-razoaveis-relembre-as-avaliacoes-que-os-patroes-da-temporada-receberam-do-publico-23062026-2/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YF26AXMW7BDZJO7I56ZZE5WYRI.jpg?auth=c8a529e259caa95e72f305786a5dd592594ce23e348d4313b62946b09b20dafc&smart=true&width=696&height=379",
-      "type": "foto"
-    },
-    {
-      "title": "Nova Semana Elétrica terá eliminação, festa e novo Patrão | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/nova-semana-eletrica-tera-eliminacao-festa-e-novo-patrao-casa-do-patrao-03072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-03-2026%2Ft_1a7c5ff9fba84162885cdf4b3fd7ac92_name_file_960x540_1600_v4_.jpg?smart=true&auth=9a775642212896998d30024899e4aad1552271f204f76fd43dd92996a33f2df4&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
     "noticia": 23,
-    "video": 50,
-    "foto": 27
+    "video": 51,
+    "foto": 26
   }
 }
