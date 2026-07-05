@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-05T21:44:03.234Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-07-05T22:43:23.294Z",
+  "lastAddedCount": 2,
   "items": [
     {
       "title": "Jackson, Mari ou Vivão, quem você quer que permaneça na Casa do Patrão?",
@@ -10,10 +10,10 @@
       "type": "noticia"
     },
     {
-      "title": "Dudu Camargo agradece oportunidade de comandar a Casa do Patrão e manda recado a Hassum: ‘Fica bom logo’",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/dudu-camargo-agradece-oportunidade-de-comandar-a-casa-do-patrao-e-manda-recado-a-hassum-fica-bom-logo-04072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/G6HUNEVH5JEOVF3PCIIWODJLCY.png?auth=2bebab9675e7b9d9a994e75015d947094c76fe9e5dbacc5924b3ff7935c24c91&smart=true&width=208&height=330",
-      "type": "noticia"
+      "title": "Show de Tatau, nostalgia e ranço: Festa Neon agita elenco da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/show-de-tatau-nostalgia-e-ranco-festa-neon-agita-elenco-da-casa-do-patrao-05072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/O42JPV52LVB6DGKXJEJKVCZ65Q.png?auth=154cfc9bc9b1c7636d0031cfd861534fa02f532882c96f7c23d0c84f9b6aa3de&smart=true&width=208&height=330",
+      "type": "foto"
     },
     {
       "title": "Top 7! Saiba quem são os moradores que chegaram na reta final da Casa do Patrão",
@@ -28,7 +28,13 @@
       "type": "foto"
     },
     {
-      "title": "Casa do Patrão tem noite de eliminação em pleno domingo (5); fique por dentro",
+      "title": "Dudu Camargo agradece oportunidade de comandar a Casa do Patrão e manda recado a Hassum: ‘Fica bom logo’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/dudu-camargo-agradece-oportunidade-de-comandar-a-casa-do-patrao-e-manda-recado-a-hassum-fica-bom-logo-04072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/G6HUNEVH5JEOVF3PCIIWODJLCY.png?smart=true&auth=2bebab9675e7b9d9a994e75015d947094c76fe9e5dbacc5924b3ff7935c24c91&width=770&height=433",
+      "type": "noticia"
+    },
+    {
+      "title": "Casa do Patrão tem eliminação em pleno domingo (5); entenda",
       "href": "https://record.r7.com/casa-do-patrao/novidades/casa-do-patrao-tem-noite-de-eliminacao-em-pleno-domingo-5-04072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/JMRXTJDSQRGYVH5X5MS742QMMA.png?auth=4def4a35d659dec67df8de2f2c8b3cf8717e54a39bb4526f1d4783e0ae77618c&smart=true&width=696&height=390",
       "type": "noticia"
@@ -45,7 +51,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-05-2026%2Ft_072c155a20e54acb9d5d42054503432a_name_file_960x540_1600_v4_.jpg?smart=true&auth=6c5665d3d590d5e61d8d534a2fc9acddfe5ce2f7df609f600ae8ba0a2bcb6578&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 3 HORAS"
+      "time": "HÁ 4 HORAS"
     },
     {
       "title": "Altas voltagens de emoção! Veja o que rolou na semana elétrica da Casa do Patrão",
@@ -70,12 +76,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/a-fazenda-imperio-romano-hamlet-e-mais-relembre-as-referencias-dos-discursos-de-leandro-hassum-na-casa-do-patrao-02072026-2/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RBKZK7TADJG5RLINGEYLO4BB3E.jpg?smart=true&auth=c846402ddb7d58469513a7ee11e0bcabf3d68ca9d73c85d6b983e0c58ba32f47&width=677&height=380",
       "type": "foto"
-    },
-    {
-      "title": "Sheila ganha festa de aniversário surpresa em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/sheila-ganha-festa-de-aniversario-surpresa-em-casa-do-patrao-03072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NAKIKJ6R2ZFVPHYTAQZSNL5AW4.png?smart=true&auth=b2115d8527b638ca99df4deeefc8f602cf35386e4f7809b094c10ecc8e9c7a26&width=770&height=433",
-      "type": "noticia"
     },
     {
       "title": "Matheus recebe pedido de Mari e Patroa Luiza reforça: 'Agora!' | Casa do Patrão",
@@ -156,12 +156,18 @@
       "type": "foto"
     },
     {
+      "title": "Retrospectiva! Bianca e Luiza relembram provas que ganharam na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/retrospectiva-bianca-e-luiza-relembram-provas-que-ganharam-na-casa-do-patrao-05072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-05-2026%2Ft_9713f4da6ac54700851b14b6a2dce70e_name_file_960x540_1600_v4_.jpg?smart=true&auth=3112e51bf0d432848af60b953da76feba5cbcdf8643150578ad8d28973da8a0e&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "'Eu vou sair melhor do que entrei', reflete Mari sobre o confinamento | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/eu-vou-sair-melhor-do-que-entrei-reflete-mari-sobre-o-confinamento-casa-do-patrao-05072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-05-2026%2Ft_39a68961d44b419aa886c5eb69db67e6_name_file_960x540_1600_v4_.jpg?smart=true&auth=236e30c68083ce6f7559866ccc9511c4b38887f57951323c016d7588b2a03965&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 31 MINUTOS"
+      "time": "HÁ 1 HORA"
     },
     {
       "title": "Jackson e Vivão revelam ansiedade antes do Tá na Reta: 'À noite são fortes emoções' | Casa do Patrão",
@@ -187,7 +193,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-05-2026%2Ft_7cfbff629e2441d88d15c924afdcdc78_name_file_960x540_1600_v4_.jpg?smart=true&auth=47b0743801ec40880dc6d81dff3a2835b274c9a7136c7198e2828317ceae988f&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 8 HORAS"
+      "time": "HÁ 9 HORAS"
     },
     {
       "title": "Falou mesmo! Mari relata 'ranço' e torce por saída de Jackson | Casa do Patrão",
@@ -232,12 +238,6 @@
       "type": "video"
     },
     {
-      "title": "Moradores recebem figurinos especiais para Festa Neon deste sábado (4) | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-recebem-figurinos-especiais-para-festa-neon-deste-sabado-4-casa-do-patrao-05072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-05-2026%2Ft_8fc2111e3b09406b880854193b8a2e7a_name_file_960x540_1600_v4_.jpg?smart=true&auth=3d9a5fd9d23a60f6eb7729305aceb1790dc1205a14d5aea3f3bf94f8401bae4a&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Tatau vai levar o ‘molho baiano’ para a Festa Neon da Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/tatau-vai-levar-o-molho-baiano-para-a-festa-neon-da-casa-do-patrao-04072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/H7PDIJHOKZDLXCDMFWCYYUK4NA.png?smart=true&auth=1e6fdb125377404669c67f2bfbe412b08fe8e9d522d61d994c1c07ca15c1740b&width=770&height=433",
@@ -247,6 +247,12 @@
       "title": "Jackson, Mari e Vivão estão no décimo segundo Tá na Reta de Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/jackson-mari-e-vivao-estao-no-decimo-segundo-ta-na-reta-de-casa-do-patrao-04072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WTLVJGLOQBHFBI2U4JDLB2UDE4.png?smart=true&auth=5718e56ddafb4582cdd3c5e6563d9331bd0e6d58c2a8db7ed0630fc7216ffa02&width=770&height=433",
+      "type": "noticia"
+    },
+    {
+      "title": "Sheila ganha festa de aniversário surpresa em Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/sheila-ganha-festa-de-aniversario-surpresa-em-casa-do-patrao-03072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NAKIKJ6R2ZFVPHYTAQZSNL5AW4.png?smart=true&auth=b2115d8527b638ca99df4deeefc8f602cf35386e4f7809b094c10ecc8e9c7a26&width=770&height=433",
       "type": "noticia"
     },
     {
@@ -320,6 +326,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/dudu-camargo-retorna-a-casa-do-patrao-e-coloca-fogo-no-condominio-entenda-27062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/LS36LNSNNVDEBPII2GMQUREWBA.png?smart=true&auth=bfe9277cdae1e093e2fc50d2b1836770cb17143f8a488836107c1e1042af3cfd&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Moradores recebem figurinos especiais para Festa Neon deste sábado (4) | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-recebem-figurinos-especiais-para-festa-neon-deste-sabado-4-casa-do-patrao-05072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-05-2026%2Ft_8fc2111e3b09406b880854193b8a2e7a_name_file_960x540_1600_v4_.jpg?smart=true&auth=3d9a5fd9d23a60f6eb7729305aceb1790dc1205a14d5aea3f3bf94f8401bae4a&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Clima de Copa do Mundo e eliminação chocante! Confira o resumão da semana na Casa do Patrão",
@@ -598,23 +610,11 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/verdadeira-e-explosiva-relembre-a-trajetoria-de-nataly-na-casa-do-patrao-26062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/EZENFQZSBJBA5PX6N7MLAPD6E4.png?smart=true&auth=ebcacc2b2a8fe0b702db3f85b9c3368322aaf757e2ea66b13ef923c9780735c0&width=771&height=433",
       "type": "foto"
-    },
-    {
-      "title": "Mari não resiste e é a terceira eliminada da Prova do Patrão | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/mari-nao-resiste-e-e-a-terceira-eliminada-da-prova-do-patrao-casa-do-patrao-03072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-03-2026%2Ft_e76b63ea709343f6b7096bc3d79be7f8_name_file_960x540_1600_v4_.jpg?smart=true&auth=d374c07f4374f5fa8ba78d62f36a4671389ef7c2d8a48c69eae8a8daced59706&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Moradores encaram eliminação e prova de resistência ao vivo para definir novo Patrão nesta quinta (2)",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/moradores-encaram-eliminacao-e-prova-de-resistencia-ao-vivo-para-definir-novo-patrao-nesta-quinta-2-02072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/S35HT2P6WNDC7I6WPUJG5A34LI.png?smart=true&auth=ecaf425c0ac85f9c8791c603f74fb7d69c4d5a0358a11a08a9ba92be8da57aa5&width=677&height=380",
-      "type": "noticia"
     }
   ],
   "counts": {
-    "noticia": 22,
+    "noticia": 21,
     "video": 52,
-    "foto": 26
+    "foto": 27
   }
 }
