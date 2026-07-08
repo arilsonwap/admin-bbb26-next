@@ -1,12 +1,18 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-08T14:44:36.012Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-07-08T16:23:04.964Z",
+  "lastAddedCount": 3,
   "items": [
     {
       "title": "Bianca, Jackson e Sheila estão no décimo terceiro Tá na Reta de Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/bianca-jackson-e-sheila-estao-no-decimo-terceiro-ta-na-reta-de-casa-do-patrao-08072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BMCYHGOMIRDBFPMZGBD5ZFL3UE.png?smart=true&auth=09377d7522d56d963039bb28832a7ae4c9766c778af6db0fd07b46a8e65a77dc&width=677&height=380",
+      "type": "noticia"
+    },
+    {
+      "title": "Veja quem votou em quem na formação do décimo terceiro Tá na Reta de Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/veja-quem-votou-em-quem-na-formacao-do-decimo-terceiro-ta-na-reta-de-casa-do-patrao-08072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/2O3TWGPHEJH3JCEGSERCHM7274.jpg?auth=24d4325b339ba2761e996fdf80620532c541ca0f01b1e0b69572e2a86ec3726c&smart=true&width=208&height=330",
       "type": "noticia"
     },
     {
@@ -62,12 +68,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/festancas-no-condominio-reveja-as-melhores-baladas-de-casa-do-patrao-05072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/HDAZR7S7PVFTXKZMG3TMLYKKLU.jpg?smart=true&auth=013c7cc073be7afd0989ab112b7197cbaa89c4f4d943defdb67afcc21b901168&width=771&height=433",
       "type": "foto"
-    },
-    {
-      "title": "Vivão assume que buscava aprovação de Sheila; leia!",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/vivao-fala-sobre-paixaozinha-de-matheus-por-bianca-e-assume-que-buscava-aprovacao-de-sheila-parecia-uma-relacao-toxica-06072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NZY6GFB5RJGNRLX6IU7B5YTX4Y.png?auth=410df40662345cf5d7d03700063f511aba9b540b3b121b32b521dc64c5b1f89e&smart=true&width=696&height=379",
-      "type": "noticia"
     },
     {
       "title": "Matheus tenta assustar Mari antes de dormir, mas é pego no flagra | Casa do Patrão",
@@ -154,6 +154,18 @@
       "type": "foto"
     },
     {
+      "title": "Moradores recebem visita de drone misterioso da MultiGrip | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-recebem-visita-de-drone-misterioso-da-multigrip-casa-do-patrao-08072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-08-2026%2Ft_423185c615f04777b4f06a2c975296e3_name_file_960x540_1600_v4_.jpg?smart=true&auth=50467bbc7d04921793a9e1592c0c618d29fc166c84e2dbf6a44489ab3f1ce86a&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Hora de levantar! Moradores acordam após definirem novo Tá na Reta da temporada | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/hora-de-levantar-moradores-acordam-apos-definirem-novo-ta-na-reta-da-temporada-casa-do-patrao-08072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-08-2026%2Ft_01a0e0bbd523479eabc8f932f8598d4e_name_file_960x540_1600_v4_.jpg?smart=true&auth=276589c440a28519364b717696053435c76a439b5d388273ee28c287d753dc7d&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Sheila revela incômodo com voto de Matheus no Tá na Reta: ‘Falhou’ | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-revela-incomodo-com-voto-de-matheus-no-ta-na-reta-falhou-casa-do-patrao-08072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-08-2026%2Ft_9413fd32c63347f89ef896d8367f1c0d_name_file_960x540_1600_v4_.jpg?smart=true&auth=f9fbc0ab33b0be2b3db024af5bce506e71633d9587c88111a8db7d3c9260b8a2&width=960&height=540",
@@ -219,25 +231,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-08-2026%2Ft_fc067f29e1ba4ebb955d2daf7fb5c71b_name_file_960x540_1600_v4_.jpg?smart=true&auth=1949a68e7b0d6c24ab4328a6af7e56d5ef3ba143658696a87b3825535eb1ead8&width=960&height=540",
       "type": "video",
       "category": "NA TV",
-      "time": "HÁ 11 HORAS"
-    },
-    {
-      "title": "Porquinhos quebrados! Mari ganha dinâmica mata-mata e fatura R$ 50 mil | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/porquinhos-quebrados-mari-ganha-dinamica-mata-mata-e-fatura-r-50-mil-casa-do-patrao-08072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-08-2026%2Ft_edec5b88c4f14cdc84b7a42ce9bb460c_name_file_960x540_1600_v4_.jpg?smart=true&auth=9b7a4f9c4e92a3f73d75bd92559a85304cc27a5439f10b488620724e71bb11b0&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Jackson expõe complô para colocar Bianca na Reta e modelo chora: ‘Não esperava' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/jackson-expoe-complo-para-colocar-bianca-na-reta-e-modelo-chora-nao-esperava-casa-do-patrao-08072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-08-2026%2Ft_807ad9ceddb740ddb960de3518738f85_name_file_960x540_1600_v4_.jpg?smart=true&auth=2aebcb7fcbd32593b1f67a9bc98a5fce3679705b3addb66aa5c9b50a37154e61&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sorte e estratégia! Todos os moradores participam da Prova do Patrão desta segunda (6)",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/sorte-e-estrategia-todos-os-moradores-participam-da-prova-do-patrao-desta-segunda-6-06072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/HXVTRZX2YBBSRFPEA4LMT4HZKU.png?smart=true&auth=58b832af5fa3eb375f493cb56a32b45c5fef336f81e54a9ab823780b7804e722&width=1185&height=666",
-      "type": "noticia"
+      "time": "HÁ 13 HORAS"
     },
     {
       "title": "Abraços, chororô e climão: veja as reações após a eliminação de Vivão",
@@ -304,6 +298,30 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/amor-coragem-e-tretas-relembre-a-passagem-de-morena-pela-casa-do-patrao-30062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/5WBDBVUXFNDADDEYYO64HLLD6U.png?smart=true&auth=94e80651788c0ec1b93647859380820597e46847dfdabc91cc87d676b422b18e&width=1638&height=921",
       "type": "foto"
+    },
+    {
+      "title": "Vivão assume que buscava aprovação de Sheila; leia!",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/vivao-fala-sobre-paixaozinha-de-matheus-por-bianca-e-assume-que-buscava-aprovacao-de-sheila-parecia-uma-relacao-toxica-06072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NZY6GFB5RJGNRLX6IU7B5YTX4Y.png?auth=410df40662345cf5d7d03700063f511aba9b540b3b121b32b521dc64c5b1f89e&smart=true&width=696&height=379",
+      "type": "noticia"
+    },
+    {
+      "title": "Porquinhos quebrados! Mari ganha dinâmica mata-mata e fatura R$ 50 mil | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/porquinhos-quebrados-mari-ganha-dinamica-mata-mata-e-fatura-r-50-mil-casa-do-patrao-08072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-08-2026%2Ft_edec5b88c4f14cdc84b7a42ce9bb460c_name_file_960x540_1600_v4_.jpg?smart=true&auth=9b7a4f9c4e92a3f73d75bd92559a85304cc27a5439f10b488620724e71bb11b0&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Jackson expõe complô para colocar Bianca na Reta e modelo chora: ‘Não esperava' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/jackson-expoe-complo-para-colocar-bianca-na-reta-e-modelo-chora-nao-esperava-casa-do-patrao-08072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-08-2026%2Ft_807ad9ceddb740ddb960de3518738f85_name_file_960x540_1600_v4_.jpg?smart=true&auth=2aebcb7fcbd32593b1f67a9bc98a5fce3679705b3addb66aa5c9b50a37154e61&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Sorte e estratégia! Todos os moradores participam da Prova do Patrão desta segunda (6)",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/sorte-e-estrategia-todos-os-moradores-participam-da-prova-do-patrao-desta-segunda-6-06072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/HXVTRZX2YBBSRFPEA4LMT4HZKU.png?smart=true&auth=58b832af5fa3eb375f493cb56a32b45c5fef336f81e54a9ab823780b7804e722&width=1185&height=666",
+      "type": "noticia"
     },
     {
       "title": "Grupo rachado? Mari dispara que Bianca precisa ser o centro do jogo | Casa do Patrão",
@@ -590,29 +608,11 @@
       "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/fa-ou-hater-vivao-avalia-relacao-com-sheila-na-casa-do-patrao-live-ta-na-rua-06072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-06-2026%2Ft_612af4b2d50a4676be79a79aec78560f_name_file_960x540_1600_v4_.jpg?smart=true&auth=a8bea3ed5be8485d4ab8d052494468926d728638b8060689e654e1a4e66920be&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Disputa da Prova do Patrão agita a noite desta segunda-feira (6) | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/video/disputa-da-prova-do-patrao-agita-a-noite-desta-segunda-feira-6-casa-do-patrao-06072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-06-2026%2Ft_a58e946d47d34c02b8fbfb9915900079_name_file_960x540_1600_v4_.jpg?smart=true&auth=ab0c0714b485fda541483c4e09eb87761811b8fd8c18fa7a9462f783b350b709&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Hora do Leilão! Moradores fazem apostas durante dinâmica do PicPay | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/hora-do-leilao-moradores-fazem-apostas-durante-dinamica-do-picpay-casa-do-patrao-06072026-2/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-06-2026%2Ft_4fb5290a959549169a8cc1b1b714ef98_name_file_960x540_1600_v4_.jpg?smart=true&auth=c961f1f345b411e6a80f59ff86a874e5ab867778c8982d57419d1ab1a489e175&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila relembra pegadinhas que fez durante sua trajetória no reality | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-relembra-pegadinhas-que-fez-durante-sua-trajetoria-no-reality-casa-do-patrao-06072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-06-2026%2Ft_72f89162ccbc4d39ab622e1177f3c542_name_file_960x540_1600_v4_.jpg?smart=true&auth=94f1a512505354451c53f6095ec22d03054944cb02cbe5abb1642ef41abac76b&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 15,
-    "video": 58,
+    "noticia": 16,
+    "video": 57,
     "foto": 27
   }
 }
