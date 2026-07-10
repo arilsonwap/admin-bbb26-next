@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-10T21:44:15.729Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-07-10T22:42:59.604Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Qual avaliação merece o segundo mandato de Mari na Casa do Patrão?",
@@ -81,7 +81,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_0c8bd5be1c464d08ba8b866101443cc0_name_file_960x540_1600_v4_.jpg?smart=true&auth=71785d6817a0c12b2603de003fee8db9fe027a2df0199572939de86cfb9856cb&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 6 HORAS"
+      "time": "HÁ 7 HORAS"
     },
     {
       "title": "Arrocha com Jú Márques, nostalgia e encontro de ex-aliados: veja o que rolou na Festa Fundo do Mar da Casa do Patrão",
@@ -162,6 +162,12 @@
       "type": "foto"
     },
     {
+      "title": "Sheila volta a detonar Bianca e diz que ex-aliada ‘nutriu ódio’ por ela | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-volta-a-detonar-bianca-e-diz-que-ex-aliada-nutriu-odio-por-ela-casa-do-patrao-10072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_e47584cb451448fbbe8fbecb8a3e9df6_name_file_960x540_1600_v4_.jpg?smart=true&auth=1c651c9e2a6de493b6a93f671948d4046059b7a47071fb1a41c5f727f44d980a&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Sheila afirma que Bianca está envergonhada após voltar do Tá na Reta | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-afirma-que-bianca-esta-envergonhada-apos-voltar-do-ta-na-reta-casa-do-patrao-10072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_40ee0751490147c08db1e5497e84bd51_name_file_960x540_1600_v4_.jpg?smart=true&auth=2b1b00a1097f0f6612556a138a5b60bb986abfbf96bb05c3d81593a1ecd30c9c&width=960&height=540",
@@ -233,18 +239,12 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_50a2f192c1884cd994a12df25f809093_name_file_960x540_1600_v4_.jpg?smart=true&auth=50603ac71055cdf1ebf884df3bdac06b414c391b3380f4d62d4f9bc8f0faccef&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 16 HORAS"
+      "time": "HÁ 17 HORAS"
     },
     {
       "title": "Bianca, Luiza e Matheus comemoram Top 5 e pulam na piscina | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-luiza-e-matheus-comemoram-top-5-e-pulam-na-piscina-casa-do-patrao-10072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_c33fcc0b27c843bc9336093bcc07265f_name_file_960x540_1600_v4_.jpg?smart=true&auth=306b4f9f800a2d048219de0fd4c254cc7f4495aeb3cb4953f6cbe0387edf8286&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Com 21,48% dos votos, Jackson é o 13° eliminado da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/com-2148-dos-votos-jackson-e-o-13-eliminado-da-casa-do-patrao-10072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_f89fb14659c3458b8bb534465a98ac1e_name_file_960x540_1600_v4_.jpg?smart=true&auth=396fb4b555b67841e9755eec20eae84bd6262a1ec4978e411eca8032e0ab86f8&width=960&height=540",
       "type": "video"
     },
     {
@@ -314,6 +314,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/choque-e-lagrimas-primeira-perda-do-grupo-de-sheila-faz-estrago-na-casa-do-patrao-03072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/MZMO4B2TVVANHJSXAHLWRZZD7M.png?smart=true&auth=efe993068e060cd87f4854da2938e4ecd3c8b7a9afc237b77654addcf13808e9&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Com 21,48% dos votos, Jackson é o 13° eliminado da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/com-2148-dos-votos-jackson-e-o-13-eliminado-da-casa-do-patrao-10072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_f89fb14659c3458b8bb534465a98ac1e_name_file_960x540_1600_v4_.jpg?smart=true&auth=396fb4b555b67841e9755eec20eae84bd6262a1ec4978e411eca8032e0ab86f8&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Jackson, Bianca e Sheila destacam as emoções antes do resultado do Tá na Reta | Casa do Patrão",
@@ -608,12 +614,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/abraco-coletivo-dancinha-de-despedida-e-roda-na-fogueira-veja-como-os-moradores-reagiram-a-eliminacao-de-morena-30062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NFURUAKO3VFTDFALTHWSSDS4GE.png?smart=true&auth=ed8355e90e263afca29650ad76c6d3dae1dd10c6292d75b4980faa002c8b9d0b&width=771&height=433",
       "type": "foto"
-    },
-    {
-      "title": "Moradores pegam roupas para Festa Fundo do Mar | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-pegam-roupas-para-festa-fundo-do-mar-casa-do-patrao-08072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-08-2026%2Ft_46c36935f16b4956ac8b1d9f821f6e68_name_file_960x540_1600_v4_.jpg?smart=true&auth=ab588532708a28eb3e9d5e0be7c9bf379b644094c47d166513c71b7d95d0e56e&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
