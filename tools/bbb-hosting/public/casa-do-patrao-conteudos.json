@@ -1,12 +1,17 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-10T13:20:56.341Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-07-10T15:53:32.716Z",
+  "lastAddedCount": 3,
   "items": [
     {
       "title": "Qual avaliação merece o segundo mandato de Mari na Casa do Patrão?",
       "href": "https://record.r7.com/casa-do-patrao/novidades/qual-avaliacao-merece-o-segundo-mandato-de-mari-na-casa-do-patrao-10072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/5DKWW5XYERBJPBSBPP53KIIKME.png?smart=true&auth=d83b45a00e7160a4e58850a9aed4dc91ca0ff7628e06bfa0ee8842c54279c0ac&width=677&height=380",
+      "type": "noticia"
+    },
+    {
+      "title": "Live Tá na Rua: Jackson repercute estratégias e fofocas da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/live-ta-na-rua-jackson-repercute-estrategias-e-fofocas-da-casa-do-patrao-10072026/",
       "type": "noticia"
     },
     {
@@ -24,7 +29,7 @@
     {
       "title": "Top 5! Saiba quem está mais perto da final de Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/top-5-saiba-quem-esta-mais-perto-da-final-de-casa-do-patrao-10072026-2/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/2LXGX6DT65COLAFJIP6VVCSTHA.png?auth=b1f9d884f66221d843d84d48890a8570a28762eb3df8131f9bdf5af2c48d2da5&smart=true&width=542&height=330",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/2LXGX6DT65COLAFJIP6VVCSTHA.png?smart=true&auth=b1f9d884f66221d843d84d48890a8570a28762eb3df8131f9bdf5af2c48d2da5&width=771&height=433",
       "type": "foto"
     },
     {
@@ -64,9 +69,9 @@
       "type": "foto"
     },
     {
-      "title": "Bianca, Luiza e Matheus comemoram Top 5 e pulam na piscina | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-luiza-e-matheus-comemoram-top-5-e-pulam-na-piscina-casa-do-patrao-10072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_c33fcc0b27c843bc9336093bcc07265f_name_file_960x540_1600_v4_.jpg?smart=true&auth=306b4f9f800a2d048219de0fd4c254cc7f4495aeb3cb4953f6cbe0387edf8286&width=960&height=540",
+      "title": "Luiza diz que ficaria 'mais surpresa' caso Sheila tivesse sido eliminada da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luiza-diz-que-ficaria-mais-surpresa-caso-sheila-tivesse-sido-eliminada-da-casa-do-patrao-10072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_b731c4fc4c7b4a79bbae859a9873c859_name_file_960x540_1600_v4_.jpg?smart=true&auth=909963316ca9edcbc54cfb371906d7322d61901f64ce4c78cd09d1d6fcba3a21&width=960&height=540",
       "type": "video"
     },
     {
@@ -76,10 +81,12 @@
       "type": "foto"
     },
     {
-      "title": "Matheus e Luiza especulam como será o jogo até a final",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/palpiteiros-matheus-e-luiza-especulam-como-sera-o-jogo-ate-a-grande-final-casa-do-patrao-10072026/",
-      "imageUrl": "https://d22yf0mxeu0gma.cloudfront.net/07-10-2026/t_8b97ba1b588445398e5d4e515601fa5a_name_file_960x540_1600_v4_.jpg",
-      "type": "video"
+      "title": "'Não estou nem aí!', diz Sheila sobre ser ignorada por Bianca | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/nao-estou-nem-ai-diz-sheila-sobre-ser-ignorada-por-bianca-casa-do-patrao-10072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_0c8bd5be1c464d08ba8b866101443cc0_name_file_960x540_1600_v4_.jpg?smart=true&auth=71785d6817a0c12b2603de003fee8db9fe027a2df0199572939de86cfb9856cb&width=960&height=540",
+      "type": "video",
+      "category": "HORAS",
+      "time": "HÁ 1 HORA"
     },
     {
       "title": "Arrocha com Jú Márques, nostalgia e encontro de ex-aliados: veja o que rolou na Festa Fundo do Mar da Casa do Patrão",
@@ -144,7 +151,7 @@
     {
       "title": "Poderosos! Relembre todos os vencedores da Prova do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/manda-quem-pode-relembre-todos-os-vencedores-da-prova-do-patrao-29062026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/7WAAJIUC6RFZVGIKX4FYJ5TBXA.jpeg?auth=f2014951f5171611fd1f7559f12ff2d5f4b7539bd56c4c3826aa5987e56dce37&smart=true&width=696&height=379",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ORVQNQ64PJAURH56RA5IRVJHCE.jpg?auth=f6b7c1cd41b85c7ec2ed336cc4cf78df0cb97954ce9c62d128949da2ede3af17&smart=true&width=696&height=379",
       "type": "foto"
     },
     {
@@ -160,9 +167,9 @@
       "type": "foto"
     },
     {
-      "title": "Luiza diz que ficaria 'mais surpresa' caso Sheila tivesse sido eliminada da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luiza-diz-que-ficaria-mais-surpresa-caso-sheila-tivesse-sido-eliminada-da-casa-do-patrao-10072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_b731c4fc4c7b4a79bbae859a9873c859_name_file_960x540_1600_v4_.jpg?smart=true&auth=909963316ca9edcbc54cfb371906d7322d61901f64ce4c78cd09d1d6fcba3a21&width=960&height=540",
+      "title": "Moradores acordam após noite da eliminação de Jackson | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-acordam-apos-noite-da-eliminacao-de-jackson-casa-do-patrao-10072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_8d9303c6b144477496926d28b05ef1ef_name_file_960x540_1600_v4_.jpg?smart=true&auth=a80ac9040ed3f672a53492f671467626c907eaf432a87f98b7d1f6e8a87441e8&width=960&height=540",
       "type": "video"
     },
     {
@@ -183,7 +190,13 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_50a2f192c1884cd994a12df25f809093_name_file_960x540_1600_v4_.jpg?smart=true&auth=50603ac71055cdf1ebf884df3bdac06b414c391b3380f4d62d4f9bc8f0faccef&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 8 HORAS"
+      "time": "HÁ 10 HORAS"
+    },
+    {
+      "title": "Bianca, Luiza e Matheus comemoram Top 5 e pulam na piscina | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-luiza-e-matheus-comemoram-top-5-e-pulam-na-piscina-casa-do-patrao-10072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_c33fcc0b27c843bc9336093bcc07265f_name_file_960x540_1600_v4_.jpg?smart=true&auth=306b4f9f800a2d048219de0fd4c254cc7f4495aeb3cb4953f6cbe0387edf8286&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Com 21,48% dos votos, Jackson é o 13° eliminado da Casa do Patrão",
@@ -221,7 +234,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_d8309c56fe6f4a3e8b8d769739720416_name_file_960x540_1600_v4_.jpg?smart=true&auth=4d106e9c99979ff00a8d38175dd7b82fcb19796cac87311c757447feaec3858b&width=960&height=540",
       "type": "video",
       "category": "NA TV",
-      "time": "HÁ 10 HORAS"
+      "time": "HÁ 13 HORAS"
     },
     {
       "title": "Patroa Mari avalia trabalho da galera do Trampo e elogia desempenho: 'Orgulho' | Casa do Patrão",
@@ -233,18 +246,6 @@
       "title": "Mari dispara que Jackson vai aproveitar situações para se salvar do Tá na Reta | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/mari-dispara-que-jackson-vai-aproveitar-situacoes-para-se-salvar-do-ta-na-reta-casa-do-patrao-10072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_9d62a94abcbb4760965c4055855c95b0_name_file_960x540_1600_v4_.jpg?smart=true&auth=c30c0a3767dd8f10435a8a92ce6a80a10d67b5a529dd59472dd09a0bcb7d4fdb&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Faxina com música! Moradores recebem show especial de Jonatha e Cristiano na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/faxina-com-musica-moradores-recebem-show-especial-de-jonatha-e-cristiano-na-casa-do-patrao-10072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_59e13e8986d0452ba71129437a813502_name_file_960x540_1600_v4_.jpg?smart=true&auth=0063bbdeb978423f57d3dda2aca8478fff711ad2c2014b8b74224076c1e5ce09&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Novo casal? Jarilene ‘flerta’ com Jackson em visita surpresa na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/novo-casal-jarilene-flerta-com-jackson-em-visita-surpresa-na-casa-do-patrao-10072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_1cd40d668cac4937af3b3d04c1cd325e_name_file_960x540_1600_v4_.jpg?smart=true&auth=99e5ee92adf1658dc3388f64a1a3501460113a8f74431845a085478b53f39aac&width=960&height=540",
       "type": "video"
     },
     {
@@ -320,6 +321,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/choque-e-lagrimas-primeira-perda-do-grupo-de-sheila-faz-estrago-na-casa-do-patrao-03072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/MZMO4B2TVVANHJSXAHLWRZZD7M.png?smart=true&auth=efe993068e060cd87f4854da2938e4ecd3c8b7a9afc237b77654addcf13808e9&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Matheus e Luiza especulam como será o jogo até a final",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/palpiteiros-matheus-e-luiza-especulam-como-sera-o-jogo-ate-a-grande-final-casa-do-patrao-10072026/",
+      "imageUrl": "https://d22yf0mxeu0gma.cloudfront.net/07-10-2026/t_8b97ba1b588445398e5d4e515601fa5a_name_file_960x540_1600_v4_.jpg",
+      "type": "video"
+    },
+    {
+      "title": "Faxina com música! Moradores recebem show especial de Jonatha e Cristiano na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/faxina-com-musica-moradores-recebem-show-especial-de-jonatha-e-cristiano-na-casa-do-patrao-10072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_59e13e8986d0452ba71129437a813502_name_file_960x540_1600_v4_.jpg?smart=true&auth=0063bbdeb978423f57d3dda2aca8478fff711ad2c2014b8b74224076c1e5ce09&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Novo casal? Jarilene ‘flerta’ com Jackson em visita surpresa na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/novo-casal-jarilene-flerta-com-jackson-em-visita-surpresa-na-casa-do-patrao-10072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_1cd40d668cac4937af3b3d04c1cd325e_name_file_960x540_1600_v4_.jpg?smart=true&auth=99e5ee92adf1658dc3388f64a1a3501460113a8f74431845a085478b53f39aac&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Tom Cavalcante diverte moradores com visita na Casa do Patrão",
@@ -596,29 +615,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/dinamica-em-duplas-dudu-camargo-invade-a-casa-do-patrao-08072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-08-2026%2Ft_421776ae9ef044c789832296de51cecd_name_file_960x540_1600_v4_.jpg?smart=true&auth=c30f676830de5b1c930a732fd9406394c13ee665ff9484cdceff3f6e93acd364&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Matheus, Jackson, Luiza, Sheila, Bianca e Mari recebem café da manhã especial | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-jackson-luiza-sheila-bianca-e-mari-recebem-cafe-da-manha-especial-casa-do-patrao-08072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-08-2026%2Ft_35e5fd9609fb4cfab718da1f540e01c9_name_file_960x540_1600_v4_.jpg?smart=true&auth=0e21d304f88853716a682470f6c0fdcac0c94028befafbff8aa0ff28c55879e2&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Moradores recebem visita de drone misterioso da MultiGrip | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-recebem-visita-de-drone-misterioso-da-multigrip-casa-do-patrao-08072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-08-2026%2Ft_423185c615f04777b4f06a2c975296e3_name_file_960x540_1600_v4_.jpg?smart=true&auth=50467bbc7d04921793a9e1592c0c618d29fc166c84e2dbf6a44489ab3f1ce86a&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Hora de levantar! Moradores acordam após definirem novo Tá na Reta da temporada | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/hora-de-levantar-moradores-acordam-apos-definirem-novo-ta-na-reta-da-temporada-casa-do-patrao-08072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-08-2026%2Ft_01a0e0bbd523479eabc8f932f8598d4e_name_file_960x540_1600_v4_.jpg?smart=true&auth=276589c440a28519364b717696053435c76a439b5d388273ee28c287d753dc7d&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 16,
-    "video": 52,
+    "noticia": 17,
+    "video": 51,
     "foto": 32
   }
 }
