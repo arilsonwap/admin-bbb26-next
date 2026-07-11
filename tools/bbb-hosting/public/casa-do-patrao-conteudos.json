@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-11T21:03:34.750Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-07-11T22:02:53.835Z",
+  "lastAddedCount": 2,
   "items": [
     {
       "title": "Luiza, Mari ou Sheila, quem você quer salvar da eliminação? Vote agora!",
@@ -148,6 +148,12 @@
       "type": "foto"
     },
     {
+      "title": "Luiza desabafa sobre Tá na Reta: 'É um dos mais difíceis para mim' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luiza-desabafa-sobre-ta-na-reta-e-um-dos-mais-dificeis-para-mim-casa-do-patrao-11072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-11-2026%2Ft_20c38333b5f84dddaaecda07141d7f04_name_file_960x540_1600_v4_.jpg?smart=true&auth=ff72534465f00532fb093e7c335007dc5b7874d9d31bcdf30336dbca04ce310f&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Mari revela plano de 'vingança' de Luiza e Bianca após bagunça no Trampo | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/mari-revela-plano-de-vinganca-de-luiza-e-bianca-apos-bagunca-no-trampo-casa-do-patrao-11072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-11-2026%2Ft_89b71249145b46e192a192b0b97c70a7_name_file_960x540_1600_v4_.jpg?smart=true&auth=57ef53a7f5d9096427afddc4ba9b10a3294b7da00312e6b488ed46d1ae61534a&width=960&height=540",
@@ -201,7 +207,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-11-2026%2Ft_f0deb062129d4b1abb68c51effcf5261_name_file_960x540_1600_v4_.jpg?smart=true&auth=52af9cbbb57d5682c5d7dcdef15e14ae0ed400061a32486c34ffbd8de7439298&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 15 HORAS"
+      "time": "HÁ 16 HORAS"
     },
     {
       "title": "Matheus crava saída de Luiza e promete aposta de R$ 5 mil: 'Está muito claro' | Casa do Patrão",
@@ -215,7 +221,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-11-2026%2Ft_666b0c40df964038a2d0d75a33658157_name_file_960x540_1600_v4_.jpg?smart=true&auth=2f2aada11bee37182aa8ff781c80279359953ca7bd318792f4cb7b5a5a437a79&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 17 HORAS"
+      "time": "HÁ 18 HORAS"
     },
     {
       "title": "Luiza, Mari e Sheila defendem permanência no jogo | Casa do Patrão",
@@ -236,10 +242,10 @@
       "type": "video"
     },
     {
-      "title": "Matheus vence Prova do Patrão e garante vaga no Top 4 | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/matheus-vence-prova-do-patrao-e-garante-vaga-no-top-4-casa-do-patrao-11072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-11-2026%2Ft_777da0e6cc4141dbadac28224d8eea93_name_file_960x540_1600_v4_.jpg?smart=true&auth=6c9472ce7afaa439e14158634ac26c918ae5085f4528d44ba87272c2fcd08832&width=960&height=540",
-      "type": "video"
+      "title": "Tietando famosos! Sheila aparece ao lado de Carlinhos Brown em registro antigo",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/tietando-famosos-sheila-aparece-ao-lado-de-carlinhos-brown-em-registro-antigo-11072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ZY6SNR6NSBEYNLPIA7YW4O7U5M.png?smart=true&auth=32163f32ce8219bc4996deed3d5b6a43ed9da0ddcf9ec4d76bfacb1d402ab774&width=770&height=433",
+      "type": "noticia"
     },
     {
       "title": "Prova do Patrão e formação do Tá na Reta vão agitar a Casa do Patrão nesta sexta (10)",
@@ -263,12 +269,6 @@
       "title": "Jackson é eliminado de Casa do Patrão, com 21,48% dos votos",
       "href": "https://record.r7.com/casa-do-patrao/novidades/jackson-e-eliminado-de-casa-do-patrao-com-2148-dos-votos-10072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/NQIYRIYOLFCM5G36VZL5GMCIAE.png?smart=true&auth=11e9ca776c9c240309adf02bb1edce6499bf90c25a708b67f5be25c37303979e&width=770&height=433",
-      "type": "noticia"
-    },
-    {
-      "title": "Qual avaliação merece o segundo mandato de Mari na Casa do Patrão?",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/qual-avaliacao-merece-o-segundo-mandato-de-mari-na-casa-do-patrao-10072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/5DKWW5XYERBJPBSBPP53KIIKME.png?smart=true&auth=d83b45a00e7160a4e58850a9aed4dc91ca0ff7628e06bfa0ee8842c54279c0ac&width=677&height=380",
       "type": "noticia"
     },
     {
@@ -312,6 +312,18 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/altas-voltagens-de-emocao-veja-o-que-rolou-na-semana-eletrica-da-casa-do-patrao-04072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4G3LNI4AKBCMJPXGI5RAHHVNH4.png?smart=true&auth=7a05220523f6e3b5a9e297cd076208b796b57c713ee403d0661ffc50077f7d7d&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Matheus vence Prova do Patrão e garante vaga no Top 4 | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/matheus-vence-prova-do-patrao-e-garante-vaga-no-top-4-casa-do-patrao-11072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-11-2026%2Ft_777da0e6cc4141dbadac28224d8eea93_name_file_960x540_1600_v4_.jpg?smart=true&auth=6c9472ce7afaa439e14158634ac26c918ae5085f4528d44ba87272c2fcd08832&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Qual avaliação merece o segundo mandato de Mari na Casa do Patrão?",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/qual-avaliacao-merece-o-segundo-mandato-de-mari-na-casa-do-patrao-10072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/5DKWW5XYERBJPBSBPP53KIIKME.png?smart=true&auth=d83b45a00e7160a4e58850a9aed4dc91ca0ff7628e06bfa0ee8842c54279c0ac&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Mari desabafa com Luiza e revela incômodo com olhares de Bianca | Casa do Patrão",
@@ -602,23 +614,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/tom-cavalcante-se-veste-de-jarilene-e-faz-faxina-com-a-dupla-jonatha-e-cristiano-casa-do-patrao-09072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-09-2026%2Ft_1308ade1a78f4f51833a03975a523145_name_file_960x540_1600_v4_.jpg?smart=true&auth=dcee093920a8da04e06ce43ebee0c82c3bffc900566bca23da98f110c6522241&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Sheila questiona afastamento de Bianca: ‘Fico impressionada com a raiva dela’ | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-questiona-afastamento-de-bianca-fico-impressionada-com-a-raiva-dela-casa-do-patrao-09072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-09-2026%2Ft_86065a5192b541eb8efab7826c21ce14_name_file_960x540_1600_v4_.jpg?smart=true&auth=349e840ba86e91329c8fdbf3c0c7a07dec76aa7a2ba37e6127cf9e71d2257098&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Matheus começa o dia cumprindo tarefa: 'Eu vou lavar uma louça' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-comeca-o-dia-cumprindo-tarefa-eu-vou-lavar-uma-louca-casa-do-patrao-09072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-09-2026%2Ft_38cb12c7be4041a5bbbb99baac674226_name_file_960x540_1600_v4_.jpg?smart=true&auth=6db85b47427b74a78fe9e6c592adcac2aa95d74acb10a6af1a1707738215d98b&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 20,
-    "video": 55,
+    "noticia": 21,
+    "video": 54,
     "foto": 25
   }
 }
