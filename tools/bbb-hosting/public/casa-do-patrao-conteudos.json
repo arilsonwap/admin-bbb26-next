@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-12T16:27:36.667Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-07-12T17:33:41.108Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Mari é eliminada de Casa do Patrão, com 7,66% dos votos",
@@ -154,6 +154,12 @@
       "type": "foto"
     },
     {
+      "title": "Matheus e Luiza relembram participantes que indicaram eles para o Tá na Reta | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-e-luiza-relembram-participantes-que-indicaram-eles-para-o-ta-na-reta-casa-do-patrao-12072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_4a1189c3dd9145168f720804f674031b_name_file_960x540_1600_v4_.jpg?smart=true&auth=516a5dfd3a38c4630c38a32d7c9a56ce1cc90eb3e24aabf587906876a4ce3a5f&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Matheus se esconde atrás da porta e dá susto em Luiza | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-se-esconde-atras-da-porta-e-da-susto-em-luiza-casa-do-patrao-12072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_f1d645a0b9d84f7fb68e53ef0d63be80_name_file_960x540_1600_v4_.jpg?smart=true&auth=707b03c605f84265ba4d62ded77dbae230a77014b80a4a710afac8058899554f&width=960&height=540",
@@ -238,12 +244,6 @@
       "type": "video"
     },
     {
-      "title": "Diário de um Quase Confinado: Hassum revela bastidores do dia de eliminação na Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/diario-de-um-quase-confinado/video/diario-de-um-quase-confinado-hassum-revela-bastidores-do-dia-de-eliminacao-na-casa-do-patrao-11072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-11-2026%2Ft_119e94acec8e42aca510b5c057e8767a_name_file_960x540_1600_v4_.jpg?smart=true&auth=7adac2070c8e304ee4c0d0eee6266b73ec3492619aa54d7a9a13c3a8036d6418&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Luiza, Mari ou Sheila, quem você quer salvar da eliminação? Vote agora!",
       "href": "https://record.r7.com/casa-do-patrao/novidades/luiza-mari-ou-sheila-quem-voce-quer-salvar-da-eliminacao-vote-agora-11072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ZMWYWMUD3JACRFLPXGD6OCZ7LU.png?smart=true&auth=a2544dcf7fe5adfb026e2eaa201c04a319f0ddc21d08adc7e4e8c9f796d589cc&width=677&height=380",
@@ -314,6 +314,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/show-de-tatau-nostalgia-e-ranco-festa-neon-agita-elenco-da-casa-do-patrao-05072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/O42JPV52LVB6DGKXJEJKVCZ65Q.png?smart=true&auth=154cfc9bc9b1c7636d0031cfd861534fa02f532882c96f7c23d0c84f9b6aa3de&width=1157&height=650",
       "type": "foto"
+    },
+    {
+      "title": "Diário de um Quase Confinado: Hassum revela bastidores do dia de eliminação na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/diario-de-um-quase-confinado/video/diario-de-um-quase-confinado-hassum-revela-bastidores-do-dia-de-eliminacao-na-casa-do-patrao-11072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-11-2026%2Ft_119e94acec8e42aca510b5c057e8767a_name_file_960x540_1600_v4_.jpg?smart=true&auth=7adac2070c8e304ee4c0d0eee6266b73ec3492619aa54d7a9a13c3a8036d6418&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Luiza desabafa sobre Tá na Reta: 'É um dos mais difíceis para mim' | Casa do Patrão",
@@ -605,12 +611,6 @@
       "title": "Novo Patrão e mais uma eliminação: Confira a agenda da Semana Elétrica | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/novo-patrao-e-mais-uma-eliminacao-confira-a-agenda-da-semana-eletrica-casa-do-patrao-10072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_ad76981c780c40f388611d8a19a6fb49_name_file_960x540_1600_v4_.jpg?smart=true&auth=4f1508f8d3b731ac6ac75a3c8855ea445562fa080e8a0f322cbd24caf1faf732&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Na Quinta de Apostas, todos os moradores especulam saída de Jackson | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/na-quinta-de-apostas-todos-os-moradores-especulam-saida-de-jackson-casa-do-patrao-10072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-10-2026%2Ft_7a8df4b2769d47a6b359dca575e3c5c6_name_file_960x540_1600_v4_.jpg?smart=true&auth=578bffdaba145f6ca597dc9713cbceb2a9bf7c3675620912d144fedf27575136&width=960&height=540",
       "type": "video"
     }
   ],
