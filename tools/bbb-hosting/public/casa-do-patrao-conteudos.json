@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-12T22:23:43.592Z",
+  "fetchedAt": "2026-07-12T23:25:42.615Z",
   "lastAddedCount": 1,
   "items": [
     {
@@ -154,6 +154,14 @@
       "type": "foto"
     },
     {
+      "title": "'Quero muito estar na final', reflete Sheila | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/quero-muito-estar-na-final-reflete-sheila-casa-do-patrao-12072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_6ac8ff3394404acb81a3794fc0616303_name_file_960x540_1600_v4_.jpg?smart=true&auth=6d9790a8d9cfccc8bfc001562d44a733cc85b76c98d9f8190123f2b9e9cab920&width=960&height=540",
+      "type": "video",
+      "category": "HORAS",
+      "time": "HÁ 44 MINUTOS"
+    },
+    {
       "title": "Sheila recusa almoço com Bianca, Luiza e Matheus | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-recusa-almoco-com-bianca-luiza-e-matheus-casa-do-patrao-12072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_9e0fb27bb5e848c2885b7383fc946bae_name_file_960x540_1600_v4_.jpg?smart=true&auth=7beb6e8d2eddb9f68aa6cc6dd7fec2b3414144a824f359fcc760d95fae58bd70&width=960&height=540",
@@ -223,12 +231,6 @@
       "title": "Patroa oculta? Sheila diz que Bianca está por trás das últimas decisões de Matheus | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/patroa-oculta-sheila-diz-que-bianca-esta-por-tras-das-ultimas-decisoes-de-matheus-casa-do-patrao-12072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_8fdcb08eb5174a7698dbd74d66a5b9b9_name_file_960x540_1600_v4_.jpg?smart=true&auth=6ad624cc4f2e1c589524dc14a0e1f22aa24c474ae0d084084fbcc15b645f1157&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila alfineta Luiza ao exaltar Mari e Matheus: 'Confiaram 100% em mim' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/sheila-alfineta-luiza-ao-exaltar-mari-e-matheus-confiaram-100-em-mim-casa-do-patrao-12072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_2debe28875d54355b33c59a4ff7e2074_name_file_960x540_1600_v4_.jpg?smart=true&auth=d43dd54658e00e44dc444a5dc87b18d8cd773aa5d6e6c96671e6349dbd37df33&width=960&height=540",
       "type": "video"
     },
     {
@@ -314,6 +316,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/show-de-tatau-nostalgia-e-ranco-festa-neon-agita-elenco-da-casa-do-patrao-05072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/O42JPV52LVB6DGKXJEJKVCZ65Q.png?smart=true&auth=154cfc9bc9b1c7636d0031cfd861534fa02f532882c96f7c23d0c84f9b6aa3de&width=1157&height=650",
       "type": "foto"
+    },
+    {
+      "title": "Sheila alfineta Luiza ao exaltar Mari e Matheus: 'Confiaram 100% em mim' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/sheila-alfineta-luiza-ao-exaltar-mari-e-matheus-confiaram-100-em-mim-casa-do-patrao-12072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_2debe28875d54355b33c59a4ff7e2074_name_file_960x540_1600_v4_.jpg?smart=true&auth=d43dd54658e00e44dc444a5dc87b18d8cd773aa5d6e6c96671e6349dbd37df33&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Salva do Tá na Reta, Bianca agradece Matheus com massagem nos pés | Casa do Patrão",
@@ -606,17 +614,11 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/spoiler-subaquatico-confira-detalhes-da-festa-fundo-do-mar-da-casa-do-patrao-09072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/T2BWS4XS2NGJXDNEEZCNQ46TXA.png?smart=true&auth=9aaa41b624971d3ac0a21c31e1130d3a88229c600aef71a3b1b8ac395bc56e20&width=677&height=380",
       "type": "noticia"
-    },
-    {
-      "title": "Tom Cavalcante leva a personagem Jarilene para a Casa do Patrão nesta quinta (9)",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/tom-cavalcante-leva-a-personagem-jarilene-para-a-casa-do-patrao-nesta-quinta-9-08072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/34BVI55ALZFSBPYIU5U4W6MAVY.png?smart=true&auth=cf5700cf6ecac6cb2832093b62a55a5d584cb0524a86f836be347692b2b3024b&width=1185&height=666",
-      "type": "noticia"
     }
   ],
   "counts": {
-    "noticia": 20,
-    "video": 54,
+    "noticia": 19,
+    "video": 55,
     "foto": 26
   }
 }
