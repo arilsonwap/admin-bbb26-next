@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-12T15:26:29.466Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-07-12T16:27:36.667Z",
+  "lastAddedCount": 0,
   "items": [
     {
       "title": "Mari é eliminada de Casa do Patrão, com 7,66% dos votos",
@@ -19,6 +19,12 @@
       "title": "Prova vai definir primeiro finalista de Casa do Patrão neste domingo (12)",
       "href": "https://record.r7.com/casa-do-patrao/novidades/prova-vai-definir-primeiro-finalista-de-casa-do-patrao-neste-domingo-12-12072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/AUGJDMJGR5GT7MUMAUJDE2NHUQ.png?auth=6032054b8c2da183697ebe3cc563d0088b486043358855ffa891d347b416621e&smart=true&width=542&height=330",
+      "type": "noticia"
+    },
+    {
+      "title": "O quanto você acompanhou as provas de Casa do Patrão? Faça o teste!",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/o-quanto-voce-acompanhou-as-provas-de-casa-do-patrao-12072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/M7T2S4VD5BCEXPOMXWC7IH2KXE.png?auth=f7a9dd1fcd0b1ff2c52e1609664eb2d1c9ad734944b5dcfa64697ff099af172d&smart=true&width=696&height=390",
       "type": "noticia"
     },
     {
@@ -236,12 +242,6 @@
       "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/diario-de-um-quase-confinado/video/diario-de-um-quase-confinado-hassum-revela-bastidores-do-dia-de-eliminacao-na-casa-do-patrao-11072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-11-2026%2Ft_119e94acec8e42aca510b5c057e8767a_name_file_960x540_1600_v4_.jpg?smart=true&auth=7adac2070c8e304ee4c0d0eee6266b73ec3492619aa54d7a9a13c3a8036d6418&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "O quanto você acompanhou as provas de Casa do Patrão?",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/o-quanto-voce-acompanhou-as-provas-de-casa-do-patrao-12072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/M7T2S4VD5BCEXPOMXWC7IH2KXE.png?smart=true&auth=f7a9dd1fcd0b1ff2c52e1609664eb2d1c9ad734944b5dcfa64697ff099af172d&width=770&height=433",
-      "type": "noticia"
     },
     {
       "title": "Luiza, Mari ou Sheila, quem você quer salvar da eliminação? Vote agora!",
