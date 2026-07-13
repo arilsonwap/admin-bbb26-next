@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-13T19:44:09.217Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-07-13T20:43:57.249Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Último Patrão! Matheus vence a prova de resistência e garante vaga na final",
@@ -9,13 +9,13 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/KXVES5KKTVEHHJU4VB4SXWDFKQ.png?smart=true&auth=aa46bcd3bd0a2bc3db3d3aa6f23717504c990c213fae986288063b6071e6a69a&width=1100&height=618",
       "type": "noticia",
       "category": "NOVIDADES",
-      "time": "HÁ 5 HORAS"
+      "time": "HÁ 6 HORAS"
     },
     {
-      "title": "Mari revela bastidores de brigas com Nataly: ‘Não nos gostávamos dentro da casa’ | Live Tá na Rua",
-      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/mari-revela-bastidores-de-brigas-com-nataly-nao-nos-gostavamos-dentro-da-casa-live-ta-na-rua-13072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_22f3113bb683413cbf900b133a922708_name_file_960x540_1600_v4_.jpg?smart=true&auth=969a1e4b89789d627bec4c38dbadd3d685a87e9d995557e7cd0942650c5ca261&width=960&height=540",
-      "type": "video"
+      "title": "Na mira! Confira quem foi parar no Tá na Reta mais vezes em Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/na-mira-confira-quem-foi-parar-no-ta-na-reta-mais-vezes-em-casa-do-patrao-13072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4DAMGDR47NENTMLBAGW5OENPXA.jpg?auth=8a37ab29819d6e8707a24a242c1518fdbbeea2a07712f30c0f70a7c5d0f3a2fc&smart=true&width=208&height=330",
+      "type": "foto"
     },
     {
       "title": "Tom Cavalcante ou Jarilene: quem disse essa frase no programa? Faça o quiz!",
@@ -77,7 +77,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_6c2d805ed9c64c0499d1248182079090_name_file_960x540_1600_v4_.jpg?smart=true&auth=a21954e15488bfe730515cbff80121602601ebf9e2b47a15ae3ff2e2acf080d3&width=960&height=540",
       "type": "video",
       "category": "LIVE TÁ NA RUA",
-      "time": "HÁ 1 HORA"
+      "time": "HÁ 2 HORAS"
     },
     {
       "title": "O quanto você acompanhou as provas de Casa do Patrão?",
@@ -158,6 +158,18 @@
       "type": "foto"
     },
     {
+      "title": "Tá na Rua: Assista à íntegra da live com Mariana Bernardino | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/ta-na-rua-assista-a-integra-da-live-com-mariana-bernardino-casa-do-patrao-13072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_55036913b219480bb38a07d6dc5a5dd2_name_file_960x540_1600_v4_.jpg?smart=true&auth=0bca343016bf6c54b58e43188e86c852bbc29656ab829138542f28a21e3e2beb&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Mari revela bastidores de brigas com Nataly: ‘Não nos gostávamos dentro da casa’ | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/mari-revela-bastidores-de-brigas-com-nataly-nao-nos-gostavamos-dentro-da-casa-live-ta-na-rua-13072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_22f3113bb683413cbf900b133a922708_name_file_960x540_1600_v4_.jpg?smart=true&auth=969a1e4b89789d627bec4c38dbadd3d685a87e9d995557e7cd0942650c5ca261&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Sheila faz boneca em homenagem a Mari | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-faz-boneca-em-homenagem-a-mari-casa-do-patrao-13072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_d6f6098e0e414c5491bc4f1314832db0_name_file_960x540_1600_v4_.jpg?smart=true&auth=4e1a2237c59080b51302424f757ad4a27fe4a4a335369ddc2be4bd24ee068aae&width=960&height=540",
@@ -215,12 +227,6 @@
       "title": "Sheila se isola no banheiro e critica concorrentes: 'Era só interesse' | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/sheila-se-isola-no-banheiro-e-critica-concorrentes-era-so-interesse-casa-do-patrao-13072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_f7c968d54a7c4fff93555753be287627_name_file_960x540_1600_v4_.jpg?smart=true&auth=7062ec9d05a598bfed97d240bc530426846a286fc77839bf53c423c6f17f1c10&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila passa o dia distante de Luiza, Matheus e Bianca | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/sheila-passa-o-dia-distante-de-luiza-matheus-e-bianca-casa-do-patrao-13072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_70b3b531eb824daf91c1b00a4743ff72_name_file_960x540_1600_v4_.jpg?smart=true&auth=eb94f956d50f3c91280b5539bfa994d9ec4c1fe0da40127b0950b4f79ff351bc&width=960&height=540",
       "type": "video"
     },
     {
@@ -320,15 +326,15 @@
       "type": "foto"
     },
     {
+      "title": "Sheila passa o dia distante de Luiza, Matheus e Bianca | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/sheila-passa-o-dia-distante-de-luiza-matheus-e-bianca-casa-do-patrao-13072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_70b3b531eb824daf91c1b00a4743ff72_name_file_960x540_1600_v4_.jpg?smart=true&auth=eb94f956d50f3c91280b5539bfa994d9ec4c1fe0da40127b0950b4f79ff351bc&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Show de Tatau, nostalgia e ranço: Festa Neon agita elenco da Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/show-de-tatau-nostalgia-e-ranco-festa-neon-agita-elenco-da-casa-do-patrao-05072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/O42JPV52LVB6DGKXJEJKVCZ65Q.png?smart=true&auth=154cfc9bc9b1c7636d0031cfd861534fa02f532882c96f7c23d0c84f9b6aa3de&width=1157&height=650",
-      "type": "foto"
-    },
-    {
-      "title": "Na mira! Confira quem foi parar no Tá na Reta mais vezes em Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/na-mira-confira-quem-foi-parar-no-ta-na-reta-mais-vezes-em-casa-do-patrao-13072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4DAMGDR47NENTMLBAGW5OENPXA.jpg?auth=8a37ab29819d6e8707a24a242c1518fdbbeea2a07712f30c0f70a7c5d0f3a2fc&smart=true&width=208&height=330",
       "type": "foto"
     },
     {
@@ -606,12 +612,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/altas-voltagens-de-emocao-veja-o-que-rolou-na-semana-eletrica-da-casa-do-patrao-04072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4G3LNI4AKBCMJPXGI5RAHHVNH4.png?smart=true&auth=7a05220523f6e3b5a9e297cd076208b796b57c713ee403d0661ffc50077f7d7d&width=771&height=433",
       "type": "foto"
-    },
-    {
-      "title": "Matheus salva Bianca e coloca Luiza, Mari e Sheila no Tá na Reta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/matheus-salva-bianca-e-coloca-luiza-mari-e-sheila-no-ta-na-reta-casa-do-patrao-11072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-11-2026%2Ft_2bafaae8bf5e4666a32060661d4a3fba_name_file_960x540_1600_v4_.jpg?smart=true&auth=90eb8f321a15d911637d8b7c26d8134df93cc6eeafb7f06b57a45c7f520afe96&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
