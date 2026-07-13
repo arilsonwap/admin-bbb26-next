@@ -1,6 +1,6 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-13T22:35:52.701Z",
+  "fetchedAt": "2026-07-13T23:31:12.480Z",
   "lastAddedCount": 1,
   "items": [
     {
@@ -9,7 +9,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/KXVES5KKTVEHHJU4VB4SXWDFKQ.png?smart=true&auth=aa46bcd3bd0a2bc3db3d3aa6f23717504c990c213fae986288063b6071e6a69a&width=1100&height=618",
       "type": "noticia",
       "category": "NOVIDADES",
-      "time": "HÁ 8 HORAS"
+      "time": "HÁ 9 HORAS"
     },
     {
       "title": "Na mira! Confira quem foi parar no Tá na Reta mais vezes em Casa do Patrão",
@@ -158,6 +158,12 @@
       "type": "foto"
     },
     {
+      "title": "Bianca, Matheus e Luiza especulam sobre reta final da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-matheus-e-luiza-especulam-sobre-reta-final-da-casa-do-patrao-13072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_caabc153fde741d4a171b6bd45f0123e_name_file_960x540_1600_v4_.jpg?smart=true&auth=3f7ca2e052993e796233148881f36eb3d4a3c700f7a853bd247168cdd4c6eced&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Sheila leva boneca de Mari para almoço com concorrentes | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-leva-boneca-de-mari-para-almoco-com-concorrentes-casa-do-patrao-13072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_e4b36da11c054045b37cdc2b7a0e24c8_name_file_960x540_1600_v4_.jpg?smart=true&auth=f452cf71efef292c47f423f6bb93b9dc73bd3d35809277c080240d599632c004&width=960&height=540",
@@ -221,12 +227,6 @@
       "title": "Luiza perde foco com cantoria e é eliminada da última prova de resistência | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luiza-perde-foco-com-cantoria-e-e-eliminada-da-ultima-prova-de-resistencia-casa-do-patrao-13072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_85a3e0b21f084d59b52544fcb99969fe_name_file_960x540_1600_v4_.jpg?smart=true&auth=a795289bc49ca89ad0b57053db5a2b2b92d98a4e37c7805c0fca822ba10c6b6f&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Matheus, Bianca, Luiza e Sheila começam prova de resistência valendo vaga na final da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/matheus-bianca-luiza-e-sheila-comecam-prova-de-resistencia-valendo-vaga-na-final-da-casa-do-patrao-13072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_731309c111864f1a81ef94e21d8f6fa5_name_file_960x540_1600_v4_.jpg?smart=true&auth=f615b46bf641af320fb2d8e9371701a86b22d30a57590d88b392f1d83af30b3a&width=960&height=540",
       "type": "video"
     },
     {
@@ -324,6 +324,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/no-estilo-do-caos-relembre-a-trajetoria-de-vivao-na-casa-do-patrao-06072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/DMFPMREAXNAL5AIMJU2IWPXXEQ.png?smart=true&auth=fe96c488b92841870a8e7d92101cc5d59eaf33b63b50d96aae9a047b6b7814a0&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Matheus, Bianca, Luiza e Sheila começam prova de resistência valendo vaga na final da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/matheus-bianca-luiza-e-sheila-comecam-prova-de-resistencia-valendo-vaga-na-final-da-casa-do-patrao-13072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_731309c111864f1a81ef94e21d8f6fa5_name_file_960x540_1600_v4_.jpg?smart=true&auth=f615b46bf641af320fb2d8e9371701a86b22d30a57590d88b392f1d83af30b3a&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Hassum atualiza saldo do Patrão Matheus depois da saída de Mari | Casa do Patrão",
@@ -606,12 +612,6 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/confira-a-missao-dupla-que-o-novo-patrao-tera-na-reta-final-eletrica-de-casa-do-patrao-10072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BCFNHSRULRAUJMWZY4DYGA2GVU.jpeg?smart=true&auth=c0bf6874a2889635e9817e1d0b235721d1da155ce2aca32e511aea73ed2fde3d&width=677&height=380",
       "type": "noticia"
-    },
-    {
-      "title": "Luiza, Mari e Sheila defendem permanência no jogo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/luiza-mari-e-sheila-defendem-permanencia-no-jogo-casa-do-patrao-11072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-11-2026%2Ft_679d4a0f7e8141b89e16bad77dd5aba1_name_file_960x540_1600_v4_.jpg?smart=true&auth=f70efe358d4f139d40a06d155846e5b96c354a2604c11576a008d042cbb3f61f&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
