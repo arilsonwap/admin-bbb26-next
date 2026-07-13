@@ -1,13 +1,13 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-13T10:58:54.845Z",
+  "fetchedAt": "2026-07-13T13:32:05.551Z",
   "lastAddedCount": 0,
   "items": [
     {
-      "title": "Prova vai definir primeiro finalista de Casa do Patrão neste domingo (12)",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/prova-vai-definir-primeiro-finalista-de-casa-do-patrao-neste-domingo-12-12072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/AUGJDMJGR5GT7MUMAUJDE2NHUQ.png?smart=true&auth=6032054b8c2da183697ebe3cc563d0088b486043358855ffa891d347b416621e&width=770&height=433",
-      "type": "noticia"
+      "title": "Matheus vence última prova de resistência e é o primeiro finalista da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-vence-ultima-prova-de-resistencia-e-e-o-primeiro-finalista-da-casa-do-patrao-13072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_3b4ed21f5fb24265981dd6920c7d8752_name_file_960x540_1600_v4_.jpg?smart=true&auth=52b5dad65a0d1bb6a33ffb46da6f501e1041a7eca5895c1c24a1319ed09bc53c&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Carisma, tranças e deboche! Relembre a passagem de Mari pela Casa do Patrão",
@@ -154,12 +154,6 @@
       "type": "foto"
     },
     {
-      "title": "Matheus vence última prova de resistência e é o primeiro finalista da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-vence-ultima-prova-de-resistencia-e-e-o-primeiro-finalista-da-casa-do-patrao-13072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_3b4ed21f5fb24265981dd6920c7d8752_name_file_960x540_1600_v4_.jpg?smart=true&auth=52b5dad65a0d1bb6a33ffb46da6f501e1041a7eca5895c1c24a1319ed09bc53c&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Sheila é a segunda eliminada da última prova de resistência e já está no Tá na Reta | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-e-a-segunda-eliminada-da-ultima-prova-de-resistencia-e-ja-esta-no-ta-na-reta-casa-do-patrao-13072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_5ece870e387d4e658cf2712f2ac9b829_name_file_960x540_1600_v4_.jpg?smart=true&auth=ce2b339a0be38feba2d892514d4a2db46b7c8a6d0917e59dbbf1acebc298ebfb&width=960&height=540",
@@ -249,6 +243,12 @@
       "title": "Tom Cavalcante ou Jarilene: quem disse essa frase? Faça o teste!",
       "href": "https://record.r7.com/casa-do-patrao/novidades/tom-cavalcante-ou-jarilene-quem-disse-essa-frase-faca-o-teste-13072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/FXJ76R7CK5DVBAST2SH6OLYEIY.jpeg?smart=true&auth=5d1b157d852be3f74bec035d3d403bed0911ed408326e78ff285b06aa957749e&width=677&height=380",
+      "type": "noticia"
+    },
+    {
+      "title": "Prova vai definir primeiro finalista de Casa do Patrão neste domingo (12)",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/prova-vai-definir-primeiro-finalista-de-casa-do-patrao-neste-domingo-12-12072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/AUGJDMJGR5GT7MUMAUJDE2NHUQ.png?smart=true&auth=6032054b8c2da183697ebe3cc563d0088b486043358855ffa891d347b416621e&width=770&height=433",
       "type": "noticia"
     },
     {
