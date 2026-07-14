@@ -1,12 +1,12 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-14T13:38:44.942Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-07-14T15:10:35.656Z",
+  "lastAddedCount": 2,
   "items": [
     {
-      "title": "Bianca, Luiza e Sheila estão no último Tá na Reta de Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/bianca-luiza-e-sheila-estao-no-ultimo-ta-na-reta-de-casa-do-patrao-14072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ITBOWU266RGZBEJURX4ID66LMQ.png?smart=true&auth=7904f4ab8ec1ab1316eda79f325f89239d57fb289887b367f207496876f202d1&width=677&height=380",
+      "title": "Bianca, Luiza ou Sheila, quem você quer ver no pódio de Casa do Patrão?",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/bianca-luiza-ou-sheila-quem-voce-quer-ver-no-podio-de-casa-do-patrao-14072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/KG7Q7VHRNNHK3L7ZHXC7BYVA5Q.png?smart=true&auth=3b7e5198b1dd561b509204f089542477e8b53a3efbf1e8b3df715c345d87e07c&width=677&height=380",
       "type": "noticia"
     },
     {
@@ -148,12 +148,18 @@
       "type": "foto"
     },
     {
+      "title": "Luiza comanda a cozinha e prepara o café da manhã para os finalistas | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luiza-comanda-a-cozinha-e-prepara-o-cafe-da-manha-para-os-finalistas-casa-do-patrao-14072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_50d152a7fd7945c5894d256007db2fcb_name_file_960x540_1600_v4_.jpg?smart=true&auth=0a6871227baf0e0f5c59782b86d2e7217c9dcfcfb3c901455928b75e7312592f&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Última eliminação da temporada agita a noite desta terça (14) | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/video/ultima-eliminacao-da-temporada-agita-a-noite-desta-terca-14-casa-do-patrao-14072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_a207ce34f9164e8da819205a0d5c41c6_name_file_960x540_1600_v4_.jpg?smart=true&auth=6b39fdc56b19363d3c7f08ba27c03c3df0ca820f4c821f52b49737e987d6ac10&width=960&height=540",
       "type": "video",
       "category": "CASA DO PATRÃO",
-      "time": "HÁ 1 HORA"
+      "time": "HÁ 2 HORAS"
     },
     {
       "title": "Magoado? Matheus alfineta Bianca e Luiza sobre jogo: 'Não gostavam da minha cara' | Casa do Patrão",
@@ -234,21 +240,15 @@
       "type": "video"
     },
     {
-      "title": "Bianca, Matheus e Luiza especulam sobre reta final da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-matheus-e-luiza-especulam-sobre-reta-final-da-casa-do-patrao-13072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_caabc153fde741d4a171b6bd45f0123e_name_file_960x540_1600_v4_.jpg?smart=true&auth=3f7ca2e052993e796233148881f36eb3d4a3c700f7a853bd247168cdd4c6eced&width=960&height=540",
-      "type": "video"
+      "title": "Bianca, Luiza e Sheila estão no último Tá na Reta de Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/bianca-luiza-e-sheila-estao-no-ultimo-ta-na-reta-de-casa-do-patrao-14072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ITBOWU266RGZBEJURX4ID66LMQ.png?smart=true&auth=7904f4ab8ec1ab1316eda79f325f89239d57fb289887b367f207496876f202d1&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Mari dispara: ‘Não tinha como passar por cima da Sheila; se fosse para ganhar, seria pela minha trajetória’",
       "href": "https://record.r7.com/casa-do-patrao/novidades/mari-dispara-nao-tinha-como-passar-por-cima-da-sheila-se-fosse-para-ganhar-seria-pela-minha-trajetoria-13072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/2S3BKOFBCBBFNL3VSHA4JDKMMQ.png?smart=true&auth=ab5f91f0eab01875e16b5f2b9adde7342a6c332f81182c9c7dc0fdced16d4ebf&width=677&height=380",
-      "type": "noticia"
-    },
-    {
-      "title": "Mari é eliminada de Casa do Patrão, com 7,66% dos votos",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/mari-e-eliminada-de-casa-do-patrao-com-766-dos-votos-12072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/C3G4NLRKTVF3HI5OKRO7HKSFZE.png?smart=true&auth=4b3ff030d7d6838e7a55bbc8cc6dc2e46cc339d3f23cd34899277e0d57409594&width=770&height=433",
       "type": "noticia"
     },
     {
@@ -322,6 +322,18 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/no-estilo-do-caos-relembre-a-trajetoria-de-vivao-na-casa-do-patrao-06072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/DMFPMREAXNAL5AIMJU2IWPXXEQ.png?smart=true&auth=fe96c488b92841870a8e7d92101cc5d59eaf33b63b50d96aae9a047b6b7814a0&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Bianca, Matheus e Luiza especulam sobre reta final da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/bianca-matheus-e-luiza-especulam-sobre-reta-final-da-casa-do-patrao-13072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_caabc153fde741d4a171b6bd45f0123e_name_file_960x540_1600_v4_.jpg?smart=true&auth=3f7ca2e052993e796233148881f36eb3d4a3c700f7a853bd247168cdd4c6eced&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Mari é eliminada de Casa do Patrão, com 7,66% dos votos",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/mari-e-eliminada-de-casa-do-patrao-com-766-dos-votos-12072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/C3G4NLRKTVF3HI5OKRO7HKSFZE.png?smart=true&auth=4b3ff030d7d6838e7a55bbc8cc6dc2e46cc339d3f23cd34899277e0d57409594&width=770&height=433",
+      "type": "noticia"
     },
     {
       "title": "Sheila leva boneca de Mari para almoço com concorrentes | Casa do Patrão",
@@ -596,23 +608,11 @@
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/no-trampo-mari-da-trabalho-para-o-patrao-matheus-vou-tirar-uma-sonequinha-casa-do-patrao-12072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_1236d29308524827ac7984c878ab09ba_name_file_960x540_1600_v4_.jpg?smart=true&auth=2fcb5be45f7dc7124cf427e1c8378773b381af93188b761c11df40bb3f9068b3&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Patroa oculta? Sheila diz que Bianca está por trás das últimas decisões de Matheus | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/patroa-oculta-sheila-diz-que-bianca-esta-por-tras-das-ultimas-decisoes-de-matheus-casa-do-patrao-12072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_8fdcb08eb5174a7698dbd74d66a5b9b9_name_file_960x540_1600_v4_.jpg?smart=true&auth=6ad624cc4f2e1c589524dc14a0e1f22aa24c474ae0d084084fbcc15b645f1157&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila alfineta Luiza ao exaltar Mari e Matheus: 'Confiaram 100% em mim' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/sheila-alfineta-luiza-ao-exaltar-mari-e-matheus-confiaram-100-em-mim-casa-do-patrao-12072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_2debe28875d54355b33c59a4ff7e2074_name_file_960x540_1600_v4_.jpg?smart=true&auth=d43dd54658e00e44dc444a5dc87b18d8cd773aa5d6e6c96671e6349dbd37df33&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 21,
-    "video": 53,
+    "noticia": 22,
+    "video": 52,
     "foto": 26
   }
 }
