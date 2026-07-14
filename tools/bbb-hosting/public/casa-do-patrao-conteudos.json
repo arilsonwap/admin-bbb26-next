@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-14T15:10:35.656Z",
-  "lastAddedCount": 2,
+  "fetchedAt": "2026-07-14T16:40:16.695Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Bianca, Luiza ou Sheila, quem você quer ver no pódio de Casa do Patrão?",
@@ -148,6 +148,12 @@
       "type": "foto"
     },
     {
+      "title": "Sheila coloca boneca de Mari para participar do café da manhã | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-coloca-boneca-de-mari-para-participar-do-cafe-da-manha-casa-do-patrao-14072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_9735affc97e84871adef82e34a015450_name_file_960x540_1600_v4_.jpg?smart=true&auth=2804dd883f6d147b104b7a840e4cf06fc9b30a3bf2eb6edc0a3ed8654c785f58&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Luiza comanda a cozinha e prepara o café da manhã para os finalistas | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/luiza-comanda-a-cozinha-e-prepara-o-cafe-da-manha-para-os-finalistas-casa-do-patrao-14072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_50d152a7fd7945c5894d256007db2fcb_name_file_960x540_1600_v4_.jpg?smart=true&auth=0a6871227baf0e0f5c59782b86d2e7217c9dcfcfb3c901455928b75e7312592f&width=960&height=540",
@@ -159,7 +165,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_a207ce34f9164e8da819205a0d5c41c6_name_file_960x540_1600_v4_.jpg?smart=true&auth=6b39fdc56b19363d3c7f08ba27c03c3df0ca820f4c821f52b49737e987d6ac10&width=960&height=540",
       "type": "video",
       "category": "CASA DO PATRÃO",
-      "time": "HÁ 2 HORAS"
+      "time": "HÁ 4 HORAS"
     },
     {
       "title": "Magoado? Matheus alfineta Bianca e Luiza sobre jogo: 'Não gostavam da minha cara' | Casa do Patrão",
@@ -231,12 +237,6 @@
       "title": "Após mais de três horas, Matheus vence prova de resistência e está na final da Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/apos-mais-de-tres-horas-matheus-vence-prova-de-resistencia-e-esta-na-final-da-casa-do-patrao-14072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_28fcef5007684a4fbac49e1d118726a3_name_file_960x540_1600_v4_.jpg?smart=true&auth=49f526448f528a73a6e04d512a21787165dc0fa6f952bdea6d038170f58e89a3&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Retrospectiva! Bianca, Matheus e Luiza relembram momentos marcantes da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/retrospectiva-bianca-matheus-e-luiza-relembram-momentos-marcantes-da-casa-do-patrao-14072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_cfa97da5b41d4127ba72416599fa207e_name_file_960x540_1600_v4_.jpg?smart=true&auth=09ec93bbe306f66753f7951af3d5e741ce3a98f9f147764653eb950d991600f2&width=960&height=540",
       "type": "video"
     },
     {
@@ -322,6 +322,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/no-estilo-do-caos-relembre-a-trajetoria-de-vivao-na-casa-do-patrao-06072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/DMFPMREAXNAL5AIMJU2IWPXXEQ.png?smart=true&auth=fe96c488b92841870a8e7d92101cc5d59eaf33b63b50d96aae9a047b6b7814a0&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Retrospectiva! Bianca, Matheus e Luiza relembram momentos marcantes da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/retrospectiva-bianca-matheus-e-luiza-relembram-momentos-marcantes-da-casa-do-patrao-14072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_cfa97da5b41d4127ba72416599fa207e_name_file_960x540_1600_v4_.jpg?smart=true&auth=09ec93bbe306f66753f7951af3d5e741ce3a98f9f147764653eb950d991600f2&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Bianca, Matheus e Luiza especulam sobre reta final da Casa do Patrão",
@@ -601,12 +607,6 @@
       "title": "Semana final da Casa do Patrão começa com prova de resistência e último Tá na Reta",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/semana-final-da-casa-do-patrao-comeca-com-prova-de-resistencia-e-ultimo-ta-na-reta-12072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_71dee293101047e8a83139de70530eb1_name_file_960x540_1600_v4_.jpg?smart=true&auth=05015ed4b82c96e21ee571cd17955efc519d88151dd9b5c965dc321e299d7a9e&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "No Trampo, Mari dá trabalho para o Patrão Matheus: 'Vou tirar uma sonequinha' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/no-trampo-mari-da-trabalho-para-o-patrao-matheus-vou-tirar-uma-sonequinha-casa-do-patrao-12072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_1236d29308524827ac7984c878ab09ba_name_file_960x540_1600_v4_.jpg?smart=true&auth=2fcb5be45f7dc7124cf427e1c8378773b381af93188b761c11df40bb3f9068b3&width=960&height=540",
       "type": "video"
     }
   ],
