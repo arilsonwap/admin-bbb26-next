@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-14T21:13:59.489Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-07-14T22:16:34.086Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Bianca, Luiza ou Sheila, quem você quer ver no pódio de Casa do Patrão?",
@@ -51,7 +51,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_7a2b6148ef01457385b859810112b812_name_file_960x540_1600_v4_.jpg?smart=true&auth=634128315c5680e5efe44fe3ac9c13c0e9f3bc2abf27e37b2d96156ffd9954ab&width=960&height=540",
       "type": "video",
       "category": "HORAS",
-      "time": "HÁ 3 HORAS"
+      "time": "HÁ 4 HORAS"
     },
     {
       "title": "Na mira! Confira quem foi parar no Tá na Reta mais vezes em Casa do Patrão",
@@ -150,6 +150,12 @@
       "type": "foto"
     },
     {
+      "title": "Após salão de beleza exclusivo, moradores trocam elogios | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/apos-salao-de-beleza-exclusivo-moradores-trocam-elogios-casa-do-patrao-14072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_4f49af48f8dc4f7f87f8aa2ab5be88ad_name_file_960x540_1600_v4_.jpg?smart=true&auth=72af68d8d6cf29325914e7c191aceaf987c64533c9cfeb5b9915135d0ea7a64f&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Moradores recebem ‘momento beleza’ para grande decisão da Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/moradores-recebem-momento-beleza-para-grande-decisao-da-casa-do-patrao-14072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_531be206ce2e48f2a43c3470284f712c_name_file_960x540_1600_v4_.jpg?smart=true&auth=baedcc6356708d282de04c969a14698c69ed378db1db122b78b4b833b9d0018c&width=960&height=540",
@@ -173,7 +179,7 @@
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_a207ce34f9164e8da819205a0d5c41c6_name_file_960x540_1600_v4_.jpg?smart=true&auth=6b39fdc56b19363d3c7f08ba27c03c3df0ca820f4c821f52b49737e987d6ac10&width=960&height=540",
       "type": "video",
       "category": "CASA DO PATRÃO",
-      "time": "HÁ 8 HORAS"
+      "time": "HÁ 9 HORAS"
     },
     {
       "title": "Magoado? Matheus alfineta Bianca e Luiza sobre jogo: 'Não gostavam da minha cara' | Casa do Patrão",
@@ -230,27 +236,9 @@
       "type": "video"
     },
     {
-      "title": "Em conversa com Hassum, Matheus celebra vaga na final: 'Alívio muito grande' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/em-conversa-com-hassum-matheus-celebra-vaga-na-final-alivio-muito-grande-casa-do-patrao-14072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_7874dcc052e74354a6d8dfc190f1a48a_name_file_960x540_1600_v4_.jpg?smart=true&auth=a5ca639a3352bc1714e4ef0d69e0bd3d8e3d76604b9da6f694500aa97d5f1a68&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Bianca, Luiza e Sheila estão no último Tá na Reta de Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/novidades/bianca-luiza-e-sheila-estao-no-ultimo-ta-na-reta-de-casa-do-patrao-14072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/ITBOWU266RGZBEJURX4ID66LMQ.png?smart=true&auth=7904f4ab8ec1ab1316eda79f325f89239d57fb289887b367f207496876f202d1&width=677&height=380",
-      "type": "noticia"
-    },
-    {
-      "title": "Mari dispara: ‘Não tinha como passar por cima da Sheila; se fosse para ganhar, seria pela minha trajetória’",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/mari-dispara-nao-tinha-como-passar-por-cima-da-sheila-se-fosse-para-ganhar-seria-pela-minha-trajetoria-13072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/2S3BKOFBCBBFNL3VSHA4JDKMMQ.png?smart=true&auth=ab5f91f0eab01875e16b5f2b9adde7342a6c332f81182c9c7dc0fdced16d4ebf&width=677&height=380",
-      "type": "noticia"
-    },
-    {
-      "title": "Sheila cai em lágrimas ao montar boneca em homenagem à Mari: ‘É preciso ter representatividade’",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/sheila-cai-em-lagrimas-ao-montar-boneca-em-homenagem-a-mari-e-preciso-ter-representatividade-13072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/2FQFDLP36ZGZVIFCEG3GQ2P2V4.png?smart=true&auth=0cc737192e23baf3a21f38ff6a84226e25031a87ec2bd04ddbf49c7ca1d29d75&width=1349&height=758",
       "type": "noticia"
     },
     {
@@ -330,6 +318,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/no-estilo-do-caos-relembre-a-trajetoria-de-vivao-na-casa-do-patrao-06072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/DMFPMREAXNAL5AIMJU2IWPXXEQ.png?smart=true&auth=fe96c488b92841870a8e7d92101cc5d59eaf33b63b50d96aae9a047b6b7814a0&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Em conversa com Hassum, Matheus celebra vaga na final: 'Alívio muito grande' | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/em-conversa-com-hassum-matheus-celebra-vaga-na-final-alivio-muito-grande-casa-do-patrao-14072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-14-2026%2Ft_7874dcc052e74354a6d8dfc190f1a48a_name_file_960x540_1600_v4_.jpg?smart=true&auth=a5ca639a3352bc1714e4ef0d69e0bd3d8e3d76604b9da6f694500aa97d5f1a68&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Mari dispara: ‘Não tinha como passar por cima da Sheila; se fosse para ganhar, seria pela minha trajetória’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/mari-dispara-nao-tinha-como-passar-por-cima-da-sheila-se-fosse-para-ganhar-seria-pela-minha-trajetoria-13072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/2S3BKOFBCBBFNL3VSHA4JDKMMQ.png?smart=true&auth=ab5f91f0eab01875e16b5f2b9adde7342a6c332f81182c9c7dc0fdced16d4ebf&width=677&height=380",
+      "type": "noticia"
+    },
+    {
+      "title": "Sheila cai em lágrimas ao montar boneca em homenagem à Mari: ‘É preciso ter representatividade’",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/sheila-cai-em-lagrimas-ao-montar-boneca-em-homenagem-a-mari-e-preciso-ter-representatividade-13072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/2FQFDLP36ZGZVIFCEG3GQ2P2V4.png?smart=true&auth=0cc737192e23baf3a21f38ff6a84226e25031a87ec2bd04ddbf49c7ca1d29d75&width=1349&height=758",
+      "type": "noticia"
     },
     {
       "title": "Primeiro finalista, Matheus acredita que disputará prêmio com Bianca e Sheila | Casa do Patrão",
@@ -603,12 +609,6 @@
       "title": "Cardápio especial! Bianca e Luiza preparam receita em comemoração ao Top 4",
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/cardapio-especial-bianca-e-luiza-preparam-receita-em-comemoracao-ao-top-4-12072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_3356d9bc87094cbfb978cde464dc1da1_name_file_960x540_1600_v4_.jpg?smart=true&auth=e7db5b47c7439f853f33ba3fdf2f0eef2b6ed28499c27c8e0cc5851c2f8ad647&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Mari é a 14ª eliminada da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/mari-e-a-14-eliminada-da-casa-do-patrao-12072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-12-2026%2Ft_805ee841763f4c0bbbbe47496581ce52_name_file_960x540_1600_v4_.jpg?smart=true&auth=b6b4413d4633cd7cc122a2055745429f17f834f62a416e84cfd27abf26b117b2&width=960&height=540",
       "type": "video"
     }
   ],
