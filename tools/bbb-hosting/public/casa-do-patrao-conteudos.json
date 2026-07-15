@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-15T15:11:07.210Z",
-  "lastAddedCount": 3,
+  "fetchedAt": "2026-07-15T16:46:59.751Z",
+  "lastAddedCount": 1,
   "items": [
     {
       "title": "Live Tá na Rua: Luiza comenta detalhes da participação na Casa do Patrão",
@@ -81,9 +81,9 @@
       "type": "noticia"
     },
     {
-      "title": "Parquinho do Patrão! Relembre brincadeiras marcantes do confinamento | Casa do Patrão",
+      "title": "Parquinho do Patrão! Reveja brincadeiras marcantes",
       "href": "https://record.r7.com/casa-do-patrao/na-tv/video/parquinho-do-patrao-relembre-brincadeiras-marcantes-do-confinamento-casa-do-patrao-15072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-15-2026%2Ft_33ffb53954174c20a0eb1ad635e61b69_name_file_960x540_1600_v4_.jpg?smart=true&auth=604e2c26b8f20b0ef168c98a9c7ccbda7eb7d26920607506b48adba3880dcb88&width=960&height=540",
+      "imageUrl": "https://d22yf0mxeu0gma.cloudfront.net/07-15-2026/t_33ffb53954174c20a0eb1ad635e61b69_name_file_960x540_1600_v4_.jpg",
       "type": "video"
     },
     {
@@ -163,6 +163,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/verdadeiro-faz-tudo-veja-as-vezes-que-o-estagiario-trabalhou-duro-na-casa-do-patrao-10062026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/XWOVCL2NDZFXDDWMDGUH6WDOIM.jpg?auth=159cb3bade045bede570391fdb6bb0bb1af2b3f21272c8329619ffb18ce3f3de&smart=true&width=696&height=379",
       "type": "foto"
+    },
+    {
+      "title": "Finalistas recebem consultoria financeira do PicPay | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/finalistas-recebem-consultoria-financeira-do-picpay-casa-do-patrao-15072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-15-2026%2Ft_bcc0977ab2a6421a8ded278a665da423_name_file_960x540_1600_v4_.jpg?smart=true&auth=3463de907557b48c1b4d9eec05af69330a7a051b3e9a7886c37db671201fcd79&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Menor torcida? Sheila revela dúvida que teve no Tá na Reta com Bianca e Luiza | Casa do Patrão",
@@ -604,12 +610,6 @@
       "title": "Formação do último Tá na Reta movimenta a Casa do Patrão nesta segunda-feira (13)",
       "href": "https://record.r7.com/casa-do-patrao/video/formacao-do-ultimo-ta-na-reta-movimenta-a-casa-do-patrao-nesta-segunda-feira-13-13072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_696c16acf6de496598ba3af82f548467_name_file_960x540_1600_v4_.jpg?smart=true&auth=e1651e1b1247dfb7015c774a58d02e0ea5abf76acbbb8b70cb915983d3a92ffc&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila alfineta Matheus: 'Você se vê na final com a Bianca' | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-alfineta-matheus-voce-se-ve-na-final-com-a-bianca-casa-do-patrao-13072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_29ec762ca4b245f689582144a4a781e2_name_file_960x540_1600_v4_.jpg?smart=true&auth=b4da4cb9092d514c7e361ef66cf692d91ae377038f4d21b219cdea01dd067f88&width=960&height=540",
       "type": "video"
     }
   ],
