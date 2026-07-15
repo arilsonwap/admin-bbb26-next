@@ -1,8 +1,13 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-15T13:39:26.053Z",
-  "lastAddedCount": 1,
+  "fetchedAt": "2026-07-15T15:11:07.210Z",
+  "lastAddedCount": 3,
   "items": [
+    {
+      "title": "Live Tá na Rua: Luiza comenta detalhes da participação na Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/live-ta-na-rua-luiza-comenta-detalhes-da-participacao-na-casa-do-patrao-15072026/",
+      "type": "noticia"
+    },
     {
       "title": "Quem você quer que vença a competição de Casa do Patrão?",
       "href": "https://record.r7.com/casa-do-patrao/novidades/quem-voce-quer-que-venca-a-competicao-de-casa-do-patrao-15072026/",
@@ -160,6 +165,18 @@
       "type": "foto"
     },
     {
+      "title": "Menor torcida? Sheila revela dúvida que teve no Tá na Reta com Bianca e Luiza | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/menor-torcida-sheila-revela-duvida-que-teve-no-ta-na-reta-com-bianca-e-luiza-casa-do-patrao-15072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-15-2026%2Ft_59fd1bc00d3041d398d1088909b5fe95_name_file_960x540_1600_v4_.jpg?smart=true&auth=12db15ed870da40ef9407c10052f38bc0f7cb7a64180305c2e9f7a85426155d9&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Matheus dedica pulos na piscina em homenagem aos 15 eliminados da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-dedica-pulos-na-piscina-em-homenagem-aos-15-eliminados-da-casa-do-patrao-15072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-15-2026%2Ft_01ced3bb41434968a59496f9b4c1034c_name_file_960x540_1600_v4_.jpg?smart=true&auth=9dad914e995fe223e6b0b181284b4ac1525a2968b8e619e5cf0edfd2f6c982db&width=960&height=540",
+      "type": "video"
+    },
+    {
       "title": "Festa Memória agita a noite dos finalistas nesta quarta (15) | Casa do Patrão",
       "href": "https://record.r7.com/casa-do-patrao/video/festa-memoria-agita-a-noite-dos-finalistas-nesta-quarta-15-casa-do-patrao-15072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-15-2026%2Ft_d99bb2ed159442f58912d0cd6e2dd968_name_file_960x540_1600_v4_.jpg?smart=true&auth=a0044ae72f87f216c707995d339b96fc26051c122b2a7e2d83ef72ed180c4716&width=960&height=540",
@@ -226,27 +243,9 @@
       "type": "video"
     },
     {
-      "title": "Integrantes do Top 4 dizem que Trampo serviu como estratégia de jogo | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/integrantes-do-top-4-dizem-que-trampo-serviu-como-estrategia-de-jogo-casa-do-patrao-15072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-15-2026%2Ft_8353a7b2fcee42689edf9a224c2df2d4_name_file_960x540_1600_v4_.jpg?smart=true&auth=7c2bf3abb0d2003799c46a169669e1c09ca8f6d231fddb0115116bcad4487152&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Gratidão! Matheus diz que sentimento da reta final deve ser de vitória | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/gratidao-matheus-diz-que-sentimento-da-reta-final-deve-ser-de-vitoria-casa-do-patrao-15072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-15-2026%2Ft_df9f59017edd4cb684b2f238115ffb1e_name_file_960x540_1600_v4_.jpg?smart=true&auth=ee2fc5fe2d1a0462c0e2c83acd61aa619b68e52d1c94ca6e437767e3979fff22&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Bianca, Luiza ou Sheila, quem você quer ver no pódio de Casa do Patrão?",
       "href": "https://record.r7.com/casa-do-patrao/novidades/bianca-luiza-ou-sheila-quem-voce-quer-ver-no-podio-de-casa-do-patrao-14072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/KG7Q7VHRNNHK3L7ZHXC7BYVA5Q.png?smart=true&auth=3b7e5198b1dd561b509204f089542477e8b53a3efbf1e8b3df715c345d87e07c&width=677&height=380",
-      "type": "noticia"
-    },
-    {
-      "title": "Bianca e Luiza embolsam R$ 5 mil em dinâmica premiada da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/novidades/bianca-e-luiza-embolsam-r-5-mil-em-dinamica-premiada-da-casa-do-patrao-14072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BWD5GSVVSZBK5JM3PRZYQ2CNQU.png?smart=true&auth=15e0476534224b76c687c1bbd422ad543218a9989aefefee2a75ad2fcc139098&width=677&height=380",
       "type": "noticia"
     },
     {
@@ -314,6 +313,24 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/so-risadas-relembre-os-melhores-memes-da-casa-do-patrao-08072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/IR5UNXOUBZGJBOD2376IDOSMCQ.png?smart=true&auth=d9f78cd2feb843a993d15bf6c14f85743e5baf4ca306937c53a7d0724faf16ee&width=771&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Integrantes do Top 4 dizem que Trampo serviu como estratégia de jogo | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/integrantes-do-top-4-dizem-que-trampo-serviu-como-estrategia-de-jogo-casa-do-patrao-15072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-15-2026%2Ft_8353a7b2fcee42689edf9a224c2df2d4_name_file_960x540_1600_v4_.jpg?smart=true&auth=7c2bf3abb0d2003799c46a169669e1c09ca8f6d231fddb0115116bcad4487152&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Gratidão! Matheus diz que sentimento da reta final deve ser de vitória | Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/na-tv/video/gratidao-matheus-diz-que-sentimento-da-reta-final-deve-ser-de-vitoria-casa-do-patrao-15072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-15-2026%2Ft_df9f59017edd4cb684b2f238115ffb1e_name_file_960x540_1600_v4_.jpg?smart=true&auth=ee2fc5fe2d1a0462c0e2c83acd61aa619b68e52d1c94ca6e437767e3979fff22&width=960&height=540",
+      "type": "video"
+    },
+    {
+      "title": "Bianca e Luiza embolsam R$ 5 mil em dinâmica premiada da Casa do Patrão",
+      "href": "https://record.r7.com/casa-do-patrao/novidades/bianca-e-luiza-embolsam-r-5-mil-em-dinamica-premiada-da-casa-do-patrao-14072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/BWD5GSVVSZBK5JM3PRZYQ2CNQU.png?smart=true&auth=15e0476534224b76c687c1bbd422ad543218a9989aefefee2a75ad2fcc139098&width=677&height=380",
+      "type": "noticia"
     },
     {
       "title": "Fim do Trampo! Finalistas preparam refeição para celebrar o Top 4 | Casa do Patrão",
@@ -594,29 +611,11 @@
       "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-alfineta-matheus-voce-se-ve-na-final-com-a-bianca-casa-do-patrao-13072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_29ec762ca4b245f689582144a4a781e2_name_file_960x540_1600_v4_.jpg?smart=true&auth=b4da4cb9092d514c7e361ef66cf692d91ae377038f4d21b219cdea01dd067f88&width=960&height=540",
       "type": "video"
-    },
-    {
-      "title": "Matheus celebra vaga na grande final da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-celebra-vaga-na-grande-final-da-casa-do-patrao-13072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_79f0d54d941f4604be33a7596f33374e_name_file_960x540_1600_v4_.jpg?smart=true&auth=3c5b29a0cf3430d822695de0f3cf1188527231fb14004b0bebb06d6995594b64&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Matheus vence última prova de resistência e é o primeiro finalista da Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/matheus-vence-ultima-prova-de-resistencia-e-e-o-primeiro-finalista-da-casa-do-patrao-13072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_3b4ed21f5fb24265981dd6920c7d8752_name_file_960x540_1600_v4_.jpg?smart=true&auth=52b5dad65a0d1bb6a33ffb46da6f501e1041a7eca5895c1c24a1319ed09bc53c&width=960&height=540",
-      "type": "video"
-    },
-    {
-      "title": "Sheila é a segunda eliminada da última prova de resistência e já está no Tá na Reta | Casa do Patrão",
-      "href": "https://record.r7.com/casa-do-patrao/24-horas/video/sheila-e-a-segunda-eliminada-da-ultima-prova-de-resistencia-e-ja-esta-no-ta-na-reta-casa-do-patrao-13072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-13-2026%2Ft_5ece870e387d4e658cf2712f2ac9b829_name_file_960x540_1600_v4_.jpg?smart=true&auth=ce2b339a0be38feba2d892514d4a2db46b7c8a6d0917e59dbbf1acebc298ebfb&width=960&height=540",
-      "type": "video"
     }
   ],
   "counts": {
-    "noticia": 19,
-    "video": 53,
+    "noticia": 20,
+    "video": 52,
     "foto": 28
   }
 }
