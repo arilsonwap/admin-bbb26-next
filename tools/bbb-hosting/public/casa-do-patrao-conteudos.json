@@ -1,7 +1,7 @@
 {
   "source": "casa-do-patrao-conteudos",
-  "fetchedAt": "2026-07-17T19:51:46.019Z",
-  "lastAddedCount": 4,
+  "fetchedAt": "2026-07-17T20:52:33.769Z",
+  "lastAddedCount": 0,
   "items": [
     {
       "title": "Sheila é a grande campeã de Casa do Patrão, com 64,79% dos votos",
@@ -244,12 +244,6 @@
       "type": "video"
     },
     {
-      "title": "Matheus afirma que se arrepende de não ter causado mais na Casa do Patrão | Live Tá na Rua",
-      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/matheus-afirma-que-se-arrepende-de-nao-ter-causado-mais-na-casa-do-patrao-live-ta-na-rua-17072026/",
-      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-17-2026%2Ft_97d8b8066e60443e9af7820354d72bf9_name_file_960x540_1600_v4_.jpg?smart=true&auth=0f3225dd0c81fef3dd68025286ce100bb12a064a144bce7216122d0399f55c1e&width=960&height=540",
-      "type": "video"
-    },
-    {
       "title": "Sheila declara após vitória na Casa do Patrão: ‘Não ia sair de casa para perder’",
       "href": "https://record.r7.com/casa-do-patrao/novidades/sheila-declara-apos-vitoria-na-casa-do-patrao-nao-ia-sair-de-casa-para-perder-17072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/WTRKGGALEREO5K3GOKZ6K62A6Q.png?smart=true&auth=609f10bc7df819d3909bd8a594dc3d60df0feee9cc2da0ba7708483f7fc25a66&width=677&height=380",
@@ -320,6 +314,12 @@
       "href": "https://record.r7.com/casa-do-patrao/novidades/fotos/alianca-quebrada-fofoca-e-confusao-relembre-a-trajetoria-de-luiza-na-casa-do-patrao-15072026/",
       "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/Y3UFH7SEHNGL7PUEXUMDSOBLWU.png?smart=true&auth=c3bd818980cdf71997b98c3089d9b0fffb5423a6b87d29bf6b4840f6f972b300&width=770&height=433",
       "type": "foto"
+    },
+    {
+      "title": "Matheus afirma que se arrepende de não ter causado mais na Casa do Patrão | Live Tá na Rua",
+      "href": "https://record.r7.com/casa-do-patrao/conteudo-exclusivo/live-ta-na-rua/video/matheus-afirma-que-se-arrepende-de-nao-ter-causado-mais-na-casa-do-patrao-live-ta-na-rua-17072026/",
+      "imageUrl": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F07-17-2026%2Ft_97d8b8066e60443e9af7820354d72bf9_name_file_960x540_1600_v4_.jpg?smart=true&auth=0f3225dd0c81fef3dd68025286ce100bb12a064a144bce7216122d0399f55c1e&width=960&height=540",
+      "type": "video"
     },
     {
       "title": "Trio finalista destaca as últimas palavras antes do anúncio do vencedor da Casa do Patrão",
