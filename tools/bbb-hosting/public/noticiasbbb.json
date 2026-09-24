@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-09-24T17:20:58.547Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-09-24T20:41:55.199Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Quando estreia o BBB 27? Vai ter Casa de Vidro? Confira as novidades",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/quando-estreia-o-bbb-27-vai-ter-casa-de-vidro-descubra-as-novidades.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/qmVJ_kpg_nqbQHewBEEIaIsr72I=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/M/4/l7Jjd7QAGloXQILncp3A/whatsapp-image-2026-04-20-at-22.43.45.jpeg"
+    },
     {
       "title": "Cartola BBB celebra marca especial e disponibiliza raio-x de cada usuário na temporada",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/cartola-bbb/noticia/cartola-bbb-celebra-marca-especial-e-disponibiliza-raio-x-de-cada-usuario-na-temporada.ghtml",
@@ -247,11 +252,6 @@
       "title": "Terceiro colocado do BBB 26, Juliano Floss comenta Final com 'Eternos': 'Simbólica'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/juliano-floss-terceiro-colocado-do-bbb-26-comenta-momentos-na-casa-e-final-com-eternos-simbolica.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/J8pFGB1PwkGsIIkdzmpk2uzfwgA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/9/T/GzLk69TjqmkYHJIXaaTg/whatsapp-image-2026-04-22-at-00.14.22.jpeg"
-    },
-    {
-      "title": "Ana Paula Renault encontra Grazi Massafera nos bastidores da TV Globo",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/ana-paula-renault-encontra-grazi-massafera-nos-bastidores-da-tv-globo.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/y2o0waNuNmLHPccbLlfbkPnqtUI=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/S/A/HmdTvPSxuIPIt7e0WAhA/grazi-massafera-e-ana-paula-renault-posam-juntas.jpg"
     }
   ]
 }
