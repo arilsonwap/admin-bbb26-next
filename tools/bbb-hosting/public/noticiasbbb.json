@@ -1,8 +1,13 @@
 {
   "source": "noticiasbbb",
-  "fetchedAt": "2026-10-15T00:36:32.635Z",
-  "lastAddedCount": 0,
+  "fetchedAt": "2026-10-15T05:13:09.958Z",
+  "lastAddedCount": 1,
   "items": [
+    {
+      "title": "Tadeu Schmidt anuncia BBB 27 com 'Sincerão gamificado'; confira mais novidades!",
+      "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/bbb-27-tadeu-schmidt-anuncia-novidades-da-nova-temporada-no-upfront-globo-2027.ghtml",
+      "imageUrl": "https://s2-gshow.glbimg.com/7689PJDVX9eYJrTBmH8itLanhv8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/n/K/OQzatqSTAGXkrAXN2QDA/tadeu-schmidt-anuncia-novidades-do-bbb-no-upfront-globo-2027.jpg"
+    },
     {
       "title": "Quando estreia o BBB 27? Vai ter Casa de Vidro? Confira as novidades",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/quando-estreia-o-bbb-27-vai-ter-casa-de-vidro-descubra-as-novidades.ghtml",
@@ -247,11 +252,6 @@
       "title": "Após Final, Marciele questiona Chaiany sobre festa de encerramento: 'Fico com ciúme'",
       "href": "https://gshow.globo.com/realities/bbb/bbb-26/noticia/apos-final-marciele-questiona-chaiany-sobre-conduta-em-evento-fico-com-ciume.ghtml",
       "imageUrl": "https://s2-gshow.glbimg.com/7fsPRheWx6Wp9CHF-mW_StiMgyU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/b/A/vIaq0vSpeJ47UNWebj9g/gshow-2-.png"
-    },
-    {
-      "title": "Terceiro colocado do BBB 26, Juliano Floss comenta Final com 'Eternos': 'Simbólica'",
-      "href": "https://gshow.globo.com/realities/bbb/bbb-26/fora-da-casa/noticia/juliano-floss-terceiro-colocado-do-bbb-26-comenta-momentos-na-casa-e-final-com-eternos-simbolica.ghtml",
-      "imageUrl": "https://s2-gshow.glbimg.com/J8pFGB1PwkGsIIkdzmpk2uzfwgA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/9/T/GzLk69TjqmkYHJIXaaTg/whatsapp-image-2026-04-22-at-00.14.22.jpeg"
     }
   ]
 }
